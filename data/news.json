@@ -1,180 +1,180 @@
 {
-  "last_updated": "2026-10-11T00:35:11.663480+00:00",
+  "last_updated": "2026-10-11T08:02:28.777464+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-108522 - Studio-Saelix Sencho Login Endpoint login improper authentication",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108522",
+      "summary": "CVE ID :CVE-2026-108522 Published : Oct. 11, 2026, 4:17 a.m. | 3 hours, 8 minutes ago Description :A vulnerability was found in Studio-Saelix Sencho up to 0.94.1. This affects an unknown part of the...",
+      "source": "CVE Feed",
+      "published": "2026-10-11T04:17:31+00:00"
+    },
+    {
+      "title": "CVE-2026-108708 - Wukong_HRM through commit 186115e Missing Authorization via EmployeeAspect and EmployeeUtil",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108708",
+      "summary": "CVE ID :CVE-2026-108708 Published : Oct. 11, 2026, 2:16 a.m. | 5 hours, 9 minutes ago Description :Wukong_HRM through commit 186115e contains a missing authorization vulnerability because...",
+      "source": "CVE Feed",
+      "published": "2026-10-11T02:16:39+00:00"
+    },
+    {
+      "title": "CVE-2026-108707 - Wukong_HRM through commit 186115e Authentication Bypass via ParamAspect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108707",
+      "summary": "CVE ID :CVE-2026-108707 Published : Oct. 11, 2026, 2:16 a.m. | 5 hours, 9 minutes ago Description :Wukong_HRM through commit 186115e contains an authentication bypass vulnerability in ParamAspect...",
+      "source": "CVE Feed",
+      "published": "2026-10-11T02:16:39+00:00"
+    },
     {
       "title": "CVE-2026-108657 - JeecgBoot through 3.9.5 Missing Authorization via /sys/tenant/passApply",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-108657",
-      "summary": "CVE ID :CVE-2026-108657 Published : Oct. 10, 2026, 10:16 p.m. | 1 hour, 34 minutes ago Description :JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the SysTenantController...",
+      "summary": "CVE ID :CVE-2026-108657 Published : Oct. 10, 2026, 10:16 p.m. | 9 hours, 9 minutes ago Description :JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the SysTenantController...",
       "source": "CVE Feed",
       "published": "2026-10-10T22:16:41+00:00"
     },
     {
       "title": "CVE-2026-108628 - JeecgBoot through 3.9.5 Missing Authorization via saveDeptRolePermission Endpoint",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-108628",
-      "summary": "CVE ID :CVE-2026-108628 Published : Oct. 10, 2026, 10:16 p.m. | 1 hour, 34 minutes ago Description :JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the...",
+      "summary": "CVE ID :CVE-2026-108628 Published : Oct. 10, 2026, 10:16 p.m. | 9 hours, 9 minutes ago Description :JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the...",
       "source": "CVE Feed",
       "published": "2026-10-10T22:16:37+00:00"
     },
     {
       "title": "CVE-2026-81797 - WordPress Buzz Stone | Magazine & Viral Blog WordPress Theme theme <= 1.0.2 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-81797",
-      "summary": "CVE ID :CVE-2026-81797 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in Buzz Stone | Magazine & Viral Blog WordPress Theme Severity...",
+      "summary": "CVE ID :CVE-2026-81797 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Buzz Stone | Magazine & Viral Blog WordPress Theme Severity...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:47+00:00"
     },
     {
       "title": "CVE-2026-78535 - WordPress Photolia theme <= 1.0.3 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-78535",
-      "summary": "CVE ID :CVE-2026-78535 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in Photolia Severity: 9.8 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-78535 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Photolia Severity: 9.8 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:47+00:00"
     },
     {
       "title": "CVE-2026-78533 - WordPress Qwery theme <= 3.6.1 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-78533",
-      "summary": "CVE ID :CVE-2026-78533 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in Qwery Severity: 9.8 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-78533 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Qwery Severity: 9.8 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:47+00:00"
     },
     {
       "title": "CVE-2026-78531 - WordPress Jacqueline theme <= 2.22 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-78531",
-      "summary": "CVE ID :CVE-2026-78531 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in Jacqueline Severity: 9.8 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-78531 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Jacqueline Severity: 9.8 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:46+00:00"
     },
     {
       "title": "CVE-2026-78529 - WordPress Alliance theme <= 3.11 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-78529",
-      "summary": "CVE ID :CVE-2026-78529 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in Alliance Severity: 9.8 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-78529 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Alliance Severity: 9.8 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:46+00:00"
     },
     {
       "title": "CVE-2026-66569 - WordPress Kicker theme <= 2.2.1 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-66569",
-      "summary": "CVE ID :CVE-2026-66569 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in Kicker Severity: 9.8 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-66569 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Kicker Severity: 9.8 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:46+00:00"
     },
     {
       "title": "CVE-2026-66568 - WordPress Original theme <= 1.9.0 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-66568",
-      "summary": "CVE ID :CVE-2026-66568 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in Original Severity: 9.8 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-66568 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Original Severity: 9.8 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:46+00:00"
     },
     {
       "title": "CVE-2026-66567 - WordPress Anesta theme <= 1.5.3 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-66567",
-      "summary": "CVE ID :CVE-2026-66567 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in Anesta Severity: 9.8 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-66567 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Anesta Severity: 9.8 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:46+00:00"
     },
     {
       "title": "CVE-2026-66566 - WordPress Ambient theme <= 1.7 - Local File Inclusion vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-66566",
-      "summary": "CVE ID :CVE-2026-66566 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated Local File Inclusion in Ambient Severity: 8.1 | HIGH Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-66566 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated Local File Inclusion in Ambient Severity: 8.1 | HIGH Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:46+00:00"
     },
     {
       "title": "CVE-2026-66565 - WordPress FC United theme <= 1.1.1 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-66565",
-      "summary": "CVE ID :CVE-2026-66565 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in FC United Severity: 9.8 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-66565 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in FC United Severity: 9.8 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:45+00:00"
     },
     {
       "title": "CVE-2026-66564 - WordPress ShiftCV theme <= 3.0.14 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-66564",
-      "summary": "CVE ID :CVE-2026-66564 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in ShiftCV Severity: 9.8 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-66564 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in ShiftCV Severity: 9.8 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:45+00:00"
     },
     {
       "title": "CVE-2026-66563 - WordPress Windsor theme <= 2.10 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-66563",
-      "summary": "CVE ID :CVE-2026-66563 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in Windsor Severity: 9.8 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-66563 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Windsor Severity: 9.8 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:45+00:00"
     },
     {
       "title": "CVE-2026-66483 - WordPress Education Center theme <= 3.6.12 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-66483",
-      "summary": "CVE ID :CVE-2026-66483 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in Education Center Severity: 9.8 | CRITICAL Visit the link for...",
+      "summary": "CVE ID :CVE-2026-66483 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Education Center Severity: 9.8 | CRITICAL Visit the link for...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:45+00:00"
     },
     {
       "title": "CVE-2026-66482 - WordPress Drone Media theme <= 2.2.0 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-66482",
-      "summary": "CVE ID :CVE-2026-66482 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in Drone Media Severity: 9.8 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-66482 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Drone Media Severity: 9.8 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:45+00:00"
     },
     {
       "title": "CVE-2026-62129 - WordPress Creator LMS plugin <= 1.2.21 - Arbitrary File Upload vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-62129",
-      "summary": "CVE ID :CVE-2026-62129 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Contributor Arbitrary File Upload in Creator LMS Severity: 9.9 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-62129 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 9 minutes ago Description :Contributor Arbitrary File Upload in Creator LMS Severity: 9.9 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:44+00:00"
     },
     {
       "title": "CVE-2026-62125 - WordPress Asia Garden theme <= 1.3.1 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-62125",
-      "summary": "CVE ID :CVE-2026-62125 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in Asia Garden Severity: 9.8 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-62125 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 9 minutes ago Description :Unauthenticated PHP Object Injection in Asia Garden Severity: 9.8 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:44+00:00"
     },
     {
       "title": "CVE-2026-62124 - WordPress N7 | Golf Club Sports & Events theme <= 2.21 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-62124",
-      "summary": "CVE ID :CVE-2026-62124 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in N7 | Golf Club Sports & Events Severity: 9.8 | CRITICAL...",
+      "summary": "CVE ID :CVE-2026-62124 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 9 minutes ago Description :Unauthenticated PHP Object Injection in N7 | Golf Club Sports & Events Severity: 9.8 | CRITICAL...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:44+00:00"
     },
     {
       "title": "CVE-2026-62123 - WordPress Invetex theme <= 2.18 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-62123",
-      "summary": "CVE ID :CVE-2026-62123 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in Invetex Severity: 9.8 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-62123 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 9 minutes ago Description :Unauthenticated PHP Object Injection in Invetex Severity: 9.8 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:44+00:00"
     },
     {
       "title": "CVE-2026-62120 - WordPress Law Office theme <= 3.20 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-62120",
-      "summary": "CVE ID :CVE-2026-62120 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated PHP Object Injection in Law Office Severity: 9.8 | CRITICAL Visit the link for more...",
+      "summary": "CVE ID :CVE-2026-62120 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 9 minutes ago Description :Unauthenticated PHP Object Injection in Law Office Severity: 9.8 | CRITICAL Visit the link for more...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:44+00:00"
     },
     {
       "title": "CVE-2026-62117 - WordPress Barcode Scanner with Inventory & Order Manager plugin <= 1.13.1 - SQL Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-62117",
-      "summary": "CVE ID :CVE-2026-62117 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Subscriber SQL Injection in Barcode Scanner with Inventory & Order Manager Severity: 8.5 | HIGH...",
+      "summary": "CVE ID :CVE-2026-62117 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 9 minutes ago Description :Subscriber SQL Injection in Barcode Scanner with Inventory & Order Manager Severity: 8.5 | HIGH...",
       "source": "CVE Feed",
       "published": "2026-10-10T20:16:44+00:00"
-    },
-    {
-      "title": "CVE-2026-62115 - WordPress KuteShop theme <= 4.2.9 - Local File Inclusion vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-62115",
-      "summary": "CVE ID :CVE-2026-62115 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated Local File Inclusion in KuteShop Severity: 8.1 | HIGH Visit the link for more...",
-      "source": "CVE Feed",
-      "published": "2026-10-10T20:16:43+00:00"
-    },
-    {
-      "title": "CVE-2026-62099 - WordPress Boutique theme <= 2.3.3 - Local File Inclusion vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-62099",
-      "summary": "CVE ID :CVE-2026-62099 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated Local File Inclusion in Boutique Severity: 8.1 | HIGH Visit the link for more...",
-      "source": "CVE Feed",
-      "published": "2026-10-10T20:16:43+00:00"
-    },
-    {
-      "title": "CVE-2026-62096 - WordPress Biolife theme <= 3.2.3 - Local File Inclusion vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-62096",
-      "summary": "CVE ID :CVE-2026-62096 Published : Oct. 10, 2026, 8:16 p.m. | 3 hours, 34 minutes ago Description :Unauthenticated Local File Inclusion in Biolife Severity: 8.1 | HIGH Visit the link for more...",
-      "source": "CVE Feed",
-      "published": "2026-10-10T20:16:43+00:00"
     },
     {
       "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
