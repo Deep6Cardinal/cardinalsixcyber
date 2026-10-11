@@ -1,180 +1,187 @@
 {
-  "last_updated": "2026-10-11T08:02:28.777464+00:00",
+  "last_updated": "2026-10-11T16:03:50.012351+00:00",
   "articles": [
     {
-      "title": "CVE-2026-108522 - Studio-Saelix Sencho Login Endpoint login improper authentication",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108522",
-      "summary": "CVE ID :CVE-2026-108522 Published : Oct. 11, 2026, 4:17 a.m. | 3 hours, 8 minutes ago Description :A vulnerability was found in Studio-Saelix Sencho up to 0.94.1. This affects an unknown part of the...",
+      "title": "CVE-2026-108905 - pH7Builder before 18.6.0 Hard-Coded API Key Bypass via Host Header",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108905",
+      "summary": "CVE ID :CVE-2026-108905 Published : Oct. 11, 2026, 3:16 p.m. | 19 minutes ago Description :pH7Builder (pH7 Social Dating CMS) before 18.6.0 contains a hard-coded API key vulnerability in...",
       "source": "CVE Feed",
-      "published": "2026-10-11T04:17:31+00:00"
+      "published": "2026-10-11T15:16:56+00:00"
     },
     {
-      "title": "CVE-2026-108708 - Wukong_HRM through commit 186115e Missing Authorization via EmployeeAspect and EmployeeUtil",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108708",
-      "summary": "CVE ID :CVE-2026-108708 Published : Oct. 11, 2026, 2:16 a.m. | 5 hours, 9 minutes ago Description :Wukong_HRM through commit 186115e contains a missing authorization vulnerability because...",
+      "title": "CVE-2026-108902 - pH7Builder before 18.5.0 Path Traversal Arbitrary File Deletion via picture_link",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108902",
+      "summary": "CVE ID :CVE-2026-108902 Published : Oct. 11, 2026, 3:16 p.m. | 19 minutes ago Description :pH7Builder (pH7 Social Dating CMS) before 18.5.0 contains a path traversal vulnerability in the picture...",
       "source": "CVE Feed",
-      "published": "2026-10-11T02:16:39+00:00"
+      "published": "2026-10-11T15:16:56+00:00"
     },
     {
-      "title": "CVE-2026-108707 - Wukong_HRM through commit 186115e Authentication Bypass via ParamAspect",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108707",
-      "summary": "CVE ID :CVE-2026-108707 Published : Oct. 11, 2026, 2:16 a.m. | 5 hours, 9 minutes ago Description :Wukong_HRM through commit 186115e contains an authentication bypass vulnerability in ParamAspect...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T02:16:39+00:00"
+      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+      "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+      "summary": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-11T14:23:46+00:00"
     },
     {
-      "title": "CVE-2026-108657 - JeecgBoot through 3.9.5 Missing Authorization via /sys/tenant/passApply",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108657",
-      "summary": "CVE ID :CVE-2026-108657 Published : Oct. 10, 2026, 10:16 p.m. | 9 hours, 9 minutes ago Description :JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the SysTenantController...",
+      "title": "CVE-2026-108865 - AmoyLab Unla through 0.10.0 OAuth2 Authentication Bypass via /authorize",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108865",
+      "summary": "CVE ID :CVE-2026-108865 Published : Oct. 11, 2026, 2:17 p.m. | 1 hour, 19 minutes ago Description :AmoyLab Unla through 0.10.0 contains an authentication bypass vulnerability that allows...",
       "source": "CVE Feed",
-      "published": "2026-10-10T22:16:41+00:00"
+      "published": "2026-10-11T14:17:06+00:00"
     },
     {
-      "title": "CVE-2026-108628 - JeecgBoot through 3.9.5 Missing Authorization via saveDeptRolePermission Endpoint",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108628",
-      "summary": "CVE ID :CVE-2026-108628 Published : Oct. 10, 2026, 10:16 p.m. | 9 hours, 9 minutes ago Description :JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the...",
+      "title": "CVE-2026-108863 - Katanemo Plano through 0.4.37 Missing Authentication on Envoy Admin Interface",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108863",
+      "summary": "CVE ID :CVE-2026-108863 Published : Oct. 11, 2026, 2:17 p.m. | 1 hour, 19 minutes ago Description :Katanemo Plano through 0.4.37 contains a missing authentication vulnerability that allows...",
       "source": "CVE Feed",
-      "published": "2026-10-10T22:16:37+00:00"
+      "published": "2026-10-11T14:17:06+00:00"
     },
     {
-      "title": "CVE-2026-81797 - WordPress Buzz Stone | Magazine & Viral Blog WordPress Theme theme <= 1.0.2 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-81797",
-      "summary": "CVE ID :CVE-2026-81797 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Buzz Stone | Magazine & Viral Blog WordPress Theme Severity...",
+      "title": "CVE-2026-108860 - BotSharp through 5.2.0 Authentication Bypass via Hard-Coded JWT Signing Key",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108860",
+      "summary": "CVE ID :CVE-2026-108860 Published : Oct. 11, 2026, 2:17 p.m. | 1 hour, 19 minutes ago Description :BotSharp through 5.2.0 contains an authentication bypass vulnerability that allows unauthenticated...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:47+00:00"
+      "published": "2026-10-11T14:17:05+00:00"
     },
     {
-      "title": "CVE-2026-78535 - WordPress Photolia theme <= 1.0.3 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-78535",
-      "summary": "CVE ID :CVE-2026-78535 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Photolia Severity: 9.8 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-108859 - mcp-go through 1.2.1 Denial of Service via Unbounded POST Body Buffering",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108859",
+      "summary": "CVE ID :CVE-2026-108859 Published : Oct. 11, 2026, 2:17 p.m. | 1 hour, 19 minutes ago Description :mcp-go through 1.2.1 contains a denial of service vulnerability in StreamableHTTPServer.ServeHTTP...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:47+00:00"
+      "published": "2026-10-11T14:17:05+00:00"
     },
     {
-      "title": "CVE-2026-78533 - WordPress Qwery theme <= 3.6.1 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-78533",
-      "summary": "CVE ID :CVE-2026-78533 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Qwery Severity: 9.8 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-108853 - UnicomAI Wanwu before 0.6.3 IDOR via DELETE /v1/appspace/app",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108853",
+      "summary": "CVE ID :CVE-2026-108853 Published : Oct. 11, 2026, 2:17 p.m. | 1 hour, 19 minutes ago Description :UnicomAI Wanwu before 0.6.3 contains an insecure direct object reference vulnerability that allows...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:47+00:00"
+      "published": "2026-10-11T14:17:04+00:00"
     },
     {
-      "title": "CVE-2026-78531 - WordPress Jacqueline theme <= 2.22 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-78531",
-      "summary": "CVE ID :CVE-2026-78531 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Jacqueline Severity: 9.8 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-108699 - hyper-mcp through 0.8.3 Improper Signature Verification of OCI WebAssembly Plugins",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108699",
+      "summary": "CVE ID :CVE-2026-108699 Published : Oct. 11, 2026, 2:17 p.m. | 1 hour, 19 minutes ago Description :hyper-mcp through 0.8.3 contains an improper signature verification vulnerability that allows...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:46+00:00"
+      "published": "2026-10-11T14:17:04+00:00"
     },
     {
-      "title": "CVE-2026-78529 - WordPress Alliance theme <= 3.11 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-78529",
-      "summary": "CVE ID :CVE-2026-78529 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Alliance Severity: 9.8 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-108698 - hyper-mcp through 0.8.3 OCI Plugin Signature Verification TOCTOU Race Condition",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108698",
+      "summary": "CVE ID :CVE-2026-108698 Published : Oct. 11, 2026, 2:17 p.m. | 1 hour, 19 minutes ago Description :hyper-mcp through 0.8.3 contains a signature verification bypass vulnerability in load_wasm in...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:46+00:00"
+      "published": "2026-10-11T14:17:04+00:00"
     },
     {
-      "title": "CVE-2026-66569 - WordPress Kicker theme <= 2.2.1 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-66569",
-      "summary": "CVE ID :CVE-2026-66569 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Kicker Severity: 9.8 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-108758 - Easy!Appointments through 1.6.0 Authorization Bypass via booking/register Endpoint",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108758",
+      "summary": "CVE ID :CVE-2026-108758 Published : Oct. 11, 2026, 1:17 p.m. | 2 hours, 19 minutes ago Description :Easy!Appointments through 1.6.0 contains an authorization bypass vulnerability in...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:46+00:00"
+      "published": "2026-10-11T13:17:21+00:00"
     },
     {
-      "title": "CVE-2026-66568 - WordPress Original theme <= 1.9.0 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-66568",
-      "summary": "CVE ID :CVE-2026-66568 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Original Severity: 9.8 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-108753 - Agnaistic agnai through 1.0.555 Hard-Coded Credentials in self-host Docker Compose",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108753",
+      "summary": "CVE ID :CVE-2026-108753 Published : Oct. 11, 2026, 1:17 p.m. | 2 hours, 19 minutes ago Description :Agnaistic agnai through 1.0.555 contains a hard-coded credentials vulnerability in...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:46+00:00"
+      "published": "2026-10-11T13:17:20+00:00"
     },
     {
-      "title": "CVE-2026-66567 - WordPress Anesta theme <= 1.5.3 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-66567",
-      "summary": "CVE ID :CVE-2026-66567 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Anesta Severity: 9.8 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-108746 - Vearch 3.5.2 through 3.5.9 Incorrect Authorization via Role.HasPermissionForResources",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108746",
+      "summary": "CVE ID :CVE-2026-108746 Published : Oct. 11, 2026, 1:17 p.m. | 2 hours, 19 minutes ago Description :Vearch 3.5.2 through 3.5.9 contains an incorrect authorization vulnerability in...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:46+00:00"
+      "published": "2026-10-11T13:17:19+00:00"
     },
     {
-      "title": "CVE-2026-66566 - WordPress Ambient theme <= 1.7 - Local File Inclusion vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-66566",
-      "summary": "CVE ID :CVE-2026-66566 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated Local File Inclusion in Ambient Severity: 8.1 | HIGH Visit the link for more...",
+      "title": "CVE-2026-108740 - GoatCounter through 2.7.0 Privilege Escalation via /user/pref Mass Assignment",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108740",
+      "summary": "CVE ID :CVE-2026-108740 Published : Oct. 11, 2026, 1:17 p.m. | 2 hours, 19 minutes ago Description :GoatCounter through 2.7.0 contains a mass assignment privilege escalation vulnerability in the...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:46+00:00"
+      "published": "2026-10-11T13:17:18+00:00"
     },
     {
-      "title": "CVE-2026-66565 - WordPress FC United theme <= 1.1.1 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-66565",
-      "summary": "CVE ID :CVE-2026-66565 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in FC United Severity: 9.8 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-108739 - OpenAgents Workspace through launcher-v1.0.17 Unauthenticated Credential Exposure via /v1/workspaces",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108739",
+      "summary": "CVE ID :CVE-2026-108739 Published : Oct. 11, 2026, 1:17 p.m. | 2 hours, 19 minutes ago Description :OpenAgents Workspace backend through launcher-v1.0.17 contains an information disclosure...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:45+00:00"
+      "published": "2026-10-11T13:17:18+00:00"
     },
     {
-      "title": "CVE-2026-66564 - WordPress ShiftCV theme <= 3.0.14 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-66564",
-      "summary": "CVE ID :CVE-2026-66564 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in ShiftCV Severity: 9.8 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-108729 - Corteza through 2024.9.10 Unauthenticated Attachment Access via Compose Attachment Endpoints",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108729",
+      "summary": "CVE ID :CVE-2026-108729 Published : Oct. 11, 2026, 1:17 p.m. | 2 hours, 19 minutes ago Description :Corteza through 2024.9.10 contains an incorrect authorization vulnerability in compose attachment...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:45+00:00"
+      "published": "2026-10-11T13:17:16+00:00"
     },
     {
-      "title": "CVE-2026-66563 - WordPress Windsor theme <= 2.10 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-66563",
-      "summary": "CVE ID :CVE-2026-66563 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Windsor Severity: 9.8 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-108718 - Rill 0.77.0 through 0.90.5 OAuth Missing Authorization via Dynamic Client Registration",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108718",
+      "summary": "CVE ID :CVE-2026-108718 Published : Oct. 11, 2026, 1:17 p.m. | 2 hours, 19 minutes ago Description :Rill 0.77.0 through 0.90.5 contains a missing authorization vulnerability in the admin OAuth server...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:45+00:00"
+      "published": "2026-10-11T13:17:15+00:00"
     },
     {
-      "title": "CVE-2026-66483 - WordPress Education Center theme <= 3.6.12 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-66483",
-      "summary": "CVE ID :CVE-2026-66483 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Education Center Severity: 9.8 | CRITICAL Visit the link for...",
+      "title": "CVE-2026-108714 - MCP Kotlin SDK through 0.15.0 Memory Exhaustion via Application.mcpWebSocket",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108714",
+      "summary": "CVE ID :CVE-2026-108714 Published : Oct. 11, 2026, 1:17 p.m. | 2 hours, 19 minutes ago Description :MCP Kotlin SDK through 0.15.0 contains an uncontrolled memory allocation vulnerability that allows...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:45+00:00"
+      "published": "2026-10-11T13:17:14+00:00"
     },
     {
-      "title": "CVE-2026-66482 - WordPress Drone Media theme <= 2.2.0 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-66482",
-      "summary": "CVE ID :CVE-2026-66482 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 8 minutes ago Description :Unauthenticated PHP Object Injection in Drone Media Severity: 9.8 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-108576 - TOZED X300 IPPingDiagnostics process_ping os command injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108576",
+      "summary": "CVE ID :CVE-2026-108576 Published : Oct. 11, 2026, 1:17 p.m. | 2 hours, 19 minutes ago Description :A vulnerability was found in TOZED X300 up to 6.01.3. This vulnerability affects the function...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:45+00:00"
+      "published": "2026-10-11T13:17:13+00:00"
     },
     {
-      "title": "CVE-2026-62129 - WordPress Creator LMS plugin <= 1.2.21 - Arbitrary File Upload vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-62129",
-      "summary": "CVE ID :CVE-2026-62129 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 9 minutes ago Description :Contributor Arbitrary File Upload in Creator LMS Severity: 9.9 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-96227 - Piotnet Forms <= 1.0.30 - Unauthenticated Stored XSS via File Upload",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-96227",
+      "summary": "CVE ID :CVE-2026-96227 Published : Oct. 11, 2026, 7:17 a.m. | 8 hours, 19 minutes ago Description :The Piotnet Forms WordPress plugin through 1.0.30 does not authenticate or validate a...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:44+00:00"
+      "published": "2026-10-11T07:17:29+00:00"
     },
     {
-      "title": "CVE-2026-62125 - WordPress Asia Garden theme <= 1.3.1 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-62125",
-      "summary": "CVE ID :CVE-2026-62125 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 9 minutes ago Description :Unauthenticated PHP Object Injection in Asia Garden Severity: 9.8 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-89302 - Post Voting System <= 1.0 - Unauthenticated SQLi via 'id' Parameter",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-89302",
+      "summary": "CVE ID :CVE-2026-89302 Published : Oct. 11, 2026, 7:17 a.m. | 8 hours, 19 minutes ago Description :The Post Voting System WordPress plugin through 1.0 does not properly sanitize and escape a...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:44+00:00"
+      "published": "2026-10-11T07:17:28+00:00"
     },
     {
-      "title": "CVE-2026-62124 - WordPress N7 | Golf Club Sports & Events theme <= 2.21 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-62124",
-      "summary": "CVE ID :CVE-2026-62124 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 9 minutes ago Description :Unauthenticated PHP Object Injection in N7 | Golf Club Sports & Events Severity: 9.8 | CRITICAL...",
+      "title": "CVE-2026-89299 - WP Verify API <= 1.0.0 - Unauthenticated SQLi via 'verify' Parameter",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-89299",
+      "summary": "CVE ID :CVE-2026-89299 Published : Oct. 11, 2026, 7:17 a.m. | 8 hours, 19 minutes ago Description :The WP Verify API WordPress plugin through 1.0.0 does not properly sanitize and escape a parameter...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:44+00:00"
+      "published": "2026-10-11T07:17:28+00:00"
     },
     {
-      "title": "CVE-2026-62123 - WordPress Invetex theme <= 2.18 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-62123",
-      "summary": "CVE ID :CVE-2026-62123 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 9 minutes ago Description :Unauthenticated PHP Object Injection in Invetex Severity: 9.8 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-89297 - Loja Automática <= 1.0.0 - Unauthenticated SQLi via 'id' Parameter",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-89297",
+      "summary": "CVE ID :CVE-2026-89297 Published : Oct. 11, 2026, 7:17 a.m. | 8 hours, 19 minutes ago Description :The Loja Automática WordPress plugin through 1.0.0 does not properly sanitize and escape a parameter...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:44+00:00"
+      "published": "2026-10-11T07:17:28+00:00"
     },
     {
-      "title": "CVE-2026-62120 - WordPress Law Office theme <= 3.20 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-62120",
-      "summary": "CVE ID :CVE-2026-62120 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 9 minutes ago Description :Unauthenticated PHP Object Injection in Law Office Severity: 9.8 | CRITICAL Visit the link for more...",
+      "title": "CVE-2026-89287 - ASPL Product Quotation <= 1.1.0 - Unauthenticated SQLi via 'quote_id' Parameter",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-89287",
+      "summary": "CVE ID :CVE-2026-89287 Published : Oct. 11, 2026, 7:17 a.m. | 8 hours, 19 minutes ago Description :The ASPL Product Quotation WordPress plugin through 1.1.0 does not sanitize and escape a parameter...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:44+00:00"
+      "published": "2026-10-11T07:17:28+00:00"
     },
     {
-      "title": "CVE-2026-62117 - WordPress Barcode Scanner with Inventory & Order Manager plugin <= 1.13.1 - SQL Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-62117",
-      "summary": "CVE ID :CVE-2026-62117 Published : Oct. 10, 2026, 8:16 p.m. | 11 hours, 9 minutes ago Description :Subscriber SQL Injection in Barcode Scanner with Inventory & Order Manager Severity: 8.5 | HIGH...",
+      "title": "CVE-2026-89285 - Datalist it <= 0.0.3 - Unauthenticated SQLi via dli_fronted_action",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-89285",
+      "summary": "CVE ID :CVE-2026-89285 Published : Oct. 11, 2026, 7:17 a.m. | 8 hours, 19 minutes ago Description :The Datalist it WordPress plugin through 0.0.3 does not sanitize and escape several request...",
       "source": "CVE Feed",
-      "published": "2026-10-10T20:16:44+00:00"
+      "published": "2026-10-11T07:17:28+00:00"
+    },
+    {
+      "title": "CVE-2026-89283 - WP Posts Password Batch Manager <= 1.1 - Unauthenticated Bulk Post Password Rewrite",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-89283",
+      "summary": "CVE ID :CVE-2026-89283 Published : Oct. 11, 2026, 7:17 a.m. | 8 hours, 19 minutes ago Description :The WP Posts Password Batch Manager WordPress plugin through 1.1 does not perform any capability or...",
+      "source": "CVE Feed",
+      "published": "2026-10-11T07:17:28+00:00"
     },
     {
       "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
@@ -560,13 +567,6 @@
       "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
       "source": "Dark Reading",
       "published": "2026-10-08T20:39:44+00:00"
-    },
-    {
-      "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
-      "summary": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster...",
-      "source": "BleepingComputer",
-      "published": "2026-10-08T20:09:45+00:00"
     },
     {
       "title": "Threat Actors Exploit Critical AhsayCBS Flaws to Drop Webshells and XMRig Cryptominer",
