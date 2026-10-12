@@ -1,6 +1,349 @@
 {
-  "last_updated": "2026-10-12T08:18:38.853911+00:00",
+  "last_updated": "2026-10-12T19:30:53.528532+00:00",
   "articles": [
+    {
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-12T19:23:01+00:00"
+    },
+    {
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the...",
+      "source": "BleepingComputer",
+      "published": "2026-10-12T18:51:59+00:00"
+    },
+    {
+      "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
+      "summary": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.",
+      "source": "Dark Reading",
+      "published": "2026-10-12T18:27:25+00:00"
+    },
+    {
+      "title": "CVE-2026-77366 - obsidian-tc tokens can access arbitrary configured vaults",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77366",
+      "summary": "CVE ID :CVE-2026-77366 Published : Oct. 12, 2026, 6:17 p.m. | 41 minutes ago Description :obsidian-tc is a governed, agent-ready Model Context Protocol server for Obsidian vaults. Prior to 1.3.1...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T18:17:23+00:00"
+    },
+    {
+      "title": "CVE-2026-77363 - obsidian-tc Streamable HTTP transport permits cross-origin loopback vault access",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77363",
+      "summary": "CVE ID :CVE-2026-77363 Published : Oct. 12, 2026, 6:17 p.m. | 41 minutes ago Description :obsidian-tc is a governed, agent-ready Model Context Protocol server for Obsidian vaults. Prior to 1.3.1, the...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T18:17:23+00:00"
+    },
+    {
+      "title": "CVE-2026-108918 - Edimax BR-6208AC formWlanMP command injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108918",
+      "summary": "CVE ID :CVE-2026-108918 Published : Oct. 12, 2026, 6:17 p.m. | 42 minutes ago Description :A vulnerability was identified in Edimax BR-6208AC 1.32. Impacted is an unknown function of the file...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T18:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-108917 - Edimax BR-6208AC formAutoFWupgrade command injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108917",
+      "summary": "CVE ID :CVE-2026-108917 Published : Oct. 12, 2026, 6:17 p.m. | 42 minutes ago Description :A vulnerability was determined in Edimax BR-6208AC 1.32. This issue affects some unknown processing of the...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T18:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-108916 - Edimax BR-6208AC formAccept command injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108916",
+      "summary": "CVE ID :CVE-2026-108916 Published : Oct. 12, 2026, 6:17 p.m. | 42 minutes ago Description :A vulnerability was found in Edimax BR-6208AC 1.32. This vulnerability affects unknown code of the file...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T18:17:21+00:00"
+    },
+    {
+      "title": "CVE-2026-108915 - Edimax BR-6208AC formWlanMP buffer overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108915",
+      "summary": "CVE ID :CVE-2026-108915 Published : Oct. 12, 2026, 6:17 p.m. | 42 minutes ago Description :A vulnerability has been found in Edimax BR-6208AC 1.32. This affects an unknown part of the file...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T18:17:21+00:00"
+    },
+    {
+      "title": "CVE-2026-108479 - WordPress Patreon WordPress plugin <= 1.9.17 - Cross Site Request Forgery (CSRF) vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108479",
+      "summary": "CVE ID :CVE-2026-108479 Published : Oct. 12, 2026, 6:17 p.m. | 42 minutes ago Description :Cross-Site Request Forgery (CSRF) vulnerability in Patreon Patreon WordPress patreon-connect allows Cross...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T18:17:21+00:00"
+    },
+    {
+      "title": "CVE-2026-85965 - Use-after-free in Progress MarkLogic Server JavaScript engine integration",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-85965",
+      "summary": "CVE ID :CVE-2026-85965 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :Progress MarkLogic Server 12.x releases before 12.1.0 and 11.x releases before 11.3.7 contain...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:37+00:00"
+    },
+    {
+      "title": "CVE-2026-109373 - ZITADEL 3.0.0 before 4.19.2 Account Takeover via Unsigned Login V2 Session Cookie",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109373",
+      "summary": "CVE ID :CVE-2026-109373 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :ZITADEL 3.0.0 before 4.19.2 contains an authentication bypass vulnerability in the Login V2 UI that...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:35+00:00"
+    },
+    {
+      "title": "CVE-2026-109372 - ZITADEL 3.0.0 before 4.19.2 Account Takeover via SAML Identity-Provider Confusion",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109372",
+      "summary": "CVE ID :CVE-2026-109372 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :ZITADEL 4.x before 4.19.2 and 3.x through 3.4.15 contains an authentication bypass in the SAML...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:34+00:00"
+    },
+    {
+      "title": "CVE-2026-109371 - ZITADEL 3.0.0 before 4.18.0 Unauthenticated Username Change via Login V1",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109371",
+      "summary": "CVE ID :CVE-2026-109371 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :ZITADEL 3.0.0 before 4.18.0 contains a missing authentication vulnerability in the hosted Login V1...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:34+00:00"
+    },
+    {
+      "title": "CVE-2026-109363 - Zebra 6.4.0 before 6.4.2 Denial of Service via Malformed v6 Transaction",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109363",
+      "summary": "CVE ID :CVE-2026-109363 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :ZcashFoundation Zebra 6.4.0 before 6.4.2 parses version 6 transactions carrying a pre-NU6.3...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:33+00:00"
+    },
+    {
+      "title": "CVE-2026-109359 - Contrast 1.8.0 before 1.24.1 Mesh CA Key Cross-Manifest Exposure via Peer Recovery",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109359",
+      "summary": "CVE ID :CVE-2026-109359 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :Contrast 1.8.0 before 1.24.1 contains an improper verification vulnerability in Coordinator peer...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:33+00:00"
+    },
+    {
+      "title": "CVE-2026-109358 - Edgeless Systems Contrast 1.8.0 before 1.24.1 World-Writable Containerd Config Privilege Escalation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109358",
+      "summary": "CVE ID :CVE-2026-109358 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :Edgeless Systems Contrast 1.8.0 before 1.24.1 contains an incorrect permissions vulnerability where...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:33+00:00"
+    },
+    {
+      "title": "CVE-2026-109357 - LibreNMS before 26.9.0 LDAP Filter Injection Authentication Bypass via Authorization Header",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109357",
+      "summary": "CVE ID :CVE-2026-109357 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :LibreNMS before 26.9.0 contains an LDAP filter injection in ldap-authorization and ad-authorization...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:33+00:00"
+    },
+    {
+      "title": "CVE-2026-109347 - Adminer before 6.1.1 RCE via UTF-8 BOM SQLite ATTACH Bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109347",
+      "summary": "CVE ID :CVE-2026-109347 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :Adminer before 6.1.1 contains a remote code execution vulnerability that allows authenticated SQLite...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:31+00:00"
+    },
+    {
+      "title": "CVE-2026-109346 - better-auth 1.3.8-beta.3 before 1.7.0-rc.3 Device Authorization Phishing via /device",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109346",
+      "summary": "CVE ID :CVE-2026-109346 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :better-auth from 1.3.8-beta.3 before 1.7.0-rc.3 contains a UI misrepresentation vulnerability in the...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:31+00:00"
+    },
+    {
+      "title": "CVE-2026-109343 - SurrealDB before 3.3.0 Cross-Tenant Access via USE Statement",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109343",
+      "summary": "CVE ID :CVE-2026-109343 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :SurrealDB before 3.3.0 allows cross-tenant access because the SurrealQL USE statement switches a...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:30+00:00"
+    },
+    {
+      "title": "CVE-2026-109334 - SurrealDB before 3.3.0 Cross-Tenant Access via Surreal-NS/Surreal-DB Headers and RPC use",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109334",
+      "summary": "CVE ID :CVE-2026-109334 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :SurrealDB before 3.3.0 does not check the caller-selected namespace or database against the level at...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:29+00:00"
+    },
+    {
+      "title": "CVE-2026-109329 - Admidio 4.3.2 through 4.3.17 and 5.0.0 before 5.0.15 Cross-Organization Access Control Bypass via members_assignment.php",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109329",
+      "summary": "CVE ID :CVE-2026-109329 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :Admidio 4.3.2 through 4.3.17 and 5.0.0 before 5.0.15 contains a broken access control vulnerability...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:28+00:00"
+    },
+    {
+      "title": "CVE-2026-109326 - Grav before 2.1.7 Information Disclosure via Nested .git Directories",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109326",
+      "summary": "CVE ID :CVE-2026-109326 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :Grav before 2.1.7 contains an information disclosure vulnerability because bundled nginx, lighttpd...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:28+00:00"
+    },
+    {
+      "title": "CVE-2026-109325 - Grav from 2.0.22 before 2.1.7 Clockwork Profiler Authentication Bypass via Proxy",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109325",
+      "summary": "CVE ID :CVE-2026-109325 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :Grav from 2.0.22 before 2.1.7 contains an authentication bypass vulnerability in the Clockwork...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:27+00:00"
+    },
+    {
+      "title": "CVE-2026-109321 - Grav Login OAuth Plugin before 1.4.3 Predictable Local Credentials Authentication Bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109321",
+      "summary": "CVE ID :CVE-2026-109321 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :Grav Login OAuth plugin (grav-plugin-login-oauth) before 1.4.3 provisions OAuth accounts as ordinary...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:27+00:00"
+    },
+    {
+      "title": "CVE-2026-109318 - Grav Git Sync 1.0.2 through 3.4.12 Command Injection via Commit Author",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109318",
+      "summary": "CVE ID :CVE-2026-109318 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :Grav Git Sync 1.0.2 through 3.4.12 contains a command injection vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:26+00:00"
+    },
+    {
+      "title": "CVE-2026-109317 - Grav API Plugin before 1.0.36 Privilege Escalation via Scalar Access Grants",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109317",
+      "summary": "CVE ID :CVE-2026-109317 Published : Oct. 12, 2026, 5:17 p.m. | 1 hour, 41 minutes ago Description :Grav grav-plugin-api before 1.0.36 contains a privilege escalation vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-10-12T17:17:26+00:00"
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "summary": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-12T16:27:23+00:00"
+    },
+    {
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-12T15:23:34+00:00"
+    },
+    {
+      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone...",
+      "source": "The Hacker News",
+      "published": "2026-10-12T15:16:26+00:00"
+    },
+    {
+      "title": "CVE-2026-97229: Critical GitLab Vulnerability Could Allow Remote Code Execution",
+      "link": "https://thecyberthrone.in/2026/10/12/cve-2026-97229-critical-gitlab-vulnerability-could-allow-remote-code-execution/",
+      "summary": "CVE-2026-97229: Critical GitLab Vulnerability Could Allow Remote Code Execution October 12, 2026GitLab has addressed CVE-2026-97229, a critical vulnerability in its CI/CD Regular Expression Compiler...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-12T14:26:38+00:00"
+    },
+    {
+      "title": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
+      "link": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
+      "summary": "The all-stock deal brings Elisity’s least-privilege access technology into IonQ’s security portfolio. The post IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion appeared first on...",
+      "source": "SecurityWeek",
+      "published": "2026-10-12T14:25:00+00:00"
+    },
+    {
+      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "summary": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware...",
+      "source": "BleepingComputer",
+      "published": "2026-10-12T14:00:10+00:00"
+    },
+    {
+      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "summary": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network...",
+      "source": "BleepingComputer",
+      "published": "2026-10-12T13:51:07+00:00"
+    },
+    {
+      "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
+      "link": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
+      "summary": "The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites. The post Bricksforge WordPress Plugin Vulnerability Exploited in the Wild...",
+      "source": "SecurityWeek",
+      "published": "2026-10-12T13:14:37+00:00"
+    },
+    {
+      "title": "GitLab warns of max severity code execution vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+      "summary": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-12T13:09:09+00:00"
+    },
+    {
+      "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
+      "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
+      "summary": "Fahmida Y Rashid will keep the momentum going as she leads Dark Reading.",
+      "source": "Dark Reading",
+      "published": "2026-10-12T12:30:58+00:00"
+    },
+    {
+      "title": "Ukraine strikes third Yandex data center, disrupting digital services across Russia",
+      "link": "https://therecord.media/ukraine-strikes-third-yandex-data-center",
+      "summary": "A third Yandex data center in Russia was hit by Ukrainian drones over the weekend, forcing it to shut down and causing further disruptions to cloud services, payments, deliveries and other online...",
+      "source": "The Record",
+      "published": "2026-10-12T12:00:00+00:00"
+    },
+    {
+      "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
+      "link": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
+      "summary": "The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal. The post Canonical Websites Disrupted in Second DDoS Attack This Year appeared first on...",
+      "source": "SecurityWeek",
+      "published": "2026-10-12T11:58:39+00:00"
+    },
+    {
+      "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
+      "summary": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-12T11:58:33+00:00"
+    },
+    {
+      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+      "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+      "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy...",
+      "source": "The Hacker News",
+      "published": "2026-10-12T11:55:00+00:00"
+    },
+    {
+      "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
+      "link": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
+      "summary": "Oleg Korniev was a leader of YMCO, a sophisticated network of money mules that helped hackers move funds outside the US. The post Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty...",
+      "source": "SecurityWeek",
+      "published": "2026-10-12T11:24:50+00:00"
+    },
+    {
+      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+      "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+      "summary": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said...",
+      "source": "The Hacker News",
+      "published": "2026-10-12T11:21:48+00:00"
+    },
+    {
+      "title": "iRhythm Data Breach Impacts at Least 360,000 People",
+      "link": "https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/",
+      "summary": "Hackers stole patients’ personal information, including names, addresses, email addresses, dates of birth, and phone numbers. The post iRhythm Data Breach Impacts at Least 360,000 People appeared...",
+      "source": "SecurityWeek",
+      "published": "2026-10-12T11:05:43+00:00"
+    },
+    {
+      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+      "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability...",
+      "source": "The Hacker News",
+      "published": "2026-10-12T10:36:56+00:00"
+    },
+    {
+      "title": "Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe",
+      "link": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/",
+      "summary": "The suspect is believed to be Edward Dubrovsky, a Canadian cybersecurity executive who was visiting the United States for a conference. The post Ransomware Response Expert Arrested in ShinyHunters...",
+      "source": "SecurityWeek",
+      "published": "2026-10-12T10:32:05+00:00"
+    },
+    {
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is...",
+      "source": "The Hacker News",
+      "published": "2026-10-12T09:02:14+00:00"
+    },
+    {
+      "title": "Critical SonicWall Vulnerability Exploited Days After Disclosure",
+      "link": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/",
+      "summary": "CVE-2026-102255 is a pre-authenticated SSRF flaw that could allow attackers to perform unauthorized operations. The post Critical SonicWall Vulnerability Exploited Days After Disclosure appeared...",
+      "source": "SecurityWeek",
+      "published": "2026-10-12T08:36:01+00:00"
+    },
     {
       "title": "Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch",
       "link": "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/",
@@ -16,95 +359,11 @@
       "published": "2026-10-12T07:26:12+00:00"
     },
     {
-      "title": "CVE-2026-93582 - Authentication Bypass via Spoofed Remote-User Header in HTTP Basic Authentication",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-93582",
-      "summary": "CVE ID :CVE-2026-93582 Published : Oct. 12, 2026, 7:16 a.m. | 1 hour, 2 minutes ago Description :The HTTP Basic Authentication modules in ((OTRS)) Community Edition 6 and prior accept the...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T07:16:37+00:00"
-    },
-    {
-      "title": "CVE-2026-78357 - Insufficient Session Revocation for JWT Authentication",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-78357",
-      "summary": "CVE ID :CVE-2026-78357 Published : Oct. 12, 2026, 7:16 a.m. | 1 hour, 2 minutes ago Description :Previously issued authentication tokens are not immediately invalidated when an OTRS agent or customer...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T07:16:37+00:00"
-    },
-    {
-      "title": "CVE-2026-78355 - Path Traversal in SendSupportBundle allows File Deletion Outside the Intended Directory",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-78355",
-      "summary": "CVE ID :CVE-2026-78355 Published : Oct. 12, 2026, 7:16 a.m. | 1 hour, 2 minutes ago Description :A path traversal vulnerability in the OTRS SendSupportBundle functionality allows an authenticated...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T07:16:36+00:00"
-    },
-    {
-      "title": "CVE-2026-108804 - TRENDnet TEW-751DR/TEW-752DRU/TEW733GR Web Management Backend pigwidgeon.cgi fwrite os command injection",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108804",
-      "summary": "CVE ID :CVE-2026-108804 Published : Oct. 12, 2026, 6:16 a.m. | 2 hours, 1 minute ago Description :A vulnerability was detected in TRENDnet TEW-751DR, TEW-752DRU and TEW733GR 1.03B01/1.03B03. Affected...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T06:16:59+00:00"
-    },
-    {
-      "title": "CVE-2026-87690 - Metasploit Framework ios_image_gather Path Traversal Leading to Arbitrary File Write and Code Execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-87690",
-      "summary": "CVE ID :CVE-2026-87690 Published : Oct. 12, 2026, 5:17 a.m. | 3 hours, 1 minute ago Description :The Metasploit Framework post module post/apple_ios/gather/ios_image_gather is affected by a relative...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T05:17:03+00:00"
-    },
-    {
-      "title": "CVE-2026-21125 - Samsung libsimba.heifdec.media.so Improper Input Validation Arbitrary Code Execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-21125",
-      "summary": "CVE ID :CVE-2026-21125 Published : Oct. 12, 2026, 5:17 a.m. | 3 hours, 1 minute ago Description :Improper input validation in parsing sheifd in libsimba.heifdec.media.samsung.so prior to SMR Oct-2026...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T05:17:01+00:00"
-    },
-    {
-      "title": "CVE-2026-21124 - Samsung libsimba.heifdec.media.so Improper Input Validation Arbitrary Code Execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-21124",
-      "summary": "CVE ID :CVE-2026-21124 Published : Oct. 12, 2026, 5:17 a.m. | 3 hours, 1 minute ago Description :Improper input validation in getting cover image in libsimba.heifdec.media.samsung.so prior to SMR...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T05:17:00+00:00"
-    },
-    {
-      "title": "CVE-2026-21120 - WSM Service Use-After-Free Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-21120",
-      "summary": "CVE ID :CVE-2026-21120 Published : Oct. 12, 2026, 5:17 a.m. | 3 hours, 1 minute ago Description :Use after free in WSM service prior to SMR Oct-2026 Release 1 allows local attackers to potentially...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T05:17:00+00:00"
-    },
-    {
-      "title": "CVE-2026-66086 - Stack-based Buffer Overflow in Modem",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-66086",
-      "summary": "CVE ID :CVE-2026-66086 Published : Oct. 12, 2026, 2:16 a.m. | 6 hours, 1 minute ago Description :In the modem OTA stack, there is a possible stack-based buffer overflow due to improper validation of...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T02:16:57+00:00"
-    },
-    {
-      "title": "CVE-2026-108980 - Blinko Directory Traversal Remote Code Execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108980",
-      "summary": "CVE ID :CVE-2026-108980 Published : Oct. 12, 2026, 2:16 a.m. | 6 hours, 1 minute ago Description :Blinko through 1.8.8 allows directory traversal, overwriting startup files as root, via...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T02:16:57+00:00"
-    },
-    {
-      "title": "CVE-2026-108963 - Databasement Argument Injection Remote Code Execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108963",
-      "summary": "CVE ID :CVE-2026-108963 Published : Oct. 11, 2026, 8:16 p.m. | 12 hours, 2 minutes ago Description :databasement before 1.8.2 allows remote code execution because it runs certain commands (e.g...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T20:16:32+00:00"
-    },
-    {
-      "title": "CVE-2026-108905 - pH7Builder before 18.6.0 Hard-Coded API Key Bypass via Host Header",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108905",
-      "summary": "CVE ID :CVE-2026-108905 Published : Oct. 11, 2026, 3:16 p.m. | 17 hours, 1 minute ago Description :pH7Builder (pH7 Social Dating CMS) before 18.6.0 contains a hard-coded API key vulnerability in...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T15:16:56+00:00"
-    },
-    {
-      "title": "CVE-2026-108902 - pH7Builder before 18.5.0 Path Traversal Arbitrary File Deletion via picture_link",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108902",
-      "summary": "CVE ID :CVE-2026-108902 Published : Oct. 11, 2026, 3:16 p.m. | 17 hours, 1 minute ago Description :pH7Builder (pH7 Social Dating CMS) before 18.5.0 contains a path traversal vulnerability in the...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T15:16:56+00:00"
+      "title": "Cyberattack disrupts refrigeration at hundreds of French supermarkets",
+      "link": "https://therecord.media/cyberattack-disrupts-refridgeration-in-france",
+      "summary": "A cyberattack overnight Sunday disrupted refrigerators at hundreds of French supermarkets, spoiling fresh food at stores run by some of the country’s largest grocery chains.",
+      "source": "The Record",
+      "published": "2026-10-11T23:00:00+00:00"
     },
     {
       "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
@@ -114,88 +373,11 @@
       "published": "2026-10-11T14:23:46+00:00"
     },
     {
-      "title": "CVE-2026-108865 - AmoyLab Unla through 0.10.0 OAuth2 Authentication Bypass via /authorize",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108865",
-      "summary": "CVE ID :CVE-2026-108865 Published : Oct. 11, 2026, 2:17 p.m. | 18 hours, 1 minute ago Description :AmoyLab Unla through 0.10.0 contains an authentication bypass vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T14:17:06+00:00"
-    },
-    {
-      "title": "CVE-2026-108863 - Katanemo Plano through 0.4.37 Missing Authentication on Envoy Admin Interface",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108863",
-      "summary": "CVE ID :CVE-2026-108863 Published : Oct. 11, 2026, 2:17 p.m. | 18 hours, 1 minute ago Description :Katanemo Plano through 0.4.37 contains a missing authentication vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T14:17:06+00:00"
-    },
-    {
-      "title": "CVE-2026-108860 - BotSharp through 5.2.0 Authentication Bypass via Hard-Coded JWT Signing Key",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108860",
-      "summary": "CVE ID :CVE-2026-108860 Published : Oct. 11, 2026, 2:17 p.m. | 18 hours, 1 minute ago Description :BotSharp through 5.2.0 contains an authentication bypass vulnerability that allows unauthenticated...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T14:17:05+00:00"
-    },
-    {
-      "title": "CVE-2026-108859 - mcp-go through 1.2.1 Denial of Service via Unbounded POST Body Buffering",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108859",
-      "summary": "CVE ID :CVE-2026-108859 Published : Oct. 11, 2026, 2:17 p.m. | 18 hours, 1 minute ago Description :mcp-go through 1.2.1 contains a denial of service vulnerability in StreamableHTTPServer.ServeHTTP...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T14:17:05+00:00"
-    },
-    {
-      "title": "CVE-2026-108853 - UnicomAI Wanwu before 0.6.3 IDOR via DELETE /v1/appspace/app",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108853",
-      "summary": "CVE ID :CVE-2026-108853 Published : Oct. 11, 2026, 2:17 p.m. | 18 hours, 1 minute ago Description :UnicomAI Wanwu before 0.6.3 contains an insecure direct object reference vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T14:17:04+00:00"
-    },
-    {
-      "title": "CVE-2026-108699 - hyper-mcp through 0.8.3 Improper Signature Verification of OCI WebAssembly Plugins",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108699",
-      "summary": "CVE ID :CVE-2026-108699 Published : Oct. 11, 2026, 2:17 p.m. | 18 hours, 1 minute ago Description :hyper-mcp through 0.8.3 contains an improper signature verification vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T14:17:04+00:00"
-    },
-    {
-      "title": "CVE-2026-108698 - hyper-mcp through 0.8.3 OCI Plugin Signature Verification TOCTOU Race Condition",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108698",
-      "summary": "CVE ID :CVE-2026-108698 Published : Oct. 11, 2026, 2:17 p.m. | 18 hours, 1 minute ago Description :hyper-mcp through 0.8.3 contains a signature verification bypass vulnerability in load_wasm in...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T14:17:04+00:00"
-    },
-    {
-      "title": "CVE-2026-108758 - Easy!Appointments through 1.6.0 Authorization Bypass via booking/register Endpoint",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108758",
-      "summary": "CVE ID :CVE-2026-108758 Published : Oct. 11, 2026, 1:17 p.m. | 19 hours, 1 minute ago Description :Easy!Appointments through 1.6.0 contains an authorization bypass vulnerability in...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T13:17:21+00:00"
-    },
-    {
-      "title": "CVE-2026-108753 - Agnaistic agnai through 1.0.555 Hard-Coded Credentials in self-host Docker Compose",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108753",
-      "summary": "CVE ID :CVE-2026-108753 Published : Oct. 11, 2026, 1:17 p.m. | 19 hours, 1 minute ago Description :Agnaistic agnai through 1.0.555 contains a hard-coded credentials vulnerability in...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T13:17:20+00:00"
-    },
-    {
-      "title": "CVE-2026-108746 - Vearch 3.5.2 through 3.5.9 Incorrect Authorization via Role.HasPermissionForResources",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108746",
-      "summary": "CVE ID :CVE-2026-108746 Published : Oct. 11, 2026, 1:17 p.m. | 19 hours, 1 minute ago Description :Vearch 3.5.2 through 3.5.9 contains an incorrect authorization vulnerability in...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T13:17:19+00:00"
-    },
-    {
-      "title": "CVE-2026-108740 - GoatCounter through 2.7.0 Privilege Escalation via /user/pref Mass Assignment",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108740",
-      "summary": "CVE ID :CVE-2026-108740 Published : Oct. 11, 2026, 1:17 p.m. | 19 hours, 1 minute ago Description :GoatCounter through 2.7.0 contains a mass assignment privilege escalation vulnerability in the...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T13:17:18+00:00"
-    },
-    {
-      "title": "CVE-2026-108739 - OpenAgents Workspace through launcher-v1.0.17 Unauthenticated Credential Exposure via /v1/workspaces",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108739",
-      "summary": "CVE ID :CVE-2026-108739 Published : Oct. 11, 2026, 1:17 p.m. | 19 hours, 1 minute ago Description :OpenAgents Workspace backend through launcher-v1.0.17 contains an information disclosure...",
-      "source": "CVE Feed",
-      "published": "2026-10-11T13:17:18+00:00"
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its...",
+      "source": "The Hacker News",
+      "published": "2026-10-11T04:24:34+00:00"
     },
     {
       "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
@@ -317,13 +499,6 @@
       "published": "2026-10-09T17:02:29+00:00"
     },
     {
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "summary": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-09T16:29:55+00:00"
-    },
-    {
       "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
       "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
       "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
@@ -345,46 +520,11 @@
       "published": "2026-10-09T16:06:00+00:00"
     },
     {
-      "title": "FBI touts another ShinyHunters arrest in response to data breach",
-      "link": "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
-      "summary": "“We will continue to work closely with our partners to disrupt what’s left of the ShinyHunters group and their associates, no matter where they operate,\" FBI Director Kash Patel said.",
-      "source": "The Record",
-      "published": "2026-10-09T15:41:00+00:00"
-    },
-    {
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-09T15:38:56+00:00"
-    },
-    {
-      "title": "Belarusian hacktivists admit to 2023 breach of Russian state healthcare network",
-      "link": "https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack",
-      "summary": "The Belarusian Cyber Partisans concurred with Russian research that they indeed spent months inside the network for the Moscow Department of Health.",
-      "source": "The Record",
-      "published": "2026-10-09T14:40:00+00:00"
-    },
-    {
-      "title": "How to keep AI agents within their permissions",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-      "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations...",
-      "source": "BleepingComputer",
-      "published": "2026-10-09T14:01:11+00:00"
-    },
-    {
       "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
       "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "summary": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in...",
-      "source": "CVE Newsroom",
+      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California...",
+      "source": "The Hacker News",
       "published": "2026-10-09T13:22:53+00:00"
-    },
-    {
-      "title": "SonicWall SMA1000-kwetsbaarheid actief misbruik bij aanvallen",
-      "link": "https://www.security.nl/posting/956918/SonicWall+SMA1000-kwetsbaarheid+actief+misbruik+bij+aanvallen?channel=rss",
-      "summary": "SonicWall SMA1000-kwetsbaarheid actief misbruik bij aanvallen vrijdag 9 oktober 2026, 15:00 door Redactie, 0 reactiesLaatst bijgewerkt: Vandaag, 15:05 Een kritieke kwetsbaarheid in de SonicWall...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-09T13:00:00+00:00"
     },
     {
       "title": "Social Engineering AI Agents: The New BEC for 2026",
@@ -394,10 +534,24 @@
       "published": "2026-10-09T13:00:00+00:00"
     },
     {
+      "title": "SonicWall SMA1000-kwetsbaarheid actief misbruikt bij aanvallen",
+      "link": "https://www.security.nl/posting/956918/SonicWall+SMA1000-kwetsbaarheid+actief+misbruikt+bij+aanvallen?channel=rss",
+      "summary": "SonicWall SMA1000-kwetsbaarheid actief misbruikt bij aanvallen vrijdag 9 oktober 2026, 15:00 door Redactie, 0 reactiesLaatst bijgewerkt: 09-10-2026, 15:05 Een kritieke kwetsbaarheid in de SonicWall...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-09T13:00:00+00:00"
+    },
+    {
+      "title": "SonicWall SMA1000-kwetsbaarheid actief misbruik bij aanvallen",
+      "link": "https://www.security.nl/posting/956918/SonicWall+SMA1000-kwetsbaarheid+actief+misbruik+bij+aanvallen?channel=rss",
+      "summary": "SonicWall SMA1000-kwetsbaarheid actief misbruik bij aanvallen vrijdag 9 oktober 2026, 15:00 door Redactie, 0 reactiesLaatst bijgewerkt: Vandaag, 15:05 Een kritieke kwetsbaarheid in de SonicWall...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-09T13:00:00+00:00"
+    },
+    {
       "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
       "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-      "summary": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access Security researchers have published a full working exploit for a pre-authentication remote code execution...",
-      "source": "CVE Newsroom",
+      "summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection...",
+      "source": "The Hacker News",
       "published": "2026-10-09T12:59:22+00:00"
     },
     {
@@ -410,8 +564,8 @@
     {
       "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
       "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-      "summary": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize...",
-      "source": "CVE Newsroom",
+      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners...",
+      "source": "The Hacker News",
       "published": "2026-10-09T12:47:26+00:00"
     },
     {
@@ -422,32 +576,11 @@
       "published": "2026-10-09T12:39:00+00:00"
     },
     {
-      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-09T12:32:16+00:00"
-    },
-    {
       "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
       "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "summary": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its...",
-      "source": "CVE Newsroom",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked...",
+      "source": "The Hacker News",
       "published": "2026-10-09T12:21:51+00:00"
-    },
-    {
-      "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
-      "link": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors leak telemetry. The post In Other News...",
-      "source": "SecurityWeek",
-      "published": "2026-10-09T12:03:50+00:00"
-    },
-    {
-      "title": "Google Domains Impacted by Recent ccTLD Hijacks",
-      "link": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
-      "summary": "Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains. The post Google Domains Impacted by Recent ccTLD Hijacks appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "published": "2026-10-09T11:43:14+00:00"
     },
     {
       "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
@@ -457,34 +590,6 @@
       "published": "2026-10-09T11:30:00+00:00"
     },
     {
-      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
-      "summary": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-09T11:14:28+00:00"
-    },
-    {
-      "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
-      "link": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
-      "summary": "The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands. The post Unpatched AhsayCBS Vulnerabilities Exploited in the Wild appeared first on...",
-      "source": "SecurityWeek",
-      "published": "2026-10-09T10:23:42+00:00"
-    },
-    {
-      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-      "summary": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-09T10:12:24+00:00"
-    },
-    {
-      "title": "Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries",
-      "link": "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/",
-      "summary": "Midnight Mimosa is the name given to a malware campaign primarily running preinstalled on low-cost Android devices. The post Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries...",
-      "source": "SecurityWeek",
-      "published": "2026-10-09T09:55:35+00:00"
-    },
-    {
       "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
       "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
       "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then...",
@@ -492,38 +597,17 @@
       "published": "2026-10-09T09:03:24+00:00"
     },
     {
-      "title": "US Disrupts Chinese State-Sponsored Hacking Tools",
-      "link": "https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/",
-      "summary": "Flax Typhoon and other APTs used MicroScan and FishHub to scan and hack US and foreign critical infrastructure. The post US Disrupts Chinese State-Sponsored Hacking Tools appeared first on...",
-      "source": "SecurityWeek",
-      "published": "2026-10-09T08:36:37+00:00"
-    },
-    {
-      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-      "summary": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access...",
-      "source": "BleepingComputer",
-      "published": "2026-10-09T08:27:42+00:00"
-    },
-    {
       "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
       "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-      "summary": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose...",
-      "source": "CVE Newsroom",
+      "summary": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show...",
+      "source": "The Hacker News",
       "published": "2026-10-09T08:26:17+00:00"
-    },
-    {
-      "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
-      "link": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
-      "summary": "OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in. The post Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT...",
-      "source": "SecurityWeek",
-      "published": "2026-10-09T08:19:33+00:00"
     },
     {
       "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
       "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-      "summary": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that...",
-      "source": "CVE Newsroom",
+      "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain...",
+      "source": "The Hacker News",
       "published": "2026-10-09T08:11:33+00:00"
     },
     {
@@ -534,13 +618,6 @@
       "published": "2026-10-09T07:23:12+00:00"
     },
     {
-      "title": "Citrix Urges Immediate Patching of Critical NetScaler Vulnerability",
-      "link": "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/",
-      "summary": "The security defect, tracked as CVE-2026-107406, could lead to remote code execution or denial-of-service. The post Citrix Urges Immediate Patching of Critical NetScaler Vulnerability appeared first...",
-      "source": "SecurityWeek",
-      "published": "2026-10-09T06:53:53+00:00"
-    },
-    {
       "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
       "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
       "summary": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax...",
@@ -548,25 +625,11 @@
       "published": "2026-10-09T06:39:29+00:00"
     },
     {
-      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-      "summary": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-09T05:41:04+00:00"
-    },
-    {
       "title": "Critical NetScaler RCE Vulnerability CVE-2026-107406",
       "link": "https://thecyberthrone.in/2026/10/09/critical-netscaler-rce-vulnerability-cve-2026-107406/",
       "summary": "Critical NetScaler RCE Vulnerability CVE-2026-107406 Executive SummaryCitrix has disclosed CVE-2026-107406, a critical memory overflow vulnerability affecting Citrix NetScaler ADC and NetScaler...",
       "source": "CVE Newsroom",
       "published": "2026-10-09T02:05:03+00:00"
-    },
-    {
-      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-      "summary": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical...",
-      "source": "BleepingComputer",
-      "published": "2026-10-08T21:42:51+00:00"
     },
     {
       "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
@@ -592,8 +655,8 @@
     {
       "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
       "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-      "summary": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement...",
-      "source": "CVE Newsroom",
+      "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and...",
+      "source": "The Hacker News",
       "published": "2026-10-08T18:32:21+00:00"
     },
     {
@@ -613,8 +676,8 @@
     {
       "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
       "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-      "summary": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and...",
-      "source": "CVE Newsroom",
+      "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The...",
+      "source": "The Hacker News",
       "published": "2026-10-08T15:45:56+00:00"
     },
     {
@@ -732,22 +795,22 @@
     {
       "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
       "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "summary": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes...",
-      "source": "CVE Newsroom",
+      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The...",
+      "source": "The Hacker News",
       "published": "2026-10-07T17:43:20+00:00"
     },
     {
       "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
       "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "summary": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access...",
-      "source": "CVE Newsroom",
+      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an...",
+      "source": "The Hacker News",
       "published": "2026-10-07T16:17:44+00:00"
     },
     {
       "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
       "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-      "summary": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as...",
-      "source": "CVE Newsroom",
+      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no...",
+      "source": "The Hacker News",
       "published": "2026-10-07T15:34:53+00:00"
     },
     {
@@ -756,13 +819,6 @@
       "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim...",
       "source": "The Hacker News",
       "published": "2026-10-07T15:33:51+00:00"
-    },
-    {
-      "title": "CVE-2026-21589: Critical Atlassian Flaw Enables Unauthenticated File Access",
-      "link": "https://thecyberthrone.in/2026/10/07/cve-2026-21589-critical-atlassian-flaw-enables-unauthenticated-file-access/",
-      "summary": "CVE-2026-21589: Critical Atlassian Flaw Enables Unauthenticated File Access Executive SummaryAtlassian has disclosed CVE-2026-21589, a critical arbitrary file access vulnerability affecting multiple...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-07T14:25:21+00:00"
     },
     {
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
@@ -786,17 +842,10 @@
       "published": "2026-10-07T11:56:56+00:00"
     },
     {
-      "title": "'Kritiek Atlassian-lek dat toegang tot bestanden geeft misbruikt bij aanvallen'",
-      "link": "https://www.security.nl/posting/956387/%27Kritiek+Atlassian-lek+dat+toegang+tot+bestanden+geeft+misbruikt+bij+aanvallen%27?channel=rss",
-      "summary": "'Kritiek Atlassian-lek dat toegang tot bestanden geeft misbruikt bij aanvallen' Een kritieke kwetsbaarheid in producten van Atlassian, waardoor aanvallers toegang tot bestanden en gevoelige...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-07T11:51:08+00:00"
-    },
-    {
       "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
       "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-      "summary": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center...",
-      "source": "CVE Newsroom",
+      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The...",
+      "source": "The Hacker News",
       "published": "2026-10-07T11:49:26+00:00"
     },
     {
@@ -809,8 +858,8 @@
     {
       "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
       "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-      "summary": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its...",
-      "source": "CVE Newsroom",
+      "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking...",
+      "source": "The Hacker News",
       "published": "2026-10-07T08:07:38+00:00"
     },
     {
@@ -844,8 +893,8 @@
     {
       "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
       "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
-      "summary": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their...",
-      "source": "CVE Newsroom",
+      "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade...",
+      "source": "The Hacker News",
       "published": "2026-10-06T18:24:25+00:00"
     },
     {
@@ -912,32 +961,11 @@
       "published": "2026-10-06T06:56:57+00:00"
     },
     {
-      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
-      "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
-      "summary": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the...",
-      "source": "The Hacker News",
-      "published": "2026-10-06T06:00:30+00:00"
-    },
-    {
-      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
-      "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
-      "summary": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache. \"Instead of downloading and executing remote payloads...",
-      "source": "The Hacker News",
-      "published": "2026-10-06T05:22:55+00:00"
-    },
-    {
       "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
       "link": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
       "summary": "The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications.",
       "source": "Dark Reading",
       "published": "2026-10-05T21:25:08+00:00"
-    },
-    {
-      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-      "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-      "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The...",
-      "source": "The Hacker News",
-      "published": "2026-10-05T16:21:52+00:00"
     },
     {
       "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
@@ -947,25 +975,11 @@
       "published": "2026-10-05T15:52:59+00:00"
     },
     {
-      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-      "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were...",
-      "source": "The Hacker News",
-      "published": "2026-10-05T14:20:43+00:00"
-    },
-    {
       "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
       "link": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
       "summary": "AI-powered attacks are fast, relentless, and automated. How security teams can keep up is top of mind, according to the latest Dark Reading reader poll.",
       "source": "Dark Reading",
       "published": "2026-10-05T13:00:00+00:00"
-    },
-    {
-      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
-      "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-      "summary": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through...",
-      "source": "The Hacker News",
-      "published": "2026-10-05T11:55:00+00:00"
     },
     {
       "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
@@ -1169,20 +1183,6 @@
       "summary": "When autonomous AI agents \"escape the sandbox,\" the real story isn't rogue machines — it's the same access-control failures we've seen for decades.",
       "source": "Dark Reading",
       "published": "2026-09-25T18:39:32+00:00"
-    },
-    {
-      "title": "What We Missed: Google Gemini Joins the AI Escape Party",
-      "link": "https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
-      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Google Gemini models breaking containment to ShinyHunters ratting on TeamPCP hackers.",
-      "source": "Dark Reading",
-      "published": "2026-09-25T17:56:23+00:00"
-    },
-    {
-      "title": "Stopping IT Worker Scams Requires Revamped HR Process",
-      "link": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
-      "summary": "Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help even more.",
-      "source": "Dark Reading",
-      "published": "2026-09-25T14:46:13+00:00"
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
