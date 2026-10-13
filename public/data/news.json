@@ -1,6 +1,293 @@
 {
-  "last_updated": "2026-10-13T17:15:18.859747+00:00",
+  "last_updated": "2026-10-13T22:06:00.311923+00:00",
   "articles": [
+    {
+      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-13T21:33:26+00:00"
+    },
+    {
+      "title": "North Korea Phishes Ukrainians for War Intel",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
+      "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
+      "source": "Dark Reading",
+      "published": "2026-10-13T21:24:45+00:00"
+    },
+    {
+      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+      "summary": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI...",
+      "source": "BleepingComputer",
+      "published": "2026-10-13T21:16:34+00:00"
+    },
+    {
+      "title": "Two arrested as DOJ takes down laptop farms responsible for $3 million in North Korean revenue",
+      "link": "https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas",
+      "summary": "More than 40 residences in Texas were the target of a federal operation in September to clamp down on remote worker scams that feed money back to the North Korean regime.",
+      "source": "The Record",
+      "published": "2026-10-13T20:55:00+00:00"
+    },
+    {
+      "title": "CVE-2026-85886 - Microsoft SQL Server Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-85886",
+      "summary": "CVE ID :CVE-2026-85886 Published : Oct. 13, 2026, 8:36 p.m. | 21 minutes ago Description :None Severity: 8.5 | HIGH Visit the link for more details, such as CVSS details, affected products, timeline...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:36:36+00:00"
+    },
+    {
+      "title": "CVE-2026-68883 - Microsoft SQL Server Elevation of Privilege Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-68883",
+      "summary": "CVE ID :CVE-2026-68883 Published : Oct. 13, 2026, 8:36 p.m. | 21 minutes ago Description :None Severity: 8.5 | HIGH Visit the link for more details, such as CVSS details, affected products, timeline...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:36:36+00:00"
+    },
+    {
+      "title": "CVE-2026-67625 - Microsoft SQL Server Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-67625",
+      "summary": "CVE ID :CVE-2026-67625 Published : Oct. 13, 2026, 8:36 p.m. | 22 minutes ago Description :None Severity: 8.5 | HIGH Visit the link for more details, such as CVSS details, affected products, timeline...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:36:05+00:00"
+    },
+    {
+      "title": "CVE-2026-96956 - SQL Server Elevation of Privilege Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-96956",
+      "summary": "CVE ID :CVE-2026-96956 Published : Oct. 13, 2026, 8:35 p.m. | 22 minutes ago Description :None Severity: 8.0 | HIGH Visit the link for more details, such as CVSS details, affected products, timeline...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:35:45+00:00"
+    },
+    {
+      "title": "Anthropic Finds Ingredients for Future AI Worms",
+      "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
+      "summary": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
+      "source": "Dark Reading",
+      "published": "2026-10-13T20:35:23+00:00"
+    },
+    {
+      "title": "CVE-2026-95639 - Photoshop Desktop | Incorrect Authorization (CWE-863)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95639",
+      "summary": "CVE ID :CVE-2026-95639 Published : Oct. 13, 2026, 8:27 p.m. | 30 minutes ago Description :Photoshop Desktop is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:27:46+00:00"
+    },
+    {
+      "title": "CVE-2026-105897 - ColdFusion | Server-Side Request Forgery (SSRF) (CWE-918)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105897",
+      "summary": "CVE ID :CVE-2026-105897 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by a Server-Side Request Forgery (SSRF) vulnerability that could result in privilege...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:45+00:00"
+    },
+    {
+      "title": "CVE-2026-106616 - ColdFusion | Improper Restriction of XML External Entity Reference ('XXE') (CWE-611)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106616",
+      "summary": "CVE ID :CVE-2026-106616 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Improper Restriction of XML External Entity Reference ('XXE') vulnerability...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:44+00:00"
+    },
+    {
+      "title": "CVE-2026-106618 - ColdFusion | Incorrect Authorization (CWE-863)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106618",
+      "summary": "CVE ID :CVE-2026-106618 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:43+00:00"
+    },
+    {
+      "title": "CVE-2026-106622 - ColdFusion | Server-Side Request Forgery (SSRF) (CWE-918)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106622",
+      "summary": "CVE ID :CVE-2026-106622 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by a Server-Side Request Forgery (SSRF) vulnerability that could result in privilege...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:42+00:00"
+    },
+    {
+      "title": "CVE-2026-106619 - ColdFusion | Improper Input Validation (CWE-20)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106619",
+      "summary": "CVE ID :CVE-2026-106619 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Improper Input Validation vulnerability that could result in arbitrary code...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:41+00:00"
+    },
+    {
+      "title": "CVE-2026-106089 - ColdFusion | Incorrect Authorization (CWE-863)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106089",
+      "summary": "CVE ID :CVE-2026-106089 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:40+00:00"
+    },
+    {
+      "title": "CVE-2026-106613 - ColdFusion | Improper Input Validation (CWE-20)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106613",
+      "summary": "CVE ID :CVE-2026-106613 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Improper Input Validation vulnerability that could result in arbitrary code...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:39+00:00"
+    },
+    {
+      "title": "CVE-2026-106624 - ColdFusion | Improper Control of Generation of Code ('Code Injection') (CWE-94)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106624",
+      "summary": "CVE ID :CVE-2026-106624 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Improper Control of Generation of Code ('Code Injection') vulnerability that...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:38+00:00"
+    },
+    {
+      "title": "CVE-2026-106621 - ColdFusion | Improper Control of Generation of Code ('Code Injection') (CWE-94)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106621",
+      "summary": "CVE ID :CVE-2026-106621 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Improper Control of Generation of Code ('Code Injection') vulnerability that...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:36+00:00"
+    },
+    {
+      "title": "CVE-2026-90530 - ColdFusion | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') (CWE-22)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-90530",
+      "summary": "CVE ID :CVE-2026-90530 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion RDS is affected by an Improper Limitation of a Pathname to a Restricted Directory ('Path...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:35+00:00"
+    },
+    {
+      "title": "CVE-2026-105898 - ColdFusion | Incorrect Authorization (CWE-863)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105898",
+      "summary": "CVE ID :CVE-2026-105898 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:35+00:00"
+    },
+    {
+      "title": "CVE-2026-105903 - ColdFusion | Improper Control of Generation of Code ('Code Injection') (CWE-94)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105903",
+      "summary": "CVE ID :CVE-2026-105903 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Improper Control of Generation of Code ('Code Injection') vulnerability that...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:34+00:00"
+    },
+    {
+      "title": "CVE-2026-75994 - ColdFusion | Incorrect Authorization (CWE-863)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-75994",
+      "summary": "CVE ID :CVE-2026-75994 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:33+00:00"
+    },
+    {
+      "title": "CVE-2026-106090 - ColdFusion | Incorrect Authorization (CWE-863)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106090",
+      "summary": "CVE ID :CVE-2026-106090 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:33+00:00"
+    },
+    {
+      "title": "CVE-2026-34634 - ColdFusion | Server-Side Request Forgery (SSRF) (CWE-918)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-34634",
+      "summary": "CVE ID :CVE-2026-34634 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by a Server-Side Request Forgery (SSRF) vulnerability that could result in privilege...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:32+00:00"
+    },
+    {
+      "title": "CVE-2026-106620 - ColdFusion | Incorrect Authorization (CWE-863)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106620",
+      "summary": "CVE ID :CVE-2026-106620 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in a Security feature...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:31+00:00"
+    },
+    {
+      "title": "CVE-2026-106612 - ColdFusion | Incorrect Authorization (CWE-863)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106612",
+      "summary": "CVE ID :CVE-2026-106612 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:30+00:00"
+    },
+    {
+      "title": "CVE-2026-106615 - ColdFusion | Incorrect Authorization (CWE-863)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106615",
+      "summary": "CVE ID :CVE-2026-106615 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:29+00:00"
+    },
+    {
+      "title": "CVE-2026-75995 - ColdFusion | Improper Input Validation (CWE-20)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-75995",
+      "summary": "CVE ID :CVE-2026-75995 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Improper Input Validation vulnerability that could result in arbitrary code...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:28+00:00"
+    },
+    {
+      "title": "CVE-2026-105901 - ColdFusion | Incorrect Authorization (CWE-863)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105901",
+      "summary": "CVE ID :CVE-2026-105901 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T20:21:25+00:00"
+    },
+    {
+      "title": "FTC: Company netted at least $60 million charging sextortion victims for help it didn’t provide",
+      "link": "https://therecord.media/sextortion-assistance-company-alleged-fraud-ftc-complaint",
+      "summary": "An Ohio-based company charged individuals thousands of dollars to fight sextortion scams, but the operation itself was fraudulent, according to a Federal Trade Commission complaint.",
+      "source": "The Record",
+      "published": "2026-10-13T20:12:00+00:00"
+    },
+    {
+      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+      "summary": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities...",
+      "source": "BleepingComputer",
+      "published": "2026-10-13T19:56:09+00:00"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5126657 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+      "summary": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-13T19:47:30+00:00"
+    },
+    {
+      "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
+      "summary": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-13T19:04:38+00:00"
+    },
+    {
+      "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+      "link": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+      "summary": "CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. The post Ivanti Zero-Day Chain Gave Attackers Root Access to...",
+      "source": "SecurityWeek",
+      "published": "2026-10-13T18:43:43+00:00"
+    },
+    {
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from...",
+      "source": "The Hacker News",
+      "published": "2026-10-13T18:20:57+00:00"
+    },
+    {
+      "title": "UK Housing Ombudsman Service investigates 'security incident'",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
+      "summary": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-13T18:19:44+00:00"
+    },
+    {
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it...",
+      "source": "The Hacker News",
+      "published": "2026-10-13T18:03:18+00:00"
+    },
+    {
+      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
+      "summary": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features...",
+      "source": "BleepingComputer",
+      "published": "2026-10-13T17:49:38+00:00"
+    },
+    {
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes...",
+      "source": "The Hacker News",
+      "published": "2026-10-13T17:33:11+00:00"
+    },
+    {
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "summary": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant...",
+      "source": "The Hacker News",
+      "published": "2026-10-13T17:28:50+00:00"
+    },
     {
       "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
       "link": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
@@ -51,25 +338,11 @@
       "published": "2026-10-13T16:01:00+00:00"
     },
     {
-      "title": "CVE-2026-55695 - FearlessCMS: Remote Code Execution via Unvalidated Update Repository URL in System Updater",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-55695",
-      "summary": "CVE ID :CVE-2026-55695 Published : Oct. 13, 2026, 3:51 p.m. | 32 minutes ago Description :FearlessCMS is a flat-file content management system centered on simplicity and open source. In 0.1.2b and...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:51:02+00:00"
-    },
-    {
       "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
       "summary": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
       "source": "BleepingComputer",
       "published": "2026-10-13T15:45:50+00:00"
-    },
-    {
-      "title": "CVE-2026-104935 - ICS Authentication Bypass via Spoofing",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-104935",
-      "summary": "CVE ID :CVE-2026-104935 Published : Oct. 13, 2026, 3:31 p.m. | 52 minutes ago Description :Authentication bypass by spoofing in ICS before version 25.1.3.0 allows a remote unauthenticated attacker to...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:31:07+00:00"
     },
     {
       "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
@@ -79,97 +352,6 @@
       "published": "2026-10-13T15:20:20+00:00"
     },
     {
-      "title": "CVE-2026-97334 - Network messaging layer decompression resource exhaustion",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-97334",
-      "summary": "CVE ID :CVE-2026-97334 Published : Oct. 13, 2026, 3:17 p.m. | 1 hour, 5 minutes ago Description :The network messaging layer contained improper handling of highly compressed data affecting service...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:17:52+00:00"
-    },
-    {
-      "title": "CVE-2026-77100 - MediaAgent Denial of Service",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77100",
-      "summary": "CVE ID :CVE-2026-77100 Published : Oct. 13, 2026, 3:17 p.m. | 1 hour, 5 minutes ago Description :MediaAgent contained a heap-based buffer overflow issue affecting service availability. Software...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:17:49+00:00"
-    },
-    {
-      "title": "CVE-2026-77099 - CVFS Command Execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77099",
-      "summary": "CVE ID :CVE-2026-77099 Published : Oct. 13, 2026, 3:17 p.m. | 1 hour, 5 minutes ago Description :CVFS contained an input validation issue affecting command execution. Software customers upgrade to...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:17:49+00:00"
-    },
-    {
-      "title": "CVE-2026-77090 - CVFS Information Disclosure",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77090",
-      "summary": "CVE ID :CVE-2026-77090 Published : Oct. 13, 2026, 3:17 p.m. | 1 hour, 5 minutes ago Description :CVFS contained an XML external entity (XXE) reference handling issue affecting information dislcosure...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:17:48+00:00"
-    },
-    {
-      "title": "CVE-2026-65198 - Huawei Default SNMPv3 USM key",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-65198",
-      "summary": "CVE ID :CVE-2026-65198 Published : Oct. 13, 2026, 3:17 p.m. | 1 hour, 5 minutes ago Description :Huawei's openUBMC ships a default SNMPv3 USM key that uses one value for both authentication and...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:17:46+00:00"
-    },
-    {
-      "title": "CVE-2026-53709 - MCP Context Forge: Hardcoded default JWT_SECRET_KEY shipped in source and .env.example enables pre-authentication platform admin token forgery",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-53709",
-      "summary": "CVE ID :CVE-2026-53709 Published : Oct. 13, 2026, 3:17 p.m. | 1 hour, 5 minutes ago Description :MCP Context Forge is an MCP gateway and administrative platform. Prior to 1.0.2, mcpgateway/config.py...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:17:44+00:00"
-    },
-    {
-      "title": "CVE-2026-53420 - Zoom Workplace Buffer Overflow Privilege Escalation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-53420",
-      "summary": "CVE ID :CVE-2026-53420 Published : Oct. 13, 2026, 3:17 p.m. | 1 hour, 5 minutes ago Description :Buffer overflow in a Zoom Phone feature of Zoom Workplace Clients may allow an unauthenticated user to...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:17:44+00:00"
-    },
-    {
-      "title": "CVE-2026-53418 - Zoom Workplace for Android Improper Authorization Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-53418",
-      "summary": "CVE ID :CVE-2026-53418 Published : Oct. 13, 2026, 3:17 p.m. | 1 hour, 5 minutes ago Description :Improper Authorization in Handler for Custom URL Scheme in Zoom Workplace for Android before version...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:17:44+00:00"
-    },
-    {
-      "title": "CVE-2026-12656 - 1732E ArmorBlock® - Multiple Vulnerabilities",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-12656",
-      "summary": "CVE ID :CVE-2026-12656 Published : Oct. 13, 2026, 3:17 p.m. | 1 hour, 5 minutes ago Description :A denial-of-service security issue exists in the affected product and version. The security issue...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:17:43+00:00"
-    },
-    {
-      "title": "CVE-2026-12655 - 1732E ArmorBlock® - Multiple Vulnerabilities",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-12655",
-      "summary": "CVE ID :CVE-2026-12655 Published : Oct. 13, 2026, 3:17 p.m. | 1 hour, 5 minutes ago Description :A security issue exists within 1732E ArmorBlock® I/O, where an unauthenticated attacker can change the...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:17:43+00:00"
-    },
-    {
-      "title": "CVE-2026-104192 - DragonflyDB stream RDB deserialization double-free",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-104192",
-      "summary": "CVE ID :CVE-2026-104192 Published : Oct. 13, 2026, 3:17 p.m. | 1 hour, 5 minutes ago Description :Dragonfly is an in-memory data store built for modern application workloads. Prior to 1.40...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:17:31+00:00"
-    },
-    {
-      "title": "CVE-2026-102250 - Device Firmware Authentication Bypass",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102250",
-      "summary": "CVE ID :CVE-2026-102250 Published : Oct. 13, 2026, 3:17 p.m. | 1 hour, 6 minutes ago Description :CWE-345: Insufficient Verification of Data Authenticity vulnerability exists that could allow...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:17:29+00:00"
-    },
-    {
-      "title": "CVE-2026-55675 - Salty documentation workflow executes fork-controlled Python build hooks with deployment secrets",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-55675",
-      "summary": "CVE ID :CVE-2026-55675 Published : Oct. 13, 2026, 3:15 p.m. | 1 hour, 8 minutes ago Description :The Salty documentation repository builds and deploys the docs.saltbox.dev website. Prior to commit...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:15:25+00:00"
-    },
-    {
       "title": "North Korean hackers target Ukrainian experts for possible intelligence on Russia's war",
       "link": "https://therecord.media/north-korea-hackers-russia-ukraine",
       "summary": "North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang’s growing military cooperation with Russia.",
@@ -177,74 +359,11 @@
       "published": "2026-10-13T15:15:00+00:00"
     },
     {
-      "title": "CVE-2026-55376 - heym Python Tool Sandbox Escape",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-55376",
-      "summary": "CVE ID :CVE-2026-55376 Published : Oct. 13, 2026, 3:12 p.m. | 1 hour, 10 minutes ago Description :Heym builds and runs agentic systems and business-process automations on self-hosted infrastructure...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T15:12:49+00:00"
-    },
-    {
-      "title": "CVE-2026-95680 - IBM WebSphere Application Server is affected by an authorization bypass",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95680",
-      "summary": "CVE ID :CVE-2026-95680 Published : Oct. 13, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :IBM WebSphere Application Server 8.5, and 9.0 could allow an authenticated attacker to bypass...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T14:17:45+00:00"
-    },
-    {
-      "title": "CVE-2026-93907 - IBM WebSphere Application Server is affected by a bypass authentication vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-93907",
-      "summary": "CVE ID :CVE-2026-93907 Published : Oct. 13, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :IBM WebSphere Application Server 8.5, and 9.0 could allow a remote attacker to bypass authentication...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T14:17:45+00:00"
-    },
-    {
-      "title": "CVE-2026-74043 - Wazuh 4.1.1 before 4.14.8 Path Traversal via Cluster Upload Functions",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-74043",
-      "summary": "CVE ID :CVE-2026-74043 Published : Oct. 13, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Wazuh from 4.1.1 before 4.14.8 contains a path traversal vulnerability in upload_list_file...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T14:17:41+00:00"
-    },
-    {
-      "title": "CVE-2026-74041 - Wazuh 4.14.3 before 4.14.8 Remote Command Validation Bypass via Case Mismatch",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-74041",
-      "summary": "CVE ID :CVE-2026-74041 Published : Oct. 13, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Wazuh 4.14.3 before 4.14.8 contains a case-sensitivity mismatch between the ossec.conf validator and...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T14:17:40+00:00"
-    },
-    {
-      "title": "CVE-2026-74040 - Wazuh 3.9.0 before 4.14.8 Arbitrary File Overwrite RCE via process_files_from_worker",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-74040",
-      "summary": "CVE ID :CVE-2026-74040 Published : Oct. 13, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Wazuh versions from 3.9.0 before 4.14.8 contain an arbitrary file overwrite vulnerability in...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T14:17:40+00:00"
-    },
-    {
-      "title": "CVE-2026-74037 - Wazuh 4.0.0 before 4.14.8 Session Invalidation Bypass in check_token",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-74037",
-      "summary": "CVE ID :CVE-2026-74037 Published : Oct. 13, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Wazuh 4.0.0 before 4.14.8 fails to invalidate issued tokens for run_as users with zero static roles...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T14:17:40+00:00"
-    },
-    {
-      "title": "CVE-2026-74036 - Wazuh 4.3.0 before 4.14.8 Remote Code Execution via SCA Command Policies",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-74036",
-      "summary": "CVE ID :CVE-2026-74036 Published : Oct. 13, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Wazuh from 4.3.0 before 4.14.8 contains a remote code execution vulnerability where SCA policy trust...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T14:17:40+00:00"
-    },
-    {
-      "title": "CVE-2026-74035 - Wazuh 4.6.0 before 4.14.8 Authentication Bypass via Empty Password in update_user",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-74035",
-      "summary": "CVE ID :CVE-2026-74035 Published : Oct. 13, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Wazuh versions from 4.6.0 before 4.14.8 contain an authentication bypass vulnerability where...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T14:17:40+00:00"
-    },
-    {
-      "title": "CVE-2026-74034 - Wazuh 4.1.0 before 4.14.8 Arbitrary File Read via upgrade_custom Command",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-74034",
-      "summary": "CVE ID :CVE-2026-74034 Published : Oct. 13, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Wazuh from 4.1.0 before 4.14.8 contains a missing origin check in wm_agent_upgrade that allows...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T14:17:40+00:00"
+      "title": "Ivanti waarschuwt voor misbruik van lek in Connect Secure vpn-servers",
+      "link": "https://www.security.nl/posting/957434/Ivanti+waarschuwt+voor+misbruik+van+lek+in+Connect+Secure+vpn-servers?channel=rss",
+      "summary": "Ivanti waarschuwt voor misbruik van lek in Connect Secure vpn-servers Ivanti waarschuwt klanten voor actief misbruik van een kwetsbaarheid in Ivanti Connect Secure vpn-servers. Via het...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-13T15:01:04+00:00"
     },
     {
       "title": "The MFA Gaps Attackers are Still Exploiting",
@@ -259,20 +378,6 @@
       "summary": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
       "source": "BleepingComputer",
       "published": "2026-10-13T13:51:02+00:00"
-    },
-    {
-      "title": "Russian internet provider SkyNet reports outages after cyberattack claimed by Ukrainian hackers",
-      "link": "https://therecord.media/russian-internet-provider-skynet-reports-outages-ddos",
-      "summary": "One of St. Petersburg's major internet providers said its network had been under a distributed denial-of-service (DDoS) attack since October 6, affecting services including online gaming, voice calls...",
-      "source": "The Record",
-      "published": "2026-10-13T13:20:00+00:00"
-    },
-    {
-      "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
-      "link": "https://therecord.media/ledger-cryptocurrency-wallet-implant-theft",
-      "summary": "Ledger cryptocurrency wallets sold through a Southeast Asian reseller had an implant allowing outsiders to drain funds, the company said.",
-      "source": "The Record",
-      "published": "2026-10-13T13:18:00+00:00"
     },
     {
       "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
@@ -396,8 +501,8 @@
     {
       "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
       "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-      "summary": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
-      "source": "Dark Reading",
+      "summary": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack Rob Wright,Senior News Director,Dark ReadingOctober 12, 20264 Min ReadSource: Michael Vi via Alamy Stock PhotoSonicWall customers are...",
+      "source": "CVE Newsroom",
       "published": "2026-10-12T21:42:42+00:00"
     },
     {
@@ -436,20 +541,6 @@
       "published": "2026-10-12T18:27:25+00:00"
     },
     {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "summary": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-12T16:27:23+00:00"
-    },
-    {
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-12T15:23:34+00:00"
-    },
-    {
       "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
       "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
       "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone...",
@@ -464,46 +555,11 @@
       "published": "2026-10-12T14:26:38+00:00"
     },
     {
-      "title": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
-      "link": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
-      "summary": "The all-stock deal brings Elisity’s least-privilege access technology into IonQ’s security portfolio. The post IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion appeared first on...",
-      "source": "SecurityWeek",
-      "published": "2026-10-12T14:25:00+00:00"
-    },
-    {
-      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-      "summary": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware...",
-      "source": "BleepingComputer",
-      "published": "2026-10-12T14:00:10+00:00"
-    },
-    {
-      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-      "summary": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network...",
-      "source": "BleepingComputer",
-      "published": "2026-10-12T13:51:07+00:00"
-    },
-    {
-      "title": "GitLab warns of max severity code execution vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-      "summary": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-12T13:09:09+00:00"
-    },
-    {
       "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
       "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
       "summary": "Fahmida Y Rashid will keep the momentum going as she leads Dark Reading.",
       "source": "Dark Reading",
       "published": "2026-10-12T12:30:58+00:00"
-    },
-    {
-      "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
-      "summary": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-12T11:58:33+00:00"
     },
     {
       "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
@@ -539,13 +595,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical...",
       "source": "The Hacker News",
       "published": "2026-10-12T07:26:12+00:00"
-    },
-    {
-      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
-      "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-      "summary": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-11T14:23:46+00:00"
     },
     {
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
@@ -625,13 +674,6 @@
       "published": "2026-10-09T13:22:53+00:00"
     },
     {
-      "title": "Social Engineering AI Agents: The New BEC for 2026",
-      "link": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
-      "summary": "As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims.",
-      "source": "Dark Reading",
-      "published": "2026-10-09T13:00:00+00:00"
-    },
-    {
       "title": "SonicWall SMA1000-kwetsbaarheid actief misbruikt bij aanvallen",
       "link": "https://www.security.nl/posting/956918/SonicWall+SMA1000-kwetsbaarheid+actief+misbruikt+bij+aanvallen?channel=rss",
       "summary": "SonicWall SMA1000-kwetsbaarheid actief misbruikt bij aanvallen vrijdag 9 oktober 2026, 15:00 door Redactie, 0 reactiesLaatst bijgewerkt: 09-10-2026, 15:05 Een kritieke kwetsbaarheid in de SonicWall...",
@@ -643,6 +685,13 @@
       "link": "https://www.security.nl/posting/956918/SonicWall+SMA1000-kwetsbaarheid+actief+misbruik+bij+aanvallen?channel=rss",
       "summary": "SonicWall SMA1000-kwetsbaarheid actief misbruik bij aanvallen vrijdag 9 oktober 2026, 15:00 door Redactie, 0 reactiesLaatst bijgewerkt: Vandaag, 15:05 Een kritieke kwetsbaarheid in de SonicWall...",
       "source": "CVE Newsroom",
+      "published": "2026-10-09T13:00:00+00:00"
+    },
+    {
+      "title": "Social Engineering AI Agents: The New BEC for 2026",
+      "link": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
+      "summary": "As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims.",
+      "source": "Dark Reading",
       "published": "2026-10-09T13:00:00+00:00"
     },
     {
@@ -709,13 +758,6 @@
       "published": "2026-10-09T08:11:33+00:00"
     },
     {
-      "title": "Citrix waarschuwt voor nieuw lek dat remote code execution mogelijk maakt",
-      "link": "https://www.security.nl/posting/956796/Citrix+waarschuwt+voor+nieuw+lek+dat+remote+code+execution+mogelijk+maakt?channel=rss",
-      "summary": "Citrix waarschuwt voor nieuw lek dat remote code execution mogelijk maakt Citrix waarschuwt voor een nieuwe kritieke kwetsbaarheid in Citrix NetScaler ADC en Citrix NetScaler Gateway die remote code...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-09T07:23:12+00:00"
-    },
-    {
       "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
       "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
       "summary": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax...",
@@ -723,25 +765,11 @@
       "published": "2026-10-09T06:39:29+00:00"
     },
     {
-      "title": "Critical NetScaler RCE Vulnerability CVE-2026-107406",
-      "link": "https://thecyberthrone.in/2026/10/09/critical-netscaler-rce-vulnerability-cve-2026-107406/",
-      "summary": "Critical NetScaler RCE Vulnerability CVE-2026-107406 Executive SummaryCitrix has disclosed CVE-2026-107406, a critical memory overflow vulnerability affecting Citrix NetScaler ADC and NetScaler...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-09T02:05:03+00:00"
-    },
-    {
       "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
       "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
       "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
       "source": "Dark Reading",
       "published": "2026-10-08T20:39:44+00:00"
-    },
-    {
-      "title": "Threat Actors Exploit Critical AhsayCBS Flaws to Drop Webshells and XMRig Cryptominer",
-      "link": "https://www.huntress.com/blog/ahsaycbs-flaws-exploit",
-      "summary": "Threat Actors Exploit Critical AhsayCBS Flaws to Drop Webshells and XMRig Cryptominer Acknowledgements: Special thanks to Dipo Rodipe, John Hammond, Susannah Matt, Ben Nahorney, and Lindsey Welch for...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-08T20:00:00+00:00"
     },
     {
       "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
@@ -910,34 +938,6 @@
       "summary": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems...",
       "source": "The Hacker News",
       "published": "2026-10-07T11:57:05+00:00"
-    },
-    {
-      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
-      "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing...",
-      "source": "The Hacker News",
-      "published": "2026-10-07T11:56:56+00:00"
-    },
-    {
-      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
-      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The...",
-      "source": "The Hacker News",
-      "published": "2026-10-07T11:49:26+00:00"
-    },
-    {
-      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
-      "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
-      "summary": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths...",
-      "source": "The Hacker News",
-      "published": "2026-10-07T11:42:24+00:00"
-    },
-    {
-      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
-      "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-      "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking...",
-      "source": "The Hacker News",
-      "published": "2026-10-07T08:07:38+00:00"
     },
     {
       "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
@@ -1155,20 +1155,6 @@
       "summary": "Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats.",
       "source": "Dark Reading",
       "published": "2026-09-28T18:44:22+00:00"
-    },
-    {
-      "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
-      "link": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
-      "summary": "A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google's stamp of approval despite researcher warnings.",
-      "source": "Dark Reading",
-      "published": "2026-09-28T16:51:25+00:00"
-    },
-    {
-      "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
-      "link": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
-      "summary": "The \"agentic threat actor\" may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases.",
-      "source": "Dark Reading",
-      "published": "2026-09-28T15:33:21+00:00"
     },
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
