@@ -1,186 +1,200 @@
 {
-  "last_updated": "2026-10-13T01:43:49.484373+00:00",
+  "last_updated": "2026-10-13T08:43:36.090943+00:00",
   "articles": [
     {
-      "title": "CVE-2026-93886 - IBM i is Affected By An Improper Neutralization of Input Vulnerability in HTTP Server Administration GUI",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-93886",
-      "summary": "CVE ID :CVE-2026-93886 Published : Oct. 12, 2026, 11:22 p.m. | 24 minutes ago Description :IBM i 7.3, 7.4, 7.5, and 7.6 could allow a remote authenticated attacker to execute arbitrary script code...",
+      "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
+      "link": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
+      "summary": "A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost. The post Refrigeration Controller Hack Spoils Food Across European...",
+      "source": "SecurityWeek",
+      "published": "2026-10-13T08:28:51+00:00"
+    },
+    {
+      "title": "CVE-2026-109109 - Wavlink WL-WN530BE1-A Settings Export CGI ExportAllSettings.cgi strcpy stack-based overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109109",
+      "summary": "CVE ID :CVE-2026-109109 Published : Oct. 13, 2026, 8:17 a.m. | 20 minutes ago Description :A vulnerability was detected in Wavlink WL-WN530BE1-A 251117. This vulnerability affects the function strcpy...",
       "source": "CVE Feed",
-      "published": "2026-10-12T23:22:16+00:00"
+      "published": "2026-10-13T08:17:00+00:00"
+    },
+    {
+      "title": "CVE-2026-109108 - Wavlink WL-WN530BE1-A uploadVpn.cgi popen os command injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109108",
+      "summary": "CVE ID :CVE-2026-109108 Published : Oct. 13, 2026, 8:16 a.m. | 20 minutes ago Description :A security vulnerability has been detected in Wavlink WL-WN530BE1-A 251117. This affects the function popen...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T08:16:59+00:00"
+    },
+    {
+      "title": "CVE-2026-75826 - Teltonika Command Injection in Backup function",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-75826",
+      "summary": "CVE ID :CVE-2026-75826 Published : Oct. 13, 2026, 7:16 a.m. | 1 hour, 20 minutes ago Description :Command injection in the backup function in Teltonika Networks RUTOS 7.22 before 7.24.6 and 7.25...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T07:16:32+00:00"
+    },
+    {
+      "title": "CVE-2026-108971 - D-Link DCS-930L Emergency HTTP Recovery Server bootloader_region.bin mpfd_decode signature verification",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108971",
+      "summary": "CVE ID :CVE-2026-108971 Published : Oct. 13, 2026, 6:16 a.m. | 2 hours, 20 minutes ago Description :A flaw has been found in D-Link DCS-930L B1.08B4. This impacts the function mpfd_decode of the file...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T06:16:50+00:00"
+    },
+    {
+      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
+      "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+      "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into...",
+      "source": "The Hacker News",
+      "published": "2026-10-13T06:00:11+00:00"
+    },
+    {
+      "title": "CVE-2026-109758 - Perforce Helix Authentication Service Hardcoded Credential and Prototype Pollution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109758",
+      "summary": "CVE ID :CVE-2026-109758 Published : Oct. 13, 2026, 4:17 a.m. | 4 hours, 19 minutes ago Description :Perforce Helix Authentication Service (HAS) deployments that retain the shipped default SCIM bearer...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T04:17:14+00:00"
+    },
+    {
+      "title": "CVE-2026-97229 - Integer Overflow or Wraparound in GitLab",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-97229",
+      "summary": "CVE ID :CVE-2026-97229 Published : Oct. 13, 2026, 2:17 a.m. | 6 hours, 20 minutes ago Description :GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 19.2.8, 19.3...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T02:17:00+00:00"
+    },
+    {
+      "title": "CVE-2026-92883 - Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in GitLab",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92883",
+      "summary": "CVE ID :CVE-2026-92883 Published : Oct. 13, 2026, 2:17 a.m. | 6 hours, 20 minutes ago Description :GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.1 before 19.2.8, 19.3...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T02:17:00+00:00"
+    },
+    {
+      "title": "CVE-2026-35001 - OpenS100 S-102 Parser Integer Overflow Heap Buffer Overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-35001",
+      "summary": "CVE ID :CVE-2026-35001 Published : Oct. 13, 2026, 2:16 a.m. | 6 hours, 20 minutes ago Description :OpenS100 through commit daa35b contains an integer overflow vulnerability in the S-102 Bathymetric...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T02:16:59+00:00"
+    },
+    {
+      "title": "CVE-2026-16301 - Incorrect Authorization in GitLab",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-16301",
+      "summary": "CVE ID :CVE-2026-16301 Published : Oct. 13, 2026, 2:16 a.m. | 6 hours, 20 minutes ago Description :GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.7 before 19.2.8, 19.3...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T02:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-14814 - Permissive Regular Expression in GitLab",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-14814",
+      "summary": "CVE ID :CVE-2026-14814 Published : Oct. 13, 2026, 2:16 a.m. | 6 hours, 20 minutes ago Description :GitLab has remediated an issue in GitLab CE/EE affecting all versions before 19.2.8, 19.3 before...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T02:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-89113 - SQL Injection vulnerability in SAP Commerce Cloud (OOTB Code)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-89113",
+      "summary": "CVE ID :CVE-2026-89113 Published : Oct. 13, 2026, 1:16 a.m. | 7 hours, 20 minutes ago Description :SAP Commerce Cloud does not sufficiently validate certain user-supplied input before it is...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T01:16:48+00:00"
+    },
+    {
+      "title": "CVE-2026-89111 - OAuth2 SSRF vulnerability in SAP Cloud SDK for Python",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-89111",
+      "summary": "CVE ID :CVE-2026-89111 Published : Oct. 13, 2026, 1:16 a.m. | 7 hours, 20 minutes ago Description :The SAP Cloud SDK for Python contains an OAuth2 SSRF vulnerability affecting multi-tenant BTP...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T01:16:47+00:00"
+    },
+    {
+      "title": "CVE-2026-89110 - Broken Access Control in SAP NetWeaver Visual Composer",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-89110",
+      "summary": "CVE ID :CVE-2026-89110 Published : Oct. 13, 2026, 1:16 a.m. | 7 hours, 20 minutes ago Description :SAP NetWeaver Visual Composer does not perform sufficient authorization checks in certain portal...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T01:16:47+00:00"
+    },
+    {
+      "title": "CVE-2026-89108 - Missing Authorization check in SAP Manufacturing Integration and Intelligence (Configuration Service)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-89108",
+      "summary": "CVE ID :CVE-2026-89108 Published : Oct. 13, 2026, 1:16 a.m. | 7 hours, 20 minutes ago Description :SAP Manufacturing Integration and Intelligence does not sufficiently enforce authorization...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T01:16:47+00:00"
+    },
+    {
+      "title": "CVE-2026-89107 - Code Injection vulnerability in SAP S/4HANA (Manage Substitution/Validation Rules)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-89107",
+      "summary": "CVE ID :CVE-2026-89107 Published : Oct. 13, 2026, 1:16 a.m. | 7 hours, 20 minutes ago Description :SAP S/4HANA (Manage Substitution/Validation Rules) does not sufficiently validate input processed by...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T01:16:47+00:00"
+    },
+    {
+      "title": "CVE-2026-87689 - Metasploit Framework Web Service REST API Missing Authentication on Credential Endpoints",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-87689",
+      "summary": "CVE ID :CVE-2026-87689 Published : Oct. 13, 2026, 1:16 a.m. | 7 hours, 20 minutes ago Description :The Metasploit Framework Web Service REST API (msf-ws) exposes the credential store through...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T01:16:47+00:00"
     },
     {
       "title": "CVE-2026-96119 - IBM i is Affected By An Improper Control of Code Generation Vulnerability in HTTP Server Administration GUI",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-96119",
-      "summary": "CVE ID :CVE-2026-96119 Published : Oct. 12, 2026, 11:22 p.m. | 24 minutes ago Description :IBM i 7.3, 7.4, 7.5, and 7.6 could allow a remote authenticated attacker to obtain sensitive information or...",
+      "summary": "CVE ID :CVE-2026-96119 Published : Oct. 13, 2026, 12:17 a.m. | 8 hours, 20 minutes ago Description :IBM i 7.3, 7.4, 7.5, and 7.6 could allow a remote authenticated attacker to obtain sensitive...",
       "source": "CVE Feed",
-      "published": "2026-10-12T23:22:11+00:00"
+      "published": "2026-10-13T00:17:02+00:00"
+    },
+    {
+      "title": "CVE-2026-93886 - IBM i is Affected By An Improper Neutralization of Input Vulnerability in HTTP Server Administration GUI",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-93886",
+      "summary": "CVE ID :CVE-2026-93886 Published : Oct. 13, 2026, 12:17 a.m. | 8 hours, 20 minutes ago Description :IBM i 7.3, 7.4, 7.5, and 7.6 could allow a remote authenticated attacker to execute arbitrary...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T00:17:01+00:00"
     },
     {
       "title": "CVE-2026-93892 - Security Vulnerability identified in IBM TRIRIGA - Information Disclosure in Admin Console",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-93892",
-      "summary": "CVE ID :CVE-2026-93892 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :IBM TRIRIGA Application Platform 5.0.0 through 5.0.8 could allow a remote authenticated attacker to obtain...",
+      "summary": "CVE ID :CVE-2026-93892 Published : Oct. 12, 2026, 11:17 p.m. | 9 hours, 19 minutes ago Description :IBM TRIRIGA Application Platform 5.0.0 through 5.0.8 could allow a remote authenticated attacker to...",
       "source": "CVE Feed",
       "published": "2026-10-12T23:17:45+00:00"
     },
     {
       "title": "CVE-2026-85457 - IBM Planning Analytics Local is affected by security vulnerabilities",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-85457",
-      "summary": "CVE ID :CVE-2026-85457 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :IBM Planning Analytics 2.0, and 2.1 could allow a remote authenticated attacker to execute arbitrary code...",
+      "summary": "CVE ID :CVE-2026-85457 Published : Oct. 12, 2026, 11:17 p.m. | 9 hours, 19 minutes ago Description :IBM Planning Analytics 2.0, and 2.1 could allow a remote authenticated attacker to execute...",
       "source": "CVE Feed",
       "published": "2026-10-12T23:17:45+00:00"
     },
     {
       "title": "CVE-2026-82110 - DataStage on Cloud Pak for Data Path Traversal",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-82110",
-      "summary": "CVE ID :CVE-2026-82110 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to execute arbitrary...",
+      "summary": "CVE ID :CVE-2026-82110 Published : Oct. 12, 2026, 11:17 p.m. | 9 hours, 19 minutes ago Description :IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to execute...",
       "source": "CVE Feed",
       "published": "2026-10-12T23:17:42+00:00"
     },
     {
       "title": "CVE-2026-82108 - DataStage on Cloud Pak for Data Code Injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-82108",
-      "summary": "CVE ID :CVE-2026-82108 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to execute arbitrary...",
+      "summary": "CVE ID :CVE-2026-82108 Published : Oct. 12, 2026, 11:17 p.m. | 9 hours, 19 minutes ago Description :IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to execute...",
       "source": "CVE Feed",
       "published": "2026-10-12T23:17:42+00:00"
     },
     {
       "title": "CVE-2026-82103 - DataStage on Cloud Pak for Data Information Disclosure",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-82103",
-      "summary": "CVE ID :CVE-2026-82103 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obtain sensitive...",
+      "summary": "CVE ID :CVE-2026-82103 Published : Oct. 12, 2026, 11:17 p.m. | 9 hours, 19 minutes ago Description :IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obtain...",
       "source": "CVE Feed",
       "published": "2026-10-12T23:17:42+00:00"
     },
     {
       "title": "CVE-2026-82101 - DataStage on Cloud Pak for Data Path Traversal",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-82101",
-      "summary": "CVE ID :CVE-2026-82101 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to cause a denial of...",
+      "summary": "CVE ID :CVE-2026-82101 Published : Oct. 12, 2026, 11:17 p.m. | 9 hours, 19 minutes ago Description :IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to cause a...",
       "source": "CVE Feed",
       "published": "2026-10-12T23:17:41+00:00"
     },
     {
       "title": "CVE-2026-82096 - DataStage on Cloud Pak for Data Command Injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-82096",
-      "summary": "CVE ID :CVE-2026-82096 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to execute arbitrary...",
+      "summary": "CVE ID :CVE-2026-82096 Published : Oct. 12, 2026, 11:17 p.m. | 9 hours, 19 minutes ago Description :IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to execute...",
       "source": "CVE Feed",
       "published": "2026-10-12T23:17:41+00:00"
     },
     {
-      "title": "CVE-2026-19627 - IBM Planning Analytics Local is affected by security vulnerabilities",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-19627",
-      "summary": "CVE ID :CVE-2026-19627 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :IBM Planning Analytics 2.0, and 2.1 could allow a remote attacker to read arbitrary host files and overwrite...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:37+00:00"
-    },
-    {
-      "title": "CVE-2026-19622 - IBM Planning Analytics Local is affected by security vulnerabilities",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-19622",
-      "summary": "CVE ID :CVE-2026-19622 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :IBM Planning Analytics 2.0, and 2.1 could allow a remote attacker to bypass authentication and escalate...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:37+00:00"
-    },
-    {
-      "title": "CVE-2026-19620 - IBM Planning Analytics Local is affected by security vulnerabilities",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-19620",
-      "summary": "CVE ID :CVE-2026-19620 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :IBM Planning Analytics 2.0, and 2.1 could allow a remote attacker to gain unauthorized administrative access...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:36+00:00"
-    },
-    {
-      "title": "CVE-2026-109673 - Frappe ERPNext before 16.12.0 Stored XSS via Crafted Record Names",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109673",
-      "summary": "CVE ID :CVE-2026-109673 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :Frappe ERPNext before 15.103.0 and 16.x before 16.12.0 contains a stored cross-site scripting vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:35+00:00"
-    },
-    {
-      "title": "CVE-2026-109671 - Frappe ERPNext before 15.113.0 Stored XSS via Profile Field in Portal Pages",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109671",
-      "summary": "CVE ID :CVE-2026-109671 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :Frappe ERPNext before 15.113.0 and 16.x before 16.24.0 contains a stored cross-site scripting vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:34+00:00"
-    },
-    {
-      "title": "CVE-2026-109667 - Frappe ERPNext before 15.111.0 Privilege Escalation via Unauthorized Record Creation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109667",
-      "summary": "CVE ID :CVE-2026-109667 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :Frappe ERPNext before 15.111.0 and 16.x before 16.22.0 contains a privilege escalation vulnerability in a...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:34+00:00"
-    },
-    {
-      "title": "CVE-2026-109653 - Frappe ERPNext before 15.119.0 Stored XSS Leading to Account Takeover",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109653",
-      "summary": "CVE ID :CVE-2026-109653 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :Frappe ERPNext before 15.119.0 and 16.x before 16.31.0 contains a stored cross-site scripting vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:31+00:00"
-    },
-    {
-      "title": "CVE-2026-109652 - Frappe ERPNext before 15.119.1 Server-Side Template Injection via Message Fields",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109652",
-      "summary": "CVE ID :CVE-2026-109652 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :Frappe ERPNext before 15.119.1 and 16.x before 16.32.0 contains a server-side template injection...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:31+00:00"
-    },
-    {
-      "title": "CVE-2026-109640 - Frappe ERPNext before 16.22.0 Missing Authorization Allows Unauthorized Record Modification",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109640",
-      "summary": "CVE ID :CVE-2026-109640 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :Frappe ERPNext before 16.22.0 contains a missing authorization vulnerability that allows authenticated...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:29+00:00"
-    },
-    {
-      "title": "CVE-2026-109633 - Frappe ERPNext before 15.119.1 Stored XSS via Public Booking Page",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109633",
-      "summary": "CVE ID :CVE-2026-109633 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :Frappe ERPNext before 15.119.1 and 16.x before 16.32.0 contains a stored cross-site scripting vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:28+00:00"
-    },
-    {
-      "title": "CVE-2026-109612 - Frappe ERPNext before 15.120.0 Stored XSS via Report View",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109612",
-      "summary": "CVE ID :CVE-2026-109612 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :Frappe ERPNext before 15.120.0 and 16.x before 16.33.0 contains a stored cross-site scripting vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:25+00:00"
-    },
-    {
-      "title": "CVE-2026-109608 - Frappe ERPNext before 15.121.0 SQL Injection via Unvalidated Endpoint Input",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109608",
-      "summary": "CVE ID :CVE-2026-109608 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :Frappe ERPNext before 15.121.0 and 16.x before 16.34.0 contains an SQL injection vulnerability in several...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:24+00:00"
-    },
-    {
-      "title": "CVE-2026-109604 - ERPNext before 15.112.0 Stored XSS via Tool View Record Names",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109604",
-      "summary": "CVE ID :CVE-2026-109604 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :Frappe ERPNext before 15.112.0 and 16.x before 16.23.0 contains a stored cross-site scripting vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:24+00:00"
-    },
-    {
-      "title": "CVE-2026-109573 - phpMyFAQ before 4.1.9 SQL Injection via api/autocomplete Search Endpoint",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109573",
-      "summary": "CVE ID :CVE-2026-109573 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :phpMyFAQ before 4.1.9 contains an SQL injection vulnerability in PdoMysql::escape(), which escapes single...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-102627 - Security Vulnerability identified in IBM TRIRIGA - Zip Slip",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102627",
-      "summary": "CVE ID :CVE-2026-102627 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :IBM TRIRIGA Application Platform 5.0.0 through 5.0.8 could allow a remote authenticated attacker to execute...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:19+00:00"
-    },
-    {
-      "title": "CVE-2025-71432 - Frappe ERPNext before 15.83.0 Reflected XSS Leading to Account Takeover",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2025-71432",
-      "summary": "CVE ID :CVE-2025-71432 Published : Oct. 12, 2026, 11:17 p.m. | 29 minutes ago Description :Frappe ERPNext before 14.92.1 and 15.x before 15.83.0 contains a reflected cross-site scripting...",
-      "source": "CVE Feed",
-      "published": "2026-10-12T23:17:19+00:00"
-    },
-    {
       "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
       "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-      "summary": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
-      "source": "Dark Reading",
+      "summary": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack Rob Wright,Senior News Director,Dark ReadingOctober 12, 20264 Min ReadSource: Michael Vi via Alamy Stock PhotoSonicWall customers are...",
+      "source": "CVE Newsroom",
       "published": "2026-10-12T21:42:42+00:00"
     },
     {
@@ -450,13 +464,6 @@
       "published": "2026-10-10T00:17:42+00:00"
     },
     {
-      "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
-      "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
-      "summary": "The ChatGPT maker said the researchers \"violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "published": "2026-10-09T21:07:46+00:00"
-    },
-    {
       "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
       "summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
@@ -541,13 +548,6 @@
       "published": "2026-10-09T13:22:53+00:00"
     },
     {
-      "title": "Social Engineering AI Agents: The New BEC for 2026",
-      "link": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
-      "summary": "As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims.",
-      "source": "Dark Reading",
-      "published": "2026-10-09T13:00:00+00:00"
-    },
-    {
       "title": "SonicWall SMA1000-kwetsbaarheid actief misbruikt bij aanvallen",
       "link": "https://www.security.nl/posting/956918/SonicWall+SMA1000-kwetsbaarheid+actief+misbruikt+bij+aanvallen?channel=rss",
       "summary": "SonicWall SMA1000-kwetsbaarheid actief misbruikt bij aanvallen vrijdag 9 oktober 2026, 15:00 door Redactie, 0 reactiesLaatst bijgewerkt: 09-10-2026, 15:05 Een kritieke kwetsbaarheid in de SonicWall...",
@@ -559,6 +559,13 @@
       "link": "https://www.security.nl/posting/956918/SonicWall+SMA1000-kwetsbaarheid+actief+misbruik+bij+aanvallen?channel=rss",
       "summary": "SonicWall SMA1000-kwetsbaarheid actief misbruik bij aanvallen vrijdag 9 oktober 2026, 15:00 door Redactie, 0 reactiesLaatst bijgewerkt: Vandaag, 15:05 Een kritieke kwetsbaarheid in de SonicWall...",
       "source": "CVE Newsroom",
+      "published": "2026-10-09T13:00:00+00:00"
+    },
+    {
+      "title": "Social Engineering AI Agents: The New BEC for 2026",
+      "link": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
+      "summary": "As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims.",
+      "source": "Dark Reading",
       "published": "2026-10-09T13:00:00+00:00"
     },
     {
@@ -966,13 +973,6 @@
       "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory...",
       "source": "The Hacker News",
       "published": "2026-10-06T06:58:56+00:00"
-    },
-    {
-      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
-      "link": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau...",
-      "source": "The Hacker News",
-      "published": "2026-10-06T06:56:57+00:00"
     },
     {
       "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
