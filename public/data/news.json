@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-10-13T22:06:00.311923+00:00",
+  "last_updated": "2026-10-14T02:49:00.767868+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-110385 - ONLYOFFICE Document Server Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110385",
+      "summary": "CVE ID :CVE-2026-110385 Published : Oct. 14, 2026, 12:24 a.m. | 34 minutes ago Description :A remote code execution vulnerability in ONLYOFFICE Document Server versions before10.0.0 allows an...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T00:24:53+00:00"
+    },
+    {
+      "title": "CVE-2026-92817 - Inductive Automation Ignition Software Incorrect Authorization",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92817",
+      "summary": "CVE ID :CVE-2026-92817 Published : Oct. 14, 2026, 12:17 a.m. | 41 minutes ago Description :The Ignition Perspective module does not properly validate session privileges when determining...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T00:17:13+00:00"
+    },
+    {
+      "title": "CVE-2026-108473 - Improper Authentication and Credential Exposure in Multiple TP-Link Kasa Devices",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108473",
+      "summary": "CVE ID :CVE-2026-108473 Published : Oct. 14, 2026, 12:06 a.m. | 52 minutes ago Description :Multiple Kasa devices contain an improper authentication vulnerability in the local device-management...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T00:06:08+00:00"
+    },
+    {
+      "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
+      "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
+      "summary": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities Microsoft addressed 1,413 vulnerabilities in its October 2026 security update release, including one...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-14T00:06:02+00:00"
+    },
+    {
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000...",
+      "source": "Krebs on Security",
+      "published": "2026-10-13T23:24:53+00:00"
+    },
+    {
+      "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+      "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+      "summary": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared...",
+      "source": "SecurityWeek",
+      "published": "2026-10-13T23:07:00+00:00"
+    },
+    {
+      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+      "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive...",
+      "source": "BleepingComputer",
+      "published": "2026-10-13T22:33:02+00:00"
+    },
+    {
+      "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+      "summary": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday Source: China Photos via Getty ImagesAs we progress further into the AI-driven \"vulnpocalypse era,\" Microsoft’s October 2026 Patch...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-13T22:29:57+00:00"
+    },
+    {
+      "title": "CVE-2026-97381 - Legacy Update ActiveX control accepts unauthorized hosting origins",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-97381",
+      "summary": "CVE ID :CVE-2026-97381 Published : Oct. 13, 2026, 10:19 p.m. | 2 hours, 39 minutes ago Description :Legacy Update is a tool for activating and installing updates on legacy Windows PCs. Legacy Update...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T22:19:45+00:00"
+    },
+    {
+      "title": "CVE-2026-95634 - CAI Content Credentials | Server-Side Request Forgery (SSRF) (CWE-918)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95634",
+      "summary": "CVE ID :CVE-2026-95634 Published : Oct. 13, 2026, 10:19 p.m. | 2 hours, 39 minutes ago Description :CAI Content Credentials is affected by a Server-Side Request Forgery (SSRF) vulnerability that...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T22:19:30+00:00"
+    },
     {
       "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
       "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
@@ -14,6 +84,146 @@
       "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
       "source": "Dark Reading",
       "published": "2026-10-13T21:24:45+00:00"
+    },
+    {
+      "title": "CVE-2026-96956 - SQL Server Elevation of Privilege Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-96956",
+      "summary": "CVE ID :CVE-2026-96956 Published : Oct. 13, 2026, 9:20 p.m. | 3 hours, 38 minutes ago Description :Stack-based buffer overflow in SQL Server allows an authorized attacker to elevate privileges over a...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:20:14+00:00"
+    },
+    {
+      "title": "CVE-2026-95639 - Photoshop Desktop | Incorrect Authorization (CWE-863)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95639",
+      "summary": "CVE ID :CVE-2026-95639 Published : Oct. 13, 2026, 9:19 p.m. | 3 hours, 39 minutes ago Description :Photoshop Desktop is affected by an Incorrect Authorization vulnerability that could result in...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:19:59+00:00"
+    },
+    {
+      "title": "CVE-2026-94512 - SQL Server Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-94512",
+      "summary": "CVE ID :CVE-2026-94512 Published : Oct. 13, 2026, 9:19 p.m. | 3 hours, 39 minutes ago Description :Heap-based buffer overflow in SQL Server allows an authorized attacker to execute code over a...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:19:58+00:00"
+    },
+    {
+      "title": "CVE-2026-93909 - IBM WebSphere Application Server Liberty is affected by an authentication bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-93909",
+      "summary": "CVE ID :CVE-2026-93909 Published : Oct. 13, 2026, 9:19 p.m. | 3 hours, 39 minutes ago Description :IBM WebSphere Application Server - Liberty 17.0.0.3 through 26.0.0.10 is vulnerable by an...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:19:57+00:00"
+    },
+    {
+      "title": "CVE-2026-93905 - IBM WebSphere Application Server Liberty is affected by a deserialization of untrusted data",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-93905",
+      "summary": "CVE ID :CVE-2026-93905 Published : Oct. 13, 2026, 9:19 p.m. | 3 hours, 39 minutes ago Description :IBM WebSphere Application Server - Liberty 17.0.0.3 through 26.0.0.10 could allow an unauthenticated...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:19:57+00:00"
+    },
+    {
+      "title": "CVE-2026-93895 - IBM WebSphere Application Server Liberty Improper Access Control",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-93895",
+      "summary": "CVE ID :CVE-2026-93895 Published : Oct. 13, 2026, 9:19 p.m. | 3 hours, 39 minutes ago Description :IBM WebSphere Application Server - Liberty 20.0.0.12 through 26.0.0.10 could allow an...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:19:57+00:00"
+    },
+    {
+      "title": "CVE-2026-90530 - ColdFusion | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') (CWE-22)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-90530",
+      "summary": "CVE ID :CVE-2026-90530 Published : Oct. 13, 2026, 9:19 p.m. | 3 hours, 39 minutes ago Description :ColdFusion RDS is affected by an Improper Limitation of a Pathname to a Restricted Directory ('Path...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:19:57+00:00"
+    },
+    {
+      "title": "CVE-2026-85886 - Microsoft SQL Server Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-85886",
+      "summary": "CVE ID :CVE-2026-85886 Published : Oct. 13, 2026, 9:19 p.m. | 3 hours, 39 minutes ago Description :Heap-based buffer overflow in SQL Server allows an authorized attacker to execute code over a...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:19:31+00:00"
+    },
+    {
+      "title": "CVE-2026-75995 - ColdFusion | Improper Input Validation (CWE-20)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-75995",
+      "summary": "CVE ID :CVE-2026-75995 Published : Oct. 13, 2026, 9:18 p.m. | 3 hours, 40 minutes ago Description :ColdFusion is affected by an Improper Input Validation vulnerability that could result in arbitrary...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:18:20+00:00"
+    },
+    {
+      "title": "CVE-2026-75994 - ColdFusion | Incorrect Authorization (CWE-863)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-75994",
+      "summary": "CVE ID :CVE-2026-75994 Published : Oct. 13, 2026, 9:18 p.m. | 3 hours, 40 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:18:20+00:00"
+    },
+    {
+      "title": "CVE-2026-71385 - ColdFusion | Incorrect Authorization (CWE-863)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-71385",
+      "summary": "CVE ID :CVE-2026-71385 Published : Oct. 13, 2026, 9:18 p.m. | 3 hours, 40 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:18:19+00:00"
+    },
+    {
+      "title": "CVE-2026-68883 - Microsoft SQL Server Elevation of Privilege Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-68883",
+      "summary": "CVE ID :CVE-2026-68883 Published : Oct. 13, 2026, 9:17 p.m. | 3 hours, 41 minutes ago Description :Heap-based buffer overflow in SQL Server allows an authorized attacker to elevate privileges over a...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:17:41+00:00"
+    },
+    {
+      "title": "CVE-2026-67625 - Microsoft SQL Server Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-67625",
+      "summary": "CVE ID :CVE-2026-67625 Published : Oct. 13, 2026, 9:17 p.m. | 3 hours, 41 minutes ago Description :Heap-based buffer overflow in SQL Server allows an authorized attacker to execute code over a...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:17:41+00:00"
+    },
+    {
+      "title": "CVE-2026-65674 - Microsoft SQL Server Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-65674",
+      "summary": "CVE ID :CVE-2026-65674 Published : Oct. 13, 2026, 9:17 p.m. | 3 hours, 41 minutes ago Description :Deserialization of untrusted data in SQL Server allows an authorized attacker to execute code over a...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:17:41+00:00"
+    },
+    {
+      "title": "CVE-2026-49950 - Xorbits Xoscar 0.11.2 Unauthenticated Deserialization RCE via Actor Pool",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-49950",
+      "summary": "CVE ID :CVE-2026-49950 Published : Oct. 13, 2026, 9:17 p.m. | 3 hours, 41 minutes ago Description :Xorbits Xoscar through 0.11.2 contains an unauthenticated deserialization vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:17:39+00:00"
+    },
+    {
+      "title": "CVE-2026-34634 - ColdFusion | Server-Side Request Forgery (SSRF) (CWE-918)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-34634",
+      "summary": "CVE ID :CVE-2026-34634 Published : Oct. 13, 2026, 9:17 p.m. | 3 hours, 41 minutes ago Description :ColdFusion is affected by a Server-Side Request Forgery (SSRF) vulnerability that could result in...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:17:38+00:00"
+    },
+    {
+      "title": "CVE-2026-106624 - ColdFusion | Improper Control of Generation of Code ('Code Injection') (CWE-94)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106624",
+      "summary": "CVE ID :CVE-2026-106624 Published : Oct. 13, 2026, 9:17 p.m. | 3 hours, 41 minutes ago Description :ColdFusion is affected by an Improper Control of Generation of Code ('Code Injection')...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:17:31+00:00"
+    },
+    {
+      "title": "CVE-2026-106622 - ColdFusion | Server-Side Request Forgery (SSRF) (CWE-918)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106622",
+      "summary": "CVE ID :CVE-2026-106622 Published : Oct. 13, 2026, 9:17 p.m. | 3 hours, 41 minutes ago Description :ColdFusion is affected by a Server-Side Request Forgery (SSRF) vulnerability that could result in...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:17:31+00:00"
+    },
+    {
+      "title": "CVE-2026-106621 - ColdFusion | Improper Control of Generation of Code ('Code Injection') (CWE-94)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106621",
+      "summary": "CVE ID :CVE-2026-106621 Published : Oct. 13, 2026, 9:17 p.m. | 3 hours, 41 minutes ago Description :ColdFusion is affected by an Improper Control of Generation of Code ('Code Injection')...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:17:31+00:00"
+    },
+    {
+      "title": "CVE-2026-106620 - ColdFusion | Incorrect Authorization (CWE-863)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106620",
+      "summary": "CVE ID :CVE-2026-106620 Published : Oct. 13, 2026, 9:17 p.m. | 3 hours, 41 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in a Security...",
+      "source": "CVE Feed",
+      "published": "2026-10-13T21:17:31+00:00"
     },
     {
       "title": "Anthropic warns self-replicating AI could spread to your smart devices",
@@ -30,186 +240,11 @@
       "published": "2026-10-13T20:55:00+00:00"
     },
     {
-      "title": "CVE-2026-85886 - Microsoft SQL Server Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-85886",
-      "summary": "CVE ID :CVE-2026-85886 Published : Oct. 13, 2026, 8:36 p.m. | 21 minutes ago Description :None Severity: 8.5 | HIGH Visit the link for more details, such as CVSS details, affected products, timeline...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:36:36+00:00"
-    },
-    {
-      "title": "CVE-2026-68883 - Microsoft SQL Server Elevation of Privilege Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-68883",
-      "summary": "CVE ID :CVE-2026-68883 Published : Oct. 13, 2026, 8:36 p.m. | 21 minutes ago Description :None Severity: 8.5 | HIGH Visit the link for more details, such as CVSS details, affected products, timeline...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:36:36+00:00"
-    },
-    {
-      "title": "CVE-2026-67625 - Microsoft SQL Server Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-67625",
-      "summary": "CVE ID :CVE-2026-67625 Published : Oct. 13, 2026, 8:36 p.m. | 22 minutes ago Description :None Severity: 8.5 | HIGH Visit the link for more details, such as CVSS details, affected products, timeline...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:36:05+00:00"
-    },
-    {
-      "title": "CVE-2026-96956 - SQL Server Elevation of Privilege Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-96956",
-      "summary": "CVE ID :CVE-2026-96956 Published : Oct. 13, 2026, 8:35 p.m. | 22 minutes ago Description :None Severity: 8.0 | HIGH Visit the link for more details, such as CVSS details, affected products, timeline...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:35:45+00:00"
-    },
-    {
       "title": "Anthropic Finds Ingredients for Future AI Worms",
       "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
       "summary": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
       "source": "Dark Reading",
       "published": "2026-10-13T20:35:23+00:00"
-    },
-    {
-      "title": "CVE-2026-95639 - Photoshop Desktop | Incorrect Authorization (CWE-863)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95639",
-      "summary": "CVE ID :CVE-2026-95639 Published : Oct. 13, 2026, 8:27 p.m. | 30 minutes ago Description :Photoshop Desktop is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:27:46+00:00"
-    },
-    {
-      "title": "CVE-2026-105897 - ColdFusion | Server-Side Request Forgery (SSRF) (CWE-918)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105897",
-      "summary": "CVE ID :CVE-2026-105897 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by a Server-Side Request Forgery (SSRF) vulnerability that could result in privilege...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:45+00:00"
-    },
-    {
-      "title": "CVE-2026-106616 - ColdFusion | Improper Restriction of XML External Entity Reference ('XXE') (CWE-611)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106616",
-      "summary": "CVE ID :CVE-2026-106616 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Improper Restriction of XML External Entity Reference ('XXE') vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:44+00:00"
-    },
-    {
-      "title": "CVE-2026-106618 - ColdFusion | Incorrect Authorization (CWE-863)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106618",
-      "summary": "CVE ID :CVE-2026-106618 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:43+00:00"
-    },
-    {
-      "title": "CVE-2026-106622 - ColdFusion | Server-Side Request Forgery (SSRF) (CWE-918)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106622",
-      "summary": "CVE ID :CVE-2026-106622 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by a Server-Side Request Forgery (SSRF) vulnerability that could result in privilege...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:42+00:00"
-    },
-    {
-      "title": "CVE-2026-106619 - ColdFusion | Improper Input Validation (CWE-20)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106619",
-      "summary": "CVE ID :CVE-2026-106619 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Improper Input Validation vulnerability that could result in arbitrary code...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:41+00:00"
-    },
-    {
-      "title": "CVE-2026-106089 - ColdFusion | Incorrect Authorization (CWE-863)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106089",
-      "summary": "CVE ID :CVE-2026-106089 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:40+00:00"
-    },
-    {
-      "title": "CVE-2026-106613 - ColdFusion | Improper Input Validation (CWE-20)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106613",
-      "summary": "CVE ID :CVE-2026-106613 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Improper Input Validation vulnerability that could result in arbitrary code...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:39+00:00"
-    },
-    {
-      "title": "CVE-2026-106624 - ColdFusion | Improper Control of Generation of Code ('Code Injection') (CWE-94)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106624",
-      "summary": "CVE ID :CVE-2026-106624 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Improper Control of Generation of Code ('Code Injection') vulnerability that...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:38+00:00"
-    },
-    {
-      "title": "CVE-2026-106621 - ColdFusion | Improper Control of Generation of Code ('Code Injection') (CWE-94)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106621",
-      "summary": "CVE ID :CVE-2026-106621 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Improper Control of Generation of Code ('Code Injection') vulnerability that...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:36+00:00"
-    },
-    {
-      "title": "CVE-2026-90530 - ColdFusion | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') (CWE-22)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-90530",
-      "summary": "CVE ID :CVE-2026-90530 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion RDS is affected by an Improper Limitation of a Pathname to a Restricted Directory ('Path...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:35+00:00"
-    },
-    {
-      "title": "CVE-2026-105898 - ColdFusion | Incorrect Authorization (CWE-863)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105898",
-      "summary": "CVE ID :CVE-2026-105898 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:35+00:00"
-    },
-    {
-      "title": "CVE-2026-105903 - ColdFusion | Improper Control of Generation of Code ('Code Injection') (CWE-94)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105903",
-      "summary": "CVE ID :CVE-2026-105903 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Improper Control of Generation of Code ('Code Injection') vulnerability that...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:34+00:00"
-    },
-    {
-      "title": "CVE-2026-75994 - ColdFusion | Incorrect Authorization (CWE-863)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-75994",
-      "summary": "CVE ID :CVE-2026-75994 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:33+00:00"
-    },
-    {
-      "title": "CVE-2026-106090 - ColdFusion | Incorrect Authorization (CWE-863)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106090",
-      "summary": "CVE ID :CVE-2026-106090 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:33+00:00"
-    },
-    {
-      "title": "CVE-2026-34634 - ColdFusion | Server-Side Request Forgery (SSRF) (CWE-918)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-34634",
-      "summary": "CVE ID :CVE-2026-34634 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by a Server-Side Request Forgery (SSRF) vulnerability that could result in privilege...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:32+00:00"
-    },
-    {
-      "title": "CVE-2026-106620 - ColdFusion | Incorrect Authorization (CWE-863)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106620",
-      "summary": "CVE ID :CVE-2026-106620 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in a Security feature...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:31+00:00"
-    },
-    {
-      "title": "CVE-2026-106612 - ColdFusion | Incorrect Authorization (CWE-863)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106612",
-      "summary": "CVE ID :CVE-2026-106612 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:30+00:00"
-    },
-    {
-      "title": "CVE-2026-106615 - ColdFusion | Incorrect Authorization (CWE-863)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106615",
-      "summary": "CVE ID :CVE-2026-106615 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:29+00:00"
-    },
-    {
-      "title": "CVE-2026-75995 - ColdFusion | Improper Input Validation (CWE-20)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-75995",
-      "summary": "CVE ID :CVE-2026-75995 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Improper Input Validation vulnerability that could result in arbitrary code...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:28+00:00"
-    },
-    {
-      "title": "CVE-2026-105901 - ColdFusion | Incorrect Authorization (CWE-863)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105901",
-      "summary": "CVE ID :CVE-2026-105901 Published : Oct. 13, 2026, 8:21 p.m. | 36 minutes ago Description :ColdFusion is affected by an Incorrect Authorization vulnerability that could result in arbitrary code...",
-      "source": "CVE Feed",
-      "published": "2026-10-13T20:21:25+00:00"
     },
     {
       "title": "FTC: Company netted at least $60 million charging sextortion victims for help it didn’t provide",
@@ -485,13 +520,6 @@
       "published": "2026-10-13T08:43:37+00:00"
     },
     {
-      "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
-      "link": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
-      "summary": "A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost. The post Refrigeration Controller Hack Spoils Food Across European...",
-      "source": "SecurityWeek",
-      "published": "2026-10-13T08:28:51+00:00"
-    },
-    {
       "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
       "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
       "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into...",
@@ -525,13 +553,6 @@
       "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
       "source": "BleepingComputer",
       "published": "2026-10-12T19:23:01+00:00"
-    },
-    {
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the...",
-      "source": "BleepingComputer",
-      "published": "2026-10-12T18:51:59+00:00"
     },
     {
       "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
@@ -1150,13 +1171,6 @@
       "published": "2026-09-28T20:23:58+00:00"
     },
     {
-      "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
-      "summary": "Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats.",
-      "source": "Dark Reading",
-      "published": "2026-09-28T18:44:22+00:00"
-    },
-    {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
       "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
       "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days...",
@@ -1204,13 +1218,6 @@
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public...",
       "source": "Krebs on Security",
       "published": "2026-08-14T11:24:35+00:00"
-    },
-    {
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively...",
-      "source": "Krebs on Security",
-      "published": "2026-08-11T21:28:35+00:00"
     }
   ]
 }
