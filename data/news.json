@@ -1,52 +1,178 @@
 {
-  "last_updated": "2026-10-14T22:52:07.658281+00:00",
+  "last_updated": "2026-10-15T02:28:09.045261+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-110872 - Nodemailer 3.0.0 before 10.0.10 Denial of Service via SMTP Reply Parsing",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110872",
+      "summary": "CVE ID :CVE-2026-110872 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :Nodemailer from 3.0.0 before 10.0.10 contains a quadratic complexity denial of service...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:29+00:00"
+    },
+    {
+      "title": "CVE-2026-110869 - Nodemailer 3.0.0 before 10.0.13 ReDoS via SMTP AUTH Mechanism Detection Regexes",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110869",
+      "summary": "CVE ID :CVE-2026-110869 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :Nodemailer 3.0.0 before 10.0.13 has a regular expression denial of service in...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:28+00:00"
+    },
+    {
+      "title": "CVE-2026-110868 - Renovate before 44.79.0 SSRF via HTTP Preset URLs and customDatasources",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110868",
+      "summary": "CVE ID :CVE-2026-110868 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :Renovate before 44.79.0 contains a server-side request forgery vulnerability that allows users to...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:28+00:00"
+    },
+    {
+      "title": "CVE-2026-110867 - Renovate before 44.60.1 allowedEnv Allowlist Bypass via Shared Preset",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110867",
+      "summary": "CVE ID :CVE-2026-110867 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :Renovate before 44.60.1 contains an allowlist bypass vulnerability that allows repositories to set...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:28+00:00"
+    },
+    {
+      "title": "CVE-2026-110864 - Better Auth 1.5.0-beta.12 before 1.7.7 Authentication Bypass via OAuth Proxy",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110864",
+      "summary": "CVE ID :CVE-2026-110864 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :Better Auth from 1.5.0-beta.12 before 1.7.7 contains an authentication bypass vulnerability in the...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:27+00:00"
+    },
+    {
+      "title": "CVE-2026-110863 - Better Auth @better-auth/sso before 1.7.3 Authentication Bypass via Personal SSO Providers",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110863",
+      "summary": "CVE ID :CVE-2026-110863 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :Better Auth @better-auth/sso from 1.7.0-rc.2 before 1.7.3 contains an authentication bypass...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:27+00:00"
+    },
+    {
+      "title": "CVE-2026-110862 - Better Auth 1.4.0-beta.18 before 1.7.7 Authentication Bypass via Magic Link",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110862",
+      "summary": "CVE ID :CVE-2026-110862 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :Better Auth from 1.4.0-beta.18 before 1.7.7 contains an authentication bypass vulnerability that...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:27+00:00"
+    },
+    {
+      "title": "CVE-2026-110859 - GitPython before 3.2.0 Arbitrary File Read via Head.checkout() Branch Name",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110859",
+      "summary": "CVE ID :CVE-2026-110859 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :GitPython before 3.2.0 contains an argument injection vulnerability in Head.checkout() that allows...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:27+00:00"
+    },
+    {
+      "title": "CVE-2026-110858 - GitPython 3.1.30 before 3.2.0 Command Injection via Remote.pull() Refspec",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110858",
+      "summary": "CVE ID :CVE-2026-110858 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :GitPython from 3.1.30 before 3.2.0 contains a remote code execution vulnerability in Remote.pull()...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:27+00:00"
+    },
+    {
+      "title": "CVE-2026-110856 - GitPython before 3.2.0 ReDoS via _re_actor_epoch in parse_actor_and_date",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110856",
+      "summary": "CVE ID :CVE-2026-110856 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :GitPython before 3.2.0 contains a regular expression denial of service vulnerability in the...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:26+00:00"
+    },
+    {
+      "title": "CVE-2026-110854 - Parse Server before 8.6.97 and 9.10.2-alpha.6 Denial of Service via Unhandled Email Error",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110854",
+      "summary": "CVE ID :CVE-2026-110854 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :Parse Server before 8.6.97 and 9.0.0 before 9.10.2-alpha.6 does not handle errors raised while...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:26+00:00"
+    },
+    {
+      "title": "CVE-2026-110843 - n8n before 2.41.4 and 2.42.1 Unauthenticated Unbounded OAuth Client Persistence via Authorize Endpoint",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110843",
+      "summary": "CVE ID :CVE-2026-110843 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :n8n before 2.41.4 and 2.42.x before 2.42.1 contains an uncontrolled resource consumption...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:24+00:00"
+    },
+    {
+      "title": "CVE-2026-110838 - FreeRDP shadow before 3.32.0 Pre-Authentication Input Injection via Confirm Active bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110838",
+      "summary": "CVE ID :CVE-2026-110838 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :FreeRDP shadow server from 3.0.0 before 3.32.0 dispatches input PDUs during the Confirm Active...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:24+00:00"
+    },
+    {
+      "title": "CVE-2026-110833 - FreeRDP before 3.32.0 Unbounded Memory Retention via RDPDR Proxy",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110833",
+      "summary": "CVE ID :CVE-2026-110833 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :FreeRDP from 3.0.0-beta1 before 3.32.0 fails to enforce cumulative or absolute size limits when...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:23+00:00"
+    },
+    {
+      "title": "CVE-2026-110830 - FreeRDP before 3.32.0 Denial of Service via Serial IRP_MJ_CREATE",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110830",
+      "summary": "CVE ID :CVE-2026-110830 Published : Oct. 14, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :FreeRDP before 3.32.0 fails to close prior serial handles in serial_process_irp_create, allowing a...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T23:17:22+00:00"
+    },
+    {
+      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+      "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-14T22:56:47+00:00"
+    },
+    {
+      "title": "CVE-2026-108336 - Token Signing Key Allows Unauthenticated Administrative Access",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108336",
+      "summary": "CVE ID :CVE-2026-108336 Published : Oct. 14, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :When the default self-signed certificate is used, an attacker could gain administrative access to...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T22:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-108335 - Password Reset Functionality Missing Brute-Force Protection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108335",
+      "summary": "CVE ID :CVE-2026-108335 Published : Oct. 14, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :When the password reset functionality is enabled, and email is configured, an attacker could take...",
+      "source": "CVE Feed",
+      "published": "2026-10-14T22:17:22+00:00"
+    },
     {
       "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
       "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
-      "summary": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
-      "source": "Dark Reading",
+      "summary": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles Rob Wright,Senior News Director,Dark ReadingOctober 14, 20265 Min ReadSource: Florencio Horcajo Alvarez via Getty ImagesEven when...",
+      "source": "CVE Newsroom",
       "published": "2026-10-14T21:20:13+00:00"
     },
     {
       "title": "CVE-2026-71854 - OpenAEV has unauthenticated access and missing object-level authorization on player lessons API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-71854",
-      "summary": "CVE ID :CVE-2026-71854 Published : Oct. 14, 2026, 9:17 p.m. | 13 minutes ago Description :OpenAEV is an open source platform allowing organizations to plan, schedule and conduct cyber adversary...",
+      "summary": "CVE ID :CVE-2026-71854 Published : Oct. 14, 2026, 9:17 p.m. | 3 hours, 14 minutes ago Description :OpenAEV is an open source platform allowing organizations to plan, schedule and conduct cyber...",
       "source": "CVE Feed",
       "published": "2026-10-14T21:17:39+00:00"
     },
     {
       "title": "CVE-2026-61843 - FileRise: Unauthenticated File Overwrite Through Upload-Enabled Folder Shares",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-61843",
-      "summary": "CVE ID :CVE-2026-61843 Published : Oct. 14, 2026, 9:17 p.m. | 13 minutes ago Description :FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch operations. Prior...",
+      "summary": "CVE ID :CVE-2026-61843 Published : Oct. 14, 2026, 9:17 p.m. | 3 hours, 14 minutes ago Description :FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch...",
       "source": "CVE Feed",
       "published": "2026-10-14T21:17:37+00:00"
     },
     {
       "title": "CVE-2026-57490 - FileRise: WebDAV authentication bypasses TOTP/MFA entirely",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-57490",
-      "summary": "CVE ID :CVE-2026-57490 Published : Oct. 14, 2026, 9:17 p.m. | 13 minutes ago Description :FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch operations. Prior...",
+      "summary": "CVE ID :CVE-2026-57490 Published : Oct. 14, 2026, 9:17 p.m. | 3 hours, 14 minutes ago Description :FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch...",
       "source": "CVE Feed",
       "published": "2026-10-14T21:17:37+00:00"
     },
     {
       "title": "CVE-2026-57489 - FileRise: AUTH_BYPASS reverse-proxy header trust without source IP validation enables full authentication bypass",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-57489",
-      "summary": "CVE ID :CVE-2026-57489 Published : Oct. 14, 2026, 9:17 p.m. | 13 minutes ago Description :FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch operations. Prior...",
+      "summary": "CVE ID :CVE-2026-57489 Published : Oct. 14, 2026, 9:17 p.m. | 3 hours, 14 minutes ago Description :FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch...",
       "source": "CVE Feed",
       "published": "2026-10-14T21:17:37+00:00"
     },
     {
       "title": "CVE-2026-104108 - FileRise OIDC login can bind an attacker identity to an existing local account",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-104108",
-      "summary": "CVE ID :CVE-2026-104108 Published : Oct. 14, 2026, 9:17 p.m. | 13 minutes ago Description :FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch operations...",
+      "summary": "CVE ID :CVE-2026-104108 Published : Oct. 14, 2026, 9:17 p.m. | 3 hours, 14 minutes ago Description :FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch...",
       "source": "CVE Feed",
       "published": "2026-10-14T21:17:34+00:00"
     },
     {
       "title": "CVE-2026-103977 - FileRise: Session-scoped TOTP rate limiting permits repeated verification attempts",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-103977",
-      "summary": "CVE ID :CVE-2026-103977 Published : Oct. 14, 2026, 9:17 p.m. | 13 minutes ago Description :FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch operations...",
+      "summary": "CVE ID :CVE-2026-103977 Published : Oct. 14, 2026, 9:17 p.m. | 3 hours, 14 minutes ago Description :FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch...",
       "source": "CVE Feed",
       "published": "2026-10-14T21:17:33+00:00"
     },
@@ -74,58 +200,16 @@
     {
       "title": "CVE-2026-55684 - WeGIA: SQL Injection in html/socio/sistema/cadastro_cobrancas_geracao.php",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-55684",
-      "summary": "CVE ID :CVE-2026-55684 Published : Oct. 14, 2026, 8:17 p.m. | 1 hour, 13 minutes ago Description :WeGIA is a web manager for charitable institutions. Prior to 3.8.6, the unauthenticated...",
+      "summary": "CVE ID :CVE-2026-55684 Published : Oct. 14, 2026, 8:17 p.m. | 4 hours, 14 minutes ago Description :WeGIA is a web manager for charitable institutions. Prior to 3.8.6, the unauthenticated...",
       "source": "CVE Feed",
       "published": "2026-10-14T20:17:50+00:00"
     },
     {
       "title": "CVE-2026-55683 - WeGIA: SQL Injection in html/socio/sistema/cadastro_cobranca.php",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-55683",
-      "summary": "CVE ID :CVE-2026-55683 Published : Oct. 14, 2026, 8:17 p.m. | 1 hour, 13 minutes ago Description :WeGIA is a web manager for charitable institutions. Prior to 3.8.6, the unauthenticated...",
+      "summary": "CVE ID :CVE-2026-55683 Published : Oct. 14, 2026, 8:17 p.m. | 4 hours, 14 minutes ago Description :WeGIA is a web manager for charitable institutions. Prior to 3.8.6, the unauthenticated...",
       "source": "CVE Feed",
       "published": "2026-10-14T20:17:50+00:00"
-    },
-    {
-      "title": "CVE-2026-55682 - WeGIA: Session Fixation via User-Controlled PHPSESSID Cookie + DB_HOST Leak in html/seguranca/sessionStart.php",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-55682",
-      "summary": "CVE ID :CVE-2026-55682 Published : Oct. 14, 2026, 8:17 p.m. | 1 hour, 13 minutes ago Description :WeGIA is a web manager for charitable institutions. Prior to 3.8.6, the auto-prepended...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T20:17:50+00:00"
-    },
-    {
-      "title": "CVE-2026-55681 - WeGIA: SQL Injection in html/matPat/restaurar_produto_desocultar.php via id_produto parameter",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-55681",
-      "summary": "CVE ID :CVE-2026-55681 Published : Oct. 14, 2026, 8:17 p.m. | 1 hour, 13 minutes ago Description :WeGIA is a web manager for charitable institutions. Prior to 3.8.6, an authenticated user with access...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T20:17:50+00:00"
-    },
-    {
-      "title": "CVE-2026-55680 - WeGIA: Unauthenticated SQL Injection in cadastro_cobranca.php via \"codigo\" parameter",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-55680",
-      "summary": "CVE ID :CVE-2026-55680 Published : Oct. 14, 2026, 8:17 p.m. | 1 hour, 13 minutes ago Description :WeGIA is a web manager for charitable institutions. Prior to 3.8.6, unauthenticated POST requests to...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T20:17:50+00:00"
-    },
-    {
-      "title": "CVE-2026-55383 - InvoiceShelf: Public EmailLog token type confusion allows cross-company invoice disclosure",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-55383",
-      "summary": "CVE ID :CVE-2026-55383 Published : Oct. 14, 2026, 8:17 p.m. | 1 hour, 13 minutes ago Description :InvoiceShelf is an open-source web & mobile app that helps track expenses, payments and create...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T20:17:48+00:00"
-    },
-    {
-      "title": "CVE-2026-54566 - Markdown Preview Enhanced: Remote Code Execution via VM Sandbox Escape in `.crossnote/config.js` and `.crossnote/parser.js`",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54566",
-      "summary": "CVE ID :CVE-2026-54566 Published : Oct. 14, 2026, 8:17 p.m. | 1 hour, 13 minutes ago Description :Markdown Preview Enhanced is a Markdown preview extension for Visual Studio Code. Prior to 0.8.29...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T20:17:47+00:00"
-    },
-    {
-      "title": "CVE-2026-102986 - Plane: Any Authenticated User Can Upload and Delete Assets in Any Published Project via /api/public/assets/v2/anchor/{anchor}/",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102986",
-      "summary": "CVE ID :CVE-2026-102986 Published : Oct. 14, 2026, 8:17 p.m. | 1 hour, 13 minutes ago Description :Plane is an open-source project management tool. In 1.3.1 and earlier, EntityAssetEndpoint at the...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T20:17:28+00:00"
     },
     {
       "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
@@ -140,83 +224,6 @@
       "summary": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North...",
       "source": "BleepingComputer",
       "published": "2026-10-14T19:41:43+00:00"
-    },
-    {
-      "title": "CVE-2026-85714 - Stirling-PDF: Remote Code Execution via H2",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-85714",
-      "summary": "CVE ID :CVE-2026-85714 Published : Oct. 14, 2026, 7:17 p.m. | 2 hours, 13 minutes ago Description :Stirling-PDF is a locally hosted web application that facilitates various operations on PDF files...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T19:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-63626 - Mongoose: ppp_handle_ipv6cp() uses attacker-controlled length without bounds check — OOB read and heap overflow (PPP/PPPoE, MG_ENABLE_IPV6)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63626",
-      "summary": "CVE ID :CVE-2026-63626 Published : Oct. 14, 2026, 7:17 p.m. | 2 hours, 13 minutes ago Description :Mongoose is an embedded web server and network library. Prior to 7.23, ppp_handle_ipv6cp() in...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T19:17:18+00:00"
-    },
-    {
-      "title": "CVE-2026-55786 - Flyto2 Core: Unauthenticated Command Execution via HTTP MCP `execute_module`",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-55786",
-      "summary": "CVE ID :CVE-2026-55786 Published : Oct. 14, 2026, 7:17 p.m. | 2 hours, 13 minutes ago Description :Flyto2 Core is an execution kernel for automation and AI-agent workflows. From 2.26.2 until 2.26.4...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T19:17:17+00:00"
-    },
-    {
-      "title": "CVE-2026-54525 - Markdown Preview Enhanced: One Click RCE via Markdown Link Command Injection on Windows",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54525",
-      "summary": "CVE ID :CVE-2026-54525 Published : Oct. 14, 2026, 7:17 p.m. | 2 hours, 13 minutes ago Description :Markdown Preview Enhanced is a Markdown preview extension for Visual Studio Code. Prior to 0.8.28...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T19:17:17+00:00"
-    },
-    {
-      "title": "CVE-2026-110770 - Databasus 3.7.0 through 3.61.0 Account Takeover via Password Reset Brute-Force",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110770",
-      "summary": "CVE ID :CVE-2026-110770 Published : Oct. 14, 2026, 7:17 p.m. | 2 hours, 13 minutes ago Description :Databasus 3.7.0 through 3.61.0 contains an authentication bypass vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T19:17:13+00:00"
-    },
-    {
-      "title": "CVE-2026-110769 - holaOS through 2026.822.1 Missing Authorization in Channel-Gateway Connectors",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110769",
-      "summary": "CVE ID :CVE-2026-110769 Published : Oct. 14, 2026, 7:17 p.m. | 2 hours, 13 minutes ago Description :holaOS through 2026.822.1 contains a missing authorization vulnerability in channel-gateway...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T19:17:12+00:00"
-    },
-    {
-      "title": "CVE-2026-110767 - Gitingest through 0.3.1 Arbitrary File Read via Symlink in Blob Ingestion",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110767",
-      "summary": "CVE ID :CVE-2026-110767 Published : Oct. 14, 2026, 7:17 p.m. | 2 hours, 13 minutes ago Description :Gitingest through 0.3.1 contains a symlink following vulnerability in ingest_query single-file blob...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T19:17:12+00:00"
-    },
-    {
-      "title": "CVE-2026-110765 - FlexPrice through 2.1.38 QuickBooks Webhook Signature Verification Bypass",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110765",
-      "summary": "CVE ID :CVE-2026-110765 Published : Oct. 14, 2026, 7:17 p.m. | 2 hours, 13 minutes ago Description :FlexPrice through 2.1.38 contains an authentication bypass vulnerability in HandleQuickBooksWebhook...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T19:17:12+00:00"
-    },
-    {
-      "title": "CVE-2026-110761 - ILIAS before 9.24, 10.12, and 11.5 PHP Object Injection via Test Results Import",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110761",
-      "summary": "CVE ID :CVE-2026-110761 Published : Oct. 14, 2026, 7:17 p.m. | 2 hours, 13 minutes ago Description :ILIAS before 9.24, 10.12, and 11.5 contains a PHP object injection vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T19:17:11+00:00"
-    },
-    {
-      "title": "CVE-2026-110536 - D-Link DIR-868L HNAP CGI cgibin system os command injection",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110536",
-      "summary": "CVE ID :CVE-2026-110536 Published : Oct. 14, 2026, 7:17 p.m. | 2 hours, 13 minutes ago Description :A vulnerability was determined in D-Link DIR-868L 2.01b05. This impacts the function system of the...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T19:17:10+00:00"
-    },
-    {
-      "title": "CVE-2026-104143 - DataEase: Stored SQL Injection via dateFormat field templates",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-104143",
-      "summary": "CVE ID :CVE-2026-104143 Published : Oct. 14, 2026, 7:17 p.m. | 2 hours, 13 minutes ago Description :DataEase is an open source data visualization and analysis tool. Prior to 2.10.26, authenticated...",
-      "source": "CVE Feed",
-      "published": "2026-10-14T19:17:08+00:00"
     },
     {
       "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
@@ -352,17 +359,17 @@
       "published": "2026-10-14T13:05:00+00:00"
     },
     {
-      "title": "Russian Influence Operation Widely Targeting Latin America",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
-      "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
-      "source": "Dark Reading",
-      "published": "2026-10-14T13:00:00+00:00"
-    },
-    {
       "title": "Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages",
       "link": "https://www.securityweek.com/microsoft-disrupts-chinese-language-phishing-market-behind-1b-messages/",
       "summary": "Backed by a federal court order, Microsoft and Health-ISAC seized domains powering YAM Store, CoGUI, and Iron Man. The post Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages...",
       "source": "SecurityWeek",
+      "published": "2026-10-14T13:00:00+00:00"
+    },
+    {
+      "title": "Russian Influence Operation Widely Targeting Latin America",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
+      "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
+      "source": "Dark Reading",
       "published": "2026-10-14T13:00:00+00:00"
     },
     {
@@ -543,8 +550,8 @@
     {
       "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
       "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
-      "summary": "The scary surprises in the largest security update ever include security bypasses and unauthenticated RCEs.",
-      "source": "Dark Reading",
+      "summary": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday Source: China Photos via Getty ImagesAs we progress further into the AI-driven \"vulnpocalypse era,\" Microsoft’s October 2026 Patch...",
+      "source": "CVE Newsroom",
       "published": "2026-10-13T22:29:57+00:00"
     },
     {
@@ -588,13 +595,6 @@
       "summary": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
       "source": "BleepingComputer",
       "published": "2026-10-13T19:47:30+00:00"
-    },
-    {
-      "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
-      "summary": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-13T19:04:38+00:00"
     },
     {
       "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
@@ -704,8 +704,8 @@
     {
       "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
       "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "summary": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October...",
-      "source": "CVE Newsroom",
+      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The...",
+      "source": "The Hacker News",
       "published": "2026-10-13T08:48:41+00:00"
     },
     {
