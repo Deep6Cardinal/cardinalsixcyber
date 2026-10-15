@@ -1,6 +1,230 @@
 {
-  "last_updated": "2026-10-15T19:34:20.525219+00:00",
+  "last_updated": "2026-10-15T22:47:07.125983+00:00",
   "articles": [
+    {
+      "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
+      "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
+      "summary": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.",
+      "source": "Dark Reading",
+      "published": "2026-10-15T22:10:08+00:00"
+    },
+    {
+      "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
+      "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
+      "summary": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime.",
+      "source": "Dark Reading",
+      "published": "2026-10-15T21:55:07+00:00"
+    },
+    {
+      "title": "CVE-2026-108452 - Microsoft Office SharePoint Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108452",
+      "summary": "CVE ID :CVE-2026-108452 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:30+00:00"
+    },
+    {
+      "title": "CVE-2026-108451 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108451",
+      "summary": "CVE ID :CVE-2026-108451 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:29+00:00"
+    },
+    {
+      "title": "CVE-2026-108450 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108450",
+      "summary": "CVE ID :CVE-2026-108450 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:29+00:00"
+    },
+    {
+      "title": "CVE-2026-108449 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108449",
+      "summary": "CVE ID :CVE-2026-108449 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:28+00:00"
+    },
+    {
+      "title": "CVE-2026-108447 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108447",
+      "summary": "CVE ID :CVE-2026-108447 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:27+00:00"
+    },
+    {
+      "title": "CVE-2026-108446 - Microsoft Office Excel Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108446",
+      "summary": "CVE ID :CVE-2026-108446 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:27+00:00"
+    },
+    {
+      "title": "CVE-2026-108445 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108445",
+      "summary": "CVE ID :CVE-2026-108445 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:26+00:00"
+    },
+    {
+      "title": "CVE-2026-108444 - Microsoft Office Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108444",
+      "summary": "CVE ID :CVE-2026-108444 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:25+00:00"
+    },
+    {
+      "title": "CVE-2026-108443 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108443",
+      "summary": "CVE ID :CVE-2026-108443 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:25+00:00"
+    },
+    {
+      "title": "CVE-2026-108442 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108442",
+      "summary": "CVE ID :CVE-2026-108442 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:24+00:00"
+    },
+    {
+      "title": "CVE-2026-108441 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108441",
+      "summary": "CVE ID :CVE-2026-108441 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:24+00:00"
+    },
+    {
+      "title": "CVE-2026-108440 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108440",
+      "summary": "CVE ID :CVE-2026-108440 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:23+00:00"
+    },
+    {
+      "title": "CVE-2026-108439 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108439",
+      "summary": "CVE ID :CVE-2026-108439 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:23+00:00"
+    },
+    {
+      "title": "CVE-2026-108437 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108437",
+      "summary": "CVE ID :CVE-2026-108437 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:22+00:00"
+    },
+    {
+      "title": "CVE-2026-108432 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108432",
+      "summary": "CVE ID :CVE-2026-108432 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:19+00:00"
+    },
+    {
+      "title": "CVE-2026-108431 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108431",
+      "summary": "CVE ID :CVE-2026-108431 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:19+00:00"
+    },
+    {
+      "title": "CVE-2026-108430 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108430",
+      "summary": "CVE ID :CVE-2026-108430 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:18+00:00"
+    },
+    {
+      "title": "CVE-2026-108429 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108429",
+      "summary": "CVE ID :CVE-2026-108429 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:18+00:00"
+    },
+    {
+      "title": "CVE-2026-108428 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108428",
+      "summary": "CVE ID :CVE-2026-108428 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:18+00:00"
+    },
+    {
+      "title": "CVE-2026-108427 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108427",
+      "summary": "CVE ID :CVE-2026-108427 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:17+00:00"
+    },
+    {
+      "title": "CVE-2026-108426 - Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108426",
+      "summary": "CVE ID :CVE-2026-108426 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:57:16+00:00"
+    },
+    {
+      "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
+      "link": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
+      "summary": "The incident, which involved a government contractor, has halted all production of bankruptcy notices.",
+      "source": "The Record",
+      "published": "2026-10-15T20:46:00+00:00"
+    },
+    {
+      "title": "CVE-2026-105040 - EnergizeLab Eilik User-ID Mass Assignment Account Takeover",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105040",
+      "summary": "CVE ID :CVE-2026-105040 Published : Oct. 15, 2026, 8:43 p.m. | 34 minutes ago Description :The EnergizeLab Eilik NestJS auth service accepts a user-controlled user ID in account update requests (mass...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:43:47+00:00"
+    },
+    {
+      "title": "CVE-2026-105039 - EnergizeLab Station Middleware Admin APIs Missing Role Checks",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105039",
+      "summary": "CVE ID :CVE-2026-105039 Published : Oct. 15, 2026, 8:43 p.m. | 34 minutes ago Description :EnergizeLab station-middleware (NestJS) Docker images 1.6.5 through 1.8.2 do not check user roles on...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:43:38+00:00"
+    },
+    {
+      "title": "CVE-2026-105038 - EnergizeLab Eilik Unauthenticated AI Model Administration and Runtime Model Switching",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105038",
+      "summary": "CVE ID :CVE-2026-105038 Published : Oct. 15, 2026, 8:43 p.m. | 34 minutes ago Description :The EnergizeLab Eilik and EilikO FastAPI AI inference and profiling services expose AI model administration...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:43:30+00:00"
+    },
+    {
+      "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
+      "summary": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it.",
+      "source": "Dark Reading",
+      "published": "2026-10-15T20:43:20+00:00"
+    },
+    {
+      "title": "CVE-2026-105037 - EnergizeLab Station Middleware Authenticated Path Traversal Arbitrary File Read",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105037",
+      "summary": "CVE ID :CVE-2026-105037 Published : Oct. 15, 2026, 8:43 p.m. | 34 minutes ago Description :EnergizeLab station-middleware (NestJS) Docker images 1.6.5 through 1.8.2 allow any registered...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T20:43:13+00:00"
+    },
+    {
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-15T20:25:04+00:00"
+    },
+    {
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud...",
+      "source": "The Hacker News",
+      "published": "2026-10-15T20:24:36+00:00"
+    },
+    {
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-15T19:48:43+00:00"
+    },
     {
       "title": "Zero-click spyware infecting devices through online ads, researchers say",
       "link": "https://therecord.media/spyware-citizen-lab-advertising",
@@ -30,48 +254,6 @@
       "published": "2026-10-15T17:42:50+00:00"
     },
     {
-      "title": "CVE-2026-85634 - Wildfly-core: wildfly-core: deployer rbac role privilege escalation via path traversal in deployment name",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-85634",
-      "summary": "CVE ID :CVE-2026-85634 Published : Oct. 15, 2026, 5:17 p.m. | 36 minutes ago Description :A flaw was found in the ContentRepositoryImpl.copyExplodedContent function of the wildfly-core library, which...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T17:17:29+00:00"
-    },
-    {
-      "title": "CVE-2026-77470 - Lychee: Webshop checkout lets the client override the payment `amount` sent to the gateway via malicious crafted POST request",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77470",
-      "summary": "CVE ID :CVE-2026-77470 Published : Oct. 15, 2026, 5:17 p.m. | 36 minutes ago Description :Lychee is a free, open-source photo-management tool. Prior to 7.7.1, the Supporter or Pro webshop POST...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T17:17:27+00:00"
-    },
-    {
-      "title": "CVE-2026-77466 - Lychee: Webshop payment bypass via unrestricted \"Dummy\" gateway selection",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77466",
-      "summary": "CVE ID :CVE-2026-77466 Published : Oct. 15, 2026, 5:17 p.m. | 36 minutes ago Description :Lychee is a free, open-source photo-management tool. Prior to 7.7.0, Lychee hides the Omnipay Dummy test...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T17:17:27+00:00"
-    },
-    {
-      "title": "CVE-2026-62679 - Lychee: Path traversal in `SecurePathController` allows authenticated arbitrary file read",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-62679",
-      "summary": "CVE ID :CVE-2026-62679 Published : Oct. 15, 2026, 5:17 p.m. | 36 minutes ago Description :Lychee is a free, open-source photo-management tool. Prior to 7.6.4, SecurePathController, which serves GET...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T17:17:26+00:00"
-    },
-    {
-      "title": "CVE-2026-61838 - Lychee: Album password bypass in ZIP downloads",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61838",
-      "summary": "CVE ID :CVE-2026-61838 Published : Oct. 15, 2026, 5:17 p.m. | 36 minutes ago Description :Lychee is a free, open-source photo-management tool. Prior to 7.6.3, GET /api/v2/Zip authorizes album and...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T17:17:26+00:00"
-    },
-    {
-      "title": "CVE-2026-110812 - Deserialization of untrusted data in the Gremlin graph-import path in Amazon Neptune",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110812",
-      "summary": "CVE ID :CVE-2026-110812 Published : Oct. 15, 2026, 5:17 p.m. | 36 minutes ago Description :Deserialization of untrusted data in the Gremlin graph data import component in Amazon Neptune engine might...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T17:17:16+00:00"
-    },
-    {
       "title": "Fake Arch Linux packages push malware with root privileges",
       "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
       "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
@@ -79,130 +261,11 @@
       "published": "2026-10-15T17:12:31+00:00"
     },
     {
-      "title": "CVE-2026-84731 - Pre-Authentication Admin Bypass and Remote Code Execution in Nutanix Prism Gateway inside AOS",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-84731",
-      "summary": "CVE ID :CVE-2026-84731 Published : Oct. 15, 2026, 5:10 p.m. | 43 minutes ago Description :An unauthenticated remote attacker can bypass authentication and gain full access to administrative API...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T17:10:29+00:00"
-    },
-    {
-      "title": "CVE-2026-55103 - Discourse ActivityPub: Fix inbound actor validation and apply outbound request SSRF hardening",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-55103",
-      "summary": "CVE ID :CVE-2026-55103 Published : Oct. 15, 2026, 5:05 p.m. | 47 minutes ago Description :Discourse ActivityPub adds ActivityPub support to Discourse. Prior to commit...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T17:05:41+00:00"
-    },
-    {
       "title": "Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand",
       "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
       "summary": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Watch Now: Zero Trust Strategies Summit – All...",
       "source": "SecurityWeek",
       "published": "2026-10-15T16:51:34+00:00"
-    },
-    {
-      "title": "CVE-2026-97712 - Nexus Repository 3 - Privilege Escalation via Role Management",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-97712",
-      "summary": "CVE ID :CVE-2026-97712 Published : Oct. 15, 2026, 4:18 p.m. | 1 hour, 35 minutes ago Description :Sonatype Nexus Repository 3 allows a user that holds the role create or role update permission to...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:18:26+00:00"
-    },
-    {
-      "title": "CVE-2026-92982 - Ansible-operator-plugins: ansible operator plugins: arbitrary code execution via jinja2 template injection",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92982",
-      "summary": "CVE ID :CVE-2026-92982 Published : Oct. 15, 2026, 4:18 p.m. | 1 hour, 35 minutes ago Description :A flaw was found in Ansible Operator Plugins. A low-privileged Kubernetes user can exploit a Jinja2...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:18:23+00:00"
-    },
-    {
-      "title": "CVE-2026-63442 - OPNsense: Log Forgery via Login Username CRLF in WebGUI Authentication → Pf Table IP Blocking",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63442",
-      "summary": "CVE ID :CVE-2026-63442 Published : Oct. 15, 2026, 4:18 p.m. | 1 hour, 35 minutes ago Description :OPNsense is a FreeBSD based firewall and routing platform. Prior to version 26.1.11, the...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:18:19+00:00"
-    },
-    {
-      "title": "CVE-2026-58390 - OPNsense: Stored XSS to root RCE via OpenVPN client common_name in status views",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58390",
-      "summary": "CVE ID :CVE-2026-58390 Published : Oct. 15, 2026, 4:18 p.m. | 1 hour, 35 minutes ago Description :OPNsense is a FreeBSD based firewall and routing platform. Prior to version 26.1.11, the OpenVPN...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:18:17+00:00"
-    },
-    {
-      "title": "CVE-2026-57155 - OPNsense: Root RCE via Arbitrary File Write in GeoIP Alias Importer",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-57155",
-      "summary": "CVE ID :CVE-2026-57155 Published : Oct. 15, 2026, 4:18 p.m. | 1 hour, 35 minutes ago Description :OPNsense is a FreeBSD based firewall and routing platform. Prior to version 26.1.11, the Firewall...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:18:17+00:00"
-    },
-    {
-      "title": "CVE-2026-45452 - Unitronics - CWE-134 Use of Externally-Controlled format string",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-45452",
-      "summary": "CVE ID :CVE-2026-45452 Published : Oct. 15, 2026, 4:18 p.m. | 1 hour, 35 minutes ago Description :Use of Externally-Controlled format string vulnerability in Unitronics Unitronics UniStream...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:18:11+00:00"
-    },
-    {
-      "title": "CVE-2026-45451 - Unitronics - CWE-287: Improper Authentication",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-45451",
-      "summary": "CVE ID :CVE-2026-45451 Published : Oct. 15, 2026, 4:18 p.m. | 1 hour, 35 minutes ago Description :: Improper Authentication vulnerability in Unitronics Unitronics UniStream Pro/UniLogic. This issue...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:18:11+00:00"
-    },
-    {
-      "title": "CVE-2026-45450 - Unitronics - CWE-119: Improper Restriction of Operations within the Bounds of a Memory Buffer",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-45450",
-      "summary": "CVE ID :CVE-2026-45450 Published : Oct. 15, 2026, 4:18 p.m. | 1 hour, 35 minutes ago Description :: Improper Restriction of Operations within the Bounds of a Memory Buffer vulnerability in Unitronics...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:18:11+00:00"
-    },
-    {
-      "title": "CVE-2026-45449 - Unitronics - CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-45449",
-      "summary": "CVE ID :CVE-2026-45449 Published : Oct. 15, 2026, 4:18 p.m. | 1 hour, 35 minutes ago Description :: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:18:10+00:00"
-    },
-    {
-      "title": "CVE-2026-111095 - JetBrains TeamCity Stored Cross-Site Scripting Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111095",
-      "summary": "CVE ID :CVE-2026-111095 Published : Oct. 15, 2026, 4:17 p.m. | 1 hour, 35 minutes ago Description :In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 stored XSS in the classic project overview...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:17:49+00:00"
-    },
-    {
-      "title": "CVE-2026-111094 - JetBrains TeamCity Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111094",
-      "summary": "CVE ID :CVE-2026-111094 Published : Oct. 15, 2026, 4:17 p.m. | 1 hour, 35 minutes ago Description :In JetBrains TeamCity before 2026.2, 2026.1.4, 2025.11.8 remote code execution via a whitelist...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:17:48+00:00"
-    },
-    {
-      "title": "CVE-2026-110958 - Wavlink WN530HG4B api.cgi heap-based overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110958",
-      "summary": "CVE ID :CVE-2026-110958 Published : Oct. 15, 2026, 4:17 p.m. | 1 hour, 35 minutes ago Description :A vulnerability was found in Wavlink WN530HG4B M30HG4B_V260724. The impacted element is an unknown...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:17:48+00:00"
-    },
-    {
-      "title": "CVE-2026-109449 - Symfony: Unbounded Nesting in the Expression Parser Lets Untrusted Expressions Crash the Process",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109449",
-      "summary": "CVE ID :CVE-2026-109449 Published : Oct. 15, 2026, 4:17 p.m. | 1 hour, 35 minutes ago Description :In Symfony Expression Language versions prior to 5.4.54, 6.4.48, 7.4.21, and 8.1.9, the parser of...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:17:43+00:00"
-    },
-    {
-      "title": "CVE-2026-105474 - SolusVM Server-Side Template Injection Remote Code Execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105474",
-      "summary": "CVE ID :CVE-2026-105474 Published : Oct. 15, 2026, 4:17 p.m. | 1 hour, 36 minutes ago Description :A server-side template injection exists in SolusVM 2 up to version 2.0.0-44576 that allows remote...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:17:34+00:00"
-    },
-    {
-      "title": "CVE-2026-100349 - kin-openapi openapi3filter: nil-pointer panic in ValidateResponse on a response header declared with content",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-100349",
-      "summary": "CVE ID :CVE-2026-100349 Published : Oct. 15, 2026, 4:17 p.m. | 1 hour, 36 minutes ago Description :kin-openapi is a Go project for handling OpenAPI files. Prior to 0.146.0...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T16:17:30+00:00"
     },
     {
       "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
@@ -217,20 +280,6 @@
       "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from...",
       "source": "The Hacker News",
       "published": "2026-10-15T16:00:26+00:00"
-    },
-    {
-      "title": "CVE-2026-47168 - EspoCRM: Authenticated RCE via Unsafe PHP Object Deserialization in MassAction/Export params",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-47168",
-      "summary": "CVE ID :CVE-2026-47168 Published : Oct. 15, 2026, 3:17 p.m. | 2 hours, 35 minutes ago Description :EspoCRM is an open source customer relationship management application. Prior to 9.3.7, an...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T15:17:34+00:00"
-    },
-    {
-      "title": "CVE-2026-110957 - Wavlink WL-WN530BE2-A Login Processing api.cgi sub_12580 os command injection",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110957",
-      "summary": "CVE ID :CVE-2026-110957 Published : Oct. 15, 2026, 3:17 p.m. | 2 hours, 36 minutes ago Description :A vulnerability has been found in Wavlink WL-WN530BE2-A up to M30BE2_V250604. The affected element...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T15:17:30+00:00"
     },
     {
       "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
@@ -438,8 +487,8 @@
     {
       "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
       "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
-      "summary": "Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems.",
-      "source": "Dark Reading",
+      "summary": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware 6 Min ReadSource: cagkansayin via Getty ImagesHundreds of French grocers likely lost many millions of dollars this week from cyberattacks...",
+      "source": "CVE Newsroom",
       "published": "2026-10-15T07:00:00+00:00"
     },
     {
@@ -487,16 +536,9 @@
     {
       "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
       "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
-      "summary": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
-      "source": "Dark Reading",
+      "summary": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles Rob Wright,Senior News Director,Dark ReadingOctober 14, 20265 Min ReadSource: Florencio Horcajo Alvarez via Getty ImagesEven when...",
+      "source": "CVE Newsroom",
       "published": "2026-10-14T21:20:13+00:00"
-    },
-    {
-      "title": "North Macedonian police arrest alleged administrator behind OLVX cybercrime market",
-      "link": "https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia",
-      "summary": "A raid on a home in a North Macedonian village led to the arrest of the suspected administrator of the OLVX market, according to the Balkan country's Interior Ministry along with the FBI.",
-      "source": "The Record",
-      "published": "2026-10-14T21:10:00+00:00"
     },
     {
       "title": "Yam Store: The Phishing Network Behind a Billion Messages",
@@ -597,25 +639,11 @@
       "published": "2026-10-14T13:36:44+00:00"
     },
     {
-      "title": "Global takedown hits network behind 1 billion phishing messages",
-      "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-      "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and...",
-      "source": "BleepingComputer",
-      "published": "2026-10-14T13:12:52+00:00"
-    },
-    {
       "title": "Russian Influence Operation Widely Targets Latin America",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
       "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
       "source": "Dark Reading",
       "published": "2026-10-14T13:00:00+00:00"
-    },
-    {
-      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October...",
-      "source": "BleepingComputer",
-      "published": "2026-10-14T12:58:07+00:00"
     },
     {
       "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
@@ -672,13 +700,6 @@
       "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted...",
       "source": "The Hacker News",
       "published": "2026-10-14T07:46:57+00:00"
-    },
-    {
-      "title": "Microsoft dicht ruim 1400 beveiligingslekken tijdens record Patch Tuesday",
-      "link": "https://www.security.nl/posting/957502/Microsoft+dicht+ruim+1400+beveiligingslekken+tijdens+record+Patch+Tuesday?channel=rss",
-      "summary": "Microsoft dicht ruim 1400 beveiligingslekken tijdens record Patch Tuesday Tijdens de Patch Tuesday van oktober heeft Microsoft ruim 1400 beveiligingslekken in de eigen software gepatcht, waaronder...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-14T07:16:09+00:00"
     },
     {
       "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
@@ -910,13 +931,6 @@
       "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to...",
       "source": "The Hacker News",
       "published": "2026-10-10T11:00:00+00:00"
-    },
-    {
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI)...",
-      "source": "The Hacker News",
-      "published": "2026-10-10T09:18:45+00:00"
     },
     {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
@@ -1162,27 +1176,6 @@
       "summary": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development.",
       "source": "Dark Reading",
       "published": "2026-09-30T18:56:56+00:00"
-    },
-    {
-      "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
-      "link": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
-      "summary": "The APT actor is using a new tactic, dubbed \"RedFlick,\" against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.",
-      "source": "Dark Reading",
-      "published": "2026-09-30T15:02:25+00:00"
-    },
-    {
-      "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
-      "summary": "As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network.",
-      "source": "Dark Reading",
-      "published": "2026-09-30T07:00:00+00:00"
-    },
-    {
-      "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
-      "summary": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
-      "source": "Dark Reading",
-      "published": "2026-09-29T21:31:29+00:00"
     },
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
