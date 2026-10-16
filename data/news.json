@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-10-15T22:47:07.125983+00:00",
+  "last_updated": "2026-10-16T02:22:12.523665+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-75941 - Lenovo Legion Zone Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-75941",
+      "summary": "CVE ID :CVE-2026-75941 Published : Oct. 16, 2026, 12:17 a.m. | 1 hour, 22 minutes ago Description :A potential vulnerability was reported in the Lenovo Legion Zone application, distributed...",
+      "source": "CVE Feed",
+      "published": "2026-10-16T00:17:05+00:00"
+    },
+    {
+      "title": "CVE-2026-111366 - cool-admin-midway through 8.0.0 Authorization Bypass via /admin/sys/user Endpoints",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111366",
+      "summary": "CVE ID :CVE-2026-111366 Published : Oct. 15, 2026, 10:19 p.m. | 3 hours, 19 minutes ago Description :cool-admin-midway through 8.0.0 contains an authorization bypass vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T22:19:34+00:00"
+    },
+    {
+      "title": "CVE-2026-111356 - MacCMS v10 through 2026.1000.4056 Account Takeover via Password Recovery Brute-Force",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111356",
+      "summary": "CVE ID :CVE-2026-111356 Published : Oct. 15, 2026, 10:19 p.m. | 3 hours, 19 minutes ago Description :MacCMS v10 through 2026.1000.4056 does not limit attempts on the six-digit password recovery code...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T22:19:33+00:00"
+    },
+    {
+      "title": "CVE-2026-111352 - ThinkCMF through 8.0.1 Incorrect Authorization in Admin REST API",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111352",
+      "summary": "CVE ID :CVE-2026-111352 Published : Oct. 15, 2026, 10:19 p.m. | 3 hours, 19 minutes ago Description :ThinkCMF through 8.0.1 contains an incorrect authorization vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T22:19:33+00:00"
+    },
+    {
+      "title": "CVE-2026-111347 - go-ldap-admin through 0.6.2 Hard-Coded RSA Private Key via /base/decryptpwd",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111347",
+      "summary": "CVE ID :CVE-2026-111347 Published : Oct. 15, 2026, 10:19 p.m. | 3 hours, 19 minutes ago Description :go-ldap-admin through 0.6.2 embeds a hard-coded RSA private key, published in the public...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T22:19:32+00:00"
+    },
+    {
+      "title": "CVE-2026-111330 - JuggleIM im-server through 1.8.16 Weak Password Hashing via Unsalted SHA-1",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111330",
+      "summary": "CVE ID :CVE-2026-111330 Published : Oct. 15, 2026, 10:19 p.m. | 3 hours, 19 minutes ago Description :JuggleIM im-server through 1.8.16 contains a weak password hashing vulnerability that stores admin...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T22:19:31+00:00"
+    },
+    {
+      "title": "CVE-2026-111329 - JuggleIM im-server through 1.8.16 Default Admin Credentials in Admin Console",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111329",
+      "summary": "CVE ID :CVE-2026-111329 Published : Oct. 15, 2026, 10:19 p.m. | 3 hours, 19 minutes ago Description :JuggleIM im-server through 1.8.16 ships default administrator credentials admin/123456 that allow...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T22:19:31+00:00"
+    },
+    {
+      "title": "CVE-2026-111322 - Archon 0.2.13 through 0.11.1 Missing Authentication via /api/* Control API",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111322",
+      "summary": "CVE ID :CVE-2026-111322 Published : Oct. 15, 2026, 10:19 p.m. | 3 hours, 19 minutes ago Description :Archon 0.2.13 through 0.11.1 contains a missing authentication vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T22:19:30+00:00"
+    },
+    {
+      "title": "CVE-2026-111312 - OpenHealth through 0.2.0 Missing Authentication via /api/health-data/[id] Route",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111312",
+      "summary": "CVE ID :CVE-2026-111312 Published : Oct. 15, 2026, 10:19 p.m. | 3 hours, 19 minutes ago Description :OpenHealth through 0.2.0 contains a missing authentication and authorization vulnerability in the...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T22:19:30+00:00"
+    },
+    {
+      "title": "CVE-2026-111283 - BMC Helix Network Management before 26.3.01 Authentication Bypass via SAML Configuration",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111283",
+      "summary": "CVE ID :CVE-2026-111283 Published : Oct. 15, 2026, 10:19 p.m. | 3 hours, 19 minutes ago Description :BMC Helix Network Management on-prem before 26.3.01 contains an authentication bypass...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T22:19:29+00:00"
+    },
+    {
+      "title": "CVE-2026-111282 - iso14229 before 0.10.1 Out-of-Bounds Read via Handle_0x38_RequestFileTransfer",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111282",
+      "summary": "CVE ID :CVE-2026-111282 Published : Oct. 15, 2026, 10:19 p.m. | 3 hours, 19 minutes ago Description :Driftregion iso14229 before 0.10.1 contains an integer wraparound in...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T22:19:29+00:00"
+    },
+    {
+      "title": "CVE-2026-111281 - Jooan JA-A12 Unauthenticated Root RCE via SetDiagMode Hard-Coded Credentials",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111281",
+      "summary": "CVE ID :CVE-2026-111281 Published : Oct. 15, 2026, 10:19 p.m. | 3 hours, 19 minutes ago Description :Jooan JA-A12 IP cameras with firmware 009_20171107 and 05.02.31.105 contain a remote code...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T22:19:29+00:00"
+    },
+    {
+      "title": "CVE-2026-111280 - snap7 through 1.4.3 Out-of-Bounds Write via TSnap7MicroClient::opReadArea",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111280",
+      "summary": "CVE ID :CVE-2026-111280 Published : Oct. 15, 2026, 10:19 p.m. | 3 hours, 19 minutes ago Description :snap7 through 1.4.3 contains an out-of-bounds write vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T22:19:29+00:00"
+    },
+    {
+      "title": "CVE-2026-111279 - Dragonfly through 2.0.2 Unbounded Memory Allocation via Negative COUNT in HRANDFIELD, ZRANDMEMBER and SRANDMEMBER",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111279",
+      "summary": "CVE ID :CVE-2026-111279 Published : Oct. 15, 2026, 10:19 p.m. | 3 hours, 19 minutes ago Description :Dragonfly through 2.0.2 contains an unbounded memory allocation vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T22:19:29+00:00"
+    },
+    {
+      "title": "CVE-2026-111277 - NivoCart through 2.5.1 Guest Order Invoice Disclosure via account/order/download",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111277",
+      "summary": "CVE ID :CVE-2026-111277 Published : Oct. 15, 2026, 10:19 p.m. | 3 hours, 19 minutes ago Description :NivoCart through 2.5.1 contains a missing authorization vulnerability in the download() action of...",
+      "source": "CVE Feed",
+      "published": "2026-10-15T22:19:28+00:00"
+    },
     {
       "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
       "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
@@ -18,149 +123,72 @@
     {
       "title": "CVE-2026-108452 - Microsoft Office SharePoint Remote Code Execution Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-108452",
-      "summary": "CVE ID :CVE-2026-108452 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "summary": "CVE ID :CVE-2026-108452 Published : Oct. 15, 2026, 9:17 p.m. | 4 hours, 21 minutes ago Description :Improper limitation of a pathname to a restricted directory ('path traversal') in Microsoft Office...",
       "source": "CVE Feed",
-      "published": "2026-10-15T20:57:30+00:00"
+      "published": "2026-10-15T21:17:10+00:00"
     },
     {
       "title": "CVE-2026-108451 - Microsoft Office Word Remote Code Execution Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-108451",
-      "summary": "CVE ID :CVE-2026-108451 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "summary": "CVE ID :CVE-2026-108451 Published : Oct. 15, 2026, 9:17 p.m. | 4 hours, 21 minutes ago Description :Numeric truncation error in Microsoft Office Word allows an unauthorized attacker to execute code...",
       "source": "CVE Feed",
-      "published": "2026-10-15T20:57:29+00:00"
+      "published": "2026-10-15T21:17:10+00:00"
     },
     {
       "title": "CVE-2026-108450 - Microsoft Office Word Remote Code Execution Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-108450",
-      "summary": "CVE ID :CVE-2026-108450 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "summary": "CVE ID :CVE-2026-108450 Published : Oct. 15, 2026, 9:17 p.m. | 4 hours, 21 minutes ago Description :Heap-based buffer overflow in Microsoft Office Word allows an unauthorized attacker to execute code...",
       "source": "CVE Feed",
-      "published": "2026-10-15T20:57:29+00:00"
+      "published": "2026-10-15T21:17:10+00:00"
     },
     {
       "title": "CVE-2026-108449 - Microsoft Office Word Remote Code Execution Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-108449",
-      "summary": "CVE ID :CVE-2026-108449 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "summary": "CVE ID :CVE-2026-108449 Published : Oct. 15, 2026, 9:17 p.m. | 4 hours, 21 minutes ago Description :Heap-based buffer overflow in Microsoft Office Word allows an unauthorized attacker to execute code...",
       "source": "CVE Feed",
-      "published": "2026-10-15T20:57:28+00:00"
+      "published": "2026-10-15T21:17:10+00:00"
     },
     {
       "title": "CVE-2026-108447 - Microsoft Office Word Remote Code Execution Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-108447",
-      "summary": "CVE ID :CVE-2026-108447 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "summary": "CVE ID :CVE-2026-108447 Published : Oct. 15, 2026, 9:17 p.m. | 4 hours, 21 minutes ago Description :Heap-based buffer overflow in Microsoft Office Word allows an unauthorized attacker to execute code...",
       "source": "CVE Feed",
-      "published": "2026-10-15T20:57:27+00:00"
+      "published": "2026-10-15T21:17:10+00:00"
     },
     {
       "title": "CVE-2026-108446 - Microsoft Office Excel Remote Code Execution Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-108446",
-      "summary": "CVE ID :CVE-2026-108446 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "summary": "CVE ID :CVE-2026-108446 Published : Oct. 15, 2026, 9:17 p.m. | 4 hours, 21 minutes ago Description :Use after free in Microsoft Office Excel allows an unauthorized attacker to execute code over a...",
       "source": "CVE Feed",
-      "published": "2026-10-15T20:57:27+00:00"
+      "published": "2026-10-15T21:17:10+00:00"
     },
     {
       "title": "CVE-2026-108445 - Microsoft Office Word Remote Code Execution Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-108445",
-      "summary": "CVE ID :CVE-2026-108445 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "summary": "CVE ID :CVE-2026-108445 Published : Oct. 15, 2026, 9:17 p.m. | 4 hours, 21 minutes ago Description :Stack-based buffer overflow in Microsoft Office Word allows an unauthorized attacker to execute...",
       "source": "CVE Feed",
-      "published": "2026-10-15T20:57:26+00:00"
+      "published": "2026-10-15T21:17:10+00:00"
     },
     {
       "title": "CVE-2026-108444 - Microsoft Office Remote Code Execution Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-108444",
-      "summary": "CVE ID :CVE-2026-108444 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "summary": "CVE ID :CVE-2026-108444 Published : Oct. 15, 2026, 9:17 p.m. | 4 hours, 22 minutes ago Description :Heap-based buffer overflow in Microsoft Office allows an unauthorized attacker to execute code over...",
       "source": "CVE Feed",
-      "published": "2026-10-15T20:57:25+00:00"
+      "published": "2026-10-15T21:17:09+00:00"
     },
     {
       "title": "CVE-2026-108443 - Microsoft Office Word Remote Code Execution Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-108443",
-      "summary": "CVE ID :CVE-2026-108443 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "summary": "CVE ID :CVE-2026-108443 Published : Oct. 15, 2026, 9:17 p.m. | 4 hours, 22 minutes ago Description :Off-by-one error in Microsoft Office Word allows an unauthorized attacker to execute code over a...",
       "source": "CVE Feed",
-      "published": "2026-10-15T20:57:25+00:00"
+      "published": "2026-10-15T21:17:09+00:00"
     },
     {
       "title": "CVE-2026-108442 - Microsoft Office Word Remote Code Execution Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-108442",
-      "summary": "CVE ID :CVE-2026-108442 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
+      "summary": "CVE ID :CVE-2026-108442 Published : Oct. 15, 2026, 9:17 p.m. | 4 hours, 22 minutes ago Description :Use after free in Microsoft Office Word allows an unauthorized attacker to execute code over a...",
       "source": "CVE Feed",
-      "published": "2026-10-15T20:57:24+00:00"
-    },
-    {
-      "title": "CVE-2026-108441 - Microsoft Office Word Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108441",
-      "summary": "CVE ID :CVE-2026-108441 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:57:24+00:00"
-    },
-    {
-      "title": "CVE-2026-108440 - Microsoft Office Word Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108440",
-      "summary": "CVE ID :CVE-2026-108440 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:57:23+00:00"
-    },
-    {
-      "title": "CVE-2026-108439 - Microsoft Office Word Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108439",
-      "summary": "CVE ID :CVE-2026-108439 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:57:23+00:00"
-    },
-    {
-      "title": "CVE-2026-108437 - Microsoft Office Word Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108437",
-      "summary": "CVE ID :CVE-2026-108437 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:57:22+00:00"
-    },
-    {
-      "title": "CVE-2026-108432 - Microsoft Office Word Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108432",
-      "summary": "CVE ID :CVE-2026-108432 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:57:19+00:00"
-    },
-    {
-      "title": "CVE-2026-108431 - Microsoft Office Word Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108431",
-      "summary": "CVE ID :CVE-2026-108431 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:57:19+00:00"
-    },
-    {
-      "title": "CVE-2026-108430 - Microsoft Office Word Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108430",
-      "summary": "CVE ID :CVE-2026-108430 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:57:18+00:00"
-    },
-    {
-      "title": "CVE-2026-108429 - Microsoft Office Word Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108429",
-      "summary": "CVE ID :CVE-2026-108429 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:57:18+00:00"
-    },
-    {
-      "title": "CVE-2026-108428 - Microsoft Office Word Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108428",
-      "summary": "CVE ID :CVE-2026-108428 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:57:18+00:00"
-    },
-    {
-      "title": "CVE-2026-108427 - Microsoft Office Word Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108427",
-      "summary": "CVE ID :CVE-2026-108427 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:57:17+00:00"
-    },
-    {
-      "title": "CVE-2026-108426 - Microsoft Office Word Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108426",
-      "summary": "CVE ID :CVE-2026-108426 Published : Oct. 15, 2026, 8:57 p.m. | 20 minutes ago Description :None Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details, affected products...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:57:16+00:00"
+      "published": "2026-10-15T21:17:09+00:00"
     },
     {
       "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
@@ -170,39 +198,11 @@
       "published": "2026-10-15T20:46:00+00:00"
     },
     {
-      "title": "CVE-2026-105040 - EnergizeLab Eilik User-ID Mass Assignment Account Takeover",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105040",
-      "summary": "CVE ID :CVE-2026-105040 Published : Oct. 15, 2026, 8:43 p.m. | 34 minutes ago Description :The EnergizeLab Eilik NestJS auth service accepts a user-controlled user ID in account update requests (mass...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:43:47+00:00"
-    },
-    {
-      "title": "CVE-2026-105039 - EnergizeLab Station Middleware Admin APIs Missing Role Checks",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105039",
-      "summary": "CVE ID :CVE-2026-105039 Published : Oct. 15, 2026, 8:43 p.m. | 34 minutes ago Description :EnergizeLab station-middleware (NestJS) Docker images 1.6.5 through 1.8.2 do not check user roles on...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:43:38+00:00"
-    },
-    {
-      "title": "CVE-2026-105038 - EnergizeLab Eilik Unauthenticated AI Model Administration and Runtime Model Switching",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105038",
-      "summary": "CVE ID :CVE-2026-105038 Published : Oct. 15, 2026, 8:43 p.m. | 34 minutes ago Description :The EnergizeLab Eilik and EilikO FastAPI AI inference and profiling services expose AI model administration...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:43:30+00:00"
-    },
-    {
       "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
       "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
       "summary": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it.",
       "source": "Dark Reading",
       "published": "2026-10-15T20:43:20+00:00"
-    },
-    {
-      "title": "CVE-2026-105037 - EnergizeLab Station Middleware Authenticated Path Traversal Arbitrary File Read",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105037",
-      "summary": "CVE ID :CVE-2026-105037 Published : Oct. 15, 2026, 8:43 p.m. | 34 minutes ago Description :EnergizeLab station-middleware (NestJS) Docker images 1.6.5 through 1.8.2 allow any registered...",
-      "source": "CVE Feed",
-      "published": "2026-10-15T20:43:13+00:00"
     },
     {
       "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
