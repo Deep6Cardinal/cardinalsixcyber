@@ -1,80 +1,80 @@
 {
-  "last_updated": "2026-10-17T19:52:17.094330+00:00",
+  "last_updated": "2026-10-17T21:52:59.631088+00:00",
   "articles": [
     {
       "title": "CVE-2026-111927 - Coder before 2.35.4 Credential Theft via Workspace Proxy Hostname Prefix Match",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111927",
-      "summary": "CVE ID :CVE-2026-111927 Published : Oct. 17, 2026, 7:16 p.m. | 26 minutes ago Description :Coder before 2.29.20, 2.33.0 before 2.33.12, 2.34.0 before 2.34.8, and 2.35.0 before 2.35.4 contains an...",
+      "summary": "CVE ID :CVE-2026-111927 Published : Oct. 17, 2026, 7:16 p.m. | 48 minutes ago Description :Coder before 2.29.20, 2.33.0 before 2.33.12, 2.34.0 before 2.34.8, and 2.35.0 before 2.35.4 contains an...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:35+00:00"
     },
     {
       "title": "CVE-2026-111924 - Fleet before 4.83.0 Denial of Service via Unbounded Gzip Decompression",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111924",
-      "summary": "CVE ID :CVE-2026-111924 Published : Oct. 17, 2026, 7:16 p.m. | 26 minutes ago Description :Fleet before 4.83.0 contains a denial of service vulnerability that allows unauthenticated attackers to...",
+      "summary": "CVE ID :CVE-2026-111924 Published : Oct. 17, 2026, 7:16 p.m. | 49 minutes ago Description :Fleet before 4.83.0 contains a denial of service vulnerability that allows unauthenticated attackers to...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:35+00:00"
     },
     {
       "title": "CVE-2026-111923 - Fleet before 4.89.0 Unauthenticated DoS via Apple MDM Enrollment Plist Parsing",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111923",
-      "summary": "CVE ID :CVE-2026-111923 Published : Oct. 17, 2026, 7:16 p.m. | 26 minutes ago Description :Fleet before 4.89.0 contains an unbounded recursion vulnerability in Apple MDM enrollment property list...",
+      "summary": "CVE ID :CVE-2026-111923 Published : Oct. 17, 2026, 7:16 p.m. | 49 minutes ago Description :Fleet before 4.89.0 contains an unbounded recursion vulnerability in Apple MDM enrollment property list...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:35+00:00"
     },
     {
       "title": "CVE-2026-111911 - phpMyFAQ 4.0.0 before 4.1.9 Authentication Bypass via WebAuthn Credential Injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111911",
-      "summary": "CVE ID :CVE-2026-111911 Published : Oct. 17, 2026, 7:16 p.m. | 26 minutes ago Description :phpMyFAQ 4.0.0 before 4.1.9 contains an authentication bypass vulnerability where WebAuthn registration...",
+      "summary": "CVE ID :CVE-2026-111911 Published : Oct. 17, 2026, 7:16 p.m. | 49 minutes ago Description :phpMyFAQ 4.0.0 before 4.1.9 contains an authentication bypass vulnerability where WebAuthn registration...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:33+00:00"
     },
     {
       "title": "CVE-2026-111909 - phpMyFAQ before 4.1.9 Missing Authorization Allows Superadmin Deletion via deleteUser API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111909",
-      "summary": "CVE ID :CVE-2026-111909 Published : Oct. 17, 2026, 7:16 p.m. | 26 minutes ago Description :phpMyFAQ before 4.1.9 contains a missing authorization vulnerability in the deleteUser() API that allows...",
+      "summary": "CVE ID :CVE-2026-111909 Published : Oct. 17, 2026, 7:16 p.m. | 49 minutes ago Description :phpMyFAQ before 4.1.9 contains a missing authorization vulnerability in the deleteUser() API that allows...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:33+00:00"
     },
     {
       "title": "CVE-2026-111908 - phpMyFAQ 4.0.0 before 4.1.9 and 4.2.0-alpha before 4.2.0-beta BOLA in FAQ Update via REST API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111908",
-      "summary": "CVE ID :CVE-2026-111908 Published : Oct. 17, 2026, 7:16 p.m. | 26 minutes ago Description :phpMyFAQ 4.0.0 before 4.1.9 and 4.2.0-alpha before 4.2.0-beta contains a broken object-level authorization...",
+      "summary": "CVE ID :CVE-2026-111908 Published : Oct. 17, 2026, 7:16 p.m. | 49 minutes ago Description :phpMyFAQ 4.0.0 before 4.1.9 and 4.2.0-alpha before 4.2.0-beta contains a broken object-level authorization...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:33+00:00"
     },
     {
       "title": "CVE-2026-111901 - phpMyFAQ 4.2.0-alpha before 4.2.0-beta Unauthenticated DoS via API Pagination",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111901",
-      "summary": "CVE ID :CVE-2026-111901 Published : Oct. 17, 2026, 7:16 p.m. | 26 minutes ago Description :phpMyFAQ 4.2.0-alpha before 4.2.0-beta contains an uncontrolled resource consumption vulnerability in the...",
+      "summary": "CVE ID :CVE-2026-111901 Published : Oct. 17, 2026, 7:16 p.m. | 49 minutes ago Description :phpMyFAQ 4.2.0-alpha before 4.2.0-beta contains an uncontrolled resource consumption vulnerability in the...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:31+00:00"
     },
     {
       "title": "CVE-2026-111893 - phpMyFAQ 4.2.0-alpha before 4.2.0-beta Privilege Escalation via Group Category Restrictions API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111893",
-      "summary": "CVE ID :CVE-2026-111893 Published : Oct. 17, 2026, 7:16 p.m. | 26 minutes ago Description :phpMyFAQ 4.2.0-alpha before 4.2.0-beta contains a privilege escalation vulnerability in...",
+      "summary": "CVE ID :CVE-2026-111893 Published : Oct. 17, 2026, 7:16 p.m. | 49 minutes ago Description :phpMyFAQ 4.2.0-alpha before 4.2.0-beta contains a privilege escalation vulnerability in...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:30+00:00"
     },
     {
       "title": "CVE-2026-111884 - phpMyFAQ before 4.1.9 and 4.2.0-alpha before 4.2.0-beta Missing Current-Password Step-Up on E-mail Change Enables Account Takeover",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111884",
-      "summary": "CVE ID :CVE-2026-111884 Published : Oct. 17, 2026, 7:16 p.m. | 26 minutes ago Description :phpMyFAQ before 4.1.9 and 4.2.0-alpha before 4.2.0-beta does not require the current password when changing...",
+      "summary": "CVE ID :CVE-2026-111884 Published : Oct. 17, 2026, 7:16 p.m. | 49 minutes ago Description :phpMyFAQ before 4.1.9 and 4.2.0-alpha before 4.2.0-beta does not require the current password when changing...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:29+00:00"
     },
     {
       "title": "CVE-2026-111882 - phpMyFAQ 3.2.0-alpha before 4.1.9 and 4.2.0-alpha before 4.2.0-beta TOTP 2FA Bypass via SSO Callbacks",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111882",
-      "summary": "CVE ID :CVE-2026-111882 Published : Oct. 17, 2026, 7:16 p.m. | 26 minutes ago Description :phpMyFAQ 3.2.0-alpha before 4.1.9 and 4.2.0-alpha before 4.2.0-beta contains an authentication bypass...",
+      "summary": "CVE ID :CVE-2026-111882 Published : Oct. 17, 2026, 7:16 p.m. | 49 minutes ago Description :phpMyFAQ 3.2.0-alpha before 4.1.9 and 4.2.0-alpha before 4.2.0-beta contains an authentication bypass...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:29+00:00"
     },
     {
       "title": "CVE-2026-111880 - FreeRDP 2.0.0 before 3.32.0 Heap Out-of-Bounds Write via NTLM MIC Offset",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111880",
-      "summary": "CVE ID :CVE-2026-111880 Published : Oct. 17, 2026, 7:16 p.m. | 26 minutes ago Description :FreeRDP versions from 2.0.0 before 3.32.0 contain a heap out-of-bounds write in the server hash-callback...",
+      "summary": "CVE ID :CVE-2026-111880 Published : Oct. 17, 2026, 7:16 p.m. | 49 minutes ago Description :FreeRDP versions from 2.0.0 before 3.32.0 contain a heap out-of-bounds write in the server hash-callback...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:28+00:00"
     },
@@ -130,63 +130,63 @@
     {
       "title": "CVE-2026-92798 - User Registration & Membership <= 5.2.8 - Authenticated (Subscriber+) Arbitrary Shortcode Execution via Referer Header via 'referrer_url' Smart Tag",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-92798",
-      "summary": "CVE ID :CVE-2026-92798 Published : Oct. 17, 2026, 4:17 a.m. | 15 hours, 25 minutes ago Description :The User Registration & Membership plugin for WordPress is vulnerable to Arbitrary Shortcode...",
+      "summary": "CVE ID :CVE-2026-92798 Published : Oct. 17, 2026, 4:17 a.m. | 15 hours, 48 minutes ago Description :The User Registration & Membership plugin for WordPress is vulnerable to Arbitrary Shortcode...",
       "source": "CVE Feed",
       "published": "2026-10-17T04:17:10+00:00"
     },
     {
       "title": "CVE-2026-104736 - LearnPress <= 4.4.10 - Unauthenticated PHP Object Injection via 'checkout-email' Parameter",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-104736",
-      "summary": "CVE ID :CVE-2026-104736 Published : Oct. 17, 2026, 4:16 a.m. | 15 hours, 25 minutes ago Description :The LearnPress plugin for WordPress is vulnerable to PHP Object Injection in versions up to, and...",
+      "summary": "CVE ID :CVE-2026-104736 Published : Oct. 17, 2026, 4:16 a.m. | 15 hours, 48 minutes ago Description :The LearnPress plugin for WordPress is vulnerable to PHP Object Injection in versions up to, and...",
       "source": "CVE Feed",
       "published": "2026-10-17T04:16:47+00:00"
     },
     {
       "title": "CVE-2026-110653 - Appointment Booking Plugin <= 5.7.4 - Unauthenticated Authentication Bypass via Race Condition on OTP Attempts Counter",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-110653",
-      "summary": "CVE ID :CVE-2026-110653 Published : Oct. 17, 2026, 3:16 a.m. | 16 hours, 26 minutes ago Description :The Appointment Booking Plugin – LatePoint | Calendar & Scheduling for WordPress plugin for...",
+      "summary": "CVE ID :CVE-2026-110653 Published : Oct. 17, 2026, 3:16 a.m. | 16 hours, 49 minutes ago Description :The Appointment Booking Plugin – LatePoint | Calendar & Scheduling for WordPress plugin for...",
       "source": "CVE Feed",
       "published": "2026-10-17T03:16:28+00:00"
     },
     {
       "title": "CVE-2026-111854 - Tektronix 3 Series MDO Path Traversal Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111854",
-      "summary": "CVE ID :CVE-2026-111854 Published : Oct. 17, 2026, 2:17 a.m. | 17 hours, 25 minutes ago Description :An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. A path traversal...",
+      "summary": "CVE ID :CVE-2026-111854 Published : Oct. 17, 2026, 2:17 a.m. | 17 hours, 48 minutes ago Description :An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. A path traversal...",
       "source": "CVE Feed",
       "published": "2026-10-17T02:17:18+00:00"
     },
     {
       "title": "CVE-2026-111853 - Tektronix 3 Series MDO OS Command Injection Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111853",
-      "summary": "CVE ID :CVE-2026-111853 Published : Oct. 17, 2026, 2:17 a.m. | 17 hours, 25 minutes ago Description :An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. An OS command injection...",
+      "summary": "CVE ID :CVE-2026-111853 Published : Oct. 17, 2026, 2:17 a.m. | 17 hours, 48 minutes ago Description :An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. An OS command injection...",
       "source": "CVE Feed",
       "published": "2026-10-17T02:17:18+00:00"
     },
     {
       "title": "CVE-2026-111823 - Mage OSS OAuth Authentication Bypass Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111823",
-      "summary": "CVE ID :CVE-2026-111823 Published : Oct. 17, 2026, 2:17 a.m. | 17 hours, 25 minutes ago Description :Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encountering an...",
+      "summary": "CVE ID :CVE-2026-111823 Published : Oct. 17, 2026, 2:17 a.m. | 17 hours, 48 minutes ago Description :Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encountering an...",
       "source": "CVE Feed",
       "published": "2026-10-17T02:17:18+00:00"
     },
     {
       "title": "CVE-2026-96627 - Arcane: Delegated users:update permission allows admin account takeover via password reset (no privilege-hierarchy check)",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-96627",
-      "summary": "CVE ID :CVE-2026-96627 Published : Oct. 16, 2026, 10:18 p.m. | 21 hours, 23 minutes ago Description :Arcane is an interface for managing Docker containers, images, networks, and volumes. Prior to...",
+      "summary": "CVE ID :CVE-2026-96627 Published : Oct. 16, 2026, 10:18 p.m. | 21 hours, 46 minutes ago Description :Arcane is an interface for managing Docker containers, images, networks, and volumes. Prior to...",
       "source": "CVE Feed",
       "published": "2026-10-16T22:18:58+00:00"
     },
     {
       "title": "CVE-2026-96626 - Arcane: Container-registry credential exfiltration via URL repoint + test to attacker host",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-96626",
-      "summary": "CVE ID :CVE-2026-96626 Published : Oct. 16, 2026, 10:18 p.m. | 21 hours, 23 minutes ago Description :Arcane is an interface for managing Docker containers, images, networks, and volumes. Prior to...",
+      "summary": "CVE ID :CVE-2026-96626 Published : Oct. 16, 2026, 10:18 p.m. | 21 hours, 46 minutes ago Description :Arcane is an interface for managing Docker containers, images, networks, and volumes. Prior to...",
       "source": "CVE Feed",
       "published": "2026-10-16T22:18:58+00:00"
     },
     {
       "title": "CVE-2026-49410 - OpenHuman /auth/telegram CSRF allows attacker-controlled session implantation",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-49410",
-      "summary": "CVE ID :CVE-2026-49410 Published : Oct. 16, 2026, 10:17 p.m. | 21 hours, 25 minutes ago Description :OpenHuman is an open-source agent harness available as a desktop application and Rust library...",
+      "summary": "CVE ID :CVE-2026-49410 Published : Oct. 16, 2026, 10:17 p.m. | 21 hours, 48 minutes ago Description :OpenHuman is an open-source agent harness available as a desktop application and Rust library...",
       "source": "CVE Feed",
       "published": "2026-10-16T22:17:23+00:00"
     },
@@ -200,35 +200,35 @@
     {
       "title": "CVE-2026-96620 - Claude Agent SDK: Argument Injection via resume Option Allows Arbitrary Command Execution",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-96620",
-      "summary": "CVE ID :CVE-2026-96620 Published : Oct. 16, 2026, 8:18 p.m. | 23 hours, 24 minutes ago Description :Claude Agent SDK is a Python SDK for Claude Code. Prior to 0.2.121, the resume option is passed to...",
+      "summary": "CVE ID :CVE-2026-96620 Published : Oct. 16, 2026, 8:18 p.m. | 23 hours, 47 minutes ago Description :Claude Agent SDK is a Python SDK for Claude Code. Prior to 0.2.121, the resume option is passed to...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:18:28+00:00"
     },
     {
       "title": "CVE-2026-61726 - Tandoor Recipes: Private recipe authorization bypass via /api/step/ - read and modify another Space member's private recipe content",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-61726",
-      "summary": "CVE ID :CVE-2026-61726 Published : Oct. 16, 2026, 8:17 p.m. | 23 hours, 25 minutes ago Description :Tandoor Recipes is an application for managing recipes, planning meals, and building shopping...",
+      "summary": "CVE ID :CVE-2026-61726 Published : Oct. 16, 2026, 8:17 p.m. | 23 hours, 48 minutes ago Description :Tandoor Recipes is an application for managing recipes, planning meals, and building shopping...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:17:23+00:00"
     },
     {
       "title": "CVE-2026-30971 - ZoneMinder: Authenticated RCE via command injection in monitor Device Path",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-30971",
-      "summary": "CVE ID :CVE-2026-30971 Published : Oct. 16, 2026, 8:17 p.m. | 23 hours, 25 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.39.2...",
+      "summary": "CVE ID :CVE-2026-30971 Published : Oct. 16, 2026, 8:17 p.m. | 23 hours, 48 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.39.2...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:17:23+00:00"
     },
     {
       "title": "CVE-2026-102608 - ZoneMinder: Authenticated OS Command Injection via unsanitized Monitor Name in event export (download_functions.php)",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-102608",
-      "summary": "CVE ID :CVE-2026-102608 Published : Oct. 16, 2026, 8:17 p.m. | 23 hours, 25 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3...",
+      "summary": "CVE ID :CVE-2026-102608 Published : Oct. 16, 2026, 8:17 p.m. | 23 hours, 48 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:17:17+00:00"
     },
     {
       "title": "CVE-2026-102607 - ZoneMinder: Authenticated OS Command Injection (RCE) via Export Feature",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-102607",
-      "summary": "CVE ID :CVE-2026-102607 Published : Oct. 16, 2026, 8:17 p.m. | 23 hours, 25 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3...",
+      "summary": "CVE ID :CVE-2026-102607 Published : Oct. 16, 2026, 8:17 p.m. | 23 hours, 48 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:17:17+00:00"
     },
