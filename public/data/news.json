@@ -1,45 +1,73 @@
 {
-  "last_updated": "2026-10-16T22:20:15.901310+00:00",
+  "last_updated": "2026-10-17T02:14:42.810133+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-111823 - Mage OSS OAuth Authentication Bypass Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111823",
+      "summary": "CVE ID :CVE-2026-111823 Published : Oct. 16, 2026, 11:16 p.m. | 2 hours, 45 minutes ago Description :Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encountering an...",
+      "source": "CVE Feed",
+      "published": "2026-10-16T23:16:29+00:00"
+    },
+    {
+      "title": "CVE-2026-96627 - Arcane: Delegated users:update permission allows admin account takeover via password reset (no privilege-hierarchy check)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-96627",
+      "summary": "CVE ID :CVE-2026-96627 Published : Oct. 16, 2026, 10:18 p.m. | 3 hours, 42 minutes ago Description :Arcane is an interface for managing Docker containers, images, networks, and volumes. Prior to...",
+      "source": "CVE Feed",
+      "published": "2026-10-16T22:18:58+00:00"
+    },
+    {
+      "title": "CVE-2026-96626 - Arcane: Container-registry credential exfiltration via URL repoint + test to attacker host",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-96626",
+      "summary": "CVE ID :CVE-2026-96626 Published : Oct. 16, 2026, 10:18 p.m. | 3 hours, 42 minutes ago Description :Arcane is an interface for managing Docker containers, images, networks, and volumes. Prior to...",
+      "source": "CVE Feed",
+      "published": "2026-10-16T22:18:58+00:00"
+    },
+    {
+      "title": "CVE-2026-49410 - OpenHuman /auth/telegram CSRF allows attacker-controlled session implantation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-49410",
+      "summary": "CVE ID :CVE-2026-49410 Published : Oct. 16, 2026, 10:17 p.m. | 3 hours, 44 minutes ago Description :OpenHuman is an open-source agent harness available as a desktop application and Rust library...",
+      "source": "CVE Feed",
+      "published": "2026-10-16T22:17:23+00:00"
+    },
     {
       "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
       "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
-      "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
-      "source": "Dark Reading",
+      "summary": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs 5 Min ReadSource: ZU_09 via Getty ImagesA week chock full of new high-severity and actively exploited edge vulnerabilities...",
+      "source": "CVE Newsroom",
       "published": "2026-10-16T20:34:37+00:00"
     },
     {
       "title": "CVE-2026-96620 - Claude Agent SDK: Argument Injection via resume Option Allows Arbitrary Command Execution",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-96620",
-      "summary": "CVE ID :CVE-2026-96620 Published : Oct. 16, 2026, 8:18 p.m. | 1 hour, 23 minutes ago Description :Claude Agent SDK is a Python SDK for Claude Code. Prior to 0.2.121, the resume option is passed to...",
+      "summary": "CVE ID :CVE-2026-96620 Published : Oct. 16, 2026, 8:18 p.m. | 5 hours, 43 minutes ago Description :Claude Agent SDK is a Python SDK for Claude Code. Prior to 0.2.121, the resume option is passed to...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:18:28+00:00"
     },
     {
       "title": "CVE-2026-61726 - Tandoor Recipes: Private recipe authorization bypass via /api/step/ - read and modify another Space member's private recipe content",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-61726",
-      "summary": "CVE ID :CVE-2026-61726 Published : Oct. 16, 2026, 8:17 p.m. | 1 hour, 24 minutes ago Description :Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists...",
+      "summary": "CVE ID :CVE-2026-61726 Published : Oct. 16, 2026, 8:17 p.m. | 5 hours, 44 minutes ago Description :Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:17:23+00:00"
     },
     {
       "title": "CVE-2026-30971 - ZoneMinder: Authenticated RCE via command injection in monitor Device Path",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-30971",
-      "summary": "CVE ID :CVE-2026-30971 Published : Oct. 16, 2026, 8:17 p.m. | 1 hour, 24 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.39.2...",
+      "summary": "CVE ID :CVE-2026-30971 Published : Oct. 16, 2026, 8:17 p.m. | 5 hours, 44 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.39.2...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:17:23+00:00"
     },
     {
       "title": "CVE-2026-102608 - ZoneMinder: Authenticated OS Command Injection via unsanitized Monitor Name in event export (download_functions.php)",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-102608",
-      "summary": "CVE ID :CVE-2026-102608 Published : Oct. 16, 2026, 8:17 p.m. | 1 hour, 24 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3...",
+      "summary": "CVE ID :CVE-2026-102608 Published : Oct. 16, 2026, 8:17 p.m. | 5 hours, 44 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:17:17+00:00"
     },
     {
       "title": "CVE-2026-102607 - ZoneMinder: Authenticated OS Command Injection (RCE) via Export Feature",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-102607",
-      "summary": "CVE ID :CVE-2026-102607 Published : Oct. 16, 2026, 8:17 p.m. | 1 hour, 24 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3...",
+      "summary": "CVE ID :CVE-2026-102607 Published : Oct. 16, 2026, 8:17 p.m. | 5 hours, 44 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:17:17+00:00"
     },
@@ -81,142 +109,114 @@
     {
       "title": "CVE-2026-111723 - LingGuo-Drama through commit 8a6924a Broken Access Control via /admin/v1/admins API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111723",
-      "summary": "CVE ID :CVE-2026-111723 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 23 minutes ago Description :LingGuo-Drama through commit 8a6924a contains a missing authorization vulnerability that allows any...",
+      "summary": "CVE ID :CVE-2026-111723 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :LingGuo-Drama through commit 8a6924a contains a missing authorization vulnerability that allows any...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:56+00:00"
     },
     {
       "title": "CVE-2026-111722 - LingGuo-Drama through commit 8a6924a IDOR via /admin/v1/projects/:id API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111722",
-      "summary": "CVE ID :CVE-2026-111722 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 23 minutes ago Description :LingGuo-Drama through commit 8a6924a contains an insecure direct object reference vulnerability...",
+      "summary": "CVE ID :CVE-2026-111722 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :LingGuo-Drama through commit 8a6924a contains an insecure direct object reference vulnerability...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:56+00:00"
     },
     {
       "title": "CVE-2026-111719 - Roncoo-pay through commit 9428382 Information Disclosure via /f2fPay/order/query",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111719",
-      "summary": "CVE ID :CVE-2026-111719 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 23 minutes ago Description :Roncoo-pay through commit 9428382 contains a missing authorization vulnerability in...",
+      "summary": "CVE ID :CVE-2026-111719 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :Roncoo-pay through commit 9428382 contains a missing authorization vulnerability in...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:56+00:00"
     },
     {
       "title": "CVE-2026-111711 - Netcore NR256CN through 1.5.140116 Pre-Auth Stack Overflow via Boa user_ok()",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111711",
-      "summary": "CVE ID :CVE-2026-111711 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :Netcore NR256CN through 1.5.140116 contains a pre-authentication stack overflow vulnerability in...",
+      "summary": "CVE ID :CVE-2026-111711 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :Netcore NR256CN through 1.5.140116 contains a pre-authentication stack overflow vulnerability in...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:55+00:00"
     },
     {
       "title": "CVE-2026-111710 - Netcore NR256CN through 1.5.140116 Boa Web Server NULL Pointer Dereference DoS",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111710",
-      "summary": "CVE ID :CVE-2026-111710 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :Netcore NR256CN through 1.5.140116 contains a NULL pointer dereference vulnerability in the Boa web...",
+      "summary": "CVE ID :CVE-2026-111710 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :Netcore NR256CN through 1.5.140116 contains a NULL pointer dereference vulnerability in the Boa web...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:55+00:00"
     },
     {
       "title": "CVE-2026-111708 - WhaTicket Community through commit cf04795 Admin Self-Registration via /auth/signup",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111708",
-      "summary": "CVE ID :CVE-2026-111708 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :WhaTicket Community through commit cf04795 contains an authentication bypass vulnerability that...",
+      "summary": "CVE ID :CVE-2026-111708 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :WhaTicket Community through commit cf04795 contains an authentication bypass vulnerability that...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:54+00:00"
     },
     {
       "title": "CVE-2026-111706 - 99AI through 4.3.0 Unauthenticated Information Disclosure via chatLog exportExcel",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111706",
-      "summary": "CVE ID :CVE-2026-111706 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :99AI through 4.3.0 contains a missing authentication vulnerability in the POST...",
+      "summary": "CVE ID :CVE-2026-111706 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :99AI through 4.3.0 contains a missing authentication vulnerability in the POST...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:54+00:00"
     },
     {
       "title": "CVE-2026-111704 - LangChat through commit 2a6285a Missing Authentication on REST API Controllers",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111704",
-      "summary": "CVE ID :CVE-2026-111704 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :LangChat through commit 2a6285a contains a missing authentication vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-111704 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :LangChat through commit 2a6285a contains a missing authentication vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:54+00:00"
     },
     {
       "title": "CVE-2026-111702 - ChatOllama through commit 96c3ce5 IDOR Exposes Private Knowledge Bases",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111702",
-      "summary": "CVE ID :CVE-2026-111702 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :ChatOllama through commit 96c3ce5 contains an insecure direct object reference vulnerability that...",
+      "summary": "CVE ID :CVE-2026-111702 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :ChatOllama through commit 96c3ce5 contains an insecure direct object reference vulnerability that...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:54+00:00"
     },
     {
       "title": "CVE-2026-111701 - OtterMind Nubase through 0.1.4 Missing Authentication in Storage Object API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111701",
-      "summary": "CVE ID :CVE-2026-111701 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :OtterMind Nubase through 0.1.4 contains a missing authentication vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-111701 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :OtterMind Nubase through 0.1.4 contains a missing authentication vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:53+00:00"
     },
     {
       "title": "CVE-2026-111693 - DataBuff ai-apm-web through 0.1.10 Hard-Coded Default Admin Credentials",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111693",
-      "summary": "CVE ID :CVE-2026-111693 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :DataBuff ai-apm-web through 0.1.10 contains a hard-coded default credentials vulnerability that...",
+      "summary": "CVE ID :CVE-2026-111693 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :DataBuff ai-apm-web through 0.1.10 contains a hard-coded default credentials vulnerability that...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:52+00:00"
     },
     {
       "title": "CVE-2026-111692 - DataBuff ai-apm-web through 0.1.10 Authentication Bypass via Hardcoded HMAC Secret",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111692",
-      "summary": "CVE ID :CVE-2026-111692 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :DataBuff ai-apm-web through 0.1.10 contains an authentication bypass vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-111692 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :DataBuff ai-apm-web through 0.1.10 contains an authentication bypass vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:52+00:00"
     },
     {
       "title": "CVE-2026-111691 - WIMOOR through commit ec86736 Authentication Bypass via Forged X-USERINFO Header",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111691",
-      "summary": "CVE ID :CVE-2026-111691 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :WIMOOR through commit ec86736 contains an authentication bypass vulnerability that allows attackers...",
+      "summary": "CVE ID :CVE-2026-111691 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :WIMOOR through commit ec86736 contains an authentication bypass vulnerability that allows attackers...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:52+00:00"
     },
     {
       "title": "CVE-2026-111690 - Simple Admin Core through 1.8.7 Hard-Coded JWT Secret Authentication Bypass",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111690",
-      "summary": "CVE ID :CVE-2026-111690 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :Simple Admin Core through 1.8.7 contains an authentication bypass vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-111690 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :Simple Admin Core through 1.8.7 contains an authentication bypass vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:52+00:00"
     },
     {
       "title": "CVE-2026-111687 - WeRSS (we-mp-rss) through 1.5.3 RCE via template Parameter in /rss Endpoint",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111687",
-      "summary": "CVE ID :CVE-2026-111687 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :WeRSS (we-mp-rss) through 1.5.3 contains a remote code execution vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-111687 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :WeRSS (we-mp-rss) through 1.5.3 contains a remote code execution vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:51+00:00"
     },
     {
       "title": "CVE-2026-111686 - IceCMS through 4.1.5 SQL Injection via /WebArticle/findarticlesbynum",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111686",
-      "summary": "CVE ID :CVE-2026-111686 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :IceCMS through 4.1.5 contains an unauthenticated sql injection vulnerability that allows remote...",
+      "summary": "CVE ID :CVE-2026-111686 Published : Oct. 16, 2026, 6:17 p.m. | 7 hours, 43 minutes ago Description :IceCMS through 4.1.5 contains an unauthenticated sql injection vulnerability that allows remote...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:51+00:00"
-    },
-    {
-      "title": "CVE-2026-111685 - IceCMS through 4.1.5 SQL Injection via /WebResource/findresourcebynum",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111685",
-      "summary": "CVE ID :CVE-2026-111685 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :IceCMS through 4.1.5 contains an unauthenticated sql injection vulnerability that allows remote...",
-      "source": "CVE Feed",
-      "published": "2026-10-16T18:17:51+00:00"
-    },
-    {
-      "title": "CVE-2026-111684 - Magistrala through 1.0.0 Cross-Tenant Authorization Bypass in Certs Service",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111684",
-      "summary": "CVE ID :CVE-2026-111684 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :Magistrala through 1.0.0 contains an authorization bypass vulnerability that allows authenticated...",
-      "source": "CVE Feed",
-      "published": "2026-10-16T18:17:51+00:00"
-    },
-    {
-      "title": "CVE-2026-111681 - EFAK through 5.1.0 Privilege Escalation via /api/users REST API",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111681",
-      "summary": "CVE ID :CVE-2026-111681 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :EFAK through 5.1.0 contains a missing authorization vulnerability that allows authenticated...",
-      "source": "CVE Feed",
-      "published": "2026-10-16T18:17:51+00:00"
-    },
-    {
-      "title": "CVE-2026-111680 - APIPark through 1.9.7-beta Cross-Team Authorization Bypass via Team Query Parameter",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111680",
-      "summary": "CVE ID :CVE-2026-111680 Published : Oct. 16, 2026, 6:17 p.m. | 3 hours, 24 minutes ago Description :APIPark through 1.9.7-beta contains an authorization bypass vulnerability that allows authenticated...",
-      "source": "CVE Feed",
-      "published": "2026-10-16T18:17:50+00:00"
     },
     {
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
@@ -739,8 +739,8 @@
     {
       "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
       "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "summary": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write...",
-      "source": "CVE Newsroom",
+      "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The...",
+      "source": "The Hacker News",
       "published": "2026-10-14T18:38:56+00:00"
     },
     {
