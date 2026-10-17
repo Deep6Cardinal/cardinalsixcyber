@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-10-17T08:08:33.918742+00:00",
+  "last_updated": "2026-10-17T13:21:44.483540+00:00",
   "articles": [
+    {
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded...",
+      "source": "The Hacker News",
+      "published": "2026-10-17T11:11:56+00:00"
+    },
+    {
+      "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
+      "link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+      "summary": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware...",
+      "source": "SecurityWeek",
+      "published": "2026-10-17T11:00:00+00:00"
+    },
     {
       "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
       "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
@@ -18,63 +32,63 @@
     {
       "title": "CVE-2026-92798 - User Registration & Membership <= 5.2.8 - Authenticated (Subscriber+) Arbitrary Shortcode Execution via Referer Header via 'referrer_url' Smart Tag",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-92798",
-      "summary": "CVE ID :CVE-2026-92798 Published : Oct. 17, 2026, 4:17 a.m. | 3 hours, 45 minutes ago Description :The User Registration & Membership plugin for WordPress is vulnerable to Arbitrary Shortcode...",
+      "summary": "CVE ID :CVE-2026-92798 Published : Oct. 17, 2026, 4:17 a.m. | 7 hours, 38 minutes ago Description :The User Registration & Membership plugin for WordPress is vulnerable to Arbitrary Shortcode...",
       "source": "CVE Feed",
       "published": "2026-10-17T04:17:10+00:00"
     },
     {
       "title": "CVE-2026-104736 - LearnPress <= 4.4.10 - Unauthenticated PHP Object Injection via 'checkout-email' Parameter",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-104736",
-      "summary": "CVE ID :CVE-2026-104736 Published : Oct. 17, 2026, 4:16 a.m. | 3 hours, 46 minutes ago Description :The LearnPress plugin for WordPress is vulnerable to PHP Object Injection in versions up to, and...",
+      "summary": "CVE ID :CVE-2026-104736 Published : Oct. 17, 2026, 4:16 a.m. | 7 hours, 38 minutes ago Description :The LearnPress plugin for WordPress is vulnerable to PHP Object Injection in versions up to, and...",
       "source": "CVE Feed",
       "published": "2026-10-17T04:16:47+00:00"
     },
     {
       "title": "CVE-2026-110653 - Appointment Booking Plugin <= 5.7.4 - Unauthenticated Authentication Bypass via Race Condition on OTP Attempts Counter",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-110653",
-      "summary": "CVE ID :CVE-2026-110653 Published : Oct. 17, 2026, 3:16 a.m. | 4 hours, 46 minutes ago Description :The Appointment Booking Plugin – LatePoint | Calendar & Scheduling for WordPress plugin for...",
+      "summary": "CVE ID :CVE-2026-110653 Published : Oct. 17, 2026, 3:16 a.m. | 8 hours, 39 minutes ago Description :The Appointment Booking Plugin – LatePoint | Calendar & Scheduling for WordPress plugin for...",
       "source": "CVE Feed",
       "published": "2026-10-17T03:16:28+00:00"
     },
     {
       "title": "CVE-2026-111854 - Tektronix 3 Series MDO Path Traversal Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111854",
-      "summary": "CVE ID :CVE-2026-111854 Published : Oct. 17, 2026, 2:17 a.m. | 5 hours, 45 minutes ago Description :An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. A path traversal...",
+      "summary": "CVE ID :CVE-2026-111854 Published : Oct. 17, 2026, 2:17 a.m. | 9 hours, 38 minutes ago Description :An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. A path traversal...",
       "source": "CVE Feed",
       "published": "2026-10-17T02:17:18+00:00"
     },
     {
       "title": "CVE-2026-111853 - Tektronix 3 Series MDO OS Command Injection Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111853",
-      "summary": "CVE ID :CVE-2026-111853 Published : Oct. 17, 2026, 2:17 a.m. | 5 hours, 45 minutes ago Description :An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. An OS command injection...",
+      "summary": "CVE ID :CVE-2026-111853 Published : Oct. 17, 2026, 2:17 a.m. | 9 hours, 38 minutes ago Description :An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. An OS command injection...",
       "source": "CVE Feed",
       "published": "2026-10-17T02:17:18+00:00"
     },
     {
       "title": "CVE-2026-111823 - Mage OSS OAuth Authentication Bypass Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111823",
-      "summary": "CVE ID :CVE-2026-111823 Published : Oct. 17, 2026, 2:17 a.m. | 5 hours, 45 minutes ago Description :Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encountering an...",
+      "summary": "CVE ID :CVE-2026-111823 Published : Oct. 17, 2026, 2:17 a.m. | 9 hours, 38 minutes ago Description :Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encountering an...",
       "source": "CVE Feed",
       "published": "2026-10-17T02:17:18+00:00"
     },
     {
       "title": "CVE-2026-96627 - Arcane: Delegated users:update permission allows admin account takeover via password reset (no privilege-hierarchy check)",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-96627",
-      "summary": "CVE ID :CVE-2026-96627 Published : Oct. 16, 2026, 10:18 p.m. | 9 hours, 43 minutes ago Description :Arcane is an interface for managing Docker containers, images, networks, and volumes. Prior to...",
+      "summary": "CVE ID :CVE-2026-96627 Published : Oct. 16, 2026, 10:18 p.m. | 13 hours, 36 minutes ago Description :Arcane is an interface for managing Docker containers, images, networks, and volumes. Prior to...",
       "source": "CVE Feed",
       "published": "2026-10-16T22:18:58+00:00"
     },
     {
       "title": "CVE-2026-96626 - Arcane: Container-registry credential exfiltration via URL repoint + test to attacker host",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-96626",
-      "summary": "CVE ID :CVE-2026-96626 Published : Oct. 16, 2026, 10:18 p.m. | 9 hours, 43 minutes ago Description :Arcane is an interface for managing Docker containers, images, networks, and volumes. Prior to...",
+      "summary": "CVE ID :CVE-2026-96626 Published : Oct. 16, 2026, 10:18 p.m. | 13 hours, 36 minutes ago Description :Arcane is an interface for managing Docker containers, images, networks, and volumes. Prior to...",
       "source": "CVE Feed",
       "published": "2026-10-16T22:18:58+00:00"
     },
     {
       "title": "CVE-2026-49410 - OpenHuman /auth/telegram CSRF allows attacker-controlled session implantation",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-49410",
-      "summary": "CVE ID :CVE-2026-49410 Published : Oct. 16, 2026, 10:17 p.m. | 9 hours, 45 minutes ago Description :OpenHuman is an open-source agent harness available as a desktop application and Rust library...",
+      "summary": "CVE ID :CVE-2026-49410 Published : Oct. 16, 2026, 10:17 p.m. | 13 hours, 38 minutes ago Description :OpenHuman is an open-source agent harness available as a desktop application and Rust library...",
       "source": "CVE Feed",
       "published": "2026-10-16T22:17:23+00:00"
     },
@@ -88,35 +102,35 @@
     {
       "title": "CVE-2026-96620 - Claude Agent SDK: Argument Injection via resume Option Allows Arbitrary Command Execution",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-96620",
-      "summary": "CVE ID :CVE-2026-96620 Published : Oct. 16, 2026, 8:18 p.m. | 11 hours, 44 minutes ago Description :Claude Agent SDK is a Python SDK for Claude Code. Prior to 0.2.121, the resume option is passed to...",
+      "summary": "CVE ID :CVE-2026-96620 Published : Oct. 16, 2026, 8:18 p.m. | 15 hours, 37 minutes ago Description :Claude Agent SDK is a Python SDK for Claude Code. Prior to 0.2.121, the resume option is passed to...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:18:28+00:00"
     },
     {
       "title": "CVE-2026-61726 - Tandoor Recipes: Private recipe authorization bypass via /api/step/ - read and modify another Space member's private recipe content",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-61726",
-      "summary": "CVE ID :CVE-2026-61726 Published : Oct. 16, 2026, 8:17 p.m. | 11 hours, 45 minutes ago Description :Tandoor Recipes is an application for managing recipes, planning meals, and building shopping...",
+      "summary": "CVE ID :CVE-2026-61726 Published : Oct. 16, 2026, 8:17 p.m. | 15 hours, 38 minutes ago Description :Tandoor Recipes is an application for managing recipes, planning meals, and building shopping...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:17:23+00:00"
     },
     {
       "title": "CVE-2026-30971 - ZoneMinder: Authenticated RCE via command injection in monitor Device Path",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-30971",
-      "summary": "CVE ID :CVE-2026-30971 Published : Oct. 16, 2026, 8:17 p.m. | 11 hours, 45 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.39.2...",
+      "summary": "CVE ID :CVE-2026-30971 Published : Oct. 16, 2026, 8:17 p.m. | 15 hours, 38 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.39.2...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:17:23+00:00"
     },
     {
       "title": "CVE-2026-102608 - ZoneMinder: Authenticated OS Command Injection via unsanitized Monitor Name in event export (download_functions.php)",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-102608",
-      "summary": "CVE ID :CVE-2026-102608 Published : Oct. 16, 2026, 8:17 p.m. | 11 hours, 45 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3...",
+      "summary": "CVE ID :CVE-2026-102608 Published : Oct. 16, 2026, 8:17 p.m. | 15 hours, 38 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:17:17+00:00"
     },
     {
       "title": "CVE-2026-102607 - ZoneMinder: Authenticated OS Command Injection (RCE) via Export Feature",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-102607",
-      "summary": "CVE ID :CVE-2026-102607 Published : Oct. 16, 2026, 8:17 p.m. | 11 hours, 45 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3...",
+      "summary": "CVE ID :CVE-2026-102607 Published : Oct. 16, 2026, 8:17 p.m. | 15 hours, 38 minutes ago Description :ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3...",
       "source": "CVE Feed",
       "published": "2026-10-16T20:17:17+00:00"
     },
@@ -158,77 +172,77 @@
     {
       "title": "CVE-2026-111723 - LingGuo-Drama through commit 8a6924a Broken Access Control via /admin/v1/admins API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111723",
-      "summary": "CVE ID :CVE-2026-111723 Published : Oct. 16, 2026, 6:17 p.m. | 13 hours, 44 minutes ago Description :LingGuo-Drama through commit 8a6924a contains a missing authorization vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-111723 Published : Oct. 16, 2026, 6:17 p.m. | 17 hours, 37 minutes ago Description :LingGuo-Drama through commit 8a6924a contains a missing authorization vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:56+00:00"
     },
     {
       "title": "CVE-2026-111722 - LingGuo-Drama through commit 8a6924a IDOR via /admin/v1/projects/:id API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111722",
-      "summary": "CVE ID :CVE-2026-111722 Published : Oct. 16, 2026, 6:17 p.m. | 13 hours, 44 minutes ago Description :LingGuo-Drama through commit 8a6924a contains an insecure direct object reference vulnerability...",
+      "summary": "CVE ID :CVE-2026-111722 Published : Oct. 16, 2026, 6:17 p.m. | 17 hours, 37 minutes ago Description :LingGuo-Drama through commit 8a6924a contains an insecure direct object reference vulnerability...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:56+00:00"
     },
     {
       "title": "CVE-2026-111719 - Roncoo-pay through commit 9428382 Information Disclosure via /f2fPay/order/query",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111719",
-      "summary": "CVE ID :CVE-2026-111719 Published : Oct. 16, 2026, 6:17 p.m. | 13 hours, 44 minutes ago Description :Roncoo-pay through commit 9428382 contains a missing authorization vulnerability in...",
+      "summary": "CVE ID :CVE-2026-111719 Published : Oct. 16, 2026, 6:17 p.m. | 17 hours, 37 minutes ago Description :Roncoo-pay through commit 9428382 contains a missing authorization vulnerability in...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:56+00:00"
     },
     {
       "title": "CVE-2026-111711 - Netcore NR256CN through 1.5.140116 Pre-Auth Stack Overflow via Boa user_ok()",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111711",
-      "summary": "CVE ID :CVE-2026-111711 Published : Oct. 16, 2026, 6:17 p.m. | 13 hours, 44 minutes ago Description :Netcore NR256CN through 1.5.140116 contains a pre-authentication stack overflow vulnerability in...",
+      "summary": "CVE ID :CVE-2026-111711 Published : Oct. 16, 2026, 6:17 p.m. | 17 hours, 37 minutes ago Description :Netcore NR256CN through 1.5.140116 contains a pre-authentication stack overflow vulnerability in...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:55+00:00"
     },
     {
       "title": "CVE-2026-111710 - Netcore NR256CN through 1.5.140116 Boa Web Server NULL Pointer Dereference DoS",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111710",
-      "summary": "CVE ID :CVE-2026-111710 Published : Oct. 16, 2026, 6:17 p.m. | 13 hours, 44 minutes ago Description :Netcore NR256CN through 1.5.140116 contains a NULL pointer dereference vulnerability in the Boa...",
+      "summary": "CVE ID :CVE-2026-111710 Published : Oct. 16, 2026, 6:17 p.m. | 17 hours, 37 minutes ago Description :Netcore NR256CN through 1.5.140116 contains a NULL pointer dereference vulnerability in the Boa...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:55+00:00"
     },
     {
       "title": "CVE-2026-111708 - WhaTicket Community through commit cf04795 Admin Self-Registration via /auth/signup",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111708",
-      "summary": "CVE ID :CVE-2026-111708 Published : Oct. 16, 2026, 6:17 p.m. | 13 hours, 44 minutes ago Description :WhaTicket Community through commit cf04795 contains an authentication bypass vulnerability that...",
+      "summary": "CVE ID :CVE-2026-111708 Published : Oct. 16, 2026, 6:17 p.m. | 17 hours, 37 minutes ago Description :WhaTicket Community through commit cf04795 contains an authentication bypass vulnerability that...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:54+00:00"
     },
     {
       "title": "CVE-2026-111706 - 99AI through 4.3.0 Unauthenticated Information Disclosure via chatLog exportExcel",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111706",
-      "summary": "CVE ID :CVE-2026-111706 Published : Oct. 16, 2026, 6:17 p.m. | 13 hours, 44 minutes ago Description :99AI through 4.3.0 contains a missing authentication vulnerability in the POST...",
+      "summary": "CVE ID :CVE-2026-111706 Published : Oct. 16, 2026, 6:17 p.m. | 17 hours, 37 minutes ago Description :99AI through 4.3.0 contains a missing authentication vulnerability in the POST...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:54+00:00"
     },
     {
       "title": "CVE-2026-111704 - LangChat through commit 2a6285a Missing Authentication on REST API Controllers",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111704",
-      "summary": "CVE ID :CVE-2026-111704 Published : Oct. 16, 2026, 6:17 p.m. | 13 hours, 44 minutes ago Description :LangChat through commit 2a6285a contains a missing authentication vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-111704 Published : Oct. 16, 2026, 6:17 p.m. | 17 hours, 37 minutes ago Description :LangChat through commit 2a6285a contains a missing authentication vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:54+00:00"
     },
     {
       "title": "CVE-2026-111702 - ChatOllama through commit 96c3ce5 IDOR Exposes Private Knowledge Bases",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111702",
-      "summary": "CVE ID :CVE-2026-111702 Published : Oct. 16, 2026, 6:17 p.m. | 13 hours, 44 minutes ago Description :ChatOllama through commit 96c3ce5 contains an insecure direct object reference vulnerability that...",
+      "summary": "CVE ID :CVE-2026-111702 Published : Oct. 16, 2026, 6:17 p.m. | 17 hours, 37 minutes ago Description :ChatOllama through commit 96c3ce5 contains an insecure direct object reference vulnerability that...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:54+00:00"
     },
     {
       "title": "CVE-2026-111701 - OtterMind Nubase through 0.1.4 Missing Authentication in Storage Object API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111701",
-      "summary": "CVE ID :CVE-2026-111701 Published : Oct. 16, 2026, 6:17 p.m. | 13 hours, 44 minutes ago Description :OtterMind Nubase through 0.1.4 contains a missing authentication vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-111701 Published : Oct. 16, 2026, 6:17 p.m. | 17 hours, 37 minutes ago Description :OtterMind Nubase through 0.1.4 contains a missing authentication vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:53+00:00"
     },
     {
       "title": "CVE-2026-111693 - DataBuff ai-apm-web through 0.1.10 Hard-Coded Default Admin Credentials",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111693",
-      "summary": "CVE ID :CVE-2026-111693 Published : Oct. 16, 2026, 6:17 p.m. | 13 hours, 44 minutes ago Description :DataBuff ai-apm-web through 0.1.10 contains a hard-coded default credentials vulnerability that...",
+      "summary": "CVE ID :CVE-2026-111693 Published : Oct. 16, 2026, 6:17 p.m. | 17 hours, 37 minutes ago Description :DataBuff ai-apm-web through 0.1.10 contains a hard-coded default credentials vulnerability that...",
       "source": "CVE Feed",
       "published": "2026-10-16T18:17:52+00:00"
     },
@@ -452,8 +466,8 @@
     {
       "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
       "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-      "summary": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a...",
-      "source": "CVE Newsroom",
+      "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack...",
+      "source": "The Hacker News",
       "published": "2026-10-16T04:59:36+00:00"
     },
     {
@@ -501,8 +515,8 @@
     {
       "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
       "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "summary": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host...",
-      "source": "CVE Newsroom",
+      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud...",
+      "source": "The Hacker News",
       "published": "2026-10-15T20:24:36+00:00"
     },
     {
@@ -515,8 +529,8 @@
     {
       "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
       "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-      "summary": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an...",
-      "source": "CVE Newsroom",
+      "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets...",
+      "source": "The Hacker News",
       "published": "2026-10-15T18:49:33+00:00"
     },
     {
@@ -557,8 +571,8 @@
     {
       "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
       "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-      "summary": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government...",
-      "source": "CVE Newsroom",
+      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from...",
+      "source": "The Hacker News",
       "published": "2026-10-15T16:00:26+00:00"
     },
     {
@@ -567,13 +581,6 @@
       "summary": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
       "source": "Dark Reading",
       "published": "2026-10-15T15:17:18+00:00"
-    },
-    {
-      "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
-      "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
-      "summary": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "published": "2026-10-15T14:22:34+00:00"
     },
     {
       "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
@@ -599,22 +606,22 @@
     {
       "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
       "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-      "summary": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in...",
-      "source": "CVE Newsroom",
+      "summary": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind...",
+      "source": "The Hacker News",
       "published": "2026-10-15T12:58:05+00:00"
     },
     {
       "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
       "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-      "summary": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing...",
-      "source": "CVE Newsroom",
+      "summary": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One...",
+      "source": "The Hacker News",
       "published": "2026-10-15T12:28:13+00:00"
     },
     {
-      "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
       "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
-      "summary": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and...",
-      "source": "CVE Newsroom",
+      "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An...",
+      "source": "The Hacker News",
       "published": "2026-10-15T12:07:20+00:00"
     },
     {
@@ -637,6 +644,13 @@
       "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns...",
       "source": "The Hacker News",
       "published": "2026-10-15T11:46:59+00:00"
+    },
+    {
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score...",
+      "source": "The Hacker News",
+      "published": "2026-10-15T11:46:49+00:00"
     },
     {
       "title": "Curl verhelpt 'high' RCE-kwetsbaarheid gevonden door Anthropic",
@@ -697,8 +711,8 @@
     {
       "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
       "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-      "summary": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian...",
-      "source": "CVE Newsroom",
+      "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence...",
+      "source": "The Hacker News",
       "published": "2026-10-15T07:07:05+00:00"
     },
     {
@@ -711,16 +725,9 @@
     {
       "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
       "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "summary": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have...",
-      "source": "CVE Newsroom",
+      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The...",
+      "source": "The Hacker News",
       "published": "2026-10-15T06:43:08+00:00"
-    },
-    {
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "summary": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-15T06:17:58+00:00"
     },
     {
       "title": "CISA Adds Microsoft, Ivanti, Cisco and Palo Alto Networks Vulnerabilities to KEV Catalog",
@@ -973,13 +980,6 @@
       "summary": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says...",
       "source": "The Hacker News",
       "published": "2026-10-13T08:44:01+00:00"
-    },
-    {
-      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-      "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-      "summary": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. \"GitLab has...",
-      "source": "The Hacker News",
-      "published": "2026-10-13T08:43:37+00:00"
     },
     {
       "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
