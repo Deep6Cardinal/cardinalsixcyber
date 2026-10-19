@@ -1,12 +1,68 @@
 {
-  "last_updated": "2026-10-19T02:30:18.109854+00:00",
+  "last_updated": "2026-10-19T09:26:28.347034+00:00",
   "articles": [
+    {
+      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+      "summary": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-19T08:58:41+00:00"
+    },
+    {
+      "title": "Anthropic Acquires Confidential AI Startup Opaque Systems",
+      "link": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
+      "summary": "Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware. The post Anthropic Acquires Confidential AI Startup Opaque...",
+      "source": "SecurityWeek",
+      "published": "2026-10-19T07:45:25+00:00"
+    },
+    {
+      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+      "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+      "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin...",
+      "source": "The Hacker News",
+      "published": "2026-10-19T06:29:44+00:00"
+    },
+    {
+      "title": "CVE-2026-16487 - Bootc: containers-common: bootc: automatic updates can apply unsigned mutable-tag content under default containers policy",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-16487",
+      "summary": "CVE ID :CVE-2026-16487 Published : Oct. 19, 2026, 6:17 a.m. | 2 hours, 13 minutes ago Description :A flaw was found in bootc when operating with the default containers signature policy. Automatic or...",
+      "source": "CVE Feed",
+      "published": "2026-10-19T06:17:24+00:00"
+    },
+    {
+      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+      "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+      "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is...",
+      "source": "The Hacker News",
+      "published": "2026-10-19T06:07:08+00:00"
+    },
+    {
+      "title": "CVE-2026-111441 - HLL 反序列化 lenTotal/lenUsed 校验缺失导致堆越界写",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111441",
+      "summary": "CVE ID :CVE-2026-111441 Published : Oct. 19, 2026, 3:16 a.m. | 5 hours, 14 minutes ago Description :在 openGauss-server 的 src/gausskernel/cbb/utils/hll/hll.cpp 中，内置函数 HllObjectUnpack()...",
+      "source": "CVE Feed",
+      "published": "2026-10-19T03:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-103091 - Insecure Default Policy and Unrestricted OIDC Enrollment in Google OSS Agent Mesh (SAM)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-103091",
+      "summary": "CVE ID :CVE-2026-103091 Published : Oct. 19, 2026, 3:16 a.m. | 5 hours, 14 minutes ago Description :Missing Authorization (CWE-862) and Initialization of a Resource with an Insecure Default...",
+      "source": "CVE Feed",
+      "published": "2026-10-19T03:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-102503 - Missing Authentication on /libp2p-http Ingress in Google OSS Agent Mesh (SAM)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102503",
+      "summary": "CVE ID :CVE-2026-102503 Published : Oct. 19, 2026, 3:16 a.m. | 5 hours, 14 minutes ago Description :Missing Authentication for Critical Function (CWE-306) and Missing Authorization (CWE-862) in the...",
+      "source": "CVE Feed",
+      "published": "2026-10-19T03:16:58+00:00"
+    },
     {
       "title": "CVE-2026-108983 - GV-ASManager Web Server Command Injection Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-108983",
-      "summary": "CVE ID :CVE-2026-108983 Published : Oct. 19, 2026, 12:51 a.m. | 51 minutes ago Description :A vulnerability is in Web Server default connection ports under the process name GeoWebServer.exe...",
+      "summary": "CVE ID :CVE-2026-108983 Published : Oct. 19, 2026, 2:17 a.m. | 6 hours, 13 minutes ago Description :A vulnerability is in Web Server default connection ports under the process name GeoWebServer.exe...",
       "source": "CVE Feed",
-      "published": "2026-10-19T00:51:53+00:00"
+      "published": "2026-10-19T02:17:05+00:00"
     },
     {
       "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
@@ -18,91 +74,91 @@
     {
       "title": "CVE-2026-112051 - Xinference through 4.0.1 Path Traversal via model_name in Custom Model Registration",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-112051",
-      "summary": "CVE ID :CVE-2026-112051 Published : Oct. 18, 2026, 1:16 p.m. | 12 hours, 26 minutes ago Description :Xinference through 4.0.1 contains a path traversal vulnerability on Windows that allows...",
+      "summary": "CVE ID :CVE-2026-112051 Published : Oct. 18, 2026, 1:16 p.m. | 19 hours, 14 minutes ago Description :Xinference through 4.0.1 contains a path traversal vulnerability on Windows that allows...",
       "source": "CVE Feed",
       "published": "2026-10-18T13:16:37+00:00"
     },
     {
       "title": "CVE-2026-112021 - snac2 before 2.93 Heap-Based Buffer Overflow via JSON Parser _xs_json_load_lexer()",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-112021",
-      "summary": "CVE ID :CVE-2026-112021 Published : Oct. 18, 2026, 12:17 p.m. | 13 hours, 26 minutes ago Description :snac2 before 2.93 contains a heap-based buffer overflow vulnerability in _xs_json_load_lexer()...",
+      "summary": "CVE ID :CVE-2026-112021 Published : Oct. 18, 2026, 12:17 p.m. | 20 hours, 13 minutes ago Description :snac2 before 2.93 contains a heap-based buffer overflow vulnerability in _xs_json_load_lexer()...",
       "source": "CVE Feed",
       "published": "2026-10-18T12:17:15+00:00"
     },
     {
       "title": "CVE-2026-112006 - OpenTelemetry opentelemetry-exporter-otlp-proto-http 1.5.0 before 1.45.0 Improper Certificate Validation",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-112006",
-      "summary": "CVE ID :CVE-2026-112006 Published : Oct. 18, 2026, 12:17 p.m. | 13 hours, 26 minutes ago Description :OpenTelemetry opentelemetry-exporter-otlp-proto-http 1.5.0 before 1.45.0 contains an improper...",
+      "summary": "CVE ID :CVE-2026-112006 Published : Oct. 18, 2026, 12:17 p.m. | 20 hours, 13 minutes ago Description :OpenTelemetry opentelemetry-exporter-otlp-proto-http 1.5.0 before 1.45.0 contains an improper...",
       "source": "CVE Feed",
       "published": "2026-10-18T12:17:12+00:00"
     },
     {
       "title": "CVE-2026-112005 - WhoDB 0.104.0 before 0.135.0 Arbitrary File Read/Write via DuckDB Query Editor",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-112005",
-      "summary": "CVE ID :CVE-2026-112005 Published : Oct. 18, 2026, 12:17 p.m. | 13 hours, 26 minutes ago Description :WhoDB 0.104.0 before 0.135.0 contains a path traversal vulnerability that allows remote attackers...",
+      "summary": "CVE ID :CVE-2026-112005 Published : Oct. 18, 2026, 12:17 p.m. | 20 hours, 13 minutes ago Description :WhoDB 0.104.0 before 0.135.0 contains a path traversal vulnerability that allows remote attackers...",
       "source": "CVE Feed",
       "published": "2026-10-18T12:17:12+00:00"
     },
     {
       "title": "CVE-2026-112001 - ProjectSend 2.0.0 before 2.7.0 Incorrect Authorization via Users API Token Abilities",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-112001",
-      "summary": "CVE ID :CVE-2026-112001 Published : Oct. 18, 2026, 12:17 p.m. | 13 hours, 26 minutes ago Description :ProjectSend 2.0.0 before 2.7.0 contains an incorrect authorization vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-112001 Published : Oct. 18, 2026, 12:17 p.m. | 20 hours, 13 minutes ago Description :ProjectSend 2.0.0 before 2.7.0 contains an incorrect authorization vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-10-18T12:17:12+00:00"
     },
     {
       "title": "CVE-2026-111999 - Vanus 0.8.0 through 0.9.0 Missing Authentication via Gateway CloudEvents HTTP Receiver",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111999",
-      "summary": "CVE ID :CVE-2026-111999 Published : Oct. 18, 2026, 12:17 p.m. | 13 hours, 26 minutes ago Description :Vanus 0.8.0 through 0.9.0 contains a missing authentication vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-111999 Published : Oct. 18, 2026, 12:17 p.m. | 20 hours, 13 minutes ago Description :Vanus 0.8.0 through 0.9.0 contains a missing authentication vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-10-18T12:17:11+00:00"
     },
     {
       "title": "CVE-2026-111998 - Vanus 0.8.0 through 0.9.0 Default Admin Credentials via Gateway",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111998",
-      "summary": "CVE ID :CVE-2026-111998 Published : Oct. 18, 2026, 12:17 p.m. | 13 hours, 26 minutes ago Description :Vanus 0.8.0 through 0.9.0 contains a default credentials vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-111998 Published : Oct. 18, 2026, 12:17 p.m. | 20 hours, 13 minutes ago Description :Vanus 0.8.0 through 0.9.0 contains a default credentials vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-10-18T12:17:11+00:00"
     },
     {
       "title": "CVE-2026-110895 - WordPress Support Genix plugin <= 1.4.54 - SQL Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-110895",
-      "summary": "CVE ID :CVE-2026-110895 Published : Oct. 18, 2026, 11:16 a.m. | 14 hours, 26 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')...",
+      "summary": "CVE ID :CVE-2026-110895 Published : Oct. 18, 2026, 11:16 a.m. | 21 hours, 14 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')...",
       "source": "CVE Feed",
       "published": "2026-10-18T11:16:37+00:00"
     },
     {
       "title": "CVE-2026-110886 - WordPress Conversational Forms for ChatBot plugin <= 1.5.1 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-110886",
-      "summary": "CVE ID :CVE-2026-110886 Published : Oct. 18, 2026, 11:16 a.m. | 14 hours, 26 minutes ago Description :Deserialization of Untrusted Data vulnerability in QuantumCloud Conversational Forms for ChatBot...",
+      "summary": "CVE ID :CVE-2026-110886 Published : Oct. 18, 2026, 11:16 a.m. | 21 hours, 14 minutes ago Description :Deserialization of Untrusted Data vulnerability in QuantumCloud Conversational Forms for ChatBot...",
       "source": "CVE Feed",
       "published": "2026-10-18T11:16:37+00:00"
     },
     {
       "title": "CVE-2026-110373 - WordPress Login with phone number plugin <= 1.8.77 - Privilege Escalation vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-110373",
-      "summary": "CVE ID :CVE-2026-110373 Published : Oct. 18, 2026, 11:16 a.m. | 14 hours, 26 minutes ago Description :Incorrect Privilege Assignment vulnerability in Hamid Alinia Login with phone number...",
+      "summary": "CVE ID :CVE-2026-110373 Published : Oct. 18, 2026, 11:16 a.m. | 21 hours, 14 minutes ago Description :Incorrect Privilege Assignment vulnerability in Hamid Alinia Login with phone number...",
       "source": "CVE Feed",
       "published": "2026-10-18T11:16:36+00:00"
     },
     {
       "title": "CVE-2026-110372 - WordPress OttoKit plugin <= 1.1.40 - Privilege Escalation vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-110372",
-      "summary": "CVE ID :CVE-2026-110372 Published : Oct. 18, 2026, 11:16 a.m. | 14 hours, 26 minutes ago Description :Incorrect Privilege Assignment vulnerability in Brainstorm Force OttoKit suretriggers allows...",
+      "summary": "CVE ID :CVE-2026-110372 Published : Oct. 18, 2026, 11:16 a.m. | 21 hours, 14 minutes ago Description :Incorrect Privilege Assignment vulnerability in Brainstorm Force OttoKit suretriggers allows...",
       "source": "CVE Feed",
       "published": "2026-10-18T11:16:36+00:00"
     },
     {
       "title": "CVE-2026-109894 - WordPress Booktics plugin <= 1.0.29 - SQL Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-109894",
-      "summary": "CVE ID :CVE-2026-109894 Published : Oct. 18, 2026, 11:16 a.m. | 14 hours, 26 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')...",
+      "summary": "CVE ID :CVE-2026-109894 Published : Oct. 18, 2026, 11:16 a.m. | 21 hours, 14 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')...",
       "source": "CVE Feed",
       "published": "2026-10-18T11:16:36+00:00"
     },
     {
       "title": "CVE-2026-107436 - WordPress Strong Testimonials plugin <= 3.3.12 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-107436",
-      "summary": "CVE ID :CVE-2026-107436 Published : Oct. 18, 2026, 11:16 a.m. | 14 hours, 26 minutes ago Description :Deserialization of Untrusted Data vulnerability in WP Chill Strong Testimonials...",
+      "summary": "CVE ID :CVE-2026-107436 Published : Oct. 18, 2026, 11:16 a.m. | 21 hours, 14 minutes ago Description :Deserialization of Untrusted Data vulnerability in WP Chill Strong Testimonials...",
       "source": "CVE Feed",
       "published": "2026-10-18T11:16:34+00:00"
     },
@@ -123,79 +179,51 @@
     {
       "title": "CVE-2026-111927 - Coder before 2.35.4 Credential Theft via Workspace Proxy Hostname Prefix Match",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111927",
-      "summary": "CVE ID :CVE-2026-111927 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 6 hours ago Description :Coder before 2.29.20, 2.33.0 before 2.33.12, 2.34.0 before 2.34.8, and 2.35.0 before 2.35.4 contains an...",
+      "summary": "CVE ID :CVE-2026-111927 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 13 hours ago Description :Coder before 2.29.20, 2.33.0 before 2.33.12, 2.34.0 before 2.34.8, and 2.35.0 before 2.35.4 contains an...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:35+00:00"
     },
     {
       "title": "CVE-2026-111924 - Fleet before 4.83.0 Denial of Service via Unbounded Gzip Decompression",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111924",
-      "summary": "CVE ID :CVE-2026-111924 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 6 hours ago Description :Fleet before 4.83.0 contains a denial of service vulnerability that allows unauthenticated attackers to...",
+      "summary": "CVE ID :CVE-2026-111924 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 13 hours ago Description :Fleet before 4.83.0 contains a denial of service vulnerability that allows unauthenticated attackers to...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:35+00:00"
     },
     {
       "title": "CVE-2026-111923 - Fleet before 4.89.0 Unauthenticated DoS via Apple MDM Enrollment Plist Parsing",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111923",
-      "summary": "CVE ID :CVE-2026-111923 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 6 hours ago Description :Fleet before 4.89.0 contains an unbounded recursion vulnerability in Apple MDM enrollment property list...",
+      "summary": "CVE ID :CVE-2026-111923 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 13 hours ago Description :Fleet before 4.89.0 contains an unbounded recursion vulnerability in Apple MDM enrollment property list...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:35+00:00"
     },
     {
       "title": "CVE-2026-111911 - phpMyFAQ 4.0.0 before 4.1.9 Authentication Bypass via WebAuthn Credential Injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111911",
-      "summary": "CVE ID :CVE-2026-111911 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 6 hours ago Description :phpMyFAQ 4.0.0 before 4.1.9 contains an authentication bypass vulnerability where WebAuthn registration...",
+      "summary": "CVE ID :CVE-2026-111911 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 13 hours ago Description :phpMyFAQ 4.0.0 before 4.1.9 contains an authentication bypass vulnerability where WebAuthn registration...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:33+00:00"
     },
     {
       "title": "CVE-2026-111909 - phpMyFAQ before 4.1.9 Missing Authorization Allows Superadmin Deletion via deleteUser API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111909",
-      "summary": "CVE ID :CVE-2026-111909 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 6 hours ago Description :phpMyFAQ before 4.1.9 contains a missing authorization vulnerability in the deleteUser() API that allows...",
+      "summary": "CVE ID :CVE-2026-111909 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 13 hours ago Description :phpMyFAQ before 4.1.9 contains a missing authorization vulnerability in the deleteUser() API that...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:33+00:00"
     },
     {
       "title": "CVE-2026-111908 - phpMyFAQ 4.0.0 before 4.1.9 and 4.2.0-alpha before 4.2.0-beta BOLA in FAQ Update via REST API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111908",
-      "summary": "CVE ID :CVE-2026-111908 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 6 hours ago Description :phpMyFAQ 4.0.0 before 4.1.9 and 4.2.0-alpha before 4.2.0-beta contains a broken object-level...",
+      "summary": "CVE ID :CVE-2026-111908 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 13 hours ago Description :phpMyFAQ 4.0.0 before 4.1.9 and 4.2.0-alpha before 4.2.0-beta contains a broken object-level...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:33+00:00"
     },
     {
       "title": "CVE-2026-111901 - phpMyFAQ 4.2.0-alpha before 4.2.0-beta Unauthenticated DoS via API Pagination",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111901",
-      "summary": "CVE ID :CVE-2026-111901 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 6 hours ago Description :phpMyFAQ 4.2.0-alpha before 4.2.0-beta contains an uncontrolled resource consumption vulnerability in...",
+      "summary": "CVE ID :CVE-2026-111901 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 13 hours ago Description :phpMyFAQ 4.2.0-alpha before 4.2.0-beta contains an uncontrolled resource consumption vulnerability in...",
       "source": "CVE Feed",
       "published": "2026-10-17T19:16:31+00:00"
-    },
-    {
-      "title": "CVE-2026-111893 - phpMyFAQ 4.2.0-alpha before 4.2.0-beta Privilege Escalation via Group Category Restrictions API",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111893",
-      "summary": "CVE ID :CVE-2026-111893 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 6 hours ago Description :phpMyFAQ 4.2.0-alpha before 4.2.0-beta contains a privilege escalation vulnerability in...",
-      "source": "CVE Feed",
-      "published": "2026-10-17T19:16:30+00:00"
-    },
-    {
-      "title": "CVE-2026-111884 - phpMyFAQ before 4.1.9 and 4.2.0-alpha before 4.2.0-beta Missing Current-Password Step-Up on E-mail Change Enables Account Takeover",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111884",
-      "summary": "CVE ID :CVE-2026-111884 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 6 hours ago Description :phpMyFAQ before 4.1.9 and 4.2.0-alpha before 4.2.0-beta does not require the current password when...",
-      "source": "CVE Feed",
-      "published": "2026-10-17T19:16:29+00:00"
-    },
-    {
-      "title": "CVE-2026-111882 - phpMyFAQ 3.2.0-alpha before 4.1.9 and 4.2.0-alpha before 4.2.0-beta TOTP 2FA Bypass via SSO Callbacks",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111882",
-      "summary": "CVE ID :CVE-2026-111882 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 6 hours ago Description :phpMyFAQ 3.2.0-alpha before 4.1.9 and 4.2.0-alpha before 4.2.0-beta contains an authentication bypass...",
-      "source": "CVE Feed",
-      "published": "2026-10-17T19:16:29+00:00"
-    },
-    {
-      "title": "CVE-2026-111880 - FreeRDP 2.0.0 before 3.32.0 Heap Out-of-Bounds Write via NTLM MIC Offset",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111880",
-      "summary": "CVE ID :CVE-2026-111880 Published : Oct. 17, 2026, 7:16 p.m. | 1 day, 6 hours ago Description :FreeRDP versions from 2.0.0 before 3.32.0 contain a heap out-of-bounds write in the server hash-callback...",
-      "source": "CVE Feed",
-      "published": "2026-10-17T19:16:28+00:00"
     },
     {
       "title": "Drupal waarschuwt voor kritieke RCE-lekken waardoor sites zijn over te nemen",
@@ -583,13 +611,6 @@
       "published": "2026-10-15T18:20:59+00:00"
     },
     {
-      "title": "Context Is King in the Fight Against Modern Cyberattacks",
-      "link": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
-      "summary": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks...",
-      "source": "SecurityWeek",
-      "published": "2026-10-15T17:42:50+00:00"
-    },
-    {
       "title": "Fake Arch Linux packages push malware with root privileges",
       "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
       "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
@@ -623,13 +644,6 @@
       "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed...",
       "source": "The Hacker News",
       "published": "2026-10-15T14:11:36+00:00"
-    },
-    {
-      "title": "Is AI pentesting as good as a human pentester?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-      "summary": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and...",
-      "source": "BleepingComputer",
-      "published": "2026-10-15T14:01:11+00:00"
     },
     {
       "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
@@ -966,20 +980,6 @@
       "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix...",
       "source": "The Hacker News",
       "published": "2026-10-13T11:09:10+00:00"
-    },
-    {
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs...",
-      "source": "The Hacker News",
-      "published": "2026-10-13T10:30:00+00:00"
-    },
-    {
-      "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
-      "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The...",
-      "source": "The Hacker News",
-      "published": "2026-10-13T08:48:41+00:00"
     },
     {
       "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
