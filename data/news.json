@@ -1,180 +1,194 @@
 {
-  "last_updated": "2026-10-20T00:49:24.086238+00:00",
+  "last_updated": "2026-10-20T06:53:07.205077+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-113404 - Uniong｜WebITR - Insecure Deserialization",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-113404",
+      "summary": "CVE ID :CVE-2026-113404 Published : Oct. 20, 2026, 6:24 a.m. | 28 minutes ago Description :WebITR developed by Uniong has a Insecure Deserialization vulnerability. Authenticated remote attackers can...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T06:24:08+00:00"
+    },
+    {
+      "title": "CVE-2026-97627 - Atsumi Electric DVR OS Command Injection Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-97627",
+      "summary": "CVE ID :CVE-2026-97627 Published : Oct. 20, 2026, 6:16 a.m. | 36 minutes ago Description :Hidden functionality issue exists in Multiple DVRs (Digital Video Recorders) provided by Atsumi Electric Co...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T06:16:58+00:00"
+    },
+    {
+      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+      "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+      "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco...",
+      "source": "The Hacker News",
+      "published": "2026-10-20T05:53:16+00:00"
+    },
+    {
+      "title": "CVE-2026-113380 - RingRTC Finite State Machine Queue Saturation Denial of Service",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-113380",
+      "summary": "CVE ID :CVE-2026-113380 Published : Oct. 20, 2026, 5:16 a.m. | 1 hour, 36 minutes ago Description :In the RingRTC library before 2.72.0 for Signal, a peer that saturates a call's FSM queue can...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T05:16:54+00:00"
+    },
+    {
+      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+      "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+      "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere...",
+      "source": "The Hacker News",
+      "published": "2026-10-20T04:05:58+00:00"
+    },
+    {
+      "title": "CVE-2026-17518 - ASUS Router Buffer Overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17518",
+      "summary": "CVE ID :CVE-2026-17518 Published : Oct. 20, 2026, 2:17 a.m. | 4 hours, 35 minutes ago Description :Buffer Copy without Checking Size of Input in certain ASUS router models allows an adjacent...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T02:17:11+00:00"
+    },
+    {
+      "title": "CVE-2026-105299 - Pingora forwards client-nominated Connection headers to HTTP/1 upstreams, allowing ACL bypass in specific chained deployments",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105299",
+      "summary": "CVE ID :CVE-2026-105299 Published : Oct. 20, 2026, 2:17 a.m. | 4 hours, 35 minutes ago Description :Summary Before version 0.9.0, the HTTP/1 upstream path in pingora-proxy passed the downstream...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T02:17:08+00:00"
+    },
+    {
+      "title": "CVE-2026-102438 - ASUS Armoury Crate DLL Hijacking Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102438",
+      "summary": "CVE ID :CVE-2026-102438 Published : Oct. 20, 2026, 2:17 a.m. | 4 hours, 35 minutes ago Description :An uncontrolled search path element vulnerability in ASUS Armoury Crate allows local users to...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T02:17:08+00:00"
+    },
+    {
+      "title": "CVE-2026-77937 - Letta through 0.16.8 Cross-Tenant Impersonation via user_id Header",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77937",
+      "summary": "CVE ID :CVE-2026-77937 Published : Oct. 20, 2026, 1:17 a.m. | 5 hours, 35 minutes ago Description :Letta through 0.16.8 contains an authentication bypass vulnerability that allows API callers to...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T01:17:20+00:00"
+    },
+    {
+      "title": "CVE-2026-77936 - Letta through 0.16.8 Insecure Default Configuration Unauthenticated API and PostgreSQL Access",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77936",
+      "summary": "CVE ID :CVE-2026-77936 Published : Oct. 20, 2026, 1:17 a.m. | 5 hours, 35 minutes ago Description :Letta through 0.16.8 ships a compose.yaml that does not enable LETTA_SERVER_SECURE, so the password...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T01:17:20+00:00"
+    },
+    {
+      "title": "CVE-2026-77935 - Coze Studio through 0.5.1 Cross-Space Workflow IDOR via Workflow API Handlers",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77935",
+      "summary": "CVE ID :CVE-2026-77935 Published : Oct. 20, 2026, 1:17 a.m. | 5 hours, 35 minutes ago Description :Coze Studio through 0.5.1 contains an insecure direct object reference vulnerability in workflow.go...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T01:17:19+00:00"
+    },
+    {
+      "title": "CVE-2026-77934 - Coze Studio before 0.5.0 RCE via Unsandboxed Local Python Code Runner",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77934",
+      "summary": "CVE ID :CVE-2026-77934 Published : Oct. 20, 2026, 1:17 a.m. | 5 hours, 35 minutes ago Description :Coze Studio before 0.5.0 contains an insecure default configuration that allows any registered user...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T01:17:19+00:00"
+    },
+    {
+      "title": "CVE-2026-77933 - DB-GPT through 0.8.2 Hardcoded MySQL Root Credentials in docker-compose Deployment",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77933",
+      "summary": "CVE ID :CVE-2026-77933 Published : Oct. 20, 2026, 1:17 a.m. | 5 hours, 35 minutes ago Description :DB-GPT through 0.8.2 contains a hardcoded credentials vulnerability in its default...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T01:17:19+00:00"
+    },
+    {
+      "title": "CVE-2026-77932 - DB-GPT through 0.8.2 Unauthenticated RCE via /api/v1/chat/react-agent",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77932",
+      "summary": "CVE ID :CVE-2026-77932 Published : Oct. 20, 2026, 1:17 a.m. | 5 hours, 35 minutes ago Description :DB-GPT through 0.8.2 contains an unauthenticated remote code execution vulnerability because the...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T01:17:19+00:00"
+    },
+    {
+      "title": "CVE-2026-77930 - EvoScientist 0.1.0 before 0.2.5 Human Approval Bypass via Async Sub-Agents",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77930",
+      "summary": "CVE ID :CVE-2026-77930 Published : Oct. 20, 2026, 1:17 a.m. | 5 hours, 35 minutes ago Description :EvoScientist 0.1.0 before 0.2.5 contains an approval bypass vulnerability that allows attackers to...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T01:17:19+00:00"
+    },
+    {
+      "title": "CVE-2026-77926 - Aix-DB 1.2.4 Authenticated RCE via ChatBI Common Agent Execute Tool",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77926",
+      "summary": "CVE ID :CVE-2026-77926 Published : Oct. 20, 2026, 1:17 a.m. | 5 hours, 35 minutes ago Description :Aix-DB 1.2.4 contains a remote code execution vulnerability that allows authenticated non-admin...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T01:17:19+00:00"
+    },
+    {
+      "title": "CVE-2026-75128 - Langchain-Chatchat through 0.3.1.3 Unauthenticated RCE via /tools/call Endpoint",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-75128",
+      "summary": "CVE ID :CVE-2026-75128 Published : Oct. 20, 2026, 1:17 a.m. | 5 hours, 35 minutes ago Description :Langchain-Chatchat through 0.3.1.3 exposes a POST /tools/call API endpoint that invokes any...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T01:17:19+00:00"
+    },
+    {
+      "title": "CVE-2026-109444 - OpenSRE through 0.1.2026.10.19 Approval Gate Bypass via shell_run Prompt Injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109444",
+      "summary": "CVE ID :CVE-2026-109444 Published : Oct. 20, 2026, 1:17 a.m. | 5 hours, 35 minutes ago Description :OpenSRE through 0.1.2026.10.19 contains an approval gate bypass vulnerability that allows attackers...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T01:17:10+00:00"
+    },
+    {
+      "title": "CVE-2026-109443 - JoySafeter through 1.0.0 Authenticated RCE via Copilot Standard Mode Shell",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109443",
+      "summary": "CVE ID :CVE-2026-109443 Published : Oct. 20, 2026, 1:17 a.m. | 5 hours, 35 minutes ago Description :JoySafeter through 1.0.0 contains a remote code execution vulnerability that allows authenticated...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T01:17:10+00:00"
+    },
+    {
+      "title": "CVE-2026-109442 - piflow 2.0.0 through 2.0.1 Unauthenticated RCE via Chat Agent exec_shell",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109442",
+      "summary": "CVE ID :CVE-2026-109442 Published : Oct. 20, 2026, 1:17 a.m. | 5 hours, 35 minutes ago Description :piflow 2.0.0 through 2.0.1 contains a remote code execution vulnerability in its DeepAgents chat...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T01:17:10+00:00"
+    },
+    {
+      "title": "CVE-2026-109440 - LangAlpha through 2026.09.07 Indirect Prompt Injection RCE via Bash and ExecuteCode",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109440",
+      "summary": "CVE ID :CVE-2026-109440 Published : Oct. 20, 2026, 1:17 a.m. | 5 hours, 35 minutes ago Description :LangAlpha through 2026.09.07 contains an indirect prompt injection vulnerability that allows remote...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T01:17:10+00:00"
+    },
+    {
+      "title": "CVE-2026-109395 - Ning compress-lzf before 1.2.0 Out-of-Bounds Memory Access via UnsafeChunkDecoder",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109395",
+      "summary": "CVE ID :CVE-2026-109395 Published : Oct. 20, 2026, 1:17 a.m. | 5 hours, 35 minutes ago Description :Ning compress-lzf before 1.2.0 contains an out-of-bounds memory access vulnerability in the...",
+      "source": "CVE Feed",
+      "published": "2026-10-20T01:17:09+00:00"
+    },
     {
       "title": "CVE-2026-109126 - IBM Verify Identity Access and IBM Security Verify Access Hard-coded Credentials",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-109126",
-      "summary": "CVE ID :CVE-2026-109126 Published : Oct. 20, 2026, 12:17 a.m. | 14 minutes ago Description :IBM Verify Identity Access 11.0.3.1 and IBM Security Verify Access 10.0.9.3 Appliance could allow a...",
+      "summary": "CVE ID :CVE-2026-109126 Published : Oct. 20, 2026, 12:17 a.m. | 6 hours, 35 minutes ago Description :IBM Verify Identity Access 11.0.3.1 and IBM Security Verify Access 10.0.9.3 Appliance could allow...",
       "source": "CVE Feed",
       "published": "2026-10-20T00:17:30+00:00"
     },
     {
       "title": "CVE-2026-107400 - Security Vulnerability identified in IBM TRIRIGA - GWT Mock Authentication",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-107400",
-      "summary": "CVE ID :CVE-2026-107400 Published : Oct. 20, 2026, 12:17 a.m. | 14 minutes ago Description :IBM TRIRIGA Application Platform 5.0.0 through 5.0.8 could allow a remote authenticated attacker to execute...",
+      "summary": "CVE ID :CVE-2026-107400 Published : Oct. 20, 2026, 12:17 a.m. | 6 hours, 35 minutes ago Description :IBM TRIRIGA Application Platform 5.0.0 through 5.0.8 could allow a remote authenticated attacker...",
       "source": "CVE Feed",
       "published": "2026-10-20T00:17:25+00:00"
     },
     {
       "title": "CVE-2026-107366 - Langflow OSS Authorization Bypass Through User-Controlled Key",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-107366",
-      "summary": "CVE ID :CVE-2026-107366 Published : Oct. 20, 2026, 12:17 a.m. | 14 minutes ago Description :IBM Langflow OSS 1.0.0 through 1.12.4 contains three message endpoints that perform no ownership...",
+      "summary": "CVE ID :CVE-2026-107366 Published : Oct. 20, 2026, 12:17 a.m. | 6 hours, 35 minutes ago Description :IBM Langflow OSS 1.0.0 through 1.12.4 contains three message endpoints that perform no ownership...",
       "source": "CVE Feed",
       "published": "2026-10-20T00:17:25+00:00"
     },
     {
       "title": "CVE-2026-105453 - IBM Sterling Connect:Direct for Unix Improper Privilege Management",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-105453",
-      "summary": "CVE ID :CVE-2026-105453 Published : Oct. 20, 2026, 12:17 a.m. | 14 minutes ago Description :IBM Sterling Connect Direct for Unix 6.3.0.0 through 6.3.0.7 and 6.4.0.0 through 6.4.0.6 could allow a...",
+      "summary": "CVE ID :CVE-2026-105453 Published : Oct. 20, 2026, 12:17 a.m. | 6 hours, 35 minutes ago Description :IBM Sterling Connect Direct for Unix 6.3.0.0 through 6.3.0.7 and 6.4.0.0 through 6.4.0.6 could...",
       "source": "CVE Feed",
       "published": "2026-10-20T00:17:23+00:00"
     },
     {
       "title": "CVE-2026-112371 - H3C Magic NX15 RPC esps write code injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-112371",
-      "summary": "CVE ID :CVE-2026-112371 Published : Oct. 19, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :A vulnerability was determined in H3C Magic NX15 NX15V100R017. Impacted is the function write of...",
+      "summary": "CVE ID :CVE-2026-112371 Published : Oct. 19, 2026, 11:17 p.m. | 7 hours, 35 minutes ago Description :A vulnerability was determined in H3C Magic NX15 NX15V100R017. Impacted is the function write of...",
       "source": "CVE Feed",
       "published": "2026-10-19T23:17:36+00:00"
-    },
-    {
-      "title": "CVE-2026-112370 - H3C Magic NX15 usrlist sub_416874 os command injection",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112370",
-      "summary": "CVE ID :CVE-2026-112370 Published : Oct. 19, 2026, 11:17 p.m. | 1 hour, 14 minutes ago Description :A vulnerability was found in H3C Magic NX15 100R017. This issue affects the function sub_416874 of...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T23:17:35+00:00"
-    },
-    {
-      "title": "CVE-2026-53995 - MLflow 3.17.1 Path Traversal via Trace ID API",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-53995",
-      "summary": "CVE ID :CVE-2026-53995 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :MLflow 3.17.1 and earlier contains a path traversal vulnerability in the FileStore tracking backend...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:11+00:00"
-    },
-    {
-      "title": "CVE-2026-112900 - Pillow: Argument Injection in Ghostscript call, potentially leading into RCE",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112900",
-      "summary": "CVE ID :CVE-2026-112900 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 2.6.0 until 13.0.0, Pillow is vulnerable to argument...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:10+00:00"
-    },
-    {
-      "title": "CVE-2026-112897 - Pillow: TiffDecode returns uninitialized memory as pixels for short JPEG strips",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112897",
-      "summary": "CVE ID :CVE-2026-112897 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 5.3.0 until 13.0.0, Pillow can return uninitialized...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:09+00:00"
-    },
-    {
-      "title": "CVE-2026-112896 - Pillow: TIFF encoder ColorMap plane-size mismatch causes a heap out-of-bounds read",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112896",
-      "summary": "CVE ID :CVE-2026-112896 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. Prior to 13.0.0, Pillow's TIFF encoder can read beyond a...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:09+00:00"
-    },
-    {
-      "title": "CVE-2026-112895 - Pillow: Unbounded recursion parsing a PDF page tree or trailer chain (incomplete fix for CVE-2026-42310)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112895",
-      "summary": "CVE ID :CVE-2026-112895 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 5.1.0 until 13.0.0, Pillow can exhaust resources while...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:09+00:00"
-    },
-    {
-      "title": "CVE-2026-112894 - Pillow: Quadratic-time DoS in PDF save_all (PdfParser.next_object_id)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112894",
-      "summary": "CVE ID :CVE-2026-112894 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 5.1.0 until 13.0.0, Pillow takes quadratic time to...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:09+00:00"
-    },
-    {
-      "title": "CVE-2026-112893 - Pillow: Invalid free in FreeType glyph rendering when a stroker is active",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112893",
-      "summary": "CVE ID :CVE-2026-112893 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 10.0.0 until 13.0.0, Pillow can free an invalid glyph...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:09+00:00"
-    },
-    {
-      "title": "CVE-2026-112892 - Pillow: MSP RLE decoder expands a tiny file into unbounded memory",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112892",
-      "summary": "CVE ID :CVE-2026-112892 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 4.1.0 until 13.0.0, Pillow's MSP RLE decoder can expand a...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:09+00:00"
-    },
-    {
-      "title": "CVE-2026-112406 - Pillow: Infinite loop in PdfParser.rewrite_pages on page tree Parent cycle",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112406",
-      "summary": "CVE ID :CVE-2026-112406 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 5.1.0 until 13.0.0, Pillow can enter an infinite loop...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:08+00:00"
-    },
-    {
-      "title": "CVE-2026-112405 - Pillow: NULL pointer dereference in Image.merge via an unvalidated band 0",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112405",
-      "summary": "CVE ID :CVE-2026-112405 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 12.0.0 until 13.0.0, Pillow's Image.merge() can...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:08+00:00"
-    },
-    {
-      "title": "CVE-2026-112404 - Pillow: OOB read in TiffDecode.c tile and RGBA paths leaks heap memory into pixels",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112404",
-      "summary": "CVE ID :CVE-2026-112404 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 8.1.0 until 13.0.0, Pillow's TIFF tile and RGBA decode...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:07+00:00"
-    },
-    {
-      "title": "CVE-2026-112403 - Pillow: Heap buffer overflow in ImagingJpegDecode",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112403",
-      "summary": "CVE ID :CVE-2026-112403 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. Prior to 13.0.0, Pillow's JPEG decoder can write a full-width...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:07+00:00"
-    },
-    {
-      "title": "CVE-2026-112402 - Pillow: Double free in ImagingScaleAffine on calloc failure via Image.transform",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112402",
-      "summary": "CVE ID :CVE-2026-112402 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. Prior to 13.0.0, Pillow can double free image memory when...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:07+00:00"
-    },
-    {
-      "title": "CVE-2026-112400 - Pillow: GIF seek keeps rejected size after DecompressionBombError, allowing DoS",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112400",
-      "summary": "CVE ID :CVE-2026-112400 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 9.2.0 until 13.0.0, Pillow can retain a rejected GIF...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:07+00:00"
-    },
-    {
-      "title": "CVE-2026-112399 - Pillow: APNG background disposal allocates full canvas before decompression bomb check",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112399",
-      "summary": "CVE ID :CVE-2026-112399 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 8.1.0 until 13.0.0, Pillow can allocate an APNG disposal...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:07+00:00"
-    },
-    {
-      "title": "CVE-2026-112398 - Pillow: Heap buffer overflow in FlashPix (FPX) JPEG decoding leads to code execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112398",
-      "summary": "CVE ID :CVE-2026-112398 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. Prior to 13.0.0, Pillow's FlashPix JPEG-tile decoder can write...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:07+00:00"
-    },
-    {
-      "title": "CVE-2026-112397 - Pillow: Out-of-bounds access in _imagingmorph on a zero-width image",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112397",
-      "summary": "CVE ID :CVE-2026-112397 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. Prior to 13.0.0, Pillow's ImageMorph.MorphOp.apply() can...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:06+00:00"
-    },
-    {
-      "title": "CVE-2026-112392 - Pillow: NULL dereference in ImagingExpand via rank filters on zero-size images",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112392",
-      "summary": "CVE ID :CVE-2026-112392 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :Pillow is a Python imaging library. Prior to 13.0.0, Pillow's rank-based filters can dereference...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:06+00:00"
-    },
-    {
-      "title": "CVE-2026-112360 - Netis EAP930 CGI Endpoint debug return200 backdoor",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112360",
-      "summary": "CVE ID :CVE-2026-112360 Published : Oct. 19, 2026, 10:17 p.m. | 2 hours, 14 minutes ago Description :A security vulnerability has been detected in Netis EAP930 1.250905.115454. This issue affects the...",
-      "source": "CVE Feed",
-      "published": "2026-10-19T22:17:06+00:00"
     },
     {
       "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
@@ -522,8 +536,8 @@
     {
       "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
       "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
-      "summary": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs 5 Min ReadSource: ZU_09 via Getty ImagesA week chock full of new high-severity and actively exploited edge vulnerabilities...",
-      "source": "CVE Newsroom",
+      "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
+      "source": "Dark Reading",
       "published": "2026-10-16T20:34:37+00:00"
     },
     {
@@ -1015,20 +1029,6 @@
       "summary": "Anthropic's latest study combines IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
       "source": "Dark Reading",
       "published": "2026-10-13T20:35:23+00:00"
-    },
-    {
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from...",
-      "source": "The Hacker News",
-      "published": "2026-10-13T18:20:57+00:00"
-    },
-    {
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it...",
-      "source": "The Hacker News",
-      "published": "2026-10-13T18:03:18+00:00"
     },
     {
       "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
