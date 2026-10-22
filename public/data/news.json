@@ -1,6 +1,174 @@
 {
-  "last_updated": "2026-10-22T14:45:44.950660+00:00",
+  "last_updated": "2026-10-22T19:38:34.849896+00:00",
   "articles": [
+    {
+      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-22T19:12:51+00:00"
+    },
+    {
+      "title": "Indian tech company eMudhra announces withdrawal from certificate business after security incident",
+      "link": "https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident",
+      "summary": "The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the company's private keys was just the number four.",
+      "source": "The Record",
+      "published": "2026-10-22T18:46:00+00:00"
+    },
+    {
+      "title": "CVE-2026-115414 - OS command injection in the Terraform hook in AWS SAM CLI",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115414",
+      "summary": "CVE ID :CVE-2026-115414 Published : Oct. 22, 2026, 6:34 p.m. | 21 minutes ago Description :OS command injection in the Terraform hook in AWS SAM CLI before 1.166.2 might allow an actor who can...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T18:34:08+00:00"
+    },
+    {
+      "title": "CVE-2026-97635 - Agent Zero Web UI XSS",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-97635",
+      "summary": "CVE ID :CVE-2026-97635 Published : Oct. 22, 2026, 6:17 p.m. | 38 minutes ago Description :The Agent Zero Web UI before 1.15 does not correctly sanitize user-provided input in chat messages or file...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T18:17:32+00:00"
+    },
+    {
+      "title": "CVE-2026-114611 - OCO-Server: MDM /profile endpoint accepts self-signed PKCS#7 signatures (PKCS7_NOVERIFY): device MDM identity (certificate + private key) disclosure and device-record hijack",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114611",
+      "summary": "CVE ID :CVE-2026-114611 Published : Oct. 22, 2026, 6:17 p.m. | 38 minutes ago Description :OCO-Server is a self-hosted endpoint management application for computer inventory, software deployment, and...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T18:17:28+00:00"
+    },
+    {
+      "title": "CVE-2026-113874 - SmileCDR HAPI FHIR trusted tenant partition override",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-113874",
+      "summary": "CVE ID :CVE-2026-113874 Published : Oct. 22, 2026, 6:17 p.m. | 38 minutes ago Description :SmileCDR HAPI FHIR allows an untrusted bundle body to replace a partition identity previously established by...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T18:17:27+00:00"
+    },
+    {
+      "title": "CVE-2026-113873 - SmileCDR HAPI FHIR improper data decompression",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-113873",
+      "summary": "CVE ID :CVE-2026-113873 Published : Oct. 22, 2026, 6:17 p.m. | 38 minutes ago Description :SmileCDR HAPI FHIR does not properly handle highly compressed data, allowing an unauthenticated attacker to...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T18:17:27+00:00"
+    },
+    {
+      "title": "CVE-2026-108359 - PhpSpreadsheet ODS Reader: Unbounded number-rows-repeated → CPU & Memory Exhaustion (DoS)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108359",
+      "summary": "CVE ID :CVE-2026-108359 Published : Oct. 22, 2026, 6:17 p.m. | 38 minutes ago Description :PhpSpreadsheet is a pure PHP library for reading and writing spreadsheet files. Prior to 1.30.7, 2.1.19...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T18:17:26+00:00"
+    },
+    {
+      "title": "CVE-2026-108358 - PhpSpreadsheet: XmlScanner Bypass via ISO-2022 Escape Sequences Allows XXE and Denial of Service",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108358",
+      "summary": "CVE ID :CVE-2026-108358 Published : Oct. 22, 2026, 6:17 p.m. | 38 minutes ago Description :PhpSpreadsheet is a pure PHP library for reading and writing spreadsheet files. Prior to 1.30.7, 2.1.19...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T18:17:26+00:00"
+    },
+    {
+      "title": "CVE-2026-108357 - PhpSpreadsheet: XmlScanner Bypass via Double-Encoded unentity() TOCTOU Allows XXE and Denial of Service",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108357",
+      "summary": "CVE ID :CVE-2026-108357 Published : Oct. 22, 2026, 6:17 p.m. | 38 minutes ago Description :PhpSpreadsheet is a pure PHP library for reading and writing spreadsheet files. From 3.3.0 until 3.10.8 and...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T18:17:26+00:00"
+    },
+    {
+      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+      "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+      "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported...",
+      "source": "The Hacker News",
+      "published": "2026-10-22T18:12:43+00:00"
+    },
+    {
+      "title": "CVE-2026-114612 - LiteLLM: Privilege Escalation to Proxy Admin via Cross-Domain Reuse of the Salt Key",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114612",
+      "summary": "CVE ID :CVE-2026-114612 Published : Oct. 22, 2026, 6:01 p.m. | 53 minutes ago Description :LiteLLM is a proxy server (AI Gateway) to call LLM APIs in OpenAI (or native) format. From 1.87.0 until...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T18:01:52+00:00"
+    },
+    {
+      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+      "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+      "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and...",
+      "source": "The Hacker News",
+      "published": "2026-10-22T17:45:44+00:00"
+    },
+    {
+      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-22T17:18:22+00:00"
+    },
+    {
+      "title": "CVE-2026-97631 - Pre-boot RCE in EDK II PXE driver",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-97631",
+      "summary": "CVE ID :CVE-2026-97631 Published : Oct. 22, 2026, 5:17 p.m. | 1 hour, 38 minutes ago Description :EDK2 contains a vulnerability in BIOS where a user may cause “Out-of-bounds Write”, Classic Buffer...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T17:17:02+00:00"
+    },
+    {
+      "title": "CVE-2026-115513 - OpenCATS before 0.12.0 Stored XSS via MRU Navigation Panel",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115513",
+      "summary": "CVE ID :CVE-2026-115513 Published : Oct. 22, 2026, 5:16 p.m. | 1 hour, 38 minutes ago Description :OpenCATS before 0.12.0 contains a stored cross-site scripting vulnerability that allows a...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T17:16:59+00:00"
+    },
+    {
+      "title": "CVE-2026-114607 - better-auth: OAuth state can be used as a Magic Link to sign in as another user",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114607",
+      "summary": "CVE ID :CVE-2026-114607 Published : Oct. 22, 2026, 5:16 p.m. | 1 hour, 38 minutes ago Description :Better Auth is an authentication and authorization library for TypeScript. From 1.4.0-beta.18 until...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T17:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-104068 - JetBackup WordPress Plugin < 3.1.24.10 Symlink Arbitrary File Write via Backup Restore",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-104068",
+      "summary": "CVE ID :CVE-2026-104068 Published : Oct. 22, 2026, 5:16 p.m. | 1 hour, 38 minutes ago Description :JetBackup plugin for WordPress before 3.1.24.10 contains a symlink-based arbitrary file write...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T17:16:56+00:00"
+    },
+    {
+      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+      "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+      "summary": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the...",
+      "source": "The Hacker News",
+      "published": "2026-10-22T17:01:53+00:00"
+    },
+    {
+      "title": "Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents",
+      "link": "https://therecord.media/china-cyber-connectwise-ai",
+      "summary": "A Chinese government-aligned hacking group used automated tools to carry out the recent supply chain attack on IT management software company ConnectWise and is using the same techniques to try to...",
+      "source": "The Record",
+      "published": "2026-10-22T16:30:00+00:00"
+    },
+    {
+      "title": "CVE-2026-94482 - Next.js: Denial of Service in App Router using Server Actions",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-94482",
+      "summary": "CVE ID :CVE-2026-94482 Published : Oct. 22, 2026, 4:19 p.m. | 2 hours, 36 minutes ago Description :Next.js is a React framework for building full-stack web applications. From 13.0.0 until 15.5.28 and...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T16:19:16+00:00"
+    },
+    {
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data...",
+      "source": "The Hacker News",
+      "published": "2026-10-22T16:12:31+00:00"
+    },
+    {
+      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+      "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-22T15:49:32+00:00"
+    },
+    {
+      "title": "CVE-2026-16477 - Insecure Deserialization of .cleanshot Files in CleanShot X",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-16477",
+      "summary": "CVE ID :CVE-2026-16477 Published : Oct. 22, 2026, 3:17 p.m. | 3 hours, 38 minutes ago Description :CleanShot X for macOS insecurely deserializes untrusted data embedded in a .cleanshot project file...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T15:17:05+00:00"
+    },
     {
       "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
       "link": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
@@ -9,11 +177,39 @@
       "published": "2026-10-22T14:31:34+00:00"
     },
     {
+      "title": "CVE-2026-92709 - Rsyslog: DynFile Path Traversal → Arbitrary File Write as Root → RCE",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92709",
+      "summary": "CVE ID :CVE-2026-92709 Published : Oct. 22, 2026, 2:17 p.m. | 4 hours, 37 minutes ago Description :Rsyslog is a rocket-fast system for log processing. From versions 1.15.0 to 8.2610.0, rsyslog's...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T14:17:51+00:00"
+    },
+    {
+      "title": "CVE-2026-113582 - Apache Abdera: XML external entity expansion in Atom document parsing",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-113582",
+      "summary": "CVE ID :CVE-2026-113582 Published : Oct. 22, 2026, 2:17 p.m. | 4 hours, 38 minutes ago Description :UNSUPPORTED WHEN ASSIGNED Improper restriction of XML external entity references in Apache Abdera...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T14:17:38+00:00"
+    },
+    {
+      "title": "CVE-2026-111497 - Out-of-Bounds Write in Google Brotli Decoder",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111497",
+      "summary": "CVE ID :CVE-2026-111497 Published : Oct. 22, 2026, 2:17 p.m. | 4 hours, 38 minutes ago Description :A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T14:17:37+00:00"
+    },
+    {
       "title": "Machine speed attacks require machine speed detection and response",
       "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
       "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI...",
       "source": "BleepingComputer",
       "published": "2026-10-22T14:02:12+00:00"
+    },
+    {
+      "title": "Vulnerability in MTW CleanShot X software",
+      "link": "https://cert.pl/en/posts/2026/10/CVE-2026-16477/",
+      "summary": "Vulnerability in MTW CleanShot X software Vulnerability in MTW CleanShot X software CVE ID CVE-2026-16477 Publication date 22 October 2026 Vendor MTW Product CleanShot X Vulnerable versions From...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-22T13:55:00+00:00"
     },
     {
       "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
@@ -37,6 +233,27 @@
       "published": "2026-10-22T13:30:00+00:00"
     },
     {
+      "title": "PHP2SHELL Detection Coverage in THOR",
+      "link": "https://www.nextron-systems.com/2026/10/22/php2shell-detection-coverage-in-thor/",
+      "summary": "PHP2SHELL Detection Coverage in THOR THOR applies Sigma rules to supported log data on an endpoint during a scan. For PHP2SHELL, this means looking for exploit-related artifacts in web-server logs...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-22T13:29:04+00:00"
+    },
+    {
+      "title": "New Serious PHP Vulnerabilities Released and Patched",
+      "link": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+      "summary": "New Serious PHP Vulnerabilities Released and Patched PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-22T13:26:51+00:00"
+    },
+    {
+      "title": "CVE-2026-102785 - Joomla Extension - yootheme.com - Unauthenticated remote code execution in YOOtheme Pro 5.0.0-5.0.52",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102785",
+      "summary": "CVE ID :CVE-2026-102785 Published : Oct. 22, 2026, 1:17 p.m. | 5 hours, 38 minutes ago Description :Joomla Extension - yootheme.com - Unauthenticated remote code execution in YOOtheme Pro...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T13:17:27+00:00"
+    },
+    {
       "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
       "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
       "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
@@ -49,13 +266,6 @@
       "summary": "The Amsterdam-based company plans to use the funding for research and development and commercial expansion in Europe and the Middle East. The post Indurex Raises $8 Million to Expand Industrial...",
       "source": "SecurityWeek",
       "published": "2026-10-22T13:00:00+00:00"
-    },
-    {
-      "title": "CVE-2026-102785 - Joomla Extension - yootheme.com - Unauthenticated remote code execution in YOOtheme Pro 5.0.0-5.0.55",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102785",
-      "summary": "CVE ID :CVE-2026-102785 Published : Oct. 22, 2026, 12:36 p.m. | 29 minutes ago Description :Joomla Extension - yootheme.com - Unauthenticated remote code execution in YOOtheme Pro 5.0.0-5.0.52 -...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T12:36:43+00:00"
     },
     {
       "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
@@ -95,170 +305,44 @@
     {
       "title": "CVE-2026-115333 - Lotus through 0.10.2 Improper Authentication via Event Ingestion API Key Prefix",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115333",
-      "summary": "CVE ID :CVE-2026-115333 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 48 minutes ago Description :Lotus through 0.10.2 contains an improper authentication vulnerability in the Go event ingestion...",
+      "summary": "CVE ID :CVE-2026-115333 Published : Oct. 22, 2026, 11:17 a.m. | 7 hours, 37 minutes ago Description :Lotus through 0.10.2 contains an improper authentication vulnerability in the Go event ingestion...",
       "source": "CVE Feed",
       "published": "2026-10-22T11:17:52+00:00"
     },
     {
       "title": "CVE-2026-115332 - Lotus through 0.10.2 SQL Injection via Subscription Filter Keys",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115332",
-      "summary": "CVE ID :CVE-2026-115332 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 48 minutes ago Description :Lotus through 0.10.2 contains an sql injection vulnerability that allows authenticated organization...",
+      "summary": "CVE ID :CVE-2026-115332 Published : Oct. 22, 2026, 11:17 a.m. | 7 hours, 37 minutes ago Description :Lotus through 0.10.2 contains an sql injection vulnerability that allows authenticated...",
       "source": "CVE Feed",
       "published": "2026-10-22T11:17:52+00:00"
     },
     {
       "title": "CVE-2026-115331 - Lotus through 0.10.2 SQL Injection via Metric Property Names and Filters",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115331",
-      "summary": "CVE ID :CVE-2026-115331 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 48 minutes ago Description :Lotus through 0.10.2 contains an sql injection vulnerability that allows authenticated organization...",
+      "summary": "CVE ID :CVE-2026-115331 Published : Oct. 22, 2026, 11:17 a.m. | 7 hours, 37 minutes ago Description :Lotus through 0.10.2 contains an sql injection vulnerability that allows authenticated...",
       "source": "CVE Feed",
       "published": "2026-10-22T11:17:52+00:00"
     },
     {
       "title": "CVE-2026-115330 - Lotus through 0.10.2 SQL Injection via Custom SQL Billable Metrics",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115330",
-      "summary": "CVE ID :CVE-2026-115330 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 48 minutes ago Description :Lotus through 0.10.2 contains an sql injection vulnerability that allows authenticated organization...",
+      "summary": "CVE ID :CVE-2026-115330 Published : Oct. 22, 2026, 11:17 a.m. | 7 hours, 37 minutes ago Description :Lotus through 0.10.2 contains an sql injection vulnerability that allows authenticated...",
       "source": "CVE Feed",
       "published": "2026-10-22T11:17:52+00:00"
     },
     {
       "title": "CVE-2026-115328 - JSON-SCADA before 0.65-alpha SQL Injection via OPC HistoryRead API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115328",
-      "summary": "CVE ID :CVE-2026-115328 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 48 minutes ago Description :JSON-SCADA before 0.65-alpha contains an sql injection vulnerability in opcApi() in...",
+      "summary": "CVE ID :CVE-2026-115328 Published : Oct. 22, 2026, 11:17 a.m. | 7 hours, 37 minutes ago Description :JSON-SCADA before 0.65-alpha contains an sql injection vulnerability in opcApi() in...",
       "source": "CVE Feed",
       "published": "2026-10-22T11:17:51+00:00"
     },
     {
       "title": "CVE-2026-115325 - Netmaker through 1.7.0 Authorization Bypass via updateExtClient Unscoped Lookup",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115325",
-      "summary": "CVE ID :CVE-2026-115325 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 48 minutes ago Description :Netmaker through 1.7.0 contains an authorization bypass vulnerability in the updateExtClient...",
+      "summary": "CVE ID :CVE-2026-115325 Published : Oct. 22, 2026, 11:17 a.m. | 7 hours, 37 minutes ago Description :Netmaker through 1.7.0 contains an authorization bypass vulnerability in the updateExtClient...",
       "source": "CVE Feed",
       "published": "2026-10-22T11:17:51+00:00"
-    },
-    {
-      "title": "CVE-2026-115324 - mem0 0.1.117 before 1.0.8 SQL Injection via Databricks Vector Store",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115324",
-      "summary": "CVE ID :CVE-2026-115324 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 48 minutes ago Description :mem0 0.1.117 before 1.0.8 contains an sql injection vulnerability in...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:51+00:00"
-    },
-    {
-      "title": "CVE-2026-112832 - WordPress Rootblox plugin <= 1.0.6 - Local File Inclusion vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112832",
-      "summary": "CVE ID :CVE-2026-112832 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 48 minutes ago Description :Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:33+00:00"
-    },
-    {
-      "title": "CVE-2026-112822 - WordPress Workreap Core plugin < 3.4.4 - SQL Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112822",
-      "summary": "CVE ID :CVE-2026-112822 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 48 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:32+00:00"
-    },
-    {
-      "title": "CVE-2026-112820 - WordPress Academist Core plugin <= 1.4.1 - Local File Inclusion vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112820",
-      "summary": "CVE ID :CVE-2026-112820 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 48 minutes ago Description :Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:31+00:00"
-    },
-    {
-      "title": "CVE-2025-71434 - Weaver E-cology < 10.76 Unauthenticated SQL Injection via doc/out/more/list",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2025-71434",
-      "summary": "CVE ID :CVE-2025-71434 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 49 minutes ago Description :Weaver E-cology 8.0, 9.0, and 10.0 prior to 10.76 contains an unauthenticated SQL injection...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:06+00:00"
-    },
-    {
-      "title": "CVE-2024-58396 - YouDataSum CPAS Audit Management System V4 Path Traversal via downPlugs fileId",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2024-58396",
-      "summary": "CVE ID :CVE-2024-58396 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 49 minutes ago Description :YouDataSum CPAS Audit Management System V4 contains a path traversal vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:06+00:00"
-    },
-    {
-      "title": "CVE-2024-58393 - i-Netsolution Readymade Unilevel Ecommerce MLM SQL Injection via product-details.php",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2024-58393",
-      "summary": "CVE ID :CVE-2024-58393 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 49 minutes ago Description :i-Netsolution Readymade Unilevel Ecommerce MLM (2024-03-15 build) contains an SQL injection...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:05+00:00"
-    },
-    {
-      "title": "CVE-2022-51024 - Kavita < 0.5.4.1 Unauthenticated Path Traversal via cover-upload Endpoint",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2022-51024",
-      "summary": "CVE ID :CVE-2022-51024 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 49 minutes ago Description :Kavita 0.5.2 before 0.5.4.1 contains a path traversal vulnerability that allows unauthenticated...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:05+00:00"
-    },
-    {
-      "title": "CVE-2022-51023 - PHPOK < 5.4.081 SQL Injection via api.php sort Parameter",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2022-51023",
-      "summary": "CVE ID :CVE-2022-51023 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 49 minutes ago Description :PHPOK 4.5.000 before 5.4.081 contains an SQL injection vulnerability that allows unauthenticated...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:05+00:00"
-    },
-    {
-      "title": "CVE-2022-51022 - YiShaAdmin 3.1 Unauthenticated Path Traversal via DownloadFile endpoint",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2022-51022",
-      "summary": "CVE ID :CVE-2022-51022 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 49 minutes ago Description :YiShaAdmin 2.2 through 3.1, fixed in commit 025b062, contains an unauthenticated path traversal...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:05+00:00"
-    },
-    {
-      "title": "CVE-2022-51021 - NotificationX WordPress Plugin < 2.3.12 Unauthenticated SQL Injection via notification REST endpoint",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2022-51021",
-      "summary": "CVE ID :CVE-2022-51021 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 49 minutes ago Description :NotificationX plugin for WordPress 2.0.0 before 2.3.12 contains an unauthenticated SQL injection...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:04+00:00"
-    },
-    {
-      "title": "CVE-2021-48017 - OrbiTeam BSCW Server < 5.2.5 / 7.4.4 Path Traversal via bscw.cgi",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2021-48017",
-      "summary": "CVE ID :CVE-2021-48017 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 49 minutes ago Description :OrbiTeam BSCW Server 5.x before 5.2.5 and 7.x before 7.4.4 contains an unauthenticated path...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:04+00:00"
-    },
-    {
-      "title": "CVE-2021-48016 - DedeCMS 5.8.1-beta Unauthenticated RCE via plus/flink.php",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2021-48016",
-      "summary": "CVE ID :CVE-2021-48016 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 49 minutes ago Description :DedeCMS through 5.8.1-beta contains a PHP code injection vulnerability in ShowMsg() where the HTTP...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:04+00:00"
-    },
-    {
-      "title": "CVE-2021-48015 - JeeWMS Path Traversal via showOrDownByurl.do",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2021-48015",
-      "summary": "CVE ID :CVE-2021-48015 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 49 minutes ago Description :JeeWMS before commit 0a610e8 contains an unauthenticated path traversal vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:04+00:00"
-    },
-    {
-      "title": "CVE-2021-48014 - FineReport 9.0 Unauthenticated Path Traversal File Write via ReportServer",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2021-48014",
-      "summary": "CVE ID :CVE-2021-48014 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 49 minutes ago Description :FineReport 9.0 contains a path traversal vulnerability in the /WebReport/ReportServer...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:04+00:00"
-    },
-    {
-      "title": "CVE-2021-48013 - Weaver E-cology 8.0 Unauthenticated Path Traversal via ln.FileDownload",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2021-48013",
-      "summary": "CVE ID :CVE-2021-48013 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 49 minutes ago Description :Weaver E-cology 8.0 contains a path traversal vulnerability that allows unauthenticated attackers to...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:04+00:00"
-    },
-    {
-      "title": "CVE-2019-25779 - WooThemes Diarise 1.5.9 Local File Disclosure via download.php",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2019-25779",
-      "summary": "CVE ID :CVE-2019-25779 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 49 minutes ago Description :WooThemes Diarise through 1.5.9 contains a file read vulnerability that allows unauthenticated...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:03+00:00"
-    },
-    {
-      "title": "CVE-2019-25778 - SeaCMS 8.7 SQL Injection via comment/api/index.php rlist Parameter",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2019-25778",
-      "summary": "CVE ID :CVE-2019-25778 Published : Oct. 22, 2026, 11:17 a.m. | 1 hour, 49 minutes ago Description :SeaCMS through 8.7 contains an unauthenticated SQL injection vulnerability that allows remote...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T11:17:03+00:00"
     },
     {
       "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
@@ -347,7 +431,7 @@
     {
       "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
       "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the...",
+      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot...",
       "source": "The Hacker News",
       "published": "2026-10-22T06:34:10+00:00"
     },
@@ -422,13 +506,6 @@
       "published": "2026-10-21T20:03:14+00:00"
     },
     {
-      "title": "Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity",
-      "link": "https://therecord.media/utilities-cybersecurity-initiative-accenture",
-      "summary": "Up to 500 under-resourced utilities will receive support in order to bolster their cybersecurity through a private sector initiative launched this week.",
-      "source": "The Record",
-      "published": "2026-10-21T19:45:00+00:00"
-    },
-    {
       "title": "Stopping PHP2SHELL: How SentinelOne Protects Customers From This Attack Technique",
       "link": "https://www.sentinelone.com/blog/stopping-php2shell-how-sentinelone-protects-customers-from-this-attack-technique/",
       "summary": "Stopping PHP2SHELL: How SentinelOne Protects Customers From This Attack Technique Executive SummaryOn October 21, 2026, the PHP project released versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to fix two...",
@@ -455,13 +532,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
       "source": "BleepingComputer",
       "published": "2026-10-21T18:34:42+00:00"
-    },
-    {
-      "title": "Democrat lawmakers say Russia is aiming to undermine party ahead of midterms",
-      "link": "https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party",
-      "summary": "The pair stressed the latest update showed no country is pursuing the technically challenging effort to interfere with or hack into the country’s election infrastructure or tamper directly with votes.",
-      "source": "The Record",
-      "published": "2026-10-21T18:28:00+00:00"
     },
     {
       "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
@@ -518,6 +588,13 @@
       "summary": "Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities.",
       "source": "Dark Reading",
       "published": "2026-10-21T15:44:48+00:00"
+    },
+    {
+      "title": "Millions of PHP Instances Exposed - What Organizations Need To Do Right Now",
+      "link": "https://www.paloaltonetworks.com/blog/2026/10/millions-of-php-instances-exposed-what-organizations-need-to-do-right-now/",
+      "summary": "Millions of PHP Instances Exposed - What Organizations Need To Do Right Now Two critical vulnerabilities in PHP (CVE-2026-109618 and CVE-2026-109619) have been published. Both vulnerabilities carry a...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-21T15:31:52+00:00"
     },
     {
       "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
@@ -625,13 +702,6 @@
       "published": "2026-10-21T10:30:27+00:00"
     },
     {
-      "title": "Microsoft says October updates didn’t actually fix VPN issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-      "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-21T10:14:53+00:00"
-    },
-    {
       "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
       "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
       "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory...",
@@ -644,13 +714,6 @@
       "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to...",
       "source": "The Hacker News",
       "published": "2026-10-21T09:01:12+00:00"
-    },
-    {
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-21T08:36:24+00:00"
     },
     {
       "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
@@ -693,13 +756,6 @@
       "summary": "PHP warns it plans to release 2 emergency patches imminently Website admins, brace yourselves. Fixes for what are believed to be uncommonly severe vulnerabilities are scheduled to drop in a little...",
       "source": "CVE Newsroom",
       "published": "2026-10-21T02:12:18+00:00"
-    },
-    {
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to...",
-      "source": "BleepingComputer",
-      "published": "2026-10-21T01:01:50+00:00"
     },
     {
       "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
@@ -917,34 +973,6 @@
       "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin...",
       "source": "The Hacker News",
       "published": "2026-10-19T06:29:44+00:00"
-    },
-    {
-      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-      "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is...",
-      "source": "The Hacker News",
-      "published": "2026-10-19T06:07:08+00:00"
-    },
-    {
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to...",
-      "source": "The Hacker News",
-      "published": "2026-10-18T08:23:02+00:00"
-    },
-    {
-      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded...",
-      "source": "The Hacker News",
-      "published": "2026-10-17T11:11:56+00:00"
-    },
-    {
-      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-      "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud...",
-      "source": "The Hacker News",
-      "published": "2026-10-17T06:16:46+00:00"
     },
     {
       "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
