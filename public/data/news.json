@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-10-21T22:54:08.548062+00:00",
+  "last_updated": "2026-10-22T02:34:40.195474+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-15723 - Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection') in GitLab",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-15723",
+      "summary": "CVE ID :CVE-2026-15723 Published : Oct. 21, 2026, 11:35 p.m. | 59 minutes ago Description :GitLab has remediated an issue in GitLab CE/EE affecting all versions from 10.1 before 19.3.6, 19.4 before...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T23:35:15+00:00"
+    },
+    {
+      "title": "CVE-2026-76298 - Use of Hard-coded Cryptographic Key in the PostgreSQL Sidecar Service in Splunk Enterprise",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76298",
+      "summary": "CVE ID :CVE-2026-76298 Published : Oct. 21, 2026, 11:17 p.m. | 1 hour, 17 minutes ago Description :In Splunk Enterprise versions below 10.4.4 and 10.2.8, a user who does not hold the \"admin\" or...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T23:17:27+00:00"
+    },
+    {
+      "title": "CVE-2026-76291 - Improper Access Control through Scheduled Search Safeguards in Splunk Enterprise",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76291",
+      "summary": "CVE ID :CVE-2026-76291 Published : Oct. 21, 2026, 11:17 p.m. | 1 hour, 17 minutes ago Description :In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, a user that holds a role...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T23:17:26+00:00"
+    },
+    {
+      "title": "CVE-2026-103090 - Unauthenticated Biscuit Credential Disclosure via GET /enroll/status in Google OSS Agent Mesh (SAM)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-103090",
+      "summary": "CVE ID :CVE-2026-103090 Published : Oct. 21, 2026, 11:17 p.m. | 1 hour, 17 minutes ago Description :Missing Authentication for Critical Function (CWE-306) and Insufficiently Protected Credentials...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T23:17:24+00:00"
+    },
+    {
+      "title": "CVE-2026-91403 - Vulnerability in the Oracle Java SE, Oracle GraalV",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91403",
+      "summary": "CVE ID :CVE-2026-91403 Published : Oct. 21, 2026, 10:16 p.m. | 2 hours, 17 minutes ago Description :Vulnerability in the Oracle Java SE, Oracle GraalVM for JDK, Oracle GraalVM Enterprise Edition...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T22:16:50+00:00"
+    },
+    {
+      "title": "CVE-2026-114509 - Laravel TokenGuard authentication bypass through non-string API credentials",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114509",
+      "summary": "CVE ID :CVE-2026-114509 Published : Oct. 21, 2026, 10:16 p.m. | 2 hours, 17 minutes ago Description :Laravel is a web application framework. Prior to 12.68.0 and 13.29.0, TokenGuard configured as a...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T22:16:49+00:00"
+    },
+    {
+      "title": "CVE-2026-114383 - TOTOLINK EX200 wireless.so cstecgi.cgi setWiFiAclAddConfig stack-based overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114383",
+      "summary": "CVE ID :CVE-2026-114383 Published : Oct. 21, 2026, 10:16 p.m. | 2 hours, 17 minutes ago Description :A weakness has been identified in TOTOLINK EX200 5.2.3c.7200. This impacts the function...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T22:16:49+00:00"
+    },
+    {
+      "title": "CVE-2026-114382 - TOTOLINK EX200 lan.so cstecgi.cgi setStaticDhcpConfig stack-based overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114382",
+      "summary": "CVE ID :CVE-2026-114382 Published : Oct. 21, 2026, 10:16 p.m. | 2 hours, 17 minutes ago Description :A security flaw has been discovered in TOTOLINK EX200 5.2.3c.7200. This affects the function...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T22:16:48+00:00"
+    },
     {
       "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
       "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
@@ -14,6 +70,62 @@
       "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
       "source": "BleepingComputer",
       "published": "2026-10-21T21:43:27+00:00"
+    },
+    {
+      "title": "CVE-2026-96640 - Pillow PDF append accepts malformed shared page-tree DAG causing resource exhaustion",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-96640",
+      "summary": "CVE ID :CVE-2026-96640 Published : Oct. 21, 2026, 9:20 p.m. | 3 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 5.1.0 until 13.0.0, PdfParser.linearize_page_tree() in...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T21:20:32+00:00"
+    },
+    {
+      "title": "CVE-2026-96639 - Pillow multi-frame loaders can reuse stale native image storage after mode transitions",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-96639",
+      "summary": "CVE ID :CVE-2026-96639 Published : Oct. 21, 2026, 9:20 p.m. | 3 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 11.0.0 until 13.0.0, multi-frame loaders can retain an...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T21:20:32+00:00"
+    },
+    {
+      "title": "CVE-2026-29001 - TastyIgniter 4.4.5 PHP Object Injection via Settings Deserialization",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-29001",
+      "summary": "CVE ID :CVE-2026-29001 Published : Oct. 21, 2026, 9:17 p.m. | 3 hours, 16 minutes ago Description :TastyIgniter through 4.4.5 contain a PHP object injection vulnerability that allows authenticated...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T21:17:59+00:00"
+    },
+    {
+      "title": "CVE-2026-114143 - toml-node: Quadratic-complexity DoS via long dotted keys or table paths in toml.parse()",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114143",
+      "summary": "CVE ID :CVE-2026-114143 Published : Oct. 21, 2026, 9:17 p.m. | 3 hours, 16 minutes ago Description :toml-node is a TOML parser for Node.js and the browser. Prior to 5.0.1, toml.parse() repeatedly...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T21:17:56+00:00"
+    },
+    {
+      "title": "CVE-2026-114142 - toml-node: Prototype pollution: parsing a TOML document can write to Object.prototype",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114142",
+      "summary": "CVE ID :CVE-2026-114142 Published : Oct. 21, 2026, 9:17 p.m. | 3 hours, 16 minutes ago Description :toml-node is a TOML parser for Node.js and the browser. Prior to 5.0.1, toml.parse() can write...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T21:17:56+00:00"
+    },
+    {
+      "title": "CVE-2026-114141 - toml-node: Quadratic-complexity DoS via many array-of-tables headers in toml.parse()",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114141",
+      "summary": "CVE ID :CVE-2026-114141 Published : Oct. 21, 2026, 9:17 p.m. | 3 hours, 16 minutes ago Description :toml-node is a TOML parser for Node.js and the browser. Prior to 5.0.1, the toml.parse() compiler's...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T21:17:56+00:00"
+    },
+    {
+      "title": "CVE-2026-114140 - nbconvert: File write via path traversal in cell output filenames",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114140",
+      "summary": "CVE ID :CVE-2026-114140 Published : Oct. 21, 2026, 9:17 p.m. | 3 hours, 16 minutes ago Description :The nbconvert tool, jupyter nbconvert, converts Jupyter notebooks to various other formats via...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T21:17:56+00:00"
+    },
+    {
+      "title": "CVE-2026-114139 - Sentry-Javascript: Middleware Bypass when using Tunnel route",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114139",
+      "summary": "CVE ID :CVE-2026-114139 Published : Oct. 21, 2026, 9:17 p.m. | 3 hours, 16 minutes ago Description :Sentry-Javascript is an official Sentry SDKs for JavaScript. From 9.36.0 until 9.47.2, 10.75.2, and...",
+      "source": "CVE Feed",
+      "published": "2026-10-21T21:17:56+00:00"
     },
     {
       "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
@@ -46,77 +158,63 @@
     {
       "title": "CVE-2026-114135 - Jupyter Server: Gateway WebSocket handler bypasses kernel execute authorization",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-114135",
-      "summary": "CVE ID :CVE-2026-114135 Published : Oct. 21, 2026, 8:17 p.m. | 54 minutes ago Description :Jupyter Server is the backend for Jupyter web applications. From 2.0.0 until 2.6.0, enabling...",
+      "summary": "CVE ID :CVE-2026-114135 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Jupyter Server is the backend for Jupyter web applications. From 2.0.0 until 2.6.0, enabling...",
       "source": "CVE Feed",
       "published": "2026-10-21T20:17:25+00:00"
     },
     {
       "title": "CVE-2026-112408 - Missing bucket ownership verification in Amazon SageMaker Python SDK default_bucket()",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-112408",
-      "summary": "CVE ID :CVE-2026-112408 Published : Oct. 21, 2026, 8:17 p.m. | 54 minutes ago Description :Missing verification of source of a communication channel in the default_bucket() function in Amazon...",
+      "summary": "CVE ID :CVE-2026-112408 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Missing verification of source of a communication channel in the default_bucket() function in...",
       "source": "CVE Feed",
       "published": "2026-10-21T20:17:23+00:00"
     },
     {
       "title": "CVE-2026-112381 - Apache Traffic Server: Nullptr dereference in net_write_io on a POST half-close with chunked response",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-112381",
-      "summary": "CVE ID :CVE-2026-112381 Published : Oct. 21, 2026, 8:17 p.m. | 54 minutes ago Description :Apache Traffic Server can crash with a null pointer dereference when a client POST request is torn down via...",
+      "summary": "CVE ID :CVE-2026-112381 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Apache Traffic Server can crash with a null pointer dereference when a client POST request is torn...",
       "source": "CVE Feed",
       "published": "2026-10-21T20:17:23+00:00"
     },
     {
       "title": "CVE-2026-111815 - Apache Traffic Server: TLS session ticket resumption bypasses per-SNI verify_client STRICT enforcement",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111815",
-      "summary": "CVE ID :CVE-2026-111815 Published : Oct. 21, 2026, 8:17 p.m. | 54 minutes ago Description :Apache Traffic Server can resume a TLS session across SNI virtual hosts without re-verifying a client...",
+      "summary": "CVE ID :CVE-2026-111815 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Apache Traffic Server can resume a TLS session across SNI virtual hosts without re-verifying a...",
       "source": "CVE Feed",
       "published": "2026-10-21T20:17:23+00:00"
     },
     {
       "title": "CVE-2026-111814 - Apache Traffic Server: Default server_session_sharing.match omits MASK_CERT, allowing pooled mTLS identity confusion at the origin",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111814",
-      "summary": "CVE ID :CVE-2026-111814 Published : Oct. 21, 2026, 8:17 p.m. | 54 minutes ago Description :Apache Traffic Server's default outbound session-sharing policy can reuse a pooled TLS session authenticated...",
+      "summary": "CVE ID :CVE-2026-111814 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Apache Traffic Server's default outbound session-sharing policy can reuse a pooled TLS session...",
       "source": "CVE Feed",
       "published": "2026-10-21T20:17:23+00:00"
     },
     {
       "title": "CVE-2026-111812 - Apache Traffic Server: origin_server_auth signs client-controlled AWS headers under the proxy's IAM credentials",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111812",
-      "summary": "CVE ID :CVE-2026-111812 Published : Oct. 21, 2026, 8:17 p.m. | 54 minutes ago Description :Apache Traffic Server's origin_server_auth plugin lets a client force signing of attacker-chosen AWS request...",
+      "summary": "CVE ID :CVE-2026-111812 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Apache Traffic Server's origin_server_auth plugin lets a client force signing of attacker-chosen...",
       "source": "CVE Feed",
       "published": "2026-10-21T20:17:23+00:00"
     },
     {
       "title": "CVE-2026-111811 - Apache Traffic Server: tsmemcache plugin exposes the shared proxy cache over the network with no authentication",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111811",
-      "summary": "CVE ID :CVE-2026-111811 Published : Oct. 21, 2026, 8:17 p.m. | 54 minutes ago Description :Apache Traffic Server's experimental tsmemcache plugin allows unauthenticated network read, write, and...",
+      "summary": "CVE ID :CVE-2026-111811 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Apache Traffic Server's experimental tsmemcache plugin allows unauthenticated network read, write...",
       "source": "CVE Feed",
       "published": "2026-10-21T20:17:22+00:00"
     },
     {
       "title": "CVE-2026-111810 - Apache Traffic Server: Unthrottled per-header diagnostic logging enables a log-flood denial of service",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111810",
-      "summary": "CVE ID :CVE-2026-111810 Published : Oct. 21, 2026, 8:17 p.m. | 54 minutes ago Description :Apache Traffic Server 9.2.15, 10.1.4 and 10.2.0 write one unthrottled diagnostic log line for every internal...",
+      "summary": "CVE ID :CVE-2026-111810 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Apache Traffic Server 9.2.15, 10.1.4 and 10.2.0 write one unthrottled diagnostic log line for every...",
       "source": "CVE Feed",
       "published": "2026-10-21T20:17:22+00:00"
     },
     {
       "title": "CVE-2026-111809 - Apache Traffic Server: HEAD requests carrying Content-Length or Transfer-Encoding enable request smuggling",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111809",
-      "summary": "CVE ID :CVE-2026-111809 Published : Oct. 21, 2026, 8:17 p.m. | 54 minutes ago Description :Apache Traffic Server allows request smuggling via HEAD requests that carry Content-Length or...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T20:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-111808 - Apache Traffic Server: HTTP/2 DATA frame padding underflow lets a client trigger backend worker-pool exhaustion",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111808",
-      "summary": "CVE ID :CVE-2026-111808 Published : Oct. 21, 2026, 8:17 p.m. | 54 minutes ago Description :Apache Traffic Server can be used to exhaust an HTTP/1.1 origin's worker pool via a malformed padded HTTP/2...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T20:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-111805 - Apache Traffic Server: HTTP/2 Content-Length truncation lets a client trigger backend worker-pool exhaustion",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111805",
-      "summary": "CVE ID :CVE-2026-111805 Published : Oct. 21, 2026, 8:17 p.m. | 54 minutes ago Description :Apache Traffic Server can be used to exhaust an HTTP/1.1 origin's worker pool via a truncated HTTP/2...",
+      "summary": "CVE ID :CVE-2026-111809 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Apache Traffic Server allows request smuggling via HEAD requests that carry Content-Length or...",
       "source": "CVE Feed",
       "published": "2026-10-21T20:17:22+00:00"
     },
@@ -156,83 +254,6 @@
       "published": "2026-10-21T19:19:17+00:00"
     },
     {
-      "title": "CVE-2026-114268 - Tenda BE3L Pro WifiBasicSet formWifiBasicSet buffer overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114268",
-      "summary": "CVE ID :CVE-2026-114268 Published : Oct. 21, 2026, 7:17 p.m. | 1 hour, 54 minutes ago Description :A flaw has been found in Tenda BE3L Pro 16.03.60.62. Affected by this vulnerability is the function...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T19:17:00+00:00"
-    },
-    {
-      "title": "CVE-2026-113870 - Improper Encoding of Server-Supplied JavaScript Values in MongoDB Compass BSON Parsing",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-113870",
-      "summary": "CVE ID :CVE-2026-113870 Published : Oct. 21, 2026, 7:17 p.m. | 1 hour, 54 minutes ago Description :MongoDB Compass improperly escapes certain BSON values when converting a stored view’s aggregation...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T19:17:00+00:00"
-    },
-    {
-      "title": "CVE-2026-111816 - Apache Traffic Server: A malformed 302 response bypasses parse-error rejection through the Transfer-Encoding: chunked carve-out",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111816",
-      "summary": "CVE ID :CVE-2026-111816 Published : Oct. 21, 2026, 7:16 p.m. | 1 hour, 54 minutes ago Description :Apache Traffic Server forwarded a malformed 302 response that should have been rejected as a parse...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T19:16:59+00:00"
-    },
-    {
-      "title": "CVE-2026-111813 - Apache Traffic Server: magick plugin passes client query strings unfiltered to ImageMagick convert in the default configuration",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111813",
-      "summary": "CVE ID :CVE-2026-111813 Published : Oct. 21, 2026, 7:16 p.m. | 1 hour, 54 minutes ago Description :Apache Traffic Server's experimental magick plugin lets an unauthenticated client control...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T19:16:59+00:00"
-    },
-    {
-      "title": "CVE-2026-111804 - Apache Traffic Server: wasm plugin has a use-after-free and forwards unvalidated guest metric IDs",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111804",
-      "summary": "CVE ID :CVE-2026-111804 Published : Oct. 21, 2026, 7:16 p.m. | 1 hour, 54 minutes ago Description :Apache Traffic Server's experimental wasm plugin has a use-after-free in its transaction-close...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T19:16:59+00:00"
-    },
-    {
-      "title": "CVE-2026-110803 - Session Lock Leak on an Invalid UI Id Allows Denial of Service in Vaadin Framework 8",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110803",
-      "summary": "CVE ID :CVE-2026-110803 Published : Oct. 21, 2026, 7:16 p.m. | 1 hour, 54 minutes ago Description :VaadinService.requestEnd() in Vaadin Framework 8 locks the session and then reads the v-uiId request...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T19:16:58+00:00"
-    },
-    {
-      "title": "CVE-2026-107588 - Multiple Vulnerabilities in the Highcharts Library Bundled with Vaadin Charts",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-107588",
-      "summary": "CVE ID :CVE-2026-107588 Published : Oct. 21, 2026, 7:16 p.m. | 1 hour, 54 minutes ago Description :Vaadin Charts renders charts with the Highcharts library and pins an exact version of it, 9.2.2 in...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T19:16:57+00:00"
-    },
-    {
-      "title": "CVE-2026-105944 - Apache Pulsar Manager: Missing authentication and authorization and disclosure of the Pulsar admin credential; end of life",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105944",
-      "summary": "CVE ID :CVE-2026-105944 Published : Oct. 21, 2026, 7:16 p.m. | 1 hour, 54 minutes ago Description :Apache Pulsar Manager is a web console for administering Apache Pulsar clusters. It has its own user...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T19:16:57+00:00"
-    },
-    {
-      "title": "CVE-2026-105937 - Apache Pulsar: Missing authorization of the shadow topic source allows cross-tenant message disclosure and deletion of source topic data",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105937",
-      "summary": "CVE ID :CVE-2026-105937 Published : Oct. 21, 2026, 7:16 p.m. | 1 hour, 54 minutes ago Description :Apache Pulsar shadow topics (PIP-180) are topics that read the stored messages of a source topic...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T19:16:56+00:00"
-    },
-    {
-      "title": "CVE-2025-55702 - Apache Traffic Server: An unread Expect: 100-continue request body is framed as a new request",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2025-55702",
-      "summary": "CVE ID :CVE-2025-55702 Published : Oct. 21, 2026, 7:16 p.m. | 1 hour, 54 minutes ago Description :When a client sends a POST with Expect: 100-continue and the origin answers before reading the body...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T19:16:48+00:00"
-    },
-    {
-      "title": "CVE-2025-31699 - Apache Traffic Server: Origin connection still owed a request body is reused, enabling request smuggling",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2025-31699",
-      "summary": "CVE ID :CVE-2025-31699 Published : Oct. 21, 2026, 7:16 p.m. | 1 hour, 54 minutes ago Description :Apache Traffic Server can return an origin connection to the shared pool while the origin is still...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T19:16:47+00:00"
-    },
-    {
       "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
       "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
       "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in...",
@@ -252,27 +273,6 @@
       "summary": "The pair stressed the latest update showed no country is pursuing the technically challenging effort to interfere with or hack into the country’s election infrastructure or tamper directly with votes.",
       "source": "The Record",
       "published": "2026-10-21T18:28:00+00:00"
-    },
-    {
-      "title": "CVE-2026-92208 - NoMachine mDNS Heap-based Buffer Overflow Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92208",
-      "summary": "CVE ID :CVE-2026-92208 Published : Oct. 21, 2026, 6:17 p.m. | 2 hours, 54 minutes ago Description :NoMachine mDNS Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T18:17:31+00:00"
-    },
-    {
-      "title": "CVE-2026-92207 - MindsDB OpenBBtable Code Injection Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92207",
-      "summary": "CVE ID :CVE-2026-92207 Published : Oct. 21, 2026, 6:17 p.m. | 2 hours, 54 minutes ago Description :MindsDB OpenBBtable Code Injection Remote Code Execution Vulnerability. This vulnerability allows...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T18:17:31+00:00"
-    },
-    {
-      "title": "CVE-2026-92206 - CrewAI crewAI Framework Agent Loading Unsafe Reflection Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92206",
-      "summary": "CVE ID :CVE-2026-92206 Published : Oct. 21, 2026, 6:17 p.m. | 2 hours, 54 minutes ago Description :CrewAI crewAI Framework Agent Loading Unsafe Reflection Remote Code Execution Vulnerability. This...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T18:17:31+00:00"
     },
     {
       "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
