@@ -1,61 +1,215 @@
 {
-  "last_updated": "2026-10-22T02:34:40.195474+00:00",
+  "last_updated": "2026-10-22T09:01:56.477295+00:00",
   "articles": [
+    {
+      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+      "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and...",
+      "source": "BleepingComputer",
+      "published": "2026-10-22T08:27:11+00:00"
+    },
+    {
+      "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
+      "link": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
+      "summary": "Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches. The post Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU...",
+      "source": "SecurityWeek",
+      "published": "2026-10-22T07:38:14+00:00"
+    },
+    {
+      "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
+      "link": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
+      "summary": "The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019. The post Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy...",
+      "source": "SecurityWeek",
+      "published": "2026-10-22T07:26:54+00:00"
+    },
+    {
+      "title": "CVE-2026-114177 - WordPress Xpro Elementor Addons plugin <= 1.7.10 - Cross Site Request Forgery (CSRF) vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114177",
+      "summary": "CVE ID :CVE-2026-114177 Published : Oct. 22, 2026, 7:16 a.m. | 41 minutes ago Description :Cross-Site Request Forgery (CSRF) vulnerability in Xpro Xpro Elementor Addons xpro-elementor-addons allows...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T07:16:41+00:00"
+    },
+    {
+      "title": "CVE-2026-105270 - Unbounded atom creation while parsing SAML messages in esaml allows atom table exhaustion",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105270",
+      "summary": "CVE ID :CVE-2026-105270 Published : Oct. 22, 2026, 7:16 a.m. | 41 minutes ago Description :Allocation of Resources Without Limits or Throttling vulnerability in esaml_binding in dropbox esaml allows...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T07:16:40+00:00"
+    },
+    {
+      "title": "CVE-2026-112327 - WordPress Amelia plugin <= 2.4.11 - SQL Injection vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112327",
+      "summary": "CVE ID :CVE-2026-112327 Published : Oct. 22, 2026, 7:01 a.m. | 56 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in TMS...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T07:01:09+00:00"
+    },
+    {
+      "title": "CVE-2026-93471 - Unbounded SAML message decompression in esaml allows memory exhaustion",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-93471",
+      "summary": "CVE ID :CVE-2026-93471 Published : Oct. 22, 2026, 6:59 a.m. | 58 minutes ago Description :Improper Handling of Highly Compressed Data (Data Amplification) in esaml_binding in dropbox esaml allows an...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T06:59:24+00:00"
+    },
+    {
+      "title": "CVE-2026-86696 - Unbounded atom creation from unsigned LogoutResponse status codes in esaml allows atom table exhaustion",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-86696",
+      "summary": "CVE ID :CVE-2026-86696 Published : Oct. 22, 2026, 6:59 a.m. | 59 minutes ago Description :Allocation of Resources Without Limits or Throttling vulnerability in esaml in dropbox esaml allows an...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T06:59:07+00:00"
+    },
+    {
+      "title": "CVE-2026-114220 - NewType Infortech｜NT OneAPP - Improper Certificate Validation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114220",
+      "summary": "CVE ID :CVE-2026-114220 Published : Oct. 22, 2026, 5:16 a.m. | 2 hours, 41 minutes ago Description :NT OneAPP developed by NewType Infortech has an Improper Certificate Validation vulnerability...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T05:16:50+00:00"
+    },
+    {
+      "title": "CVE-2026-114219 - NewType Infortech｜NT OneAPP - Hard-coded Credentials",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114219",
+      "summary": "CVE ID :CVE-2026-114219 Published : Oct. 22, 2026, 5:16 a.m. | 2 hours, 41 minutes ago Description :NT OneAPP developed by NewType Infortech has a Hard-coded Credentials vulnerability...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T05:16:49+00:00"
+    },
+    {
+      "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
+      "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
+      "summary": "The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint.",
+      "source": "Dark Reading",
+      "published": "2026-10-22T05:00:00+00:00"
+    },
+    {
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident...",
+      "source": "The Hacker News",
+      "published": "2026-10-22T04:21:26+00:00"
+    },
+    {
+      "title": "CVE-2026-114727 - Roundcube Webmail Arbitrary File Processing Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114727",
+      "summary": "CVE ID :CVE-2026-114727 Published : Oct. 22, 2026, 2:17 a.m. | 5 hours, 41 minutes ago Description :Roundcube Webmail before 1.6.20 and 1.7.x before 1.7.5 passes potentially unsafe content into...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T02:17:00+00:00"
+    },
+    {
+      "title": "CVE-2026-114716 - Roundcube Webmail Mail Header Injection Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114716",
+      "summary": "CVE ID :CVE-2026-114716 Published : Oct. 22, 2026, 2:16 a.m. | 5 hours, 41 minutes ago Description :Roundcube Webmail before 1.6.20 and 1.7.x before 1.7.5 is affected by a mail header injection...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T02:16:59+00:00"
+    },
+    {
+      "title": "CVE-2026-114663 - Vyper 0.4.0b1 through 0.5.0b1 Name Shadowing of Imported Constants and Default Arguments",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114663",
+      "summary": "CVE ID :CVE-2026-114663 Published : Oct. 22, 2026, 2:16 a.m. | 5 hours, 41 minutes ago Description :Vyper 0.4.0b1 through 0.5.0b1 miscompiles unfoldable constants and omitted default arguments from...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T02:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-114662 - Obot before 0.26.0 API Key Theft via CLI Login Token Request",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114662",
+      "summary": "CVE ID :CVE-2026-114662 Published : Oct. 22, 2026, 2:16 a.m. | 5 hours, 41 minutes ago Description :Obot before 0.26.0 contains an authentication bypass vulnerability in the CLI login flow that...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T02:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-114661 - OpenRemote 1.2.0 before 1.31.0 Missing Authorization in Gateway Tunnel Endpoints",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114661",
+      "summary": "CVE ID :CVE-2026-114661 Published : Oct. 22, 2026, 2:16 a.m. | 5 hours, 41 minutes ago Description :OpenRemote 1.2.0 before 1.31.0 contains a missing authorization vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T02:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-114658 - Grav Login plugin 3.6.0 before 3.9.13 Privilege Escalation via login.invite",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114658",
+      "summary": "CVE ID :CVE-2026-114658 Published : Oct. 22, 2026, 2:16 a.m. | 5 hours, 41 minutes ago Description :Grav Login plugin from 3.6.0 before 3.9.13 contains a missing authorization vulnerability in the...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T02:16:57+00:00"
+    },
+    {
+      "title": "CVE-2026-114642 - Traefik before 2.11.58 and 3.7.14 TLS Config Bypass via NTLM/Kerberos Round Tripper",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114642",
+      "summary": "CVE ID :CVE-2026-114642 Published : Oct. 22, 2026, 2:16 a.m. | 5 hours, 41 minutes ago Description :Traefik 2.11.0 before 2.11.58 and 3.0.0 before 3.7.14 stores its NTLM/Kerberos backend round...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T02:16:57+00:00"
+    },
+    {
+      "title": "CVE-2026-114640 - Traefik v3.7.0 before v3.7.14 mTLS Header Spoofing via Ingress-NGINX HTTP Router",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114640",
+      "summary": "CVE ID :CVE-2026-114640 Published : Oct. 22, 2026, 2:16 a.m. | 5 hours, 41 minutes ago Description :Traefik from v3.7.0 before v3.7.14 contains an authentication bypass vulnerability in its...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T02:16:56+00:00"
+    },
+    {
+      "title": "CVE-2026-114639 - Traefik before 2.11.58 and 3.7.14 Authentication Bypass via Negotiate Connection Pool",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114639",
+      "summary": "CVE ID :CVE-2026-114639 Published : Oct. 22, 2026, 2:16 a.m. | 5 hours, 41 minutes ago Description :Traefik 2.11.0 before 2.11.58 and 3.0.0 before 3.7.14 contains an authentication bypass because a...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T02:16:56+00:00"
+    },
+    {
+      "title": "CVE-2026-114638 - Traefik v3.7.0 before v3.7.14 Client CA Mix-up via auth-tls-secret Name Collision",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114638",
+      "summary": "CVE ID :CVE-2026-114638 Published : Oct. 22, 2026, 2:16 a.m. | 5 hours, 41 minutes ago Description :Traefik v3.7.0 before v3.7.14 contains an improper authentication vulnerability in the Kubernetes...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T02:16:56+00:00"
+    },
+    {
+      "title": "CVE-2026-114637 - Traefik v3.2.0 before v3.7.14 FastProxy NTLM/Negotiate Connection Pool Identity Leak",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114637",
+      "summary": "CVE ID :CVE-2026-114637 Published : Oct. 22, 2026, 2:16 a.m. | 5 hours, 41 minutes ago Description :Traefik from v3.2.0 before v3.7.14 contains an authentication bypass vulnerability in the...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T02:16:56+00:00"
+    },
+    {
+      "title": "CVE-2026-114636 - Traefik v3.7.13 Authentication Bypass via ssl-passthrough Ingress HTTP Router",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114636",
+      "summary": "CVE ID :CVE-2026-114636 Published : Oct. 22, 2026, 2:16 a.m. | 5 hours, 41 minutes ago Description :Traefik v3.7.13 before v3.7.14 contains an access-control bypass in the Kubernetes Ingress NGINX...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T02:16:56+00:00"
+    },
+    {
+      "title": "CVE-2026-114635 - Traefik before v2.11.58 and v3.7.14 SNI Check Bypass via HTTP/2 Scheme",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114635",
+      "summary": "CVE ID :CVE-2026-114635 Published : Oct. 22, 2026, 2:16 a.m. | 5 hours, 41 minutes ago Description :Traefik before v2.11.58 and v3.7.14 contains an authentication bypass vulnerability in its SNI...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T02:16:56+00:00"
+    },
     {
       "title": "CVE-2026-15723 - Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection') in GitLab",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-15723",
-      "summary": "CVE ID :CVE-2026-15723 Published : Oct. 21, 2026, 11:35 p.m. | 59 minutes ago Description :GitLab has remediated an issue in GitLab CE/EE affecting all versions from 10.1 before 19.3.6, 19.4 before...",
+      "summary": "CVE ID :CVE-2026-15723 Published : Oct. 22, 2026, 1:16 a.m. | 6 hours, 41 minutes ago Description :GitLab has remediated an issue in GitLab CE/EE affecting all versions from 10.1 before 19.3.6, 19.4...",
       "source": "CVE Feed",
-      "published": "2026-10-21T23:35:15+00:00"
+      "published": "2026-10-22T01:16:59+00:00"
+    },
+    {
+      "title": "CVE-2026-114575 - TOTOLINK A950RG product.so UploadCustomModule command injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114575",
+      "summary": "CVE ID :CVE-2026-114575 Published : Oct. 22, 2026, 1:16 a.m. | 6 hours, 41 minutes ago Description :A flaw has been found in TOTOLINK A950RG 4.1.2cu.5268_B20221104. Affected by this issue is the...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T01:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-110264 - Integer Overflow or Wraparound in GitLab",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110264",
+      "summary": "CVE ID :CVE-2026-110264 Published : Oct. 22, 2026, 1:16 a.m. | 6 hours, 41 minutes ago Description :An issue has been discovered in GitLab CE/EE affecting all versions from 7.0 before 18.11.13, 19.0...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T01:16:57+00:00"
     },
     {
       "title": "CVE-2026-76298 - Use of Hard-coded Cryptographic Key in the PostgreSQL Sidecar Service in Splunk Enterprise",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-76298",
-      "summary": "CVE ID :CVE-2026-76298 Published : Oct. 21, 2026, 11:17 p.m. | 1 hour, 17 minutes ago Description :In Splunk Enterprise versions below 10.4.4 and 10.2.8, a user who does not hold the \"admin\" or...",
+      "summary": "CVE ID :CVE-2026-76298 Published : Oct. 21, 2026, 11:17 p.m. | 8 hours, 40 minutes ago Description :In Splunk Enterprise versions below 10.4.4 and 10.2.8, a user who does not hold the \"admin\" or...",
       "source": "CVE Feed",
       "published": "2026-10-21T23:17:27+00:00"
     },
     {
       "title": "CVE-2026-76291 - Improper Access Control through Scheduled Search Safeguards in Splunk Enterprise",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-76291",
-      "summary": "CVE ID :CVE-2026-76291 Published : Oct. 21, 2026, 11:17 p.m. | 1 hour, 17 minutes ago Description :In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, a user that holds a role...",
+      "summary": "CVE ID :CVE-2026-76291 Published : Oct. 21, 2026, 11:17 p.m. | 8 hours, 40 minutes ago Description :In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, a user that holds a role...",
       "source": "CVE Feed",
       "published": "2026-10-21T23:17:26+00:00"
-    },
-    {
-      "title": "CVE-2026-103090 - Unauthenticated Biscuit Credential Disclosure via GET /enroll/status in Google OSS Agent Mesh (SAM)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-103090",
-      "summary": "CVE ID :CVE-2026-103090 Published : Oct. 21, 2026, 11:17 p.m. | 1 hour, 17 minutes ago Description :Missing Authentication for Critical Function (CWE-306) and Insufficiently Protected Credentials...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T23:17:24+00:00"
-    },
-    {
-      "title": "CVE-2026-91403 - Vulnerability in the Oracle Java SE, Oracle GraalV",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91403",
-      "summary": "CVE ID :CVE-2026-91403 Published : Oct. 21, 2026, 10:16 p.m. | 2 hours, 17 minutes ago Description :Vulnerability in the Oracle Java SE, Oracle GraalVM for JDK, Oracle GraalVM Enterprise Edition...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T22:16:50+00:00"
-    },
-    {
-      "title": "CVE-2026-114509 - Laravel TokenGuard authentication bypass through non-string API credentials",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114509",
-      "summary": "CVE ID :CVE-2026-114509 Published : Oct. 21, 2026, 10:16 p.m. | 2 hours, 17 minutes ago Description :Laravel is a web application framework. Prior to 12.68.0 and 13.29.0, TokenGuard configured as a...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T22:16:49+00:00"
-    },
-    {
-      "title": "CVE-2026-114383 - TOTOLINK EX200 wireless.so cstecgi.cgi setWiFiAclAddConfig stack-based overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114383",
-      "summary": "CVE ID :CVE-2026-114383 Published : Oct. 21, 2026, 10:16 p.m. | 2 hours, 17 minutes ago Description :A weakness has been identified in TOTOLINK EX200 5.2.3c.7200. This impacts the function...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T22:16:49+00:00"
-    },
-    {
-      "title": "CVE-2026-114382 - TOTOLINK EX200 lan.so cstecgi.cgi setStaticDhcpConfig stack-based overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114382",
-      "summary": "CVE ID :CVE-2026-114382 Published : Oct. 21, 2026, 10:16 p.m. | 2 hours, 17 minutes ago Description :A security flaw has been discovered in TOTOLINK EX200 5.2.3c.7200. This affects the function...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T22:16:48+00:00"
     },
     {
       "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
@@ -70,62 +224,6 @@
       "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
       "source": "BleepingComputer",
       "published": "2026-10-21T21:43:27+00:00"
-    },
-    {
-      "title": "CVE-2026-96640 - Pillow PDF append accepts malformed shared page-tree DAG causing resource exhaustion",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-96640",
-      "summary": "CVE ID :CVE-2026-96640 Published : Oct. 21, 2026, 9:20 p.m. | 3 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 5.1.0 until 13.0.0, PdfParser.linearize_page_tree() in...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T21:20:32+00:00"
-    },
-    {
-      "title": "CVE-2026-96639 - Pillow multi-frame loaders can reuse stale native image storage after mode transitions",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-96639",
-      "summary": "CVE ID :CVE-2026-96639 Published : Oct. 21, 2026, 9:20 p.m. | 3 hours, 14 minutes ago Description :Pillow is a Python imaging library. From 11.0.0 until 13.0.0, multi-frame loaders can retain an...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T21:20:32+00:00"
-    },
-    {
-      "title": "CVE-2026-29001 - TastyIgniter 4.4.5 PHP Object Injection via Settings Deserialization",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-29001",
-      "summary": "CVE ID :CVE-2026-29001 Published : Oct. 21, 2026, 9:17 p.m. | 3 hours, 16 minutes ago Description :TastyIgniter through 4.4.5 contain a PHP object injection vulnerability that allows authenticated...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T21:17:59+00:00"
-    },
-    {
-      "title": "CVE-2026-114143 - toml-node: Quadratic-complexity DoS via long dotted keys or table paths in toml.parse()",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114143",
-      "summary": "CVE ID :CVE-2026-114143 Published : Oct. 21, 2026, 9:17 p.m. | 3 hours, 16 minutes ago Description :toml-node is a TOML parser for Node.js and the browser. Prior to 5.0.1, toml.parse() repeatedly...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T21:17:56+00:00"
-    },
-    {
-      "title": "CVE-2026-114142 - toml-node: Prototype pollution: parsing a TOML document can write to Object.prototype",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114142",
-      "summary": "CVE ID :CVE-2026-114142 Published : Oct. 21, 2026, 9:17 p.m. | 3 hours, 16 minutes ago Description :toml-node is a TOML parser for Node.js and the browser. Prior to 5.0.1, toml.parse() can write...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T21:17:56+00:00"
-    },
-    {
-      "title": "CVE-2026-114141 - toml-node: Quadratic-complexity DoS via many array-of-tables headers in toml.parse()",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114141",
-      "summary": "CVE ID :CVE-2026-114141 Published : Oct. 21, 2026, 9:17 p.m. | 3 hours, 16 minutes ago Description :toml-node is a TOML parser for Node.js and the browser. Prior to 5.0.1, the toml.parse() compiler's...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T21:17:56+00:00"
-    },
-    {
-      "title": "CVE-2026-114140 - nbconvert: File write via path traversal in cell output filenames",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114140",
-      "summary": "CVE ID :CVE-2026-114140 Published : Oct. 21, 2026, 9:17 p.m. | 3 hours, 16 minutes ago Description :The nbconvert tool, jupyter nbconvert, converts Jupyter notebooks to various other formats via...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T21:17:56+00:00"
-    },
-    {
-      "title": "CVE-2026-114139 - Sentry-Javascript: Middleware Bypass when using Tunnel route",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114139",
-      "summary": "CVE ID :CVE-2026-114139 Published : Oct. 21, 2026, 9:17 p.m. | 3 hours, 16 minutes ago Description :Sentry-Javascript is an official Sentry SDKs for JavaScript. From 9.36.0 until 9.47.2, 10.75.2, and...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T21:17:56+00:00"
     },
     {
       "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
@@ -154,69 +252,6 @@
       "summary": "The Cambridge Analytica data privacy scandal from a decade ago is still weighing on Meta's finances.",
       "source": "The Record",
       "published": "2026-10-21T20:25:00+00:00"
-    },
-    {
-      "title": "CVE-2026-114135 - Jupyter Server: Gateway WebSocket handler bypasses kernel execute authorization",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114135",
-      "summary": "CVE ID :CVE-2026-114135 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Jupyter Server is the backend for Jupyter web applications. From 2.0.0 until 2.6.0, enabling...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T20:17:25+00:00"
-    },
-    {
-      "title": "CVE-2026-112408 - Missing bucket ownership verification in Amazon SageMaker Python SDK default_bucket()",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112408",
-      "summary": "CVE ID :CVE-2026-112408 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Missing verification of source of a communication channel in the default_bucket() function in...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T20:17:23+00:00"
-    },
-    {
-      "title": "CVE-2026-112381 - Apache Traffic Server: Nullptr dereference in net_write_io on a POST half-close with chunked response",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112381",
-      "summary": "CVE ID :CVE-2026-112381 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Apache Traffic Server can crash with a null pointer dereference when a client POST request is torn...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T20:17:23+00:00"
-    },
-    {
-      "title": "CVE-2026-111815 - Apache Traffic Server: TLS session ticket resumption bypasses per-SNI verify_client STRICT enforcement",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111815",
-      "summary": "CVE ID :CVE-2026-111815 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Apache Traffic Server can resume a TLS session across SNI virtual hosts without re-verifying a...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T20:17:23+00:00"
-    },
-    {
-      "title": "CVE-2026-111814 - Apache Traffic Server: Default server_session_sharing.match omits MASK_CERT, allowing pooled mTLS identity confusion at the origin",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111814",
-      "summary": "CVE ID :CVE-2026-111814 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Apache Traffic Server's default outbound session-sharing policy can reuse a pooled TLS session...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T20:17:23+00:00"
-    },
-    {
-      "title": "CVE-2026-111812 - Apache Traffic Server: origin_server_auth signs client-controlled AWS headers under the proxy's IAM credentials",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111812",
-      "summary": "CVE ID :CVE-2026-111812 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Apache Traffic Server's origin_server_auth plugin lets a client force signing of attacker-chosen...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T20:17:23+00:00"
-    },
-    {
-      "title": "CVE-2026-111811 - Apache Traffic Server: tsmemcache plugin exposes the shared proxy cache over the network with no authentication",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111811",
-      "summary": "CVE ID :CVE-2026-111811 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Apache Traffic Server's experimental tsmemcache plugin allows unauthenticated network read, write...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T20:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-111810 - Apache Traffic Server: Unthrottled per-header diagnostic logging enables a log-flood denial of service",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111810",
-      "summary": "CVE ID :CVE-2026-111810 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Apache Traffic Server 9.2.15, 10.1.4 and 10.2.0 write one unthrottled diagnostic log line for every...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T20:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-111809 - Apache Traffic Server: HEAD requests carrying Content-Length or Transfer-Encoding enable request smuggling",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111809",
-      "summary": "CVE ID :CVE-2026-111809 Published : Oct. 21, 2026, 8:17 p.m. | 4 hours, 17 minutes ago Description :Apache Traffic Server allows request smuggling via HEAD requests that carry Content-Length or...",
-      "source": "CVE Feed",
-      "published": "2026-10-21T20:17:22+00:00"
     },
     {
       "title": "Marvell, Microsoft & Oracle Work to Standardize Data Center Hardware Security",
@@ -312,7 +347,7 @@
     {
       "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
       "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two...",
+      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal...",
       "source": "The Hacker News",
       "published": "2026-10-21T16:33:47+00:00"
     },
@@ -478,13 +513,6 @@
       "published": "2026-10-21T11:22:05+00:00"
     },
     {
-      "title": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
-      "link": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
-      "summary": "The DHS said agencies should remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT systems. The post China Defends DeepSeek After US Ban of Its...",
-      "source": "SecurityWeek",
-      "published": "2026-10-21T10:54:49+00:00"
-    },
-    {
       "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
       "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
       "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that...",
@@ -511,13 +539,6 @@
       "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
       "source": "BleepingComputer",
       "published": "2026-10-21T10:14:53+00:00"
-    },
-    {
-      "title": "Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor",
-      "link": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
-      "summary": "Tasked with writing an application for a US defense contractor, the model made the code 19% more likely to be hackable. The post Chinese AI Model Writes More Hackable Code When Told It’s for US...",
-      "source": "SecurityWeek",
-      "published": "2026-10-21T10:03:24+00:00"
     },
     {
       "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
@@ -623,13 +644,6 @@
       "summary": "The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.",
       "source": "Dark Reading",
       "published": "2026-10-20T19:16:49+00:00"
-    },
-    {
-      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
-      "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-20T18:11:03+00:00"
     },
     {
       "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
@@ -1003,13 +1017,6 @@
       "published": "2026-10-15T20:43:20+00:00"
     },
     {
-      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud...",
-      "source": "The Hacker News",
-      "published": "2026-10-15T20:24:36+00:00"
-    },
-    {
       "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
       "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
       "summary": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
@@ -1183,13 +1190,6 @@
       "summary": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations.",
       "source": "Dark Reading",
       "published": "2026-10-08T18:01:50+00:00"
-    },
-    {
-      "title": "Writing the Next Chapter",
-      "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
-      "summary": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
-      "source": "Dark Reading",
-      "published": "2026-10-08T12:00:00+00:00"
     },
     {
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
