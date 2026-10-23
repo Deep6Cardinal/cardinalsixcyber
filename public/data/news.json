@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-23T14:32:30.031944+00:00",
+  "last_updated": "2026-10-23T19:38:42.527591+00:00",
   "articles": [
+    {
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-23T18:54:41+00:00"
+    },
+    {
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic...",
+      "source": "The Hacker News",
+      "published": "2026-10-23T18:50:13+00:00"
+    },
+    {
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab...",
+      "source": "The Hacker News",
+      "published": "2026-10-23T17:54:08+00:00"
+    },
+    {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an...",
+      "source": "The Hacker News",
+      "published": "2026-10-23T17:50:47+00:00"
+    },
+    {
+      "title": "CVE-2026-115812 - Relative path traversal during model archive extraction in Amazon Web Services Multi Model Server",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115812",
+      "summary": "CVE ID :CVE-2026-115812 Published : Oct. 23, 2026, 5:33 p.m. | 19 minutes ago Description :Relative path traversal during model archive extraction in Amazon Web Services Multi Model Server 1.1.11 and...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T17:33:53+00:00"
+    },
+    {
+      "title": "FCC bans two devices with surveillance chips linked to Huawei",
+      "link": "https://therecord.media/fcc-bans-devices-huawei-surveillance-chips",
+      "summary": "The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets its products as “designed for the surveillance...",
+      "source": "The Record",
+      "published": "2026-10-23T17:28:00+00:00"
+    },
+    {
+      "title": "AI Tools Are Generating Massive Attacks for Little Cost",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
+      "summary": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
+      "source": "Dark Reading",
+      "published": "2026-10-23T17:26:59+00:00"
+    },
+    {
+      "title": "CVE-2026-87901 - Product Registration Module Reflected Cross-Site Scripting",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-87901",
+      "summary": "CVE ID :CVE-2026-87901 Published : Oct. 23, 2026, 5:17 p.m. | 36 minutes ago Description :Improper sanitization in the registration module allows reflected Cross-Site Scripting. Severity: 8.3 | HIGH...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T17:17:22+00:00"
+    },
+    {
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+      "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-23T17:05:07+00:00"
+    },
+    {
+      "title": "Fortinet Releases Security Updates Across Five Products",
+      "link": "https://thecyberthrone.in/2026/10/23/fortinet-releases-security-updates-across-five-products/",
+      "summary": "Fortinet Releases Security Updates Across Five Products Fortinet has announced a coordinated set of security updates covering five products: FortiOS, FortiManager, FortiAnalyzer, FortiMail and...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-23T16:52:49+00:00"
+    },
+    {
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-23T16:40:07+00:00"
+    },
+    {
+      "title": "CVE-2026-57845 - Hugging Face Datasets 5.1.0 Pickle Deserialization RCE via Pandas Builder",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-57845",
+      "summary": "CVE ID :CVE-2026-57845 Published : Oct. 23, 2026, 4:16 p.m. | 1 hour, 36 minutes ago Description :Hugging Face Datasets through 5.1.0 contains an insecure deserialization vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T16:16:52+00:00"
+    },
+    {
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-23T15:38:05+00:00"
+    },
+    {
+      "title": "CVE-2026-58497 - Uni-CLI: Legacy HTTP MCP transport accepted browser-originated localhost requests",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58497",
+      "summary": "CVE ID :CVE-2026-58497 Published : Oct. 23, 2026, 3:17 p.m. | 2 hours, 35 minutes ago Description :Uni-CLI gives people and agents one command interface for websites, browsers, desktop applications...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T15:17:34+00:00"
+    },
+    {
+      "title": "CVE-2026-55486 - Goobi viewer: IIIF Auth 2.0 origin parameter unsanitized — CSP malformation and reflected XSS",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-55486",
+      "summary": "CVE ID :CVE-2026-55486 Published : Oct. 23, 2026, 3:17 p.m. | 2 hours, 35 minutes ago Description :The Goobi viewer is a web application that allows digitised material to be displayed in a web...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T15:17:33+00:00"
+    },
+    {
+      "title": "CVE-2026-54668 - Kitodo.Production: XXE in XMLUtils EAD/XML upload parsers (parseXMLString / getNumberOfEADElements / checkIfXmlIsWellFormed lack secure JAXP config)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54668",
+      "summary": "CVE ID :CVE-2026-54668 Published : Oct. 23, 2026, 3:17 p.m. | 2 hours, 35 minutes ago Description :Kitodo.Production is a workflow management tool for mass digitization and is part of the Kitodo...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T15:17:32+00:00"
+    },
+    {
+      "title": "CVE-2026-53942 - Conda Organization Infrastructure: Pwn Request in update workflow allows PR-controlled template rendering with SYNC_TOKEN",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-53942",
+      "summary": "CVE ID :CVE-2026-53942 Published : Oct. 23, 2026, 3:17 p.m. | 2 hours, 35 minutes ago Description :Conda Organization Infrastructure is a centralized location for infrastructure codes. Prior to...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T15:17:32+00:00"
+    },
+    {
+      "title": "CVE-2026-46652 - Path traversal via HTTP `Content-Disposition` header in ExternalFilesDownloader enables remote code execution in Goobi viewer",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-46652",
+      "summary": "CVE ID :CVE-2026-46652 Published : Oct. 23, 2026, 3:17 p.m. | 2 hours, 35 minutes ago Description :The Goobi viewer is a web application that allows digitised material to be displayed in a web...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T15:17:31+00:00"
+    },
+    {
+      "title": "CVE-2026-46651 - Unauthenticated SSRF and local file inclusion via DownloadTaskEndpoint WebSocket in Goobi viewer",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-46651",
+      "summary": "CVE ID :CVE-2026-46651 Published : Oct. 23, 2026, 3:17 p.m. | 2 hours, 35 minutes ago Description :The Goobi viewer is a web application that allows digitised material to be displayed in a web...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T15:17:31+00:00"
+    },
+    {
+      "title": "CVE-2026-102786 - Joomla Extension - phoca.cz - Authenticated stored cross-site scripting through HTML attribute injection in Phoca Gallery 4.5.0 - 6.1.5",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102786",
+      "summary": "CVE ID :CVE-2026-102786 Published : Oct. 23, 2026, 3:17 p.m. | 2 hours, 36 minutes ago Description :Joomla Extension - phoca.cz - Authenticated stored cross-site scripting through HTML attribute...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T15:17:22+00:00"
+    },
+    {
+      "title": "PHP2Shell Operational Guidance",
+      "link": "https://blog.nviso.eu/2026/10/23/php2shell-operational-guidance/",
+      "summary": "PHP2Shell Operational Guidance First published on 22 October 2026, last updated on 23 October 2026 at 16:45 CEST. This public operational guidance is provided to customers and published for the...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-23T14:44:06+00:00"
+    },
+    {
+      "title": "Technology that blocks DGA domains | Kaspersky official blog",
+      "link": "https://www.kaspersky.co.uk/blog/dga-algorithm-detection-technology/31008/",
+      "summary": "Technology that blocks DGA domains | Kaspersky official blog spam Spammers automatically register hundreds of near-identical domains to fool security solutions. We can block those domains...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-23T14:35:14+00:00"
+    },
     {
       "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
       "link": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
@@ -11,84 +165,84 @@
     {
       "title": "CVE-2026-93639 - Zimbra Collaboration Suite Missing Authorization in ConfigureZimlet Enables Delegated Administrator Privilege Escalation",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-93639",
-      "summary": "CVE ID :CVE-2026-93639 Published : Oct. 23, 2026, 2:17 p.m. | 14 minutes ago Description :A missing authorization vulnerability in Zimbra Collaboration Suite (ZCS) allows a delegated administrator...",
+      "summary": "CVE ID :CVE-2026-93639 Published : Oct. 23, 2026, 2:17 p.m. | 3 hours, 35 minutes ago Description :A missing authorization vulnerability in Zimbra Collaboration Suite (ZCS) allows a delegated...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:57+00:00"
     },
     {
       "title": "CVE-2026-55826 - Customer Order Data Exposed via Unauthenticated gtm_server_side_order_id Cookie Manipulation in GTM Server Side WordPress Plugin",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-55826",
-      "summary": "CVE ID :CVE-2026-55826 Published : Oct. 23, 2026, 2:17 p.m. | 14 minutes ago Description :The GTM Server Side plugin by stape.io implements server-side tracking on WordPress websites. From version...",
+      "summary": "CVE ID :CVE-2026-55826 Published : Oct. 23, 2026, 2:17 p.m. | 3 hours, 35 minutes ago Description :The GTM Server Side plugin by stape.io implements server-side tracking on WordPress websites. From...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:54+00:00"
     },
     {
       "title": "CVE-2026-53921 - odhcpd: Stack buffer overflow in DHCPv6 IA reply serialization (2 independent sites)",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-53921",
-      "summary": "CVE ID :CVE-2026-53921 Published : Oct. 23, 2026, 2:17 p.m. | 14 minutes ago Description :odhcpd is the DHCPv6, DHCPv4, and router-advertisement server used by OpenWrt. Prior to version 25.12...",
+      "summary": "CVE ID :CVE-2026-53921 Published : Oct. 23, 2026, 2:17 p.m. | 3 hours, 35 minutes ago Description :odhcpd is the DHCPv6, DHCPv4, and router-advertisement server used by OpenWrt. Prior to version...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:53+00:00"
     },
     {
       "title": "CVE-2026-53920 - odhcpd DHCPv6 Short IA_NA/IA_PD Body Stack Disclosure",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-53920",
-      "summary": "CVE ID :CVE-2026-53920 Published : Oct. 23, 2026, 2:17 p.m. | 14 minutes ago Description :odhcpd is the DHCPv6, DHCPv4, and router-advertisement server used by OpenWrt. From version 17.01.0 to before...",
+      "summary": "CVE ID :CVE-2026-53920 Published : Oct. 23, 2026, 2:17 p.m. | 3 hours, 35 minutes ago Description :odhcpd is the DHCPv6, DHCPv4, and router-advertisement server used by OpenWrt. From version 17.01.0...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:53+00:00"
     },
     {
       "title": "CVE-2026-53918 - odhcpd DHCPv6 IA dangling first pointer use-after-free",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-53918",
-      "summary": "CVE ID :CVE-2026-53918 Published : Oct. 23, 2026, 2:17 p.m. | 14 minutes ago Description :odhcpd is the DHCPv6, DHCPv4, and router-advertisement server used by OpenWrt. Prior to version 25.12...",
+      "summary": "CVE ID :CVE-2026-53918 Published : Oct. 23, 2026, 2:17 p.m. | 3 hours, 35 minutes ago Description :odhcpd is the DHCPv6, DHCPv4, and router-advertisement server used by OpenWrt. Prior to version...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:53+00:00"
     },
     {
       "title": "CVE-2026-50053 - Zimbra Collaboration Suite RestFilter Request Attribute Override via Unauthenticated URL Parameters",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-50053",
-      "summary": "CVE ID :CVE-2026-50053 Published : Oct. 23, 2026, 2:17 p.m. | 14 minutes ago Description :A request attribute override vulnerability in Zimbra Collaboration Suite (ZCS) allows unauthenticated...",
+      "summary": "CVE ID :CVE-2026-50053 Published : Oct. 23, 2026, 2:17 p.m. | 3 hours, 35 minutes ago Description :A request attribute override vulnerability in Zimbra Collaboration Suite (ZCS) allows...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:53+00:00"
     },
     {
       "title": "CVE-2026-115481 - baserCMS: BcCustomContent file fields can be configured to allow executable file extensions such as php, leading to arbitrary PHP file upload",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115481",
-      "summary": "CVE ID :CVE-2026-115481 Published : Oct. 23, 2026, 2:17 p.m. | 14 minutes ago Description :baserCMS is a website development framework. Starting in version 5.0.0-beta1 and prior to versions 5.3.2 and...",
+      "summary": "CVE ID :CVE-2026-115481 Published : Oct. 23, 2026, 2:17 p.m. | 3 hours, 35 minutes ago Description :baserCMS is a website development framework. Starting in version 5.0.0-beta1 and prior to versions...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:52+00:00"
     },
     {
       "title": "CVE-2026-114621 - baserCMS: SQL injection in the admin panel and admin API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-114621",
-      "summary": "CVE ID :CVE-2026-114621 Published : Oct. 23, 2026, 2:17 p.m. | 14 minutes ago Description :baserCMS is a website development framework. In versions 5.0.0 before 5.3.2 and 5.4.0 before 5.4.2, list and...",
+      "summary": "CVE ID :CVE-2026-114621 Published : Oct. 23, 2026, 2:17 p.m. | 3 hours, 35 minutes ago Description :baserCMS is a website development framework. In versions 5.0.0 before 5.3.2 and 5.4.0 before 5.4.2...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:51+00:00"
     },
     {
       "title": "CVE-2026-114357 - DJI CrystalSky ZS600C ships ADB without authentication (ro.adb.secure=0)",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-114357",
-      "summary": "CVE ID :CVE-2026-114357 Published : Oct. 23, 2026, 2:17 p.m. | 14 minutes ago Description :Missing authentication for a critical function in the Android Debug Bridge daemon (adbd) in DJI CrystalSky...",
+      "summary": "CVE ID :CVE-2026-114357 Published : Oct. 23, 2026, 2:17 p.m. | 3 hours, 35 minutes ago Description :Missing authentication for a critical function in the Android Debug Bridge daemon (adbd) in DJI...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:49+00:00"
     },
     {
       "title": "CVE-2026-114355 - DJI CrystalSky ZS600C hardware_monitor evaluates attacker-controlled log data as root",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-114355",
-      "summary": "CVE ID :CVE-2026-114355 Published : Oct. 23, 2026, 2:17 p.m. | 14 minutes ago Description :OS command injection in the root-privileged 'hardware_monitor' helper in DJI CrystalSky ZS600C firmware...",
+      "summary": "CVE ID :CVE-2026-114355 Published : Oct. 23, 2026, 2:17 p.m. | 3 hours, 35 minutes ago Description :OS command injection in the root-privileged 'hardware_monitor' helper in DJI CrystalSky ZS600C...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:36+00:00"
     },
     {
       "title": "CVE-2026-114354 - DJI CrystalSky ZS600C android.dji.server binder transaction 1018 command injection as root",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-114354",
-      "summary": "CVE ID :CVE-2026-114354 Published : Oct. 23, 2026, 2:17 p.m. | 14 minutes ago Description :Missing authorization in the native binder service 'android.dji.server' (transaction code 1018) in DJI...",
+      "summary": "CVE ID :CVE-2026-114354 Published : Oct. 23, 2026, 2:17 p.m. | 3 hours, 35 minutes ago Description :Missing authorization in the native binder service 'android.dji.server' (transaction code 1018) in...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:35+00:00"
     },
     {
       "title": "CVE-2026-10632 - Zimbra Collaboration Suite Classic Web Client Reflected Cross-Site Scripting via Document Editor Packages Parameter",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-10632",
-      "summary": "CVE ID :CVE-2026-10632 Published : Oct. 23, 2026, 2:17 p.m. | 14 minutes ago Description :A reflected cross-site scripting vulnerability in the Classic Web Client of Zimbra Collaboration Suite (ZCS)...",
+      "summary": "CVE ID :CVE-2026-10632 Published : Oct. 23, 2026, 2:17 p.m. | 3 hours, 35 minutes ago Description :A reflected cross-site scripting vulnerability in the Classic Web Client of Zimbra Collaboration...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:31+00:00"
     },
@@ -109,8 +263,8 @@
     {
       "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
       "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls...",
-      "source": "The Hacker News",
+      "summary": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge...",
+      "source": "CVE Newsroom",
       "published": "2026-10-23T13:50:56+00:00"
     },
     {
@@ -130,93 +284,23 @@
     {
       "title": "CVE-2026-63120 - PGHoard: Incomplete Path Traversal fix in restore.py allows Arbitrary File Write",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-63120",
-      "summary": "CVE ID :CVE-2026-63120 Published : Oct. 23, 2026, 1:17 p.m. | 1 hour, 15 minutes ago Description :pghoard is a PostgreSQL backup daemon and restore tooling that stores backup data in cloud object...",
+      "summary": "CVE ID :CVE-2026-63120 Published : Oct. 23, 2026, 1:17 p.m. | 4 hours, 36 minutes ago Description :pghoard is a PostgreSQL backup daemon and restore tooling that stores backup data in cloud object...",
       "source": "CVE Feed",
       "published": "2026-10-23T13:17:12+00:00"
     },
     {
       "title": "CVE-2026-57144 - PraisonAI SandlockSandbox falls back to unrestricted subprocess execution when Landlock is unavailable",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-57144",
-      "summary": "CVE ID :CVE-2026-57144 Published : Oct. 23, 2026, 1:17 p.m. | 1 hour, 15 minutes ago Description :PraisonAI is a multi-agent teams system. From version 4.5.110 to before version 4.6.61...",
+      "summary": "CVE ID :CVE-2026-57144 Published : Oct. 23, 2026, 1:17 p.m. | 4 hours, 36 minutes ago Description :PraisonAI is a multi-agent teams system. From version 4.5.110 to before version 4.6.61...",
       "source": "CVE Feed",
       "published": "2026-10-23T13:17:11+00:00"
     },
     {
       "title": "CVE-2026-57121 - PraisonAI: Missing ownership check on DELETE endpoints allows members to delete others' content in Platform API",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-57121",
-      "summary": "CVE ID :CVE-2026-57121 Published : Oct. 23, 2026, 1:17 p.m. | 1 hour, 15 minutes ago Description :PraisonAI is a multi-agent teams system. From version 0.1.4 to before version 0.1.5 in...",
+      "summary": "CVE ID :CVE-2026-57121 Published : Oct. 23, 2026, 1:17 p.m. | 4 hours, 36 minutes ago Description :PraisonAI is a multi-agent teams system. From version 0.1.4 to before version 0.1.5 in...",
       "source": "CVE Feed",
       "published": "2026-10-23T13:17:11+00:00"
-    },
-    {
-      "title": "CVE-2026-57117 - PraisonAI: Compute-bridged file tools allow shell command injection",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-57117",
-      "summary": "CVE ID :CVE-2026-57117 Published : Oct. 23, 2026, 1:17 p.m. | 1 hour, 15 minutes ago Description :PraisonAI is a multi-agent teams system. From version 4.6.10 to before version 4.6.59...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T13:17:10+00:00"
-    },
-    {
-      "title": "CVE-2026-57116 - PraisonAI: AgentOS remains unauthenticated after GHSA-pm96 patched version and allows remote agent invocation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-57116",
-      "summary": "CVE ID :CVE-2026-57116 Published : Oct. 23, 2026, 1:17 p.m. | 1 hour, 15 minutes ago Description :PraisonAI is a multi-agent teams system. From version 4.2.1 to before version 4.6.59, PraisonAI's...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T13:17:10+00:00"
-    },
-    {
-      "title": "CVE-2026-57113 - PraisonAI GitHub template cache path traversal allows outside-cache file write and directory deletion",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-57113",
-      "summary": "CVE ID :CVE-2026-57113 Published : Oct. 23, 2026, 1:17 p.m. | 1 hour, 15 minutes ago Description :PraisonAI is a multi-agent teams system. From version 2.6.0 to before version 4.6.59, PraisonAI's...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T13:17:10+00:00"
-    },
-    {
-      "title": "CVE-2026-55889 - XDG Desktop Portal: Drag-and-drop and copy-paste theft via predictable FileTransfer key",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-55889",
-      "summary": "CVE ID :CVE-2026-55889 Published : Oct. 23, 2026, 1:17 p.m. | 1 hour, 15 minutes ago Description :XDG Desktop Portal is a desktop integration portal. Prior to version 1.22.1, malicious sandboxed...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T13:17:10+00:00"
-    },
-    {
-      "title": "CVE-2026-55888 - XDG Desktop Portal: Arbitrary file access via SaveFiles \"files\" option path traversal",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-55888",
-      "summary": "CVE ID :CVE-2026-55888 Published : Oct. 23, 2026, 1:17 p.m. | 1 hour, 15 minutes ago Description :XDG Desktop Portal is a desktop integration portal. Prior to version 1.22.1, malicious sandboxed...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T13:17:10+00:00"
-    },
-    {
-      "title": "CVE-2026-115729 - @pdfme/common 5.5.10 before 6.2.6 SSRF via isUrlSafeToFetch Bypass",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115729",
-      "summary": "CVE ID :CVE-2026-115729 Published : Oct. 23, 2026, 1:17 p.m. | 1 hour, 15 minutes ago Description :@pdfme/common from 5.5.10 before 6.2.6 contains a server-side request forgery vulnerability that...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T13:17:08+00:00"
-    },
-    {
-      "title": "CVE-2026-115728 - @hapi/content 6.0.1 before 6.0.3 ReDoS via Content.disposition() Parameter Parsing",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115728",
-      "summary": "CVE ID :CVE-2026-115728 Published : Oct. 23, 2026, 1:17 p.m. | 1 hour, 15 minutes ago Description :@hapi/content from 6.0.1 before 6.0.3 contains a regular expression denial of service vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T13:17:08+00:00"
-    },
-    {
-      "title": "CVE-2026-112859 - WordPress Little Birdies theme <= 1.3.16 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112859",
-      "summary": "CVE ID :CVE-2026-112859 Published : Oct. 23, 2026, 1:17 p.m. | 1 hour, 15 minutes ago Description :Deserialization of Untrusted Data vulnerability in ThemeREX Group Little Birdies little-birdies...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T13:17:07+00:00"
-    },
-    {
-      "title": "CVE-2026-112858 - WordPress Rhodos theme <= 1.3.3 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112858",
-      "summary": "CVE ID :CVE-2026-112858 Published : Oct. 23, 2026, 1:17 p.m. | 1 hour, 15 minutes ago Description :Deserialization of Untrusted Data vulnerability in axiomthemes Rhodos rhodos allows Object...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T13:17:07+00:00"
-    },
-    {
-      "title": "CVE-2026-112857 - WordPress Reprizo theme <= 1.0.8 - PHP Object Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112857",
-      "summary": "CVE ID :CVE-2026-112857 Published : Oct. 23, 2026, 1:17 p.m. | 1 hour, 15 minutes ago Description :Deserialization of Untrusted Data vulnerability in axiomthemes Reprizo reprizo allows Object...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T13:17:07+00:00"
     },
     {
       "title": "Quest Diagnostics warns of potential data theft after attack on lab service system",
@@ -242,7 +326,7 @@
     {
       "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
-      "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the...",
+      "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the...",
       "source": "Dark Reading",
       "published": "2026-10-23T11:38:28+00:00"
     },
@@ -254,7 +338,7 @@
       "published": "2026-10-23T11:25:43+00:00"
     },
     {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
       "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
       "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET...",
       "source": "The Hacker News",
@@ -345,6 +429,13 @@
       "published": "2026-10-23T06:39:29+00:00"
     },
     {
+      "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
+      "link": "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
+      "summary": "The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.",
+      "source": "The Record",
+      "published": "2026-10-23T04:00:00+00:00"
+    },
+    {
       "title": "State Bank of India Suffers a Customer PII Data Leak",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
       "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
@@ -422,13 +513,6 @@
       "published": "2026-10-22T19:05:17+00:00"
     },
     {
-      "title": "Indian tech company eMudhra announces withdrawal from certificate business after security incident",
-      "link": "https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident",
-      "summary": "The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the company's private keys was just the number four.",
-      "source": "The Record",
-      "published": "2026-10-22T18:46:00+00:00"
-    },
-    {
       "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
       "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
       "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported...",
@@ -457,13 +541,6 @@
       "published": "2026-10-22T17:01:53+00:00"
     },
     {
-      "title": "Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents",
-      "link": "https://therecord.media/china-cyber-connectwise-ai",
-      "summary": "A Chinese government-aligned hacking group used automated tools to carry out the recent supply chain attack on IT management software company ConnectWise and is using the same techniques to try to...",
-      "source": "The Record",
-      "published": "2026-10-22T16:30:00+00:00"
-    },
-    {
       "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
       "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
       "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data...",
@@ -487,7 +564,7 @@
     {
       "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
       "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
-      "summary": "Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
+      "summary": "Some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
       "source": "Dark Reading",
       "published": "2026-10-22T14:21:22+00:00"
     },
@@ -618,20 +695,6 @@
       "published": "2026-10-22T04:21:26+00:00"
     },
     {
-      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-21T22:16:26+00:00"
-    },
-    {
-      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-      "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-21T21:43:27+00:00"
-    },
-    {
       "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
       "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
       "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light.",
@@ -644,13 +707,6 @@
       "summary": "CrowdStrike Protects Customers from Threats Delivered via PHP2Shell Two critical memory-corruption remote code execution (RCE) vulnerabilities, collectively dubbed PHP2Shell, have been disclosed in...",
       "source": "CVE Newsroom",
       "published": "2026-10-21T21:06:01+00:00"
-    },
-    {
-      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-      "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-21T20:31:48+00:00"
     },
     {
       "title": "Marvell, Microsoft & Oracle Work to Standardize Data Center Hardware Security",
@@ -683,16 +739,9 @@
     {
       "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
       "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "summary": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server...",
-      "source": "CVE Newsroom",
+      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in...",
+      "source": "The Hacker News",
       "published": "2026-10-21T18:57:34+00:00"
-    },
-    {
-      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-21T18:34:42+00:00"
     },
     {
       "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
@@ -716,32 +765,11 @@
       "published": "2026-10-21T16:33:47+00:00"
     },
     {
-      "title": "PHP2Shell: How to Protect Your Server | Kaspersky official blog",
-      "link": "https://www.kaspersky.co.uk/blog/cve-2026-109618-109619-php-vulnerabilities/30997/",
-      "summary": "PHP2Shell: How to Protect Your Server | Kaspersky official blog vulnerabilities PHP developers have released patches for two critical vulnerabilities that could allow an attacker to remotely execute...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-21T16:12:16+00:00"
-    },
-    {
-      "title": "Oracle October 2026 Critical Patch Update: 1295 Patches Across Products",
-      "link": "https://thecyberthrone.in/2026/10/21/oracle-october-2026-critical-patch-update-1295-patches-across-products/",
-      "summary": "Oracle October 2026 Critical Patch Update: 1295 Patches Across Products Oracle released its October 2026 Critical Patch Update (CPU) on 20 October, delivering 1,295 new security patches across its...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-21T15:52:50+00:00"
-    },
-    {
       "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
       "link": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
       "summary": "Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities.",
       "source": "Dark Reading",
       "published": "2026-10-21T15:44:48+00:00"
-    },
-    {
-      "title": "Millions of PHP Instances Exposed - What Organizations Need To Do Right Now",
-      "link": "https://www.paloaltonetworks.com/blog/2026/10/millions-of-php-instances-exposed-what-organizations-need-to-do-right-now/",
-      "summary": "Millions of PHP Instances Exposed - What Organizations Need To Do Right Now Two critical vulnerabilities in PHP (CVE-2026-109618 and CVE-2026-109619) have been published. Both vulnerabilities carry a...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-21T15:31:52+00:00"
     },
     {
       "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
@@ -952,27 +980,6 @@
       "summary": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues...",
       "source": "The Hacker News",
       "published": "2026-10-20T10:56:08+00:00"
-    },
-    {
-      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-      "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-      "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and...",
-      "source": "The Hacker News",
-      "published": "2026-10-20T08:21:29+00:00"
-    },
-    {
-      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-      "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-      "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as...",
-      "source": "The Hacker News",
-      "published": "2026-10-20T07:11:45+00:00"
-    },
-    {
-      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-      "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-      "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco...",
-      "source": "The Hacker News",
-      "published": "2026-10-20T05:53:16+00:00"
     },
     {
       "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
@@ -1190,13 +1197,6 @@
       "summary": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.",
       "source": "Dark Reading",
       "published": "2026-10-12T18:27:25+00:00"
-    },
-    {
-      "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
-      "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
-      "summary": "Fahmida Y. Rashid will keep the momentum going as she leads Dark Reading.",
-      "source": "Dark Reading",
-      "published": "2026-10-12T12:30:58+00:00"
     },
     {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
