@@ -1,12 +1,82 @@
 {
-  "last_updated": "2026-10-22T22:52:38.847301+00:00",
+  "last_updated": "2026-10-23T02:39:00.946296+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-92450 - Kiloview E3 NDI Encoder Use of Hard-coded Credentials",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92450",
+      "summary": "CVE ID :CVE-2026-92450 Published : Oct. 22, 2026, 11:20 p.m. | 1 hour, 35 minutes ago Description :The authentication framework used by affected Kiloview E3 NDI encoder firmware signs session JSON...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T23:20:33+00:00"
+    },
+    {
+      "title": "CVE-2026-110825 - Kiloview E3 NDI Encoder Missing Authentication for Critical Function",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110825",
+      "summary": "CVE ID :CVE-2026-110825 Published : Oct. 22, 2026, 11:18 p.m. | 1 hour, 37 minutes ago Description :The ONVIF device service on affected Kiloview E3 NDI encoder firmware accepts hostname, DNS, and...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T23:18:22+00:00"
+    },
+    {
+      "title": "CVE-2026-110243 - Kiloview E3 NDI Encoder OS Command Injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110243",
+      "summary": "CVE ID :CVE-2026-110243 Published : Oct. 22, 2026, 11:18 p.m. | 1 hour, 37 minutes ago Description :The network management service on affected Kiloview E3 NDI encoder firmware fails to validate the...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T23:18:22+00:00"
+    },
+    {
+      "title": "CVE-2026-107861 - Kiloview E3 NDI Encoder OS Command Injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-107861",
+      "summary": "CVE ID :CVE-2026-107861 Published : Oct. 22, 2026, 11:18 p.m. | 1 hour, 37 minutes ago Description :The system control service on affected Kiloview E3 NDI encoder firmware fails to sanitize the...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T23:18:17+00:00"
+    },
+    {
+      "title": "CVE-2026-97785 - AAD App Proxy Elevation of Privilege Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-97785",
+      "summary": "CVE ID :CVE-2026-97785 Published : Oct. 22, 2026, 10:20 p.m. | 2 hours, 35 minutes ago Description :Improper authentication in AAD App Proxy allows an unauthorized attacker to elevate privileges over...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T22:20:13+00:00"
+    },
+    {
+      "title": "CVE-2026-96616 - Kiloview E3 NDI Encoder Insufficient Session Expiration",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-96616",
+      "summary": "CVE ID :CVE-2026-96616 Published : Oct. 22, 2026, 10:20 p.m. | 2 hours, 36 minutes ago Description :Authentication tokens issued by the E3's web management interface on login are given an expiration...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T22:20:01+00:00"
+    },
+    {
+      "title": "CVE-2026-83938 - Azure Kubernetes Configuration Service Elevation of Privilege Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-83938",
+      "summary": "CVE ID :CVE-2026-83938 Published : Oct. 22, 2026, 10:19 p.m. | 2 hours, 36 minutes ago Description :Missing authentication for critical function in Azure Kubernetes Configuration Service allows an...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T22:19:18+00:00"
+    },
     {
       "title": "CVE-2026-111594 - InterSystems Corporation InterSystems IRIS for Health Cleartext Transmission of Sensitive Information",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-111594",
-      "summary": "CVE ID :CVE-2026-111594 Published : Oct. 22, 2026, 9:39 p.m. | 6 minutes ago Description :InterSystems IRIS for Health has TLS/SSL encryption turned off by default, which may enable an attacker to...",
+      "summary": "CVE ID :CVE-2026-111594 Published : Oct. 22, 2026, 10:18 p.m. | 2 hours, 38 minutes ago Description :InterSystems IRIS for Health has TLS/SSL encryption turned off by default, which may enable an...",
       "source": "CVE Feed",
-      "published": "2026-10-22T21:39:47+00:00"
+      "published": "2026-10-22T22:18:01+00:00"
+    },
+    {
+      "title": "CVE-2026-110063 - VM Inspector for Azure Virtual Machines Elevation of Privilege Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110063",
+      "summary": "CVE ID :CVE-2026-110063 Published : Oct. 22, 2026, 10:18 p.m. | 2 hours, 38 minutes ago Description :Improper link resolution before file access ('link following') in VM Inspector for Azure Virtual...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T22:18:00+00:00"
+    },
+    {
+      "title": "CVE-2026-109122 - Kiloview E3 NDI Encoder OS Command Injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109122",
+      "summary": "CVE ID :CVE-2026-109122 Published : Oct. 22, 2026, 10:17 p.m. | 2 hours, 38 minutes ago Description :The network management service on affected Kiloview E3 NDI encoder firmware fails to sanitize one...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T22:17:59+00:00"
+    },
+    {
+      "title": "CVE-2026-105014 - Azure Pipelines Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105014",
+      "summary": "CVE ID :CVE-2026-105014 Published : Oct. 22, 2026, 10:17 p.m. | 2 hours, 38 minutes ago Description :Improper neutralization of special elements used in a command ('command injection') in Azure...",
+      "source": "CVE Feed",
+      "published": "2026-10-22T22:17:52+00:00"
     },
     {
       "title": "Railway warns devs to rotate secrets after potential breach",
@@ -18,21 +88,21 @@
     {
       "title": "CVE-2026-115419 - Unintended disclosure of data element to wrong session in Strands Agents SDK A2A Server",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115419",
-      "summary": "CVE ID :CVE-2026-115419 Published : Oct. 22, 2026, 9:17 p.m. | 29 minutes ago Description :The A2A server component in Amazon Strands Agents SDK for Python before 1.43.0 and Amazon Strands Agents SDK...",
+      "summary": "CVE ID :CVE-2026-115419 Published : Oct. 22, 2026, 9:17 p.m. | 3 hours, 38 minutes ago Description :The A2A server component in Amazon Strands Agents SDK for Python before 1.43.0 and Amazon Strands...",
       "source": "CVE Feed",
       "published": "2026-10-22T21:17:17+00:00"
     },
     {
       "title": "CVE-2026-115417 - Memory allocation with excessive size value in the MQTT 3.1.1 compatibility adapter in aws-c-mqtt",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115417",
-      "summary": "CVE ID :CVE-2026-115417 Published : Oct. 22, 2026, 9:17 p.m. | 29 minutes ago Description :Memory allocation with excessive size value in the MQTT 3.1.1 compatibility adapter in AWS aws-c-mqtt before...",
+      "summary": "CVE ID :CVE-2026-115417 Published : Oct. 22, 2026, 9:17 p.m. | 3 hours, 38 minutes ago Description :Memory allocation with excessive size value in the MQTT 3.1.1 compatibility adapter in AWS...",
       "source": "CVE Feed",
       "published": "2026-10-22T21:17:17+00:00"
     },
     {
       "title": "CVE-2026-114625 - Security Advisory 0199",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-114625",
-      "summary": "CVE ID :CVE-2026-114625 Published : Oct. 22, 2026, 9:17 p.m. | 29 minutes ago Description :VeloCloud Orchestrator (VCO) on-prem has a security issue where this issue may allow a remote attacker to...",
+      "summary": "CVE ID :CVE-2026-114625 Published : Oct. 22, 2026, 9:17 p.m. | 3 hours, 38 minutes ago Description :VeloCloud Orchestrator (VCO) on-prem has a security issue where this issue may allow a remote...",
       "source": "CVE Feed",
       "published": "2026-10-22T21:17:16+00:00"
     },
@@ -51,6 +121,13 @@
       "published": "2026-10-22T20:42:17+00:00"
     },
     {
+      "title": "How new PHP vulnerabilities threaten home users | Kaspersky official blog",
+      "link": "https://www.kaspersky.co.uk/blog/how-to-mitigate-php2shell-at-home/31004/",
+      "summary": "How new PHP vulnerabilities threaten home users | Kaspersky official blog Yesterday, two critical vulnerabilities were disclosed in PHP, the scripting language used by many websites and online...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-22T20:40:33+00:00"
+    },
+    {
       "title": "What We Missed: Feds Lasso Texas Laptop Farms",
       "link": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
       "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in \"Operation Lonestar Justice\" to Staples' gift...",
@@ -67,156 +144,86 @@
     {
       "title": "CVE-2026-115506 - libexpat through 2.9.0 Denial of Service via Billion Laughs Detection Delay",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115506",
-      "summary": "CVE ID :CVE-2026-115506 Published : Oct. 22, 2026, 8:17 p.m. | 1 hour, 29 minutes ago Description :libexpat through 2.9.0 contains a denial of service vulnerability because billion laughs protection...",
+      "summary": "CVE ID :CVE-2026-115506 Published : Oct. 22, 2026, 8:17 p.m. | 4 hours, 39 minutes ago Description :libexpat through 2.9.0 contains a denial of service vulnerability because billion laughs protection...",
       "source": "CVE Feed",
       "published": "2026-10-22T20:17:06+00:00"
     },
     {
       "title": "CVE-2026-115504 - CFITSIO through 4.7.0 Out-of-Bounds Write via ffgcls2 in getcols.c",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115504",
-      "summary": "CVE ID :CVE-2026-115504 Published : Oct. 22, 2026, 8:17 p.m. | 1 hour, 29 minutes ago Description :CFITSIO through 4.7.0 contains an out-of-bounds write vulnerability in ffgcls2() in getcols.c that...",
+      "summary": "CVE ID :CVE-2026-115504 Published : Oct. 22, 2026, 8:17 p.m. | 4 hours, 39 minutes ago Description :CFITSIO through 4.7.0 contains an out-of-bounds write vulnerability in ffgcls2() in getcols.c that...",
       "source": "CVE Feed",
       "published": "2026-10-22T20:17:06+00:00"
     },
     {
       "title": "CVE-2026-112332 - Motor.NET < 0.19.0 Denial of Service via JsonNet Deserialization",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-112332",
-      "summary": "CVE ID :CVE-2026-112332 Published : Oct. 22, 2026, 8:17 p.m. | 1 hour, 29 minutes ago Description :Motor.NET before 0.19.0 contains an uncaught exception vulnerability in...",
+      "summary": "CVE ID :CVE-2026-112332 Published : Oct. 22, 2026, 8:17 p.m. | 4 hours, 39 minutes ago Description :Motor.NET before 0.19.0 contains an uncaught exception vulnerability in...",
       "source": "CVE Feed",
       "published": "2026-10-22T20:17:05+00:00"
     },
     {
       "title": "CVE-2026-112331 - Motor.NET < 0.19.0 Kafka Denial of Service via Structured CloudEvent Mapping",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-112331",
-      "summary": "CVE ID :CVE-2026-112331 Published : Oct. 22, 2026, 8:17 p.m. | 1 hour, 29 minutes ago Description :Motor.NET before 0.19.0 contains a denial-of-service vulnerability that allows a remote attacker who...",
+      "summary": "CVE ID :CVE-2026-112331 Published : Oct. 22, 2026, 8:17 p.m. | 4 hours, 39 minutes ago Description :Motor.NET before 0.19.0 contains a denial-of-service vulnerability that allows a remote attacker...",
       "source": "CVE Feed",
       "published": "2026-10-22T20:17:05+00:00"
     },
     {
       "title": "CVE-2026-112330 - Motor.NET < 0.19.0 RabbitMQ Denial of Service via CloudEvents Headers",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-112330",
-      "summary": "CVE ID :CVE-2026-112330 Published : Oct. 22, 2026, 8:17 p.m. | 1 hour, 29 minutes ago Description :Motor.NET before 0.19.0 contains a denial of service vulnerability that allows a remote attacker who...",
+      "summary": "CVE ID :CVE-2026-112330 Published : Oct. 22, 2026, 8:17 p.m. | 4 hours, 39 minutes ago Description :Motor.NET before 0.19.0 contains a denial of service vulnerability that allows a remote attacker...",
       "source": "CVE Feed",
       "published": "2026-10-22T20:17:05+00:00"
     },
     {
       "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
       "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
-      "summary": "Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de...",
-      "source": "Dark Reading",
+      "summary": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour 7 Min ReadSource: cagkansayin via Getty ImagesRead in English: Click HereThis translation is provided by our internal AI...",
+      "source": "CVE Newsroom",
       "published": "2026-10-22T19:30:20+00:00"
     },
     {
       "title": "CVE-2026-79891 - Unauthenticated Buffer Overflow Vulnerability leads to Remote Code Execution in AOS-8",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-79891",
-      "summary": "CVE ID :CVE-2026-79891 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.1 | HIGH Visit the link for more details, such as CVSS details...",
+      "summary": "CVE ID :CVE-2026-79891 Published : Oct. 22, 2026, 7:18 p.m. | 5 hours, 38 minutes ago Description :No description provided Severity: 8.1 | HIGH Visit the link for more details, such as CVSS details...",
       "source": "CVE Feed",
       "published": "2026-10-22T19:18:01+00:00"
     },
     {
       "title": "CVE-2026-79890 - Unauthenticated Command Injection Vulnerabilities in AOS-8 Accessed by the PAPI Protocol",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-79890",
-      "summary": "CVE ID :CVE-2026-79890 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.1 | HIGH Visit the link for more details, such as CVSS details...",
+      "summary": "CVE ID :CVE-2026-79890 Published : Oct. 22, 2026, 7:18 p.m. | 5 hours, 38 minutes ago Description :No description provided Severity: 8.1 | HIGH Visit the link for more details, such as CVSS details...",
       "source": "CVE Feed",
       "published": "2026-10-22T19:18:01+00:00"
     },
     {
       "title": "CVE-2026-79889 - Multiple Unauthenticated Buffer Overflow vulnerabilities in AOS-8 Web Interface result in Remote Code Execution",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-79889",
-      "summary": "CVE ID :CVE-2026-79889 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.1 | HIGH Visit the link for more details, such as CVSS details...",
+      "summary": "CVE ID :CVE-2026-79889 Published : Oct. 22, 2026, 7:18 p.m. | 5 hours, 38 minutes ago Description :No description provided Severity: 8.1 | HIGH Visit the link for more details, such as CVSS details...",
       "source": "CVE Feed",
       "published": "2026-10-22T19:18:01+00:00"
     },
     {
       "title": "CVE-2026-79888 - Unauthenticated Buffer Overflow allows Remote Code Execution in web interface",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-79888",
-      "summary": "CVE ID :CVE-2026-79888 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.1 | HIGH Visit the link for more details, such as CVSS details...",
+      "summary": "CVE ID :CVE-2026-79888 Published : Oct. 22, 2026, 7:18 p.m. | 5 hours, 38 minutes ago Description :No description provided Severity: 8.1 | HIGH Visit the link for more details, such as CVSS details...",
       "source": "CVE Feed",
       "published": "2026-10-22T19:18:01+00:00"
     },
     {
       "title": "CVE-2026-79887 - Authentication Bypass in Web Interface of AOS-8 allows Remote Command Execution (RCE)",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-79887",
-      "summary": "CVE ID :CVE-2026-79887 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.1 | HIGH Visit the link for more details, such as CVSS details...",
+      "summary": "CVE ID :CVE-2026-79887 Published : Oct. 22, 2026, 7:18 p.m. | 5 hours, 38 minutes ago Description :No description provided Severity: 8.1 | HIGH Visit the link for more details, such as CVSS details...",
       "source": "CVE Feed",
       "published": "2026-10-22T19:18:01+00:00"
     },
     {
       "title": "CVE-2026-79886 - Unauthenticated Buffer Overflow Vulnerability leads to Denial-of-Service in AOS-8",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-79886",
-      "summary": "CVE ID :CVE-2026-79886 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.2 | HIGH Visit the link for more details, such as CVSS details...",
+      "summary": "CVE ID :CVE-2026-79886 Published : Oct. 22, 2026, 7:18 p.m. | 5 hours, 38 minutes ago Description :No description provided Severity: 8.2 | HIGH Visit the link for more details, such as CVSS details...",
       "source": "CVE Feed",
       "published": "2026-10-22T19:18:01+00:00"
-    },
-    {
-      "title": "CVE-2026-79885 - Unauthenticated File Write Vulnerability leads to Denial-of-Service in AOS-8",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-79885",
-      "summary": "CVE ID :CVE-2026-79885 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.2 | HIGH Visit the link for more details, such as CVSS details...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T19:18:01+00:00"
-    },
-    {
-      "title": "CVE-2026-79884 - Authentication Bypass leads to Sensitive Information Disclosure in AOS-8",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-79884",
-      "summary": "CVE ID :CVE-2026-79884 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.2 | HIGH Visit the link for more details, such as CVSS details...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T19:18:00+00:00"
-    },
-    {
-      "title": "CVE-2026-79883 - Unauthenticated Adjacent Buffer Overflow Vulnerability in the PAPI Protocol leads to Sensitive Information Disclosure in AOS-10",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-79883",
-      "summary": "CVE ID :CVE-2026-79883 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.3 | HIGH Visit the link for more details, such as CVSS details...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T19:18:00+00:00"
-    },
-    {
-      "title": "CVE-2026-79882 - Unauthenticated Adjacent Command Injection Vulnerability in the PAPI Protocol of AOS-10",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-79882",
-      "summary": "CVE ID :CVE-2026-79882 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.3 | HIGH Visit the link for more details, such as CVSS details...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T19:18:00+00:00"
-    },
-    {
-      "title": "CVE-2026-79881 - Authentication Bypass Leading to Remote Code Execution in AOS-8",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-79881",
-      "summary": "CVE ID :CVE-2026-79881 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.5 | HIGH Visit the link for more details, such as CVSS details...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T19:18:00+00:00"
-    },
-    {
-      "title": "CVE-2026-79880 - Authenticated Server-Side Request Forgery leads to Remote Code Execution in AOS-8",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-79880",
-      "summary": "CVE ID :CVE-2026-79880 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.7 | HIGH Visit the link for more details, such as CVSS details...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T19:18:00+00:00"
-    },
-    {
-      "title": "CVE-2026-79879 - Unauthenticated Adjacent Memory Corruption Vulnerabilities lead to Remote Code Execution in AOS-10",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-79879",
-      "summary": "CVE ID :CVE-2026-79879 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T19:18:00+00:00"
-    },
-    {
-      "title": "CVE-2026-79878 - Unauthenticated Adjacent Command Injection Vulnerability in the AOS-8 Command Line Interface Accessed by the PAPI Protocol",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-79878",
-      "summary": "CVE ID :CVE-2026-79878 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T19:18:00+00:00"
-    },
-    {
-      "title": "CVE-2026-79877 - Unauthenticated Adjacent Remote Code Execution Vulnerability in AOS-10",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-79877",
-      "summary": "CVE ID :CVE-2026-79877 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 8.8 | HIGH Visit the link for more details, such as CVSS details...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T19:18:00+00:00"
-    },
-    {
-      "title": "CVE-2026-79876 - Unauthenticated Adjacent Sensitive Information Disclosure in AOS-10 Wi-Fi Frame Processing",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-79876",
-      "summary": "CVE ID :CVE-2026-79876 Published : Oct. 22, 2026, 7:18 p.m. | 2 hours, 28 minutes ago Description :No description provided Severity: 9.3 | CRITICAL Visit the link for more details, such as CVSS...",
-      "source": "CVE Feed",
-      "published": "2026-10-22T19:18:00+00:00"
     },
     {
       "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
@@ -235,8 +242,8 @@
     {
       "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
       "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "summary": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management...",
-      "source": "CVE Newsroom",
+      "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on...",
+      "source": "The Hacker News",
       "published": "2026-10-22T19:05:17+00:00"
     },
     {
@@ -256,8 +263,8 @@
     {
       "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
       "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-      "summary": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More But those big headlines are only half the story. Stolen passwords, exposed databases, broken...",
-      "source": "CVE Newsroom",
+      "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and...",
+      "source": "The Hacker News",
       "published": "2026-10-22T17:45:44+00:00"
     },
     {
@@ -410,8 +417,8 @@
     {
       "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
       "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "summary": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's...",
-      "source": "CVE Newsroom",
+      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model...",
+      "source": "The Hacker News",
       "published": "2026-10-22T10:44:05+00:00"
     },
     {
@@ -445,8 +452,8 @@
     {
       "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
       "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-      "summary": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x...",
-      "source": "CVE Newsroom",
+      "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js...",
+      "source": "The Hacker News",
       "published": "2026-10-22T07:47:22+00:00"
     },
     {
@@ -473,15 +480,15 @@
     {
       "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
       "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-      "summary": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security...",
-      "source": "CVE Newsroom",
+      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of...",
+      "source": "The Hacker News",
       "published": "2026-10-22T06:38:31+00:00"
     },
     {
       "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
       "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-      "summary": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed...",
-      "source": "CVE Newsroom",
+      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot...",
+      "source": "The Hacker News",
       "published": "2026-10-22T06:34:10+00:00"
     },
     {
@@ -564,8 +571,8 @@
     {
       "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
       "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "summary": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server...",
-      "source": "CVE Newsroom",
+      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in...",
+      "source": "The Hacker News",
       "published": "2026-10-21T18:57:34+00:00"
     },
     {
@@ -662,8 +669,8 @@
     {
       "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
       "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-      "summary": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker...",
-      "source": "CVE Newsroom",
+      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and...",
+      "source": "The Hacker News",
       "published": "2026-10-21T14:00:00+00:00"
     },
     {
@@ -711,8 +718,8 @@
     {
       "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
       "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "summary": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting...",
-      "source": "CVE Newsroom",
+      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that...",
+      "source": "The Hacker News",
       "published": "2026-10-21T10:36:53+00:00"
     },
     {
@@ -730,10 +737,17 @@
       "published": "2026-10-21T10:30:27+00:00"
     },
     {
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory...",
+      "source": "The Hacker News",
+      "published": "2026-10-21T09:05:17+00:00"
+    },
+    {
       "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
       "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "summary": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys...",
-      "source": "CVE Newsroom",
+      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to...",
+      "source": "The Hacker News",
       "published": "2026-10-21T09:01:12+00:00"
     },
     {
@@ -753,8 +767,8 @@
     {
       "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
       "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-      "summary": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its...",
-      "source": "CVE Newsroom",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting...",
+      "source": "The Hacker News",
       "published": "2026-10-21T07:26:49+00:00"
     },
     {
@@ -763,13 +777,6 @@
       "summary": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity...",
       "source": "The Hacker News",
       "published": "2026-10-21T06:05:15+00:00"
-    },
-    {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "summary": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-21T04:57:50+00:00"
     },
     {
       "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
