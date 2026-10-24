@@ -1,24 +1,73 @@
 {
-  "last_updated": "2026-10-23T22:45:11.624412+00:00",
+  "last_updated": "2026-10-24T02:36:48.121947+00:00",
   "articles": [
+    {
+      "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+      "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+      "summary": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation On October 21, 2026, PHP disclosed two critical severity vulnerabilities (now tracked as CVE-2026-109618 and...",
+      "source": "CVE Newsroom",
+      "published": "2026-10-24T00:06:02+00:00"
+    },
+    {
+      "title": "CVE-2026-115931 - Arbitrary file read and backend crash through unrestricted provider method calls",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115931",
+      "summary": "CVE ID :CVE-2026-115931 Published : Oct. 23, 2026, 11:17 p.m. | 3 hours, 18 minutes ago Description :Postiz lets a signed-in user ask the backend to run a function on one of their connected channels...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T23:17:43+00:00"
+    },
+    {
+      "title": "CVE-2026-115938 - Low privilege condition filter escapes Twig sandbox, recovers \"securityKey\" and reaches RCE",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115938",
+      "summary": "CVE ID :CVE-2026-115938 Published : Oct. 23, 2026, 10:16 p.m. | 4 hours, 19 minutes ago Description :Craft CMS allows any authenticated control panel user to submit an element-search condition whose...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T22:16:59+00:00"
+    },
+    {
+      "title": "CVE-2026-115937 - Unauthenticated payment reuse allows unpaid orders to be marked as paid",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115937",
+      "summary": "CVE ID :CVE-2026-115937 Published : Oct. 23, 2026, 10:16 p.m. | 4 hours, 19 minutes ago Description :The Mollie webhook endpoint accepts two independent, attacker-controlled parameters and never...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T22:16:59+00:00"
+    },
     {
       "title": "CVE-2026-115935 - Control panel only API response emulation replaces \"securityKey\" and reaches server RCE",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115935",
-      "summary": "CVE ID :CVE-2026-115935 Published : Oct. 23, 2026, 9:40 p.m. | 13 minutes ago Description :The app/process-api-response-headers action accepts fake Craft API response headers from any authenticated...",
+      "summary": "CVE ID :CVE-2026-115935 Published : Oct. 23, 2026, 10:16 p.m. | 4 hours, 19 minutes ago Description :The app/process-api-response-headers action accepts fake Craft API response headers from any...",
       "source": "CVE Feed",
-      "published": "2026-10-23T21:40:57+00:00"
+      "published": "2026-10-23T22:16:59+00:00"
+    },
+    {
+      "title": "CVE-2026-115895 - Happy DOM: Incomplete fix for CVE-2026-33943: unsanitized import alias leads to host code execution",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115895",
+      "summary": "CVE ID :CVE-2026-115895 Published : Oct. 23, 2026, 10:16 p.m. | 4 hours, 19 minutes ago Description :Happy DOM is a JavaScript implementation of a web browser without its graphical user interface...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T22:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-115893 - Wasmtime: Cranelift backend on aarch64 can jump to incorrect target on large Wasm `br_table` instruction",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115893",
+      "summary": "CVE ID :CVE-2026-115893 Published : Oct. 23, 2026, 10:16 p.m. | 4 hours, 19 minutes ago Description :Wasmtime is a runtime for WebAssembly. Prior to 36.0.19, 48.0.7, and 49.0.4, the Cranelift...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T22:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-115889 - Wasmtime: Bit-packing in Cranelift compiler causes silent overflow and miscompilation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115889",
+      "summary": "CVE ID :CVE-2026-115889 Published : Oct. 23, 2026, 10:16 p.m. | 4 hours, 19 minutes ago Description :Wasmtime is a runtime for WebAssembly. Prior to 36.0.19 and 43.0.0, the Cranelift compiler backend...",
+      "source": "CVE Feed",
+      "published": "2026-10-23T22:16:58+00:00"
     },
     {
       "title": "CVE-2026-58202 - OpenReception: Confirmation-email links built from the request Host enable pending-account takeover via `POST /api/auth/resend-confirmation`",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-58202",
-      "summary": "CVE ID :CVE-2026-58202 Published : Oct. 23, 2026, 9:17 p.m. | 36 minutes ago Description :OpenReception's appointment booking software provides an end-to-end encrypted appointment booking platform...",
+      "summary": "CVE ID :CVE-2026-58202 Published : Oct. 23, 2026, 9:17 p.m. | 5 hours, 18 minutes ago Description :OpenReception's appointment booking software provides an end-to-end encrypted appointment booking...",
       "source": "CVE Feed",
       "published": "2026-10-23T21:17:24+00:00"
     },
     {
       "title": "CVE-2026-115775 - Twisted: Unauthenticated Remote Denial of Service in the Twisted words domish XML Element Stream via an Unbounded Element Tree",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115775",
-      "summary": "CVE ID :CVE-2026-115775 Published : Oct. 23, 2026, 9:17 p.m. | 36 minutes ago Description :Twisted is an event-based framework for internet applications, supporting Python 3.6+. Prior to 26.10.0rc1...",
+      "summary": "CVE ID :CVE-2026-115775 Published : Oct. 23, 2026, 9:17 p.m. | 5 hours, 18 minutes ago Description :Twisted is an event-based framework for internet applications, supporting Python 3.6+. Prior to...",
       "source": "CVE Feed",
       "published": "2026-10-23T21:17:23+00:00"
     },
@@ -39,14 +88,14 @@
     {
       "title": "CVE-2026-79982 - Out-of-bounds write in the USB Bluetooth HCI transport class when a controller-to-host HCI packet exceeds the bulk endpoint maximum packet size",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-79982",
-      "summary": "CVE ID :CVE-2026-79982 Published : Oct. 23, 2026, 8:17 p.m. | 1 hour, 36 minutes ago Description :The Bluetooth HCI USB transport class of the new USB device stack...",
+      "summary": "CVE ID :CVE-2026-79982 Published : Oct. 23, 2026, 8:17 p.m. | 6 hours, 18 minutes ago Description :The Bluetooth HCI USB transport class of the new USB device stack...",
       "source": "CVE Feed",
       "published": "2026-10-23T20:17:28+00:00"
     },
     {
       "title": "CVE-2026-79977 - WireGuard peer endpoint learned from unauthenticated transport-data messages allows off-path tunnel hijack in Zephyr",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-79977",
-      "summary": "CVE ID :CVE-2026-79977 Published : Oct. 23, 2026, 8:17 p.m. | 1 hour, 36 minutes ago Description :The WireGuard VPN service in subsys/net/lib/wireguard/wg.c updated the peer endpoint from a message...",
+      "summary": "CVE ID :CVE-2026-79977 Published : Oct. 23, 2026, 8:17 p.m. | 6 hours, 18 minutes ago Description :The WireGuard VPN service in subsys/net/lib/wireguard/wg.c updated the peer endpoint from a message...",
       "source": "CVE Feed",
       "published": "2026-10-23T20:17:27+00:00"
     },
@@ -60,7 +109,7 @@
     {
       "title": "CVE-2026-91093 - HP One Agent Software – Security Update",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-91093",
-      "summary": "CVE ID :CVE-2026-91093 Published : Oct. 23, 2026, 7:17 p.m. | 2 hours, 36 minutes ago Description :A potential security vulnerability has been identified in HP One Agent for certain HP PC products...",
+      "summary": "CVE ID :CVE-2026-91093 Published : Oct. 23, 2026, 7:17 p.m. | 7 hours, 18 minutes ago Description :A potential security vulnerability has been identified in HP One Agent for certain HP PC products...",
       "source": "CVE Feed",
       "published": "2026-10-23T19:17:45+00:00"
     },
@@ -81,7 +130,7 @@
     {
       "title": "CVE-2026-115812 - Relative path traversal during model archive extraction in Amazon Web Services Multi Model Server",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115812",
-      "summary": "CVE ID :CVE-2026-115812 Published : Oct. 23, 2026, 6:17 p.m. | 3 hours, 36 minutes ago Description :Relative path traversal during model archive extraction in Amazon Web Services Multi Model Server...",
+      "summary": "CVE ID :CVE-2026-115812 Published : Oct. 23, 2026, 6:17 p.m. | 8 hours, 18 minutes ago Description :Relative path traversal during model archive extraction in Amazon Web Services Multi Model Server...",
       "source": "CVE Feed",
       "published": "2026-10-23T18:17:21+00:00"
     },
@@ -123,7 +172,7 @@
     {
       "title": "CVE-2026-87901 - Product Registration Module Reflected Cross-Site Scripting",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-87901",
-      "summary": "CVE ID :CVE-2026-87901 Published : Oct. 23, 2026, 5:17 p.m. | 4 hours, 36 minutes ago Description :Improper sanitization in the registration module allows reflected Cross-Site Scripting. Severity...",
+      "summary": "CVE ID :CVE-2026-87901 Published : Oct. 23, 2026, 5:17 p.m. | 9 hours, 18 minutes ago Description :Improper sanitization in the registration module allows reflected Cross-Site Scripting. Severity...",
       "source": "CVE Feed",
       "published": "2026-10-23T17:17:22+00:00"
     },
@@ -151,7 +200,7 @@
     {
       "title": "CVE-2026-57845 - Hugging Face Datasets 5.1.0 Pickle Deserialization RCE via Pandas Builder",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-57845",
-      "summary": "CVE ID :CVE-2026-57845 Published : Oct. 23, 2026, 4:16 p.m. | 5 hours, 37 minutes ago Description :Hugging Face Datasets through 5.1.0 contains an insecure deserialization vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-57845 Published : Oct. 23, 2026, 4:16 p.m. | 10 hours, 19 minutes ago Description :Hugging Face Datasets through 5.1.0 contains an insecure deserialization vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-10-23T16:16:52+00:00"
     },
@@ -165,49 +214,49 @@
     {
       "title": "CVE-2026-58497 - Uni-CLI: Legacy HTTP MCP transport accepted browser-originated localhost requests",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-58497",
-      "summary": "CVE ID :CVE-2026-58497 Published : Oct. 23, 2026, 3:17 p.m. | 6 hours, 36 minutes ago Description :Uni-CLI gives people and agents one command interface for websites, browsers, desktop applications...",
+      "summary": "CVE ID :CVE-2026-58497 Published : Oct. 23, 2026, 3:17 p.m. | 11 hours, 18 minutes ago Description :Uni-CLI gives people and agents one command interface for websites, browsers, desktop applications...",
       "source": "CVE Feed",
       "published": "2026-10-23T15:17:34+00:00"
     },
     {
       "title": "CVE-2026-55486 - Goobi viewer: IIIF Auth 2.0 origin parameter unsanitized — CSP malformation and reflected XSS",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-55486",
-      "summary": "CVE ID :CVE-2026-55486 Published : Oct. 23, 2026, 3:17 p.m. | 6 hours, 36 minutes ago Description :The Goobi viewer is a web application that allows digitised material to be displayed in a web...",
+      "summary": "CVE ID :CVE-2026-55486 Published : Oct. 23, 2026, 3:17 p.m. | 11 hours, 18 minutes ago Description :The Goobi viewer is a web application that allows digitised material to be displayed in a web...",
       "source": "CVE Feed",
       "published": "2026-10-23T15:17:33+00:00"
     },
     {
       "title": "CVE-2026-54668 - Kitodo.Production: XXE in XMLUtils EAD/XML upload parsers (parseXMLString / getNumberOfEADElements / checkIfXmlIsWellFormed lack secure JAXP config)",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-54668",
-      "summary": "CVE ID :CVE-2026-54668 Published : Oct. 23, 2026, 3:17 p.m. | 6 hours, 36 minutes ago Description :Kitodo.Production is a workflow management tool for mass digitization and is part of the Kitodo...",
+      "summary": "CVE ID :CVE-2026-54668 Published : Oct. 23, 2026, 3:17 p.m. | 11 hours, 18 minutes ago Description :Kitodo.Production is a workflow management tool for mass digitization and is part of the Kitodo...",
       "source": "CVE Feed",
       "published": "2026-10-23T15:17:32+00:00"
     },
     {
       "title": "CVE-2026-53942 - Conda Organization Infrastructure: Pwn Request in update workflow allows PR-controlled template rendering with SYNC_TOKEN",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-53942",
-      "summary": "CVE ID :CVE-2026-53942 Published : Oct. 23, 2026, 3:17 p.m. | 6 hours, 36 minutes ago Description :Conda Organization Infrastructure is a centralized location for infrastructure codes. Prior to...",
+      "summary": "CVE ID :CVE-2026-53942 Published : Oct. 23, 2026, 3:17 p.m. | 11 hours, 18 minutes ago Description :Conda Organization Infrastructure is a centralized location for infrastructure codes. Prior to...",
       "source": "CVE Feed",
       "published": "2026-10-23T15:17:32+00:00"
     },
     {
       "title": "CVE-2026-46652 - Path traversal via HTTP `Content-Disposition` header in ExternalFilesDownloader enables remote code execution in Goobi viewer",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-46652",
-      "summary": "CVE ID :CVE-2026-46652 Published : Oct. 23, 2026, 3:17 p.m. | 6 hours, 36 minutes ago Description :The Goobi viewer is a web application that allows digitised material to be displayed in a web...",
+      "summary": "CVE ID :CVE-2026-46652 Published : Oct. 23, 2026, 3:17 p.m. | 11 hours, 18 minutes ago Description :The Goobi viewer is a web application that allows digitised material to be displayed in a web...",
       "source": "CVE Feed",
       "published": "2026-10-23T15:17:31+00:00"
     },
     {
       "title": "CVE-2026-46651 - Unauthenticated SSRF and local file inclusion via DownloadTaskEndpoint WebSocket in Goobi viewer",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-46651",
-      "summary": "CVE ID :CVE-2026-46651 Published : Oct. 23, 2026, 3:17 p.m. | 6 hours, 36 minutes ago Description :The Goobi viewer is a web application that allows digitised material to be displayed in a web...",
+      "summary": "CVE ID :CVE-2026-46651 Published : Oct. 23, 2026, 3:17 p.m. | 11 hours, 18 minutes ago Description :The Goobi viewer is a web application that allows digitised material to be displayed in a web...",
       "source": "CVE Feed",
       "published": "2026-10-23T15:17:31+00:00"
     },
     {
       "title": "CVE-2026-102786 - Joomla Extension - phoca.cz - Authenticated stored cross-site scripting through HTML attribute injection in Phoca Gallery 4.5.0 - 6.1.5",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-102786",
-      "summary": "CVE ID :CVE-2026-102786 Published : Oct. 23, 2026, 3:17 p.m. | 6 hours, 36 minutes ago Description :Joomla Extension - phoca.cz - Authenticated stored cross-site scripting through HTML attribute...",
+      "summary": "CVE ID :CVE-2026-102786 Published : Oct. 23, 2026, 3:17 p.m. | 11 hours, 18 minutes ago Description :Joomla Extension - phoca.cz - Authenticated stored cross-site scripting through HTML attribute...",
       "source": "CVE Feed",
       "published": "2026-10-23T15:17:22+00:00"
     },
@@ -235,65 +284,23 @@
     {
       "title": "CVE-2026-93639 - Zimbra Collaboration Suite Missing Authorization in ConfigureZimlet Enables Delegated Administrator Privilege Escalation",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-93639",
-      "summary": "CVE ID :CVE-2026-93639 Published : Oct. 23, 2026, 2:17 p.m. | 7 hours, 36 minutes ago Description :A missing authorization vulnerability in Zimbra Collaboration Suite (ZCS) allows a delegated...",
+      "summary": "CVE ID :CVE-2026-93639 Published : Oct. 23, 2026, 2:17 p.m. | 12 hours, 18 minutes ago Description :A missing authorization vulnerability in Zimbra Collaboration Suite (ZCS) allows a delegated...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:57+00:00"
     },
     {
       "title": "CVE-2026-55826 - Customer Order Data Exposed via Unauthenticated gtm_server_side_order_id Cookie Manipulation in GTM Server Side WordPress Plugin",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-55826",
-      "summary": "CVE ID :CVE-2026-55826 Published : Oct. 23, 2026, 2:17 p.m. | 7 hours, 36 minutes ago Description :The GTM Server Side plugin by stape.io implements server-side tracking on WordPress websites. From...",
+      "summary": "CVE ID :CVE-2026-55826 Published : Oct. 23, 2026, 2:17 p.m. | 12 hours, 18 minutes ago Description :The GTM Server Side plugin by stape.io implements server-side tracking on WordPress websites. From...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:54+00:00"
     },
     {
       "title": "CVE-2026-53921 - odhcpd: Stack buffer overflow in DHCPv6 IA reply serialization (2 independent sites)",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-53921",
-      "summary": "CVE ID :CVE-2026-53921 Published : Oct. 23, 2026, 2:17 p.m. | 7 hours, 36 minutes ago Description :odhcpd is the DHCPv6, DHCPv4, and router-advertisement server used by OpenWrt. Prior to version...",
+      "summary": "CVE ID :CVE-2026-53921 Published : Oct. 23, 2026, 2:17 p.m. | 12 hours, 18 minutes ago Description :odhcpd is the DHCPv6, DHCPv4, and router-advertisement server used by OpenWrt. Prior to version...",
       "source": "CVE Feed",
       "published": "2026-10-23T14:17:53+00:00"
-    },
-    {
-      "title": "CVE-2026-53920 - odhcpd DHCPv6 Short IA_NA/IA_PD Body Stack Disclosure",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-53920",
-      "summary": "CVE ID :CVE-2026-53920 Published : Oct. 23, 2026, 2:17 p.m. | 7 hours, 36 minutes ago Description :odhcpd is the DHCPv6, DHCPv4, and router-advertisement server used by OpenWrt. From version 17.01.0...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T14:17:53+00:00"
-    },
-    {
-      "title": "CVE-2026-53918 - odhcpd DHCPv6 IA dangling first pointer use-after-free",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-53918",
-      "summary": "CVE ID :CVE-2026-53918 Published : Oct. 23, 2026, 2:17 p.m. | 7 hours, 36 minutes ago Description :odhcpd is the DHCPv6, DHCPv4, and router-advertisement server used by OpenWrt. Prior to version...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T14:17:53+00:00"
-    },
-    {
-      "title": "CVE-2026-50053 - Zimbra Collaboration Suite RestFilter Request Attribute Override via Unauthenticated URL Parameters",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-50053",
-      "summary": "CVE ID :CVE-2026-50053 Published : Oct. 23, 2026, 2:17 p.m. | 7 hours, 36 minutes ago Description :A request attribute override vulnerability in Zimbra Collaboration Suite (ZCS) allows...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T14:17:53+00:00"
-    },
-    {
-      "title": "CVE-2026-115481 - baserCMS: BcCustomContent file fields can be configured to allow executable file extensions such as php, leading to arbitrary PHP file upload",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115481",
-      "summary": "CVE ID :CVE-2026-115481 Published : Oct. 23, 2026, 2:17 p.m. | 7 hours, 36 minutes ago Description :baserCMS is a website development framework. Starting in version 5.0.0-beta1 and prior to versions...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T14:17:52+00:00"
-    },
-    {
-      "title": "CVE-2026-114621 - baserCMS: SQL injection in the admin panel and admin API",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114621",
-      "summary": "CVE ID :CVE-2026-114621 Published : Oct. 23, 2026, 2:17 p.m. | 7 hours, 36 minutes ago Description :baserCMS is a website development framework. In versions 5.0.0 before 5.3.2 and 5.4.0 before 5.4.2...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T14:17:51+00:00"
-    },
-    {
-      "title": "CVE-2026-114357 - DJI CrystalSky ZS600C ships ADB without authentication (ro.adb.secure=0)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114357",
-      "summary": "CVE ID :CVE-2026-114357 Published : Oct. 23, 2026, 2:17 p.m. | 7 hours, 36 minutes ago Description :Missing authentication for a critical function in the Android Debug Bridge daemon (adbd) in DJI...",
-      "source": "CVE Feed",
-      "published": "2026-10-23T14:17:49+00:00"
     },
     {
       "title": "You gave your AI agent access, but who is giving it orders?",
@@ -679,13 +686,6 @@
       "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js...",
       "source": "The Hacker News",
       "published": "2026-10-22T07:47:22+00:00"
-    },
-    {
-      "title": "Cisco Releases October 2026 Security Updates for Unified Communications Products",
-      "link": "https://thecyberthrone.in/2026/10/22/cisco-releases-october-2026-security-updates-for-unified-communications-products/",
-      "summary": "Cisco Releases October 2026 Security Updates for Unified Communications Products October 22, 2026Cisco has released security updates for multiple Unified Communications products, addressing eight...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-22T07:32:09+00:00"
     },
     {
       "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
