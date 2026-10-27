@@ -1,12 +1,208 @@
 {
-  "last_updated": "2026-10-26T22:06:31.283705+00:00",
+  "last_updated": "2026-10-27T03:00:05.643643+00:00",
   "articles": [
+    {
+      "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
+      "link": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
+      "summary": "The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The post Cybersecurity Issue Forces a...",
+      "source": "SecurityWeek",
+      "published": "2026-10-27T01:30:00+00:00"
+    },
+    {
+      "title": "CVE-2026-116843 - Mistral Vibe before 3.0.3 RCE via Git Filter Drivers in Worktree Mode",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116843",
+      "summary": "CVE ID :CVE-2026-116843 Published : Oct. 27, 2026, 1:19 a.m. | 1 hour, 17 minutes ago Description :Mistral Vibe before 3.0.3 contains a remote code execution vulnerability that allows attackers to...",
+      "source": "CVE Feed",
+      "published": "2026-10-27T01:19:07+00:00"
+    },
+    {
+      "title": "CVE-2026-116838 - Ubiquiti airMAX M Cross-Site Request Forgery to Command Injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116838",
+      "summary": "CVE ID :CVE-2026-116838 Published : Oct. 27, 2026, 1:19 a.m. | 1 hour, 17 minutes ago Description :A malicious actor who lures an authenticated user to a malicious page could exploit a Cross-Site...",
+      "source": "CVE Feed",
+      "published": "2026-10-27T01:19:06+00:00"
+    },
+    {
+      "title": "CVE-2026-116837 - Ubiquiti airMAX M, LTU, SolarPoint, and SolarSwitch Heap-based Buffer Overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116837",
+      "summary": "CVE ID :CVE-2026-116837 Published : Oct. 27, 2026, 1:19 a.m. | 1 hour, 17 minutes ago Description :A malicious actor with access to the adjacent network could exploit a Heap-based Buffer Overflow...",
+      "source": "CVE Feed",
+      "published": "2026-10-27T01:19:06+00:00"
+    },
+    {
+      "title": "CVE-2026-116836 - Ubiquiti airMAX M Stored Cross-Site Scripting Privilege Escalation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116836",
+      "summary": "CVE ID :CVE-2026-116836 Published : Oct. 27, 2026, 1:19 a.m. | 1 hour, 17 minutes ago Description :A malicious actor with access to the adjacent network and under certain conditions could exploit a...",
+      "source": "CVE Feed",
+      "published": "2026-10-27T01:19:06+00:00"
+    },
+    {
+      "title": "CVE-2026-116816 - llama.cpp b5899 before b10261 Heap Out-of-Bounds Write via plamo2 Tokenizer",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116816",
+      "summary": "CVE ID :CVE-2026-116816 Published : Oct. 27, 2026, 1:19 a.m. | 1 hour, 17 minutes ago Description :llama.cpp b5899 before b10261 contains a heap out-of-bounds write vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-10-27T01:19:06+00:00"
+    },
+    {
+      "title": "CVE-2024-58400 - llama.cpp before b3701 Out-of-Bounds Read in llama_decode via Token IDs",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2024-58400",
+      "summary": "CVE ID :CVE-2024-58400 Published : Oct. 27, 2026, 1:19 a.m. | 1 hour, 17 minutes ago Description :llama.cpp before b3701 contains an out-of-bounds read vulnerability in llama_decode_internal and...",
+      "source": "CVE Feed",
+      "published": "2026-10-27T01:19:03+00:00"
+    },
+    {
+      "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
+      "summary": "Measuring AI model security gets complex fast — a growing patchwork of benchmarks targets different variables in the equation, but none replace testing against your own code and workflows.",
+      "source": "Dark Reading",
+      "published": "2026-10-27T00:26:50+00:00"
+    },
+    {
+      "title": "CVE-2026-116827 - YesWiki before 4.7.0 SSRF via copyUrlToLocalFile in Bazar CSV Import",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116827",
+      "summary": "CVE ID :CVE-2026-116827 Published : Oct. 27, 2026, 12:17 a.m. | 2 hours, 19 minutes ago Description :YesWiki before 4.7.0 contains a server-side request forgery vulnerability in the Bazar CSV import...",
+      "source": "CVE Feed",
+      "published": "2026-10-27T00:17:18+00:00"
+    },
+    {
+      "title": "CVE-2026-116826 - YesWiki before 4.7.0 Authenticated SSRF via Page Duplication API downloadFile",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116826",
+      "summary": "CVE ID :CVE-2026-116826 Published : Oct. 27, 2026, 12:17 a.m. | 2 hours, 19 minutes ago Description :YesWiki before 4.7.0 contains a server-side request forgery vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-10-27T00:17:18+00:00"
+    },
+    {
+      "title": "CVE-2026-116825 - YesWiki from 4.6.2 before 4.7.0 HTTP Signature Replay via ActivityPub Inbox",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116825",
+      "summary": "CVE ID :CVE-2026-116825 Published : Oct. 27, 2026, 12:17 a.m. | 2 hours, 19 minutes ago Description :YesWiki from 4.6.2 before 4.7.0 lacks replay protection in...",
+      "source": "CVE Feed",
+      "published": "2026-10-27T00:17:17+00:00"
+    },
+    {
+      "title": "CVE-2026-116819 - OpenPanel before 3.0.0 Credential Disclosure via notification.rules Query",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116819",
+      "summary": "CVE ID :CVE-2026-116819 Published : Oct. 27, 2026, 12:17 a.m. | 2 hours, 19 minutes ago Description :OpenPanel before 3.0.0 contains an information disclosure vulnerability that allows read-level...",
+      "source": "CVE Feed",
+      "published": "2026-10-27T00:17:16+00:00"
+    },
+    {
+      "title": "CVE-2026-116818 - OpenPanel before 3.0.0 Unauthenticated ClickHouse SQL Injection via /live/visitors WebSocket",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116818",
+      "summary": "CVE ID :CVE-2026-116818 Published : Oct. 27, 2026, 12:17 a.m. | 2 hours, 19 minutes ago Description :OpenPanel before 3.0.0 contains an unauthenticated ClickHouse sql injection vulnerability that...",
+      "source": "CVE Feed",
+      "published": "2026-10-27T00:17:16+00:00"
+    },
+    {
+      "title": "CVE-2026-116811 - OpenPanel before 3.0.0 Sandbox Escape RCE via Webhook JavaScript Template",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116811",
+      "summary": "CVE ID :CVE-2026-116811 Published : Oct. 27, 2026, 12:17 a.m. | 2 hours, 19 minutes ago Description :OpenPanel before 3.0.0 contains a sandbox escape vulnerability in the js-runtime validator that...",
+      "source": "CVE Feed",
+      "published": "2026-10-27T00:17:14+00:00"
+    },
+    {
+      "title": "CVE-2026-116808 - OpenPanel before 3.0.0 ClickHouse SQL Injection via profile.values",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116808",
+      "summary": "CVE ID :CVE-2026-116808 Published : Oct. 27, 2026, 12:17 a.m. | 2 hours, 19 minutes ago Description :OpenPanel before 3.0.0 contains an sql injection vulnerability that allows authenticated users to...",
+      "source": "CVE Feed",
+      "published": "2026-10-27T00:17:13+00:00"
+    },
+    {
+      "title": "University of Copenhagen data breach exposes data of 525,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-26T22:20:36+00:00"
+    },
+    {
+      "title": "CVE-2026-116748 - Transmission 4.0.0 before 4.1.3 Permissive CORS Leaks RPC Anti-CSRF Token",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116748",
+      "summary": "CVE ID :CVE-2026-116748 Published : Oct. 26, 2026, 10:16 p.m. | 4 hours, 19 minutes ago Description :Transmission 4.0.0 before 4.1.3 contains a permissive CORS vulnerability in handle_request() in...",
+      "source": "CVE Feed",
+      "published": "2026-10-26T22:16:59+00:00"
+    },
+    {
+      "title": "CVE-2026-116747 - Kener 3.0.0 before 4.1.10 Authentication Bypass via Hardcoded Fallback JWT Secret",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116747",
+      "summary": "CVE ID :CVE-2026-116747 Published : Oct. 26, 2026, 10:16 p.m. | 4 hours, 19 minutes ago Description :Kener 3.0.0 before 4.1.10 contains an authentication bypass vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-10-26T22:16:59+00:00"
+    },
+    {
+      "title": "CVE-2026-116741 - Speex through 1.2.1 Out-of-Bounds Write via speex_bits_read_whole_bytes",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116741",
+      "summary": "CVE ID :CVE-2026-116741 Published : Oct. 26, 2026, 10:16 p.m. | 4 hours, 19 minutes ago Description :Speex (libspeex) through 1.2.1 contains an out-of-bounds write vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-10-26T22:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-116738 - VMime through 0.9.2 Stack-Based Buffer Overflow via uuencode Decoder",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116738",
+      "summary": "CVE ID :CVE-2026-116738 Published : Oct. 26, 2026, 10:16 p.m. | 4 hours, 20 minutes ago Description :VMime through 0.9.2 contains an integer underflow in the uuEncoder::decode function that allows...",
+      "source": "CVE Feed",
+      "published": "2026-10-26T22:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-116724 - FLTK through 1.4.5 Heap Buffer Overflow via Fl_BMP_Image Integer Overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116724",
+      "summary": "CVE ID :CVE-2026-116724 Published : Oct. 26, 2026, 10:16 p.m. | 4 hours, 20 minutes ago Description :FLTK through 1.4.5 contains an integer overflow vulnerability in Fl_BMP_Image::load_bmp_() that...",
+      "source": "CVE Feed",
+      "published": "2026-10-26T22:16:56+00:00"
+    },
+    {
+      "title": "CVE-2026-116723 - FLTK through 1.4.5 Stack Buffer Overflow via Fl_BMP_Image colors_used Field",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116723",
+      "summary": "CVE ID :CVE-2026-116723 Published : Oct. 26, 2026, 10:16 p.m. | 4 hours, 20 minutes ago Description :FLTK through 1.4.5 contains a stack-based buffer overflow vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-10-26T22:16:55+00:00"
+    },
+    {
+      "title": "CVE-2026-116591 - compress zstd: Panic on two-block frames",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116591",
+      "summary": "CVE ID :CVE-2026-116591 Published : Oct. 26, 2026, 10:16 p.m. | 4 hours, 20 minutes ago Description :compress provides various compression algorithms. Prior to 1.20.2, the zstd DecodeAll and...",
+      "source": "CVE Feed",
+      "published": "2026-10-26T22:16:55+00:00"
+    },
+    {
+      "title": "CVE-2026-116589 - Datadog dd-trace-py: IAST instrumentation can lead to application DOS",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116589",
+      "summary": "CVE ID :CVE-2026-116589 Published : Oct. 26, 2026, 10:16 p.m. | 4 hours, 20 minutes ago Description :Datadog dd-trace-py is the Datadog Python APM client. From 3.13.0 until 4.15.5, the IAST...",
+      "source": "CVE Feed",
+      "published": "2026-10-26T22:16:55+00:00"
+    },
+    {
+      "title": "CVE-2026-116588 - Datadog dd-trace-py: ReDOS in URL query string obfuscation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116588",
+      "summary": "CVE ID :CVE-2026-116588 Published : Oct. 26, 2026, 10:16 p.m. | 4 hours, 20 minutes ago Description :Datadog dd-trace-py is the Datadog Python APM client. From 1.5.0 until 3.19.9 and 4.15.6, the...",
+      "source": "CVE Feed",
+      "published": "2026-10-26T22:16:55+00:00"
+    },
+    {
+      "title": "CVE-2026-116508 - TOTOLINK A950RG Device-Information CGI infostat.cgi sub_402340 stack-based overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116508",
+      "summary": "CVE ID :CVE-2026-116508 Published : Oct. 26, 2026, 10:16 p.m. | 4 hours, 20 minutes ago Description :A security flaw has been discovered in TOTOLINK A950RG 4.1.2cu.5268_B20221104. Affected by this...",
+      "source": "CVE Feed",
+      "published": "2026-10-26T22:16:54+00:00"
+    },
     {
       "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
       "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
       "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
       "source": "Dark Reading",
       "published": "2026-10-26T21:44:33+00:00"
+    },
+    {
+      "title": "CVE-2026-86929 - Apple macOS Out-of-Bounds Write Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-86929",
+      "summary": "CVE ID :CVE-2026-86929 Published : Oct. 26, 2026, 9:20 p.m. | 5 hours, 16 minutes ago Description :An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in...",
+      "source": "CVE Feed",
+      "published": "2026-10-26T21:20:30+00:00"
+    },
+    {
+      "title": "CVE-2026-65327 - Apple macOS Privilege Escalation Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-65327",
+      "summary": "CVE ID :CVE-2026-65327 Published : Oct. 26, 2026, 9:18 p.m. | 5 hours, 18 minutes ago Description :A logic issue was addressed with improved checks. This issue is fixed in macOS Golden Gate 27.2...",
+      "source": "CVE Feed",
+      "published": "2026-10-26T21:18:36+00:00"
     },
     {
       "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
@@ -51,62 +247,6 @@
       "published": "2026-10-26T19:26:20+00:00"
     },
     {
-      "title": "CVE-2026-115924 - Rembg: Unauthenticated SAM model injection permits local-file disclosure through malicious ONNX graphs",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115924",
-      "summary": "CVE ID :CVE-2026-115924 Published : Oct. 26, 2026, 7:22 p.m. | 1 hour, 6 minutes ago Description :Rembg is a tool to remove images background. Prior to 2.0.82, the public /api/remove endpoint passes...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T19:22:52+00:00"
-    },
-    {
-      "title": "CVE-2026-110720 - Consul-k8s vulnerable to a cross-namespace authorization bypass in component ACL binding rules",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110720",
-      "summary": "CVE ID :CVE-2026-110720 Published : Oct. 26, 2026, 7:16 p.m. | 1 hour, 13 minutes ago Description :Consul-k8s versions 0.42.0 and later are vulnerable to a cross-namespace authorization bypass in...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T19:16:29+00:00"
-    },
-    {
-      "title": "CVE-2026-72753 - Routinator incorrectly handles delta updates",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-72753",
-      "summary": "CVE ID :CVE-2026-72753 Published : Oct. 26, 2026, 6:18 p.m. | 2 hours, 10 minutes ago Description :When Routinator encounters an RRDP notification file with gaps in the delta entries, it is still...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T18:18:40+00:00"
-    },
-    {
-      "title": "CVE-2026-116634 - OmniRoute 3.8.50 before 3.8.52 Missing Authentication via /api/sync/tokens",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116634",
-      "summary": "CVE ID :CVE-2026-116634 Published : Oct. 26, 2026, 6:17 p.m. | 2 hours, 11 minutes ago Description :OmniRoute 3.8.50 before 3.8.52 contains a missing authentication vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T18:17:45+00:00"
-    },
-    {
-      "title": "CVE-2026-115915 - vLLM: Untrusted EPS inputs can trigger denial of service or Ghostscript RCE",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115915",
-      "summary": "CVE ID :CVE-2026-115915 Published : Oct. 26, 2026, 6:17 p.m. | 2 hours, 12 minutes ago Description :vLLM is an inference and serving engine for large language models. Prior to 0.32.0, ImageMediaIO...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T18:17:38+00:00"
-    },
-    {
-      "title": "CVE-2026-10757 - BUG-000187511 - ArcGIS Server has a security vulnerability.",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-10757",
-      "summary": "CVE ID :CVE-2026-10757 Published : Oct. 26, 2026, 6:17 p.m. | 2 hours, 12 minutes ago Description :There is a SQL injection vulnerability in Esri ArcGIS Server versions 12.1 and earlier on Windows...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T18:17:34+00:00"
-    },
-    {
-      "title": "CVE-2026-105608 - Consul vulnerable to an authorization bypass in service mesh registration",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105608",
-      "summary": "CVE ID :CVE-2026-105608 Published : Oct. 26, 2026, 6:17 p.m. | 2 hours, 12 minutes ago Description :HashiCorp Consul and Consul Enterprise are vulnerable to an authorization bypass in service mesh...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T18:17:26+00:00"
-    },
-    {
-      "title": "CVE-2026-102649 - Burrito: Unauthenticated webhooks trigger unauthorized Terraform plans when webhookSecret is unset",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102649",
-      "summary": "CVE ID :CVE-2026-102649 Published : Oct. 26, 2026, 6:17 p.m. | 2 hours, 12 minutes ago Description :Burrito is a Terraform Automation Collaboration Software (TACoS) Kubernetes operator. Prior to...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T18:17:21+00:00"
-    },
-    {
       "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
       "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
       "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec...",
@@ -142,20 +282,6 @@
       "published": "2026-10-26T17:22:12+00:00"
     },
     {
-      "title": "CVE-2026-71456 - Johnson Controls Kantech Entrapass Hard-coded Cryptographic Key Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-71456",
-      "summary": "CVE ID :CVE-2026-71456 Published : Oct. 26, 2026, 5:17 p.m. | 3 hours, 12 minutes ago Description :Use of hard-coded cryptographic key vulnerability in Johnson Controls Kantech Entrapass allows...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T17:17:28+00:00"
-    },
-    {
-      "title": "CVE-2026-115905 - zip: Critical Parser Differential & Security Control Bypass via Dual-Header Inconsistencies (Zip Cloaking) Leading to Arbitrary File Overwrite & RCE",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115905",
-      "summary": "CVE ID :CVE-2026-115905 Published : Oct. 26, 2026, 5:17 p.m. | 3 hours, 12 minutes ago Description :zip is a zip library for Rust that supports reading and writing simple ZIP files. Through 9.0.4...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T17:17:17+00:00"
-    },
-    {
       "title": "Ukraine disputes Musk's claims of Starlink misuse as military connectivity restored",
       "link": "https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse",
       "summary": "Ukrainian Defense Minister Yevhen Khmara said Saturday that Starlink and Starshield connectivity had been restored.",
@@ -177,55 +303,6 @@
       "published": "2026-10-26T16:27:57+00:00"
     },
     {
-      "title": "CVE-2026-116543 - Open5GS 1.3.0 through 2.8.0 Heap Out-of-Bounds Write via SBI Multipart Parser",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116543",
-      "summary": "CVE ID :CVE-2026-116543 Published : Oct. 26, 2026, 4:17 p.m. | 4 hours, 12 minutes ago Description :Open5GS 1.3.0 through 2.8.0 contains a heap out-of-bounds write vulnerability in parse_multipart()...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T16:17:19+00:00"
-    },
-    {
-      "title": "CVE-2026-116541 - netty-tcnative before 2.0.84.Final Denial of Service via BIO Write Overcount",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116541",
-      "summary": "CVE ID :CVE-2026-116541 Published : Oct. 26, 2026, 4:17 p.m. | 4 hours, 12 minutes ago Description :Netty netty-tcnative before 2.0.84.Final contains a denial of service vulnerability in the...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T16:17:19+00:00"
-    },
-    {
-      "title": "CVE-2026-116540 - netty-tcnative 2.0.66.Final before 2.0.84.Final Use-After-Free in Session Ticket Callback",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116540",
-      "summary": "CVE ID :CVE-2026-116540 Published : Oct. 26, 2026, 4:17 p.m. | 4 hours, 12 minutes ago Description :netty-tcnative 2.0.66.Final before 2.0.84.Final built against OpenSSL 3.x contains a use-after-free...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T16:17:19+00:00"
-    },
-    {
-      "title": "CVE-2026-116539 - Netty netty-tcnative before 2.0.84.Final Heap Buffer Overflow via OpenSSL BIO",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116539",
-      "summary": "CVE ID :CVE-2026-116539 Published : Oct. 26, 2026, 4:17 p.m. | 4 hours, 12 minutes ago Description :Netty netty-tcnative before 2.0.84.Final contains a heap buffer overflow vulnerability in the...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T16:17:19+00:00"
-    },
-    {
-      "title": "CVE-2026-115748 - Apache Vysper: Authorization bypass",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115748",
-      "summary": "CVE ID :CVE-2026-115748 Published : Oct. 26, 2026, 4:17 p.m. | 4 hours, 12 minutes ago Description :**UNSUPPORTED WHEN ASSIGNED** Authorization bypass in Apache Vysper, all versions. Apache Vysper is...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T16:17:17+00:00"
-    },
-    {
-      "title": "CVE-2026-112346 - OpenHands Software Agent SDK < 1.52.0 Unauthenticated Sandbox Agent Server RCE",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112346",
-      "summary": "CVE ID :CVE-2026-112346 Published : Oct. 26, 2026, 4:17 p.m. | 4 hours, 12 minutes ago Description :OpenHands Software Agent SDK before 1.52.0 contains an unauthenticated remote code execution...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T16:17:14+00:00"
-    },
-    {
-      "title": "CVE-2026-112343 - Syncplify Server! < 8.8.0 Permission Override Bypass via Path Casing",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112343",
-      "summary": "CVE ID :CVE-2026-112343 Published : Oct. 26, 2026, 4:17 p.m. | 4 hours, 12 minutes ago Description :Syncplify Server! before 8.8.0 contains an access control bypass vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T16:17:13+00:00"
-    },
-    {
       "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
       "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
       "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat...",
@@ -238,55 +315,6 @@
       "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
       "source": "BleepingComputer",
       "published": "2026-10-26T15:38:24+00:00"
-    },
-    {
-      "title": "CVE-2026-93328 - Missing Authorization in MCP Toolbox for Databases allows Arbitrary File Read and Write",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-93328",
-      "summary": "CVE ID :CVE-2026-93328 Published : Oct. 26, 2026, 3:16 p.m. | 5 hours, 12 minutes ago Description :Path Traversal and Missing Authorization in cloud-storage source in Google Cloud MCP Toolbox for...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T15:16:45+00:00"
-    },
-    {
-      "title": "CVE-2026-77059 - TOCTOU Race Condition in boneIO",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77059",
-      "summary": "CVE ID :CVE-2026-77059 Published : Oct. 26, 2026, 3:16 p.m. | 5 hours, 12 minutes ago Description :boneIO Black contains a TOCTOU race condition in the create_timedatectl_sudoers_file() function in...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T15:16:43+00:00"
-    },
-    {
-      "title": "CVE-2026-77055 - Improper Privilege Assignment in boneIO",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77055",
-      "summary": "CVE ID :CVE-2026-77055 Published : Oct. 26, 2026, 3:16 p.m. | 5 hours, 12 minutes ago Description :boneIO black_debian_images gives the boneio service account excessive privileges, including full...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T15:16:43+00:00"
-    },
-    {
-      "title": "CVE-2026-77053 - Missing Authentication in Default Configuration in boneIO",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77053",
-      "summary": "CVE ID :CVE-2026-77053 Published : Oct. 26, 2026, 3:16 p.m. | 5 hours, 12 minutes ago Description :boneIO Black firmware ships with authentication disabled by default. Its management web API listens...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T15:16:42+00:00"
-    },
-    {
-      "title": "CVE-2026-77052 - Missing Authentication for Node-RED in boneIO",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77052",
-      "summary": "CVE ID :CVE-2026-77052 Published : Oct. 26, 2026, 3:16 p.m. | 5 hours, 12 minutes ago Description :boneIO Black exposes a Node-RED instance without authentication at the /nodered/ path through a...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T15:16:42+00:00"
-    },
-    {
-      "title": "CVE-2026-65184 - Avocent ACS8000 wsserver command injection",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-65184",
-      "summary": "CVE ID :CVE-2026-65184 Published : Oct. 26, 2026, 3:16 p.m. | 5 hours, 12 minutes ago Description :The root-privileged `wsserver` terminal-bridge daemon builds a shell command from client-supplied...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T15:16:41+00:00"
-    },
-    {
-      "title": "CVE-2026-112345 - TTLock Android App < 9.8.260718 Hardcoded BLE Pairing Key Exposure",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112345",
-      "summary": "CVE ID :CVE-2026-112345 Published : Oct. 26, 2026, 3:16 p.m. | 5 hours, 13 minutes ago Description :TTLock Android application before v9.8.260718 and associated smart-lock firmware contain a...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T15:16:38+00:00"
     },
     {
       "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
@@ -315,13 +343,6 @@
       "summary": "CERT-UA says it has identified cases in which hackers compromised Dahua internet-connected cameras and video recorders, changed their settings and created unauthorized user accounts.",
       "source": "The Record",
       "published": "2026-10-26T14:21:00+00:00"
-    },
-    {
-      "title": "CVE-2026-97200 - Unbounded response body buffering and decompression in hackney",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-97200",
-      "summary": "CVE ID :CVE-2026-97200 Published : Oct. 26, 2026, 2:16 p.m. | 6 hours, 12 minutes ago Description :Allocation of Resources Without Limits or Throttling vulnerability in hackney_conn in benoitc...",
-      "source": "CVE Feed",
-      "published": "2026-10-26T14:16:42+00:00"
     },
     {
       "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
@@ -471,13 +492,6 @@
       "published": "2026-10-25T15:49:38+00:00"
     },
     {
-      "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
-      "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
-      "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps...",
-      "source": "SecurityWeek",
-      "published": "2026-10-25T11:00:00+00:00"
-    },
-    {
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
       "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
       "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models...",
@@ -557,8 +571,8 @@
     {
       "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
       "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
-      "summary": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
-      "source": "Dark Reading",
+      "summary": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice Source: zennie via Getty ImagesNew data shows that organizations aren't moving to patch PHP2Shell as fast as attackers are moving to exploit...",
+      "source": "CVE Newsroom",
       "published": "2026-10-23T19:41:23+00:00"
     },
     {
@@ -616,13 +630,6 @@
       "summary": "Fortinet Releases Security Updates Across Five Products Fortinet has announced a coordinated set of security updates covering five products: FortiOS, FortiManager, FortiAnalyzer, FortiMail and...",
       "source": "CVE Newsroom",
       "published": "2026-10-23T16:52:49+00:00"
-    },
-    {
-      "title": "Quest Diagnostics confirms data breach exposed patient records",
-      "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-      "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-23T16:40:07+00:00"
     },
     {
       "title": "PHP2Shell Operational Guidance",
@@ -1162,13 +1169,6 @@
       "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
       "source": "Dark Reading",
       "published": "2026-10-14T13:00:00+00:00"
-    },
-    {
-      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
-      "summary": "Organizations are reporting that employees face threats of stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
-      "source": "Dark Reading",
-      "published": "2026-10-14T05:00:00+00:00"
     },
     {
       "title": "Microsoft Patches More Than 1,400 Security Flaws",
