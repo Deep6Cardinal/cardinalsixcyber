@@ -1,166 +1,208 @@
 {
-  "last_updated": "2026-10-28T20:41:32.232555+00:00",
+  "last_updated": "2026-10-29T01:25:03.682709+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-85749 - MailWatch: IDOR lets any authenticated user release or delete another tenant's quarantined mail",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-85749",
+      "summary": "CVE ID :CVE-2026-85749 Published : Oct. 28, 2026, 11:17 p.m. | 1 hour, 57 minutes ago Description :MailWatch for MailScanner is a web-based front-end to MailScanner. Prior to 1.2.27, any...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T23:17:11+00:00"
+    },
+    {
+      "title": "CVE-2026-118579 - D-Link DIR-505 Web Management CGI secmark1524.cgi main backdoor",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118579",
+      "summary": "CVE ID :CVE-2026-118579 Published : Oct. 28, 2026, 11:17 p.m. | 1 hour, 57 minutes ago Description :A weakness has been identified in D-Link DIR-505 1.10B02. The impacted element is the function main...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T23:17:09+00:00"
+    },
+    {
+      "title": "CVE-2026-93851 - Path traversal in Mattermost Agents plugin mention reminder allows plugin replacement via crafted post",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-93851",
+      "summary": "CVE ID :CVE-2026-93851 Published : Oct. 28, 2026, 10:17 p.m. | 2 hours, 57 minutes ago Description :Mattermost versions 11.9.x Severity: 8.0 | HIGH Visit the link for more details, such as CVSS...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T22:17:17+00:00"
+    },
+    {
+      "title": "CVE-2026-61572 - AVideo-Encoder: unauthenticated full-response server-side request forgery",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61572",
+      "summary": "CVE ID :CVE-2026-61572 Published : Oct. 28, 2026, 10:17 p.m. | 2 hours, 57 minutes ago Description :AVideo is a video-sharing Platform. Before the initial remediation attempt in 8.1.0...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T22:17:16+00:00"
+    },
+    {
+      "title": "CVE-2026-61567 - AVideo-Encoder: unauthenticated command execution through streamer login trust",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61567",
+      "summary": "CVE ID :CVE-2026-61567 Published : Oct. 28, 2026, 10:17 p.m. | 2 hours, 57 minutes ago Description :AVideo is a video-sharing Platform. Prior to 8.1.0, the live-streaming endpoint...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T22:17:15+00:00"
+    },
+    {
+      "title": "CVE-2026-61564 - AVideo-Encoder: unauthenticated installer PHP code injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61564",
+      "summary": "CVE ID :CVE-2026-61564 Published : Oct. 28, 2026, 10:17 p.m. | 2 hours, 57 minutes ago Description :AVideo is a video-sharing Platform. Prior to 8.1.0, the unauthenticated installer endpoint...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T22:17:15+00:00"
+    },
+    {
+      "title": "CVE-2026-61546 - AnkiMCP: DNS rebinding reaches unauthenticated local AnkiMCP HTTP tools",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61546",
+      "summary": "CVE ID :CVE-2026-61546 Published : Oct. 28, 2026, 10:17 p.m. | 2 hours, 57 minutes ago Description :AnkiMCP is an Anki addon that implements an MCP server, enabling AI assistants to interact with the...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T22:17:15+00:00"
+    },
+    {
+      "title": "CVE-2026-118755 - Volmarg Personal Management System through 2.1.0 OS Command Injection via Storage Folder Path",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118755",
+      "summary": "CVE ID :CVE-2026-118755 Published : Oct. 28, 2026, 10:17 p.m. | 2 hours, 57 minutes ago Description :Volmarg Personal Management System through 2.1.0 contains an OS command injection vulnerability...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T22:17:14+00:00"
+    },
+    {
+      "title": "CVE-2026-118753 - FreeImage (danoli3 fork) before 3.19.25 Heap Buffer Overflow via GIF_PLAYBACK Compositing",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118753",
+      "summary": "CVE ID :CVE-2026-118753 Published : Oct. 28, 2026, 10:17 p.m. | 2 hours, 57 minutes ago Description :FreeImage (danoli3 fork) before 3.19.25 contains a heap buffer overflow vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T22:17:14+00:00"
+    },
+    {
+      "title": "CVE-2026-118752 - FreeImage before 3.19.22 Heap Buffer Overflow via IFF/LBM PBM RLE Decoder",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118752",
+      "summary": "CVE ID :CVE-2026-118752 Published : Oct. 28, 2026, 10:17 p.m. | 2 hours, 57 minutes ago Description :FreeImage (danoli3 fork) before 3.19.22 contains a heap buffer overflow vulnerability in the PBM...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T22:17:13+00:00"
+    },
+    {
+      "title": "CVE-2026-118694 - python-markdown2 through 2.5.5 Denial of Service via Unclosed Inline Link Destinations",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118694",
+      "summary": "CVE ID :CVE-2026-118694 Published : Oct. 28, 2026, 10:17 p.m. | 2 hours, 57 minutes ago Description :python-markdown2 through 2.5.5 contains a denial of service vulnerability that allows remote users...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T22:17:13+00:00"
+    },
+    {
+      "title": "CVE-2026-118690 - Signal K Server before 2.33.0 Missing Authentication via /skServer/ziplogs",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118690",
+      "summary": "CVE ID :CVE-2026-118690 Published : Oct. 28, 2026, 10:17 p.m. | 2 hours, 57 minutes ago Description :Signal K Server before 2.33.0 contains a missing authentication vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T22:17:13+00:00"
+    },
+    {
+      "title": "CVE-2026-118689 - OvenMediaEngine through 0.21.0 OVT Relay DoS via Oversized payload_length",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118689",
+      "summary": "CVE ID :CVE-2026-118689 Published : Oct. 28, 2026, 10:17 p.m. | 2 hours, 57 minutes ago Description :OvenMediaEngine through 0.21.0 contains a denial of service vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T22:17:12+00:00"
+    },
+    {
+      "title": "CVE-2026-118669 - OAuthLib: Token grants can use attacker-supplied client_id for authorization after authenticating a different client",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118669",
+      "summary": "CVE ID :CVE-2026-118669 Published : Oct. 28, 2026, 10:17 p.m. | 2 hours, 57 minutes ago Description :OAuthLib is an implementation of the OAuth request-signing logic for Python 3.6+. Prior to 4.0.0...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T22:17:12+00:00"
+    },
+    {
+      "title": "CVE-2026-118668 - LangGraph JavaScript custom authentication may permit cross-user Store access",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118668",
+      "summary": "CVE ID :CVE-2026-118668 Published : Oct. 28, 2026, 9:16 p.m. | 3 hours, 57 minutes ago Description :langgraph-api implements the LangGraph API for rapid development and testing. From 0.1.2 until...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T21:16:57+00:00"
+    },
+    {
+      "title": "CVE-2026-118665 - GraphQL Tools: Per-request connection parameters persist into later users' WebSocket authentications",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118665",
+      "summary": "CVE ID :CVE-2026-118665 Published : Oct. 28, 2026, 9:16 p.m. | 3 hours, 57 minutes ago Description :GraphQL Tools provides utilities for building, stitching, and mocking GraphQL schemas. Prior to...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T21:16:56+00:00"
+    },
+    {
+      "title": "CVE-2026-118664 - decode-uri-component: Denial of service via quadratic replacement of percent-encoded runs",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118664",
+      "summary": "CVE ID :CVE-2026-118664 Published : Oct. 28, 2026, 9:16 p.m. | 3 hours, 57 minutes ago Description :decode-uri-component provides a more robust alternative to decodeURIComponent. Prior to 0.5.1...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T21:16:56+00:00"
+    },
+    {
+      "title": "CVE-2026-118660 - Happy DOM: SSRF via iframe and link stylesheet when parsing untrusted HTML",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118660",
+      "summary": "CVE ID :CVE-2026-118660 Published : Oct. 28, 2026, 9:16 p.m. | 3 hours, 57 minutes ago Description :Happy DOM is a JavaScript implementation of a web browser without its graphical user interface...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T21:16:56+00:00"
+    },
+    {
+      "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
+      "link": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
+      "summary": "A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional.",
+      "source": "The Record",
+      "published": "2026-10-28T20:50:00+00:00"
+    },
+    {
+      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+      "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-28T20:47:22+00:00"
+    },
+    {
+      "title": "Japan Airlines warns of data breach as country grapples with multiple cyber incidents",
+      "link": "https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents",
+      "summary": "Hackers stole passport numbers, frequent flyer numbers, email addresses and phone numbers for about 2,000 customers.",
+      "source": "The Record",
+      "published": "2026-10-28T20:33:00+00:00"
+    },
     {
       "title": "CVE-2026-78674 - Remote Code Execution via BPMN System REST APIs in Multiple WSO2 Products Permits Arbitrary Command Execution",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-78674",
-      "summary": "CVE ID :CVE-2026-78674 Published : Oct. 28, 2026, 7:21 p.m. | 17 minutes ago Description :The BPMN System REST APIs do not sufficiently validate input parameters, allowing authenticated users to...",
+      "summary": "CVE ID :CVE-2026-78674 Published : Oct. 28, 2026, 8:18 p.m. | 4 hours, 55 minutes ago Description :The BPMN System REST APIs do not sufficiently validate input parameters, allowing authenticated...",
       "source": "CVE Feed",
-      "published": "2026-10-28T19:21:38+00:00"
+      "published": "2026-10-28T20:18:47+00:00"
     },
     {
-      "title": "CVE-2025-14260 - Server Side Request Forgery in Multiple WSO2 Products Allows Access to Internal and External Resources",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2025-14260",
-      "summary": "CVE ID :CVE-2025-14260 Published : Oct. 28, 2026, 7:21 p.m. | 17 minutes ago Description :Due to the improper implementation of access control rules, the WSO2 product accepts user-supplied input...",
+      "title": "CVE-2026-76418 - Cisco Secure Firewall Adaptive Security Appliance and Secure Firewall Threat Defense Software Remote Access SSL VPN Tunnel Denial of Service Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76418",
+      "summary": "CVE ID :CVE-2026-76418 Published : Oct. 28, 2026, 8:18 p.m. | 4 hours, 55 minutes ago Description :A vulnerability in the Remote Access SSL VPN service of Cisco Secure Firewall Adaptive Security...",
       "source": "CVE Feed",
-      "published": "2026-10-28T19:21:32+00:00"
+      "published": "2026-10-28T20:18:47+00:00"
+    },
+    {
+      "title": "CVE-2026-63190 - FearlessCMS: Unauthenticated debug scripts expose filesystem operations and XSS",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63190",
+      "summary": "CVE ID :CVE-2026-63190 Published : Oct. 28, 2026, 8:18 p.m. | 4 hours, 56 minutes ago Description :FearlessCMS is a flat-file `content` management system centered on simplicity and open source. Prior...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T20:18:37+00:00"
+    },
+    {
+      "title": "CVE-2026-61542 - Gearboy advisory / Gearsystem body: Unauthenticated network exposure of MCP HTTP tools",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61542",
+      "summary": "CVE ID :CVE-2026-61542 Published : Oct. 28, 2026, 8:18 p.m. | 4 hours, 56 minutes ago Description :Gearboy is a Game Boy, Game Boy Color, and Super Game Boy emulator and debugger with an embedded MCP...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T20:18:27+00:00"
+    },
+    {
+      "title": "CVE-2026-117574 - Ai-gateway-payload-processing: ai-gateway-payload-processing: tenant/credential selection from client-controlled url path with no in-process authorization",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-117574",
+      "summary": "CVE ID :CVE-2026-117574 Published : Oct. 28, 2026, 8:17 p.m. | 4 hours, 57 minutes ago Description :A flaw was found in ai-gateway-payload-processing. An authenticated remote attacker can exploit...",
+      "source": "CVE Feed",
+      "published": "2026-10-28T20:17:21+00:00"
     },
     {
       "title": "CVE-2026-109411 - Samba: access control bypass via vfs_ceph_rgw case-insensitive open",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-109411",
-      "summary": "CVE ID :CVE-2026-109411 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :An access control bypass flaw was found in Samba's vfs_ceph_rgw module in it's openat() function. An...",
+      "summary": "CVE ID :CVE-2026-109411 Published : Oct. 28, 2026, 8:17 p.m. | 4 hours, 57 minutes ago Description :An access control bypass flaw was found in Samba's vfs_ceph_rgw module in it's openat() function...",
       "source": "CVE Feed",
-      "published": "2026-10-28T19:17:45+00:00"
+      "published": "2026-10-28T20:17:17+00:00"
     },
     {
-      "title": "CVE-2026-118688 - Wasmtime before 36.0.18, 37.0.0 before 48.0.6, and 49.0.0 before 49.0.3 Sandbox Escape via Symlink Rename",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118688",
-      "summary": "CVE ID :CVE-2026-118688 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :wasmtime-wasi in Wasmtime before 36.0.18, 37.0.0 before 48.0.6, and 49.0.0 before 49.0.3 re-appends a...",
+      "title": "CVE-2025-14260 - Server Side Request Forgery in Multiple WSO2 Products Allows Access to Internal and External Resources",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2025-14260",
+      "summary": "CVE ID :CVE-2025-14260 Published : Oct. 28, 2026, 8:17 p.m. | 4 hours, 57 minutes ago Description :Due to the improper implementation of access control rules, the WSO2 product accepts user-supplied...",
       "source": "CVE Feed",
-      "published": "2026-10-28T19:17:35+00:00"
+      "published": "2026-10-28T20:17:14+00:00"
     },
     {
-      "title": "CVE-2026-118687 - Coder before 2.29.21, 2.34.12, 2.35.9, 2.36.7, and 2.37.4 Missing Audience Validation in GCP Instance-Identity Authentication",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118687",
-      "summary": "CVE ID :CVE-2026-118687 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :Coder before 2.29.21, 2.30.0 before 2.34.12, 2.35.0 before 2.35.9, 2.36.0 before 2.36.7, and 2.37.0 before...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:35+00:00"
-    },
-    {
-      "title": "CVE-2026-118686 - EspoCRM before 9.3.11 and 10.0.8 Unauthenticated Denial of Service via Password-Redaction Regex",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118686",
-      "summary": "CVE ID :CVE-2026-118686 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :EspoCRM before 9.3.11 and 10.x before 10.0.8 contains a denial of service vulnerability in which the...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:35+00:00"
-    },
-    {
-      "title": "CVE-2026-118684 - MONAI before 1.6.1 Missing Integrity Verification via check_hash in Downloads",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118684",
-      "summary": "CVE ID :CVE-2026-118684 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :MONAI before 1.6.1 contains an insufficient integrity verification vulnerability in check_hash() that...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:35+00:00"
-    },
-    {
-      "title": "CVE-2026-118683 - MONAI 1.2.0 before 1.6.1 Code Execution via bundle configs/logging.conf",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118683",
-      "summary": "CVE ID :CVE-2026-118683 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :MONAI from 1.2.0 before 1.6.1 contains a remote code execution vulnerability in ConfigWorkflow.__init__...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:35+00:00"
-    },
-    {
-      "title": "CVE-2026-118649 - n8n before 2.43.5 and 2.44.1 Authorization Bypass via Crafted Workflow ID in Data Tables",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118649",
-      "summary": "CVE ID :CVE-2026-118649 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :n8n before 2.43.5 and 2.44.x before 2.44.1 accepts a client-supplied workflow ID and caches each workflow's...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:33+00:00"
-    },
-    {
-      "title": "CVE-2026-118648 - n8n before 1.123.85, 2.43.5, and 2.44.1 Stored XSS via Webhook Responses Missing Sandbox Policy",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118648",
-      "summary": "CVE ID :CVE-2026-118648 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 contains a stored cross-site scripting...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:33+00:00"
-    },
-    {
-      "title": "CVE-2026-118647 - n8n before 1.123.85, 2.43.5, and 2.44.1 SeaTable Trigger API Token Exposure via Execution Data",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118647",
-      "summary": "CVE ID :CVE-2026-118647 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 saves the SeaTable Trigger node's API token...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:32+00:00"
-    },
-    {
-      "title": "CVE-2026-118645 - n8n before 1.123.85, 2.43.5, and 2.44.1 Filter Injection via Quick Base Node Where Parameter",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118645",
-      "summary": "CVE ID :CVE-2026-118645 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 contains a filter injection vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:32+00:00"
-    },
-    {
-      "title": "CVE-2026-118643 - n8n before 1.123.85, 2.43.5, and 2.44.1 Credential Exposure via Node Execution Error Data",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118643",
-      "summary": "CVE ID :CVE-2026-118643 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 stores credential secrets in execution...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:32+00:00"
-    },
-    {
-      "title": "CVE-2026-118633 - Sophos UTM Path Traversal Remote Code Execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118633",
-      "summary": "CVE ID :CVE-2026-118633 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :A path traversal vulnerability allows a remote unauthenticated attacker to execute arbitrary code as root in...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:31+00:00"
-    },
-    {
-      "title": "CVE-2026-118264 - Echo: Rejected WebSocket upgrades can bypass Echo route-level access controls",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118264",
-      "summary": "CVE ID :CVE-2026-118264 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :Echo is a Go web framework. From 4.0.0 until 4.16.1 and 5.4.1, Echo's Proxy middleware selects a raw tunnel...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:31+00:00"
-    },
-    {
-      "title": "CVE-2026-118262 - Echo: WebSocket proxy can retain connections and handlers after client disconnect",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118262",
-      "summary": "CVE ID :CVE-2026-118262 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :Echo is a Go web framework. From 4.15.0 until 4.16.1 and 5.4.1, Echo's Proxy middleware can retain a...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:30+00:00"
-    },
-    {
-      "title": "CVE-2026-118261 - Echo: Decompress permits unbounded gzip expansion in v4",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118261",
-      "summary": "CVE ID :CVE-2026-118261 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :Echo is a Go web framework. From 4.0.0 until 4.16.1, Echo v4's opt-in Decompress middleware exposes a...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:30+00:00"
-    },
-    {
-      "title": "CVE-2026-118260 - Echo: BodyDump captures request and response bodies without size limits in v4",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118260",
-      "summary": "CVE ID :CVE-2026-118260 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :Echo is a Go web framework. From 4.0.0 until 4.16.1, Echo v4's opt-in BodyDump middleware reads complete...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:30+00:00"
-    },
-    {
-      "title": "CVE-2026-118255 - Highcharts Grid: javascript: URL in credits.href runs script on click",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118255",
-      "summary": "CVE ID :CVE-2026-118255 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :Highcharts JS is a JavaScript charting library based on SVG. From 2.0.0 until 3.2.0, Highcharts Grid applies...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:29+00:00"
-    },
-    {
-      "title": "CVE-2026-118254 - Highcharts Grid: pagination language options are parsed as HTML",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118254",
-      "summary": "CVE ID :CVE-2026-118254 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :Highcharts JS is a JavaScript charting library based on SVG. From 2.0.0 until 3.2.0, Highcharts Grid writes...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:29+00:00"
-    },
-    {
-      "title": "CVE-2026-118253 - Highcharts Dashboards: fullscreen labels are parsed as HTML",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118253",
-      "summary": "CVE ID :CVE-2026-118253 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :Highcharts JS is a JavaScript charting library based on SVG. From 1.0.0 until 4.2.3, Highcharts Dashboards...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:29+00:00"
-    },
-    {
-      "title": "CVE-2026-118252 - Highcharts Dashboards: sidebar component labels are parsed as HTML",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118252",
-      "summary": "CVE ID :CVE-2026-118252 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :Highcharts JS is a JavaScript charting library based on SVG. From 1.0.0 until 4.2.3, Highcharts Dashboards...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:29+00:00"
-    },
-    {
-      "title": "CVE-2026-118251 - Highcharts: javascript: URL in credits.href runs script on click",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118251",
-      "summary": "CVE ID :CVE-2026-118251 Published : Oct. 28, 2026, 7:17 p.m. | 21 minutes ago Description :Highcharts JS is a JavaScript charting library based on SVG. Prior to 11.4.9, 12.6.1, and 13.1.0, Highcharts...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T19:17:29+00:00"
+      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+      "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+      "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
+      "source": "Dark Reading",
+      "published": "2026-10-28T19:39:00+00:00"
     },
     {
       "title": "Discord to let search engines index public server messages",
@@ -168,20 +210,6 @@
       "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
       "source": "BleepingComputer",
       "published": "2026-10-28T18:44:16+00:00"
-    },
-    {
-      "title": "CVE-2026-84725 - Openjdk-orb: incomplete fix for cve-2026-15560,unauthed class loading via iiop in eap",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-84725",
-      "summary": "CVE ID :CVE-2026-84725 Published : Oct. 28, 2026, 6:17 p.m. | 1 hour, 21 minutes ago Description :when EAP runs with -secmgr, the openjdk-orb's JDKBridge honours attacker-supplied CDR codebase URLs...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T18:17:20+00:00"
-    },
-    {
-      "title": "CVE-2026-118246 - Highcharts Core: `breadcrumbs.style` keys become SVG event-handler attributes",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118246",
-      "summary": "CVE ID :CVE-2026-118246 Published : Oct. 28, 2026, 6:17 p.m. | 1 hour, 21 minutes ago Description :Highcharts JS is a JavaScript charting library based on SVG. From 10.0.0 until 11.4.9, 12.6.1, and...",
-      "source": "CVE Feed",
-      "published": "2026-10-28T18:17:15+00:00"
     },
     {
       "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
@@ -252,20 +280,6 @@
       "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting...",
       "source": "BleepingComputer",
       "published": "2026-10-28T16:00:00+00:00"
-    },
-    {
-      "title": "UK to look at making software companies liable for cyber breaches",
-      "link": "https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches",
-      "summary": "The new U.K. budget says the government will \"consider where liability for cyber breaches should sit,\" potentially a landmark shift for a country that has relied on voluntary codes to encourage...",
-      "source": "The Record",
-      "published": "2026-10-28T15:37:00+00:00"
-    },
-    {
-      "title": "Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine",
-      "link": "https://therecord.media/belarus-russia-hackers-ukraine-war",
-      "summary": "Belarus-linked hackers are increasingly aligning their cyber operations with Russia's interests in Ukraine, researchers said Wednesday.",
-      "source": "The Record",
-      "published": "2026-10-28T15:15:00+00:00"
     },
     {
       "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
@@ -394,17 +408,17 @@
       "published": "2026-10-28T10:46:23+00:00"
     },
     {
-      "title": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway.",
-      "link": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
-      "summary": "The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies. The post Nobody Trusts...",
-      "source": "SecurityWeek",
-      "published": "2026-10-28T10:30:00+00:00"
-    },
-    {
       "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
       "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
       "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted...",
       "source": "The Hacker News",
+      "published": "2026-10-28T10:30:00+00:00"
+    },
+    {
+      "title": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway.",
+      "link": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
+      "summary": "The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies. The post Nobody Trusts...",
+      "source": "SecurityWeek",
       "published": "2026-10-28T10:30:00+00:00"
     },
     {
@@ -567,13 +581,6 @@
       "summary": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised...",
       "source": "Dark Reading",
       "published": "2026-10-27T16:47:20+00:00"
-    },
-    {
-      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-      "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-      "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-27T16:15:39+00:00"
     },
     {
       "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
@@ -1148,13 +1155,6 @@
       "summary": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.",
       "source": "Dark Reading",
       "published": "2026-10-15T22:10:08+00:00"
-    },
-    {
-      "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
-      "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
-      "summary": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime.",
-      "source": "Dark Reading",
-      "published": "2026-10-15T21:55:07+00:00"
     },
     {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
