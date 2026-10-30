@@ -1,6 +1,139 @@
 {
-  "last_updated": "2026-10-29T20:44:39.839752+00:00",
+  "last_updated": "2026-10-30T01:26:54.092315+00:00",
   "articles": [
+    {
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-29T23:35:52+00:00"
+    },
+    {
+      "title": "CVE-2026-92744 - Delinea Privilege Manager agent unauthenticated remote code execution vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92744",
+      "summary": "CVE ID :CVE-2026-92744 Published : Oct. 29, 2026, 11:17 p.m. | 22 minutes ago Description :Under certain conditions, privilege manager agent allows a remote unauthenticated attacker to execute...",
+      "source": "CVE Feed",
+      "published": "2026-10-29T23:17:02+00:00"
+    },
+    {
+      "title": "CVE-2026-107239 - Veeam Management Pack for Microsoft System Center Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-107239",
+      "summary": "CVE ID :CVE-2026-107239 Published : Oct. 29, 2026, 11:16 p.m. | 22 minutes ago Description :A vulnerability allowing a member of the Veeam Virtualization Extensions Users group to perform remote code...",
+      "source": "CVE Feed",
+      "published": "2026-10-29T23:16:54+00:00"
+    },
+    {
+      "title": "CVE-2026-107238 - Veeam Management Pack for Microsoft System Center Collector Remote Code Execution",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-107238",
+      "summary": "CVE ID :CVE-2026-107238 Published : Oct. 29, 2026, 11:16 p.m. | 22 minutes ago Description :A vulnerability allowing an authenticated domain user to perform remote code execution (RCE) as the...",
+      "source": "CVE Feed",
+      "published": "2026-10-29T23:16:54+00:00"
+    },
+    {
+      "title": "CVE-2023-22793 - Veeam Management Pack for Microsoft System Center Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2023-22793",
+      "summary": "CVE ID :CVE-2023-22793 Published : Oct. 29, 2026, 11:16 p.m. | 22 minutes ago Description :A vulnerability allowing an unauthenticated attacker to perform remote code execution (RCE) on servers...",
+      "source": "CVE Feed",
+      "published": "2026-10-29T23:16:54+00:00"
+    },
+    {
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-29T22:45:23+00:00"
+    },
+    {
+      "title": "CVE-2026-61719 - WeGIA: Stored Cross-Site Scripting (XSS) in \"historico_prontuarios.php\" via \"textoProntuario\" Field",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61719",
+      "summary": "CVE ID :CVE-2026-61719 Published : Oct. 29, 2026, 10:17 p.m. | 1 hour, 22 minutes ago Description :WeGIA is a web manager for charitable institutions. Prior to 3.8.7, a stored cross-site scripting...",
+      "source": "CVE Feed",
+      "published": "2026-10-29T22:17:05+00:00"
+    },
+    {
+      "title": "CVE-2026-61707 - SOCFortress CoPilot: Stored case-report template injection permits backend code execution",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61707",
+      "summary": "CVE ID :CVE-2026-61707 Published : Oct. 29, 2026, 10:17 p.m. | 1 hour, 22 minutes ago Description :SOCFortress CoPilot focuses on providing a single pane of glass for all your security operations...",
+      "source": "CVE Feed",
+      "published": "2026-10-29T22:17:05+00:00"
+    },
+    {
+      "title": "CVE-2026-61671 - WeGIA: Systemic IDOR + Missing CSRF — extract($_REQUEST) in All Controle Classes",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61671",
+      "summary": "CVE ID :CVE-2026-61671 Published : Oct. 29, 2026, 10:17 p.m. | 1 hour, 22 minutes ago Description :WeGIA is a web manager for charitable institutions. Prior to the advisory's stated patched version...",
+      "source": "CVE Feed",
+      "published": "2026-10-29T22:17:05+00:00"
+    },
+    {
+      "title": "CVE-2026-61654 - Lightdash: Unauthenticated dbt Cloud webhook with path injection leaks API key",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61654",
+      "summary": "CVE ID :CVE-2026-61654 Published : Oct. 29, 2026, 10:17 p.m. | 1 hour, 22 minutes ago Description :Lightdash is an open source business intelligence platform. In affected versions through 0.3213.0...",
+      "source": "CVE Feed",
+      "published": "2026-10-29T22:17:05+00:00"
+    },
+    {
+      "title": "CVE-2026-61645 - Docat has Arbitrary File Upload exists in Upload API",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61645",
+      "summary": "CVE ID :CVE-2026-61645 Published : Oct. 29, 2026, 10:17 p.m. | 1 hour, 22 minutes ago Description :Docat is a tool for hosting versioned static documentation. In the affected implementation, an...",
+      "source": "CVE Feed",
+      "published": "2026-10-29T22:17:04+00:00"
+    },
+    {
+      "title": "CVE-2026-45049 - OpenAM Session Hijacking via CDSSO",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-45049",
+      "summary": "CVE ID :CVE-2026-45049 Published : Oct. 29, 2026, 10:17 p.m. | 1 hour, 22 minutes ago Description :Open Access Management (OpenAM) is an access management solution. Prior to 16.1.1, the `Cross-Domain...",
+      "source": "CVE Feed",
+      "published": "2026-10-29T22:17:02+00:00"
+    },
+    {
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana...",
+      "source": "BleepingComputer",
+      "published": "2026-10-29T22:09:24+00:00"
+    },
+    {
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-10-29T22:08:04+00:00"
+    },
+    {
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately...",
+      "source": "BleepingComputer",
+      "published": "2026-10-29T21:47:25+00:00"
+    },
+    {
+      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
+      "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.",
+      "source": "Dark Reading",
+      "published": "2026-10-29T21:21:56+00:00"
+    },
+    {
+      "title": "CVE-2026-61576 - Lightdash: Unauthenticated dbt Cloud webhook with path injection leaks API key",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61576",
+      "summary": "CVE ID :CVE-2026-61576 Published : Oct. 29, 2026, 9:17 p.m. | 2 hours, 22 minutes ago Description :Lightdash is an open source business intelligence platform. In affected versions through 0.3213.0...",
+      "source": "CVE Feed",
+      "published": "2026-10-29T21:17:27+00:00"
+    },
+    {
+      "title": "CVE-2026-13303 - Boundary vulnerable to server-side request forgery in Vault credential store",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-13303",
+      "summary": "CVE ID :CVE-2026-13303 Published : Oct. 29, 2026, 9:17 p.m. | 2 hours, 22 minutes ago Description :HashiCorp Boundary and Boundary Enterprise are vulnerable to a server-side request forgery in the...",
+      "source": "CVE Feed",
+      "published": "2026-10-29T21:17:22+00:00"
+    },
+    {
+      "title": "Rethinking Cybersecurity Awareness in the AI Era",
+      "link": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
+      "summary": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation...",
+      "source": "Dark Reading",
+      "published": "2026-10-29T20:15:37+00:00"
+    },
     {
       "title": "Limited reports of PHP bug exploitation emerge",
       "link": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
@@ -25,29 +158,29 @@
     {
       "title": "CVE-2026-9535 - VTK ChacoReader Out-of-Bounds Read",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-9535",
-      "summary": "CVE ID :CVE-2026-9535 Published : Oct. 29, 2026, 7:17 p.m. | 18 minutes ago Description :A out-of-bounds read vulnerability exists in the vtkChacoReader InputGraph2 functionality of vtk (version(s)...",
+      "summary": "CVE ID :CVE-2026-9535 Published : Oct. 29, 2026, 7:17 p.m. | 4 hours, 22 minutes ago Description :A out-of-bounds read vulnerability exists in the vtkChacoReader InputGraph2 functionality of vtk...",
       "source": "CVE Feed",
       "published": "2026-10-29T19:17:29+00:00"
     },
     {
       "title": "CVE-2026-119168 - Nomad allocation data migration may allow host directory permission modification via symlink following",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-119168",
-      "summary": "CVE ID :CVE-2026-119168 Published : Oct. 29, 2026, 7:17 p.m. | 18 minutes ago Description :HashiCorp Nomad and Nomad Enterprise are vulnerable to symlink following during same-client allocation data...",
+      "summary": "CVE ID :CVE-2026-119168 Published : Oct. 29, 2026, 7:17 p.m. | 4 hours, 22 minutes ago Description :HashiCorp Nomad and Nomad Enterprise are vulnerable to symlink following during same-client...",
       "source": "CVE Feed",
       "published": "2026-10-29T19:17:21+00:00"
     },
     {
       "title": "CVE-2026-103093 - Sandbox Escape via Table Rotation in ServiceNow AI Platform",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-103093",
-      "summary": "CVE ID :CVE-2026-103093 Published : Oct. 29, 2026, 7:17 p.m. | 18 minutes ago Description :ServiceNow has remediated a sandbox escape security issue that was identified in the ServiceNow AI Platform...",
+      "summary": "CVE ID :CVE-2026-103093 Published : Oct. 29, 2026, 7:17 p.m. | 4 hours, 22 minutes ago Description :ServiceNow has remediated a sandbox escape security issue that was identified in the ServiceNow AI...",
       "source": "CVE Feed",
       "published": "2026-10-29T19:17:15+00:00"
     },
     {
       "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
       "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't...",
-      "source": "The Hacker News",
+      "summary": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories Some attacks take real skill. Others just need someone to leave a door open. This week has...",
+      "source": "CVE Newsroom",
       "published": "2026-10-29T19:11:58+00:00"
     },
     {
@@ -60,49 +193,56 @@
     {
       "title": "CVE-2026-118769 - Botan: Integer overflow when reporting block size in FFI can cause memory corruption",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-118769",
-      "summary": "CVE ID :CVE-2026-118769 Published : Oct. 29, 2026, 6:17 p.m. | 1 hour, 18 minutes ago Description :Botan is a C++ cryptography library. From 2.1.0 until 3.13.0, the Botan C API function...",
+      "summary": "CVE ID :CVE-2026-118769 Published : Oct. 29, 2026, 6:17 p.m. | 5 hours, 22 minutes ago Description :Botan is a C++ cryptography library. From 2.1.0 until 3.13.0, the Botan C API function...",
       "source": "CVE Feed",
       "published": "2026-10-29T18:17:29+00:00"
     },
     {
       "title": "CVE-2026-107347 - Nomad dispatch payload writes can escape the allocation directory through symlinks",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-107347",
-      "summary": "CVE ID :CVE-2026-107347 Published : Oct. 29, 2026, 6:17 p.m. | 1 hour, 18 minutes ago Description :HashiCorp Nomad and Nomad Enterprise are vulnerable to symlink following during dispatch payload and...",
+      "summary": "CVE ID :CVE-2026-107347 Published : Oct. 29, 2026, 6:17 p.m. | 5 hours, 22 minutes ago Description :HashiCorp Nomad and Nomad Enterprise are vulnerable to symlink following during dispatch payload...",
       "source": "CVE Feed",
       "published": "2026-10-29T18:17:21+00:00"
     },
     {
       "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
       "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
-      "summary": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.",
-      "source": "Dark Reading",
+      "summary": "Claude Model Builds Exploits Across Major Browsers & OSes Source: Algi Febri Sugita via ShutterstockAn unreleased version of Claude identified critical vulnerabilities in some of the world's most...",
+      "source": "CVE Newsroom",
       "published": "2026-10-29T18:15:59+00:00"
     },
     {
       "title": "CVE-2026-119115 - Incorrect authorization in issuer resolution in AWS Private CA Connector for Kubernetes",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-119115",
-      "summary": "CVE ID :CVE-2026-119115 Published : Oct. 29, 2026, 5:18 p.m. | 2 hours, 17 minutes ago Description :Incorrect authorization in the issuer resolution logic in AWS Private CA Connector for Kubernetes...",
+      "summary": "CVE ID :CVE-2026-119115 Published : Oct. 29, 2026, 5:18 p.m. | 6 hours, 21 minutes ago Description :Incorrect authorization in the issuer resolution logic in AWS Private CA Connector for Kubernetes...",
       "source": "CVE Feed",
       "published": "2026-10-29T17:18:07+00:00"
     },
     {
       "title": "CVE-2026-118764 - minimatch: potential denial of service via globparts amplification",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-118764",
-      "summary": "CVE ID :CVE-2026-118764 Published : Oct. 29, 2026, 5:18 p.m. | 2 hours, 17 minutes ago Description :minimatch is a minimal matching utility for converting glob expressions into JavaScript RegExp...",
+      "summary": "CVE ID :CVE-2026-118764 Published : Oct. 29, 2026, 5:18 p.m. | 6 hours, 21 minutes ago Description :minimatch is a minimal matching utility for converting glob expressions into JavaScript RegExp...",
       "source": "CVE Feed",
       "published": "2026-10-29T17:18:07+00:00"
     },
     {
       "title": "CVE-2026-118762 - Monkeytype: fork PR can execute code with elevated GITHUB_TOKEN",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-118762",
-      "summary": "CVE ID :CVE-2026-118762 Published : Oct. 29, 2026, 5:18 p.m. | 2 hours, 17 minutes ago Description :Monkeytype is a minimalistic and customizable typing test. Prior to 26.43.0, the...",
+      "summary": "CVE ID :CVE-2026-118762 Published : Oct. 29, 2026, 5:18 p.m. | 6 hours, 21 minutes ago Description :Monkeytype is a minimalistic and customizable typing test. Prior to 26.43.0, the...",
       "source": "CVE Feed",
       "published": "2026-10-29T17:18:07+00:00"
     },
     {
+      "title": "CVE-2026-107058 - Shelter Binder Service and Preference State Authorization Bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-107058",
+      "summary": "CVE ID :CVE-2026-107058 Published : Oct. 29, 2026, 5:17 p.m. | 6 hours, 21 minutes ago Description :An issue in Shelter versionCode 445 allows attackers to register their own auth_key and execute a...",
+      "source": "CVE Feed",
+      "published": "2026-10-29T17:17:58+00:00"
+    },
+    {
       "title": "CVE-2023-7357 - FlexNet Publisher lmadmin Rogue Vendor Daemon Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2023-7357",
-      "summary": "CVE ID :CVE-2023-7357 Published : Oct. 29, 2026, 5:17 p.m. | 2 hours, 18 minutes ago Description :A remote code execution (RCE) vulnerability was identified in the FlexNet Publisher lmadmin web user...",
+      "summary": "CVE ID :CVE-2023-7357 Published : Oct. 29, 2026, 5:17 p.m. | 6 hours, 21 minutes ago Description :A remote code execution (RCE) vulnerability was identified in the FlexNet Publisher lmadmin web user...",
       "source": "CVE Feed",
       "published": "2026-10-29T17:17:54+00:00"
     },
@@ -116,114 +256,23 @@
     {
       "title": "CVE-2026-96203 - Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-96203",
-      "summary": "CVE ID :CVE-2026-96203 Published : Oct. 29, 2026, 4:20 p.m. | 3 hours, 15 minutes ago Description :Use after free in Microsoft Edge (Chromium-based) allows an unauthorized attacker to elevate...",
+      "summary": "CVE ID :CVE-2026-96203 Published : Oct. 29, 2026, 4:20 p.m. | 7 hours, 19 minutes ago Description :Use after free in Microsoft Edge (Chromium-based) allows an unauthorized attacker to elevate...",
       "source": "CVE Feed",
       "published": "2026-10-29T16:20:09+00:00"
     },
     {
       "title": "CVE-2026-96199 - Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-96199",
-      "summary": "CVE ID :CVE-2026-96199 Published : Oct. 29, 2026, 4:20 p.m. | 3 hours, 15 minutes ago Description :Heap-based buffer overflow in Microsoft Edge (Chromium-based) allows an unauthorized attacker to...",
+      "summary": "CVE ID :CVE-2026-96199 Published : Oct. 29, 2026, 4:20 p.m. | 7 hours, 19 minutes ago Description :Heap-based buffer overflow in Microsoft Edge (Chromium-based) allows an unauthorized attacker to...",
       "source": "CVE Feed",
       "published": "2026-10-29T16:20:08+00:00"
     },
     {
       "title": "CVE-2026-96198 - Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-96198",
-      "summary": "CVE ID :CVE-2026-96198 Published : Oct. 29, 2026, 4:20 p.m. | 3 hours, 15 minutes ago Description :Heap-based buffer overflow in Microsoft Edge (Chromium-based) allows an unauthorized attacker to...",
+      "summary": "CVE ID :CVE-2026-96198 Published : Oct. 29, 2026, 4:20 p.m. | 7 hours, 19 minutes ago Description :Heap-based buffer overflow in Microsoft Edge (Chromium-based) allows an unauthorized attacker to...",
       "source": "CVE Feed",
       "published": "2026-10-29T16:20:08+00:00"
-    },
-    {
-      "title": "CVE-2026-96196 - Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-96196",
-      "summary": "CVE ID :CVE-2026-96196 Published : Oct. 29, 2026, 4:20 p.m. | 3 hours, 15 minutes ago Description :Incomplete list of disallowed inputs in Microsoft Edge (Chromium-based) allows an unauthorized...",
-      "source": "CVE Feed",
-      "published": "2026-10-29T16:20:08+00:00"
-    },
-    {
-      "title": "CVE-2026-96192 - Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-96192",
-      "summary": "CVE ID :CVE-2026-96192 Published : Oct. 29, 2026, 4:20 p.m. | 3 hours, 15 minutes ago Description :Use after free in Microsoft Edge for iOS allows an unauthorized attacker to execute code over a...",
-      "source": "CVE Feed",
-      "published": "2026-10-29T16:20:08+00:00"
-    },
-    {
-      "title": "CVE-2026-93680 - Langflow OSS is affected by multiple vulnerabilities",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-93680",
-      "summary": "CVE ID :CVE-2026-93680 Published : Oct. 29, 2026, 4:20 p.m. | 3 hours, 15 minutes ago Description :IBM Langflow OSS 1.0.0 through 1.12.8 could allow a remote attacker to bypass security restrictions...",
-      "source": "CVE Feed",
-      "published": "2026-10-29T16:20:06+00:00"
-    },
-    {
-      "title": "CVE-2026-93570 - XML External Entity injection in Szafir and Szafir Weryfikująca",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-93570",
-      "summary": "CVE ID :CVE-2026-93570 Published : Oct. 29, 2026, 4:20 p.m. | 3 hours, 15 minutes ago Description :Szafir and Szafir Weryfikująca are vulnerable to XML External Entity (XXE) injection. When a user...",
-      "source": "CVE Feed",
-      "published": "2026-10-29T16:20:05+00:00"
-    },
-    {
-      "title": "CVE-2026-90868 - OS Command Injection in Progress WS_FTP Server",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-90868",
-      "summary": "CVE ID :CVE-2026-90868 Published : Oct. 29, 2026, 4:20 p.m. | 3 hours, 15 minutes ago Description :An OS command injection vulnerability in Progress Software WS_FTP Server versions prior to 2024.0.7...",
-      "source": "CVE Feed",
-      "published": "2026-10-29T16:20:04+00:00"
-    },
-    {
-      "title": "CVE-2026-90867 - Improper Access Control of Web Admin Console in Progress WS_FTP Server",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-90867",
-      "summary": "CVE ID :CVE-2026-90867 Published : Oct. 29, 2026, 4:20 p.m. | 3 hours, 15 minutes ago Description :Improper access control in the Web Admin console of Progress Software WS_FTP Server versions prior...",
-      "source": "CVE Feed",
-      "published": "2026-10-29T16:20:04+00:00"
-    },
-    {
-      "title": "CVE-2026-90866 - Virtual Folder Path Confinement Bypass in Progress WS_FTP Server",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-90866",
-      "summary": "CVE ID :CVE-2026-90866 Published : Oct. 29, 2026, 4:20 p.m. | 3 hours, 15 minutes ago Description :A path traversal vulnerability in Progress Software WS_FTP Server versions prior to 2024.0.7 and...",
-      "source": "CVE Feed",
-      "published": "2026-10-29T16:20:04+00:00"
-    },
-    {
-      "title": "CVE-2026-90865 - Command Injection via FTP Notification Variables in Progress WS_FTP Server",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-90865",
-      "summary": "CVE ID :CVE-2026-90865 Published : Oct. 29, 2026, 4:20 p.m. | 3 hours, 15 minutes ago Description :An OS command injection vulnerability in Progress Software WS_FTP Server versions prior to 2024.0.7...",
-      "source": "CVE Feed",
-      "published": "2026-10-29T16:20:04+00:00"
-    },
-    {
-      "title": "CVE-2026-90864 - Host Administrator Path Containment Bypass in Progress WS_FTP Server",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-90864",
-      "summary": "CVE ID :CVE-2026-90864 Published : Oct. 29, 2026, 4:20 p.m. | 3 hours, 15 minutes ago Description :A path traversal vulnerability in Progress Software WS_FTP Server versions prior to 2024.0.7 and...",
-      "source": "CVE Feed",
-      "published": "2026-10-29T16:20:04+00:00"
-    },
-    {
-      "title": "CVE-2026-90863 - Privilege Escalation via Missing Authorization in WS_FTP Manager",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-90863",
-      "summary": "CVE ID :CVE-2026-90863 Published : Oct. 29, 2026, 4:20 p.m. | 3 hours, 15 minutes ago Description :Missing authorization in the administrative interface of Progress Software WS_FTP Server versions...",
-      "source": "CVE Feed",
-      "published": "2026-10-29T16:20:04+00:00"
-    },
-    {
-      "title": "CVE-2026-88077 - Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-88077",
-      "summary": "CVE ID :CVE-2026-88077 Published : Oct. 29, 2026, 4:19 p.m. | 3 hours, 16 minutes ago Description :Integer overflow or wraparound in Microsoft Edge (Chromium-based) allows an unauthorized attacker to...",
-      "source": "CVE Feed",
-      "published": "2026-10-29T16:19:52+00:00"
-    },
-    {
-      "title": "CVE-2026-85899 - Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-85899",
-      "summary": "CVE ID :CVE-2026-85899 Published : Oct. 29, 2026, 4:19 p.m. | 3 hours, 16 minutes ago Description :Use after free in Microsoft Edge (Chromium-based) allows an authorized attacker to elevate...",
-      "source": "CVE Feed",
-      "published": "2026-10-29T16:19:45+00:00"
-    },
-    {
-      "title": "CVE-2026-85897 - Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-85897",
-      "summary": "CVE ID :CVE-2026-85897 Published : Oct. 29, 2026, 4:19 p.m. | 3 hours, 16 minutes ago Description :Heap-based buffer overflow in Microsoft Edge (Chromium-based) allows an unauthorized attacker to...",
-      "source": "CVE Feed",
-      "published": "2026-10-29T16:19:45+00:00"
     },
     {
       "title": "Federal bankruptcy courts contractor says no data stolen during cyber intrusion",
@@ -527,13 +576,6 @@
       "published": "2026-10-28T17:08:09+00:00"
     },
     {
-      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-      "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-      "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-28T16:45:47+00:00"
-    },
-    {
       "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
       "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
       "summary": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows...",
@@ -555,25 +597,11 @@
       "published": "2026-10-28T16:02:45+00:00"
     },
     {
-      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-      "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-      "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting...",
-      "source": "BleepingComputer",
-      "published": "2026-10-28T16:00:00+00:00"
-    },
-    {
       "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
       "summary": "Artificial intelligence (AI) is everywhere in healthcare, from doctors’ intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
       "source": "Dark Reading",
       "published": "2026-10-28T15:29:06+00:00"
-    },
-    {
-      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-      "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-28T14:48:32+00:00"
     },
     {
       "title": "Google Chrome Patches Four Critical Vulnerabilities in Major Security Update",
@@ -588,20 +616,6 @@
       "summary": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.",
       "source": "Dark Reading",
       "published": "2026-10-28T14:37:52+00:00"
-    },
-    {
-      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-      "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery...",
-      "source": "BleepingComputer",
-      "published": "2026-10-28T14:00:00+00:00"
-    },
-    {
-      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-      "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-      "summary": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API...",
-      "source": "BleepingComputer",
-      "published": "2026-10-28T13:50:59+00:00"
     },
     {
       "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
@@ -690,8 +704,8 @@
     {
       "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
       "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-      "summary": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities...",
-      "source": "CVE Newsroom",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited...",
+      "source": "The Hacker News",
       "published": "2026-10-28T05:42:26+00:00"
     },
     {
@@ -707,13 +721,6 @@
       "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
       "source": "Dark Reading",
       "published": "2026-10-27T20:42:40+00:00"
-    },
-    {
-      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-      "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "summary": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth BREAKING THE CHAIN OF TRUST Critical flaw in EDK2 allows attackers to execute code early in the boot process. Credit: Getty...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-27T20:25:55+00:00"
     },
     {
       "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
@@ -1141,20 +1148,6 @@
       "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
       "source": "Dark Reading",
       "published": "2026-10-16T20:34:37+00:00"
-    },
-    {
-      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
-      "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
-      "summary": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
-      "source": "Dark Reading",
-      "published": "2026-10-16T19:49:30+00:00"
-    },
-    {
-      "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
-      "link": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
-      "summary": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.",
-      "source": "Dark Reading",
-      "published": "2026-10-16T19:22:12+00:00"
     },
     {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
