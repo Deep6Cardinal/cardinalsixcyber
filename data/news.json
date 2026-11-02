@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-11-01T21:30:09.053261+00:00",
+  "last_updated": "2026-11-02T01:07:42.282034+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-120277 - WAVLINK WN536AX6-A WireGuard CLI Group ioos sub_41a1d8 os command injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120277",
+      "summary": "CVE ID :CVE-2026-120277 Published : Nov. 2, 2026, 12:18 a.m. | 48 minutes ago Description :A security vulnerability has been detected in WAVLINK WN536AX6-A V260507_2.0.0. This issue affects the...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T00:18:10+00:00"
+    },
+    {
+      "title": "CVE-2026-120276 - WAVLINK WN536AX6-A Web Management ioos sub_416760 os command injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120276",
+      "summary": "CVE ID :CVE-2026-120276 Published : Nov. 2, 2026, 12:18 a.m. | 48 minutes ago Description :A weakness has been identified in WAVLINK WN536AX6-A V260507_2.0.0. This vulnerability affects the function...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T00:18:09+00:00"
+    },
+    {
+      "title": "CVE-2026-84170 - Apache Wicket: Configured upload limits are not enforced by the standalone file upload resource",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-84170",
+      "summary": "CVE ID :CVE-2026-84170 Published : Nov. 1, 2026, 11:17 p.m. | 1 hour, 49 minutes ago Description :Allocation of resources without limits or throttling in Apache Wicket...",
+      "source": "CVE Feed",
+      "published": "2026-11-01T23:17:29+00:00"
+    },
+    {
+      "title": "CVE-2026-83594 - Apache Wicket: FileUploadToResourceField accepts a client-asserted upload result and allocates the size it names",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-83594",
+      "summary": "CVE ID :CVE-2026-83594 Published : Nov. 1, 2026, 11:17 p.m. | 1 hour, 49 minutes ago Description :Memory allocation with an excessive size value in Apache Wicket...",
+      "source": "CVE Feed",
+      "published": "2026-11-01T23:17:29+00:00"
+    },
     {
       "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
@@ -11,56 +39,56 @@
     {
       "title": "CVE-2026-120240 - WAVLINK WN553X1-B WireGuard CLI Group ioos sub_41A748 os command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120240",
-      "summary": "CVE ID :CVE-2026-120240 Published : Nov. 1, 2026, 7:16 p.m. | 1 hour, 45 minutes ago Description :A vulnerability was determined in WAVLINK WN553X1-B V260403_2.0.0. This issue affects the function...",
+      "summary": "CVE ID :CVE-2026-120240 Published : Nov. 1, 2026, 7:16 p.m. | 5 hours, 49 minutes ago Description :A vulnerability was determined in WAVLINK WN553X1-B V260403_2.0.0. This issue affects the function...",
       "source": "CVE Feed",
       "published": "2026-11-01T19:16:57+00:00"
     },
     {
       "title": "CVE-2026-120239 - WAVLINK WN553X1-B WireGuard CLI ioos sub_419DA8 os command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120239",
-      "summary": "CVE ID :CVE-2026-120239 Published : Nov. 1, 2026, 6:17 p.m. | 2 hours, 45 minutes ago Description :A vulnerability was found in WAVLINK WN553X1-B V260403_2.0.0. This vulnerability affects the...",
+      "summary": "CVE ID :CVE-2026-120239 Published : Nov. 1, 2026, 6:17 p.m. | 6 hours, 49 minutes ago Description :A vulnerability was found in WAVLINK WN553X1-B V260403_2.0.0. This vulnerability affects the...",
       "source": "CVE Feed",
       "published": "2026-11-01T18:17:13+00:00"
     },
     {
       "title": "CVE-2026-120238 - WAVLINK WN553X1-B ovpn_file ioos sub_4162A8 os command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120238",
-      "summary": "CVE ID :CVE-2026-120238 Published : Nov. 1, 2026, 6:17 p.m. | 2 hours, 45 minutes ago Description :A vulnerability has been found in WAVLINK WN553X1-B 260403_2.0.0. This affects the function...",
+      "summary": "CVE ID :CVE-2026-120238 Published : Nov. 1, 2026, 6:17 p.m. | 6 hours, 49 minutes ago Description :A vulnerability has been found in WAVLINK WN553X1-B 260403_2.0.0. This affects the function...",
       "source": "CVE Feed",
       "published": "2026-11-01T18:17:13+00:00"
     },
     {
       "title": "CVE-2026-62048 - WordPress BookIt plugin <= 2.6.0.6 - SQL Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-62048",
-      "summary": "CVE ID :CVE-2026-62048 Published : Nov. 1, 2026, 4:18 p.m. | 4 hours, 44 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in...",
+      "summary": "CVE ID :CVE-2026-62048 Published : Nov. 1, 2026, 4:18 p.m. | 8 hours, 48 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in...",
       "source": "CVE Feed",
       "published": "2026-11-01T16:18:15+00:00"
     },
     {
       "title": "CVE-2026-120338 - Prefab UI Pyodide sandbox escape to host RCE",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120338",
-      "summary": "CVE ID :CVE-2026-120338 Published : Nov. 1, 2026, 4:18 p.m. | 4 hours, 44 minutes ago Description :Prefab UI's Generative UI sandbox runs caller-supplied Python inside Pyodide, Python compiled to...",
+      "summary": "CVE ID :CVE-2026-120338 Published : Nov. 1, 2026, 4:18 p.m. | 8 hours, 48 minutes ago Description :Prefab UI's Generative UI sandbox runs caller-supplied Python inside Pyodide, Python compiled to...",
       "source": "CVE Feed",
       "published": "2026-11-01T16:18:14+00:00"
     },
     {
       "title": "CVE-2026-120232 - Horizon DataSys Reboot Restore Standard Kernel Driver shield.sys sub_23908 memory corruption",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120232",
-      "summary": "CVE ID :CVE-2026-120232 Published : Nov. 1, 2026, 3:17 p.m. | 5 hours, 44 minutes ago Description :A vulnerability was identified in Horizon DataSys Reboot Restore Standard up to 13.2. The impacted...",
+      "summary": "CVE ID :CVE-2026-120232 Published : Nov. 1, 2026, 3:17 p.m. | 9 hours, 49 minutes ago Description :A vulnerability was identified in Horizon DataSys Reboot Restore Standard up to 13.2. The impacted...",
       "source": "CVE Feed",
       "published": "2026-11-01T15:17:23+00:00"
     },
     {
       "title": "CVE-2026-120231 - WAVLINK WN553X1-B OpenVPN CLI ioos sub_416568 os command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120231",
-      "summary": "CVE ID :CVE-2026-120231 Published : Nov. 1, 2026, 3:17 p.m. | 5 hours, 44 minutes ago Description :A vulnerability was determined in WAVLINK WN553X1-B V260403_2.0.0. The affected element is the...",
+      "summary": "CVE ID :CVE-2026-120231 Published : Nov. 1, 2026, 3:17 p.m. | 9 hours, 49 minutes ago Description :A vulnerability was determined in WAVLINK WN553X1-B V260403_2.0.0. The affected element is the...",
       "source": "CVE Feed",
       "published": "2026-11-01T15:17:23+00:00"
     },
     {
       "title": "CVE-2026-120230 - WAVLINK WN701AE ioos Web Backend del_vlan_group os command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120230",
-      "summary": "CVE ID :CVE-2026-120230 Published : Nov. 1, 2026, 3:17 p.m. | 5 hours, 44 minutes ago Description :A vulnerability was found in WAVLINK WN701AE 260105. Impacted is the function del_vlan_group of the...",
+      "summary": "CVE ID :CVE-2026-120230 Published : Nov. 1, 2026, 3:17 p.m. | 9 hours, 49 minutes ago Description :A vulnerability was found in WAVLINK WN701AE 260105. Impacted is the function del_vlan_group of the...",
       "source": "CVE Feed",
       "published": "2026-11-01T15:17:22+00:00"
     },
@@ -74,14 +102,14 @@
     {
       "title": "CVE-2026-120229 - WAVLINK WN553X1-B ioos sub_416B50 os command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120229",
-      "summary": "CVE ID :CVE-2026-120229 Published : Nov. 1, 2026, 2:18 p.m. | 6 hours, 43 minutes ago Description :A vulnerability has been found in WAVLINK WN553X1-B 260403_2.0.0. This issue affects the function...",
+      "summary": "CVE ID :CVE-2026-120229 Published : Nov. 1, 2026, 2:18 p.m. | 10 hours, 47 minutes ago Description :A vulnerability has been found in WAVLINK WN553X1-B 260403_2.0.0. This issue affects the function...",
       "source": "CVE Feed",
       "published": "2026-11-01T14:18:53+00:00"
     },
     {
       "title": "CVE-2026-120228 - WAVLINK WN553X1-B ioos Service sub_416D88 os command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120228",
-      "summary": "CVE ID :CVE-2026-120228 Published : Nov. 1, 2026, 2:18 p.m. | 6 hours, 43 minutes ago Description :A flaw has been found in WAVLINK WN553X1-B V260403_2.0.0. This vulnerability affects the function...",
+      "summary": "CVE ID :CVE-2026-120228 Published : Nov. 1, 2026, 2:18 p.m. | 10 hours, 47 minutes ago Description :A flaw has been found in WAVLINK WN553X1-B V260403_2.0.0. This vulnerability affects the function...",
       "source": "CVE Feed",
       "published": "2026-11-01T14:18:52+00:00"
     },
@@ -95,42 +123,42 @@
     {
       "title": "CVE-2026-120308 - Beta9 host filesystem exposure via volume path traversal",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120308",
-      "summary": "CVE ID :CVE-2026-120308 Published : Nov. 1, 2026, 1:18 p.m. | 7 hours, 44 minutes ago Description :A Beta9 tenant can attach a volume when deploying a function, endpoint, or task queue. The gateway...",
+      "summary": "CVE ID :CVE-2026-120308 Published : Nov. 1, 2026, 1:18 p.m. | 11 hours, 48 minutes ago Description :A Beta9 tenant can attach a volume when deploying a function, endpoint, or task queue. The gateway...",
       "source": "CVE Feed",
       "published": "2026-11-01T13:18:01+00:00"
     },
     {
       "title": "CVE-2026-120307 - Beta9 container escape via unvalidated sandbox file paths",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120307",
-      "summary": "CVE ID :CVE-2026-120307 Published : Nov. 1, 2026, 1:18 p.m. | 7 hours, 44 minutes ago Description :The Beta9 worker serves the sandbox file API from outside the container...",
+      "summary": "CVE ID :CVE-2026-120307 Published : Nov. 1, 2026, 1:18 p.m. | 11 hours, 48 minutes ago Description :The Beta9 worker serves the sandbox file API from outside the container...",
       "source": "CVE Feed",
       "published": "2026-11-01T13:18:01+00:00"
     },
     {
       "title": "CVE-2026-120306 - Beta9 build sandbox escape via chroot-only isolation",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120306",
-      "summary": "CVE ID :CVE-2026-120306 Published : Nov. 1, 2026, 1:18 p.m. | 7 hours, 44 minutes ago Description :Beta9 turns each shell command in a tenant image definition into a Dockerfile RUN line and executes...",
+      "summary": "CVE ID :CVE-2026-120306 Published : Nov. 1, 2026, 1:18 p.m. | 11 hours, 48 minutes ago Description :Beta9 turns each shell command in a tenant image definition into a Dockerfile RUN line and executes...",
       "source": "CVE Feed",
       "published": "2026-11-01T13:18:01+00:00"
     },
     {
       "title": "CVE-2026-120227 - WAVLINK WN701AE ioos Web Backend static_route_setting.sh del_staticrule os command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120227",
-      "summary": "CVE ID :CVE-2026-120227 Published : Nov. 1, 2026, 1:18 p.m. | 7 hours, 44 minutes ago Description :A vulnerability was detected in WAVLINK WN701AE M01AE_V260105. This affects the function...",
+      "summary": "CVE ID :CVE-2026-120227 Published : Nov. 1, 2026, 1:18 p.m. | 11 hours, 48 minutes ago Description :A vulnerability was detected in WAVLINK WN701AE M01AE_V260105. This affects the function...",
       "source": "CVE Feed",
       "published": "2026-11-01T13:18:00+00:00"
     },
     {
       "title": "CVE-2026-120225 - Oray Pugongying X5 Pro openwrt_release config_restore_ex path traversal",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120225",
-      "summary": "CVE ID :CVE-2026-120225 Published : Nov. 1, 2026, 11:18 a.m. | 9 hours, 43 minutes ago Description :A weakness has been identified in Oray Pugongying X5 Pro up to 7.6.1. Affected by this...",
+      "summary": "CVE ID :CVE-2026-120225 Published : Nov. 1, 2026, 11:18 a.m. | 13 hours, 47 minutes ago Description :A weakness has been identified in Oray Pugongying X5 Pro up to 7.6.1. Affected by this...",
       "source": "CVE Feed",
       "published": "2026-11-01T11:18:57+00:00"
     },
     {
       "title": "CVE-2026-120224 - Oray Pugongying X5 Pro API Authorization run_async_task improper authorization",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120224",
-      "summary": "CVE ID :CVE-2026-120224 Published : Nov. 1, 2026, 11:18 a.m. | 9 hours, 43 minutes ago Description :A security flaw has been discovered in Oray Pugongying X5 Pro up to 7.6.1. Affected is the function...",
+      "summary": "CVE ID :CVE-2026-120224 Published : Nov. 1, 2026, 11:18 a.m. | 13 hours, 47 minutes ago Description :A security flaw has been discovered in Oray Pugongying X5 Pro up to 7.6.1. Affected is the...",
       "source": "CVE Feed",
       "published": "2026-11-01T11:18:57+00:00"
     },
@@ -172,65 +200,37 @@
     {
       "title": "CVE-2026-120198 - WAVLINK WL-WN530BE1-A protocol.csp con_check_read_finish command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120198",
-      "summary": "CVE ID :CVE-2026-120198 Published : Nov. 1, 2026, 5:18 a.m. | 15 hours, 43 minutes ago Description :A vulnerability has been found in WAVLINK WL-WN530BE1-A V251117. Affected is the function...",
+      "summary": "CVE ID :CVE-2026-120198 Published : Nov. 1, 2026, 5:18 a.m. | 19 hours, 47 minutes ago Description :A vulnerability has been found in WAVLINK WL-WN530BE1-A V251117. Affected is the function...",
       "source": "CVE Feed",
       "published": "2026-11-01T05:18:57+00:00"
     },
     {
       "title": "CVE-2026-120197 - WAVLINK WL-WN530HG4B wapi.cgi port_forward os command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120197",
-      "summary": "CVE ID :CVE-2026-120197 Published : Nov. 1, 2026, 4:18 a.m. | 16 hours, 43 minutes ago Description :A flaw has been found in WAVLINK WL-WN530HG4B M_V260724. This impacts the function port_forward of...",
+      "summary": "CVE ID :CVE-2026-120197 Published : Nov. 1, 2026, 4:18 a.m. | 20 hours, 47 minutes ago Description :A flaw has been found in WAVLINK WL-WN530HG4B M_V260724. This impacts the function port_forward of...",
       "source": "CVE Feed",
       "published": "2026-11-01T04:18:47+00:00"
     },
     {
       "title": "CVE-2026-120196 - WAVLINK WN579X3-D wapi.cgi port_forward os command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120196",
-      "summary": "CVE ID :CVE-2026-120196 Published : Nov. 1, 2026, 4:18 a.m. | 16 hours, 43 minutes ago Description :A vulnerability was detected in WAVLINK WN579X3-D V250402. This affects the function port_forward...",
+      "summary": "CVE ID :CVE-2026-120196 Published : Nov. 1, 2026, 4:18 a.m. | 20 hours, 47 minutes ago Description :A vulnerability was detected in WAVLINK WN579X3-D V250402. This affects the function port_forward...",
       "source": "CVE Feed",
       "published": "2026-11-01T04:18:46+00:00"
     },
     {
       "title": "CVE-2026-120195 - WAVLINK WL-WN579A3-A Initial Setup Wizard adm.cgi set_wzdgwMesh os command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120195",
-      "summary": "CVE ID :CVE-2026-120195 Published : Nov. 1, 2026, 4:18 a.m. | 16 hours, 43 minutes ago Description :A security vulnerability has been detected in WAVLINK WL-WN579A3-A 2026-03-10-94f93d4. The impacted...",
+      "summary": "CVE ID :CVE-2026-120195 Published : Nov. 1, 2026, 4:18 a.m. | 20 hours, 47 minutes ago Description :A security vulnerability has been detected in WAVLINK WL-WN579A3-A 2026-03-10-94f93d4. The impacted...",
       "source": "CVE Feed",
       "published": "2026-11-01T04:18:46+00:00"
     },
     {
       "title": "CVE-2026-120189 - D-Link DIR-505 TFTP Upload Filename tftpd mp_upload_file stack-based overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120189",
-      "summary": "CVE ID :CVE-2026-120189 Published : Nov. 1, 2026, 1:17 a.m. | 19 hours, 45 minutes ago Description :A vulnerability was identified in D-Link DIR-505 1.10B02. Affected is the function...",
+      "summary": "CVE ID :CVE-2026-120189 Published : Nov. 1, 2026, 1:17 a.m. | 23 hours, 49 minutes ago Description :A vulnerability was identified in D-Link DIR-505 1.10B02. Affected is the function...",
       "source": "CVE Feed",
       "published": "2026-11-01T01:17:16+00:00"
-    },
-    {
-      "title": "CVE-2026-120135 - Apache Thrift: Java TProtocolUtil.skip() does not limit the recursion depth by default",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120135",
-      "summary": "CVE ID :CVE-2026-120135 Published : Oct. 31, 2026, 9:16 p.m. | 23 hours, 45 minutes ago Description :Uncontrolled Recursion vulnerability in Apache Thrift Java bindings. This issue affects Apache...",
-      "source": "CVE Feed",
-      "published": "2026-10-31T21:16:53+00:00"
-    },
-    {
-      "title": "CVE-2026-118636 - Apache MINA: Unsafe Deserialization (CWE-502) in JavaNativeMessageDecoder",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118636",
-      "summary": "CVE ID :CVE-2026-118636 Published : Oct. 31, 2026, 9:16 p.m. | 23 hours, 45 minutes ago Description :**UNSUPPORTED WHEN ASSIGNED** JavaNativeMessageDecoder in the MINA 3.0 codec module calls...",
-      "source": "CVE Feed",
-      "published": "2026-10-31T21:16:53+00:00"
-    },
-    {
-      "title": "CVE-2026-120209 - AJ-Report through 1.7.1 Authentication Bypass leading to RCE via Share-Token",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120209",
-      "summary": "CVE ID :CVE-2026-120209 Published : Oct. 31, 2026, 6:17 p.m. | 1 day, 2 hours ago Description :AJ-Report through 1.7.1 signs share tokens with a hard-coded JWT secret, allowing attackers to forge...",
-      "source": "CVE Feed",
-      "published": "2026-10-31T18:17:09+00:00"
-    },
-    {
-      "title": "CVE-2026-120205 - Thelia before 3.1.0 Stored XSS via Coupon Condition Customer Name",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120205",
-      "summary": "CVE ID :CVE-2026-120205 Published : Oct. 31, 2026, 6:17 p.m. | 1 day, 2 hours ago Description :Thelia before 3.1.0 contains a stored cross-site scripting vulnerability in...",
-      "source": "CVE Feed",
-      "published": "2026-10-31T18:17:08+00:00"
     },
     {
       "title": "Northflank security breach leads to abuse of customers' AI API keys",
