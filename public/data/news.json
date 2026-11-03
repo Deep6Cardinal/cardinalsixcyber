@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-11-03T01:55:14.743045+00:00",
+  "last_updated": "2026-11-03T08:51:16.600568+00:00",
   "articles": [
+    {
+      "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
+      "link": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
+      "summary": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training. The post NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber...",
+      "source": "SecurityWeek",
+      "published": "2026-11-03T08:49:03+00:00"
+    },
+    {
+      "title": "Over 100 European Stores Hit as Supermarket Fridge Attacks Return",
+      "link": "https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/",
+      "summary": "Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond. The post Over 100 European Stores Hit as Supermarket Fridge...",
+      "source": "SecurityWeek",
+      "published": "2026-11-03T07:43:24+00:00"
+    },
+    {
+      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+      "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+      "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed...",
+      "source": "The Hacker News",
+      "published": "2026-11-03T07:43:07+00:00"
+    },
+    {
+      "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+      "link": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+      "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and...",
+      "source": "The Hacker News",
+      "published": "2026-11-03T07:27:07+00:00"
+    },
+    {
+      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "summary": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-03T05:34:41+00:00"
+    },
+    {
+      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+      "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+      "summary": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-03T05:34:37+00:00"
+    },
+    {
+      "title": "CVE-2026-120577 - FluentCart A New Era of eCommerce <= 1.6.2 - Authenticated (Custom+) Arbitrary File Deletion via 'file_path' Parameter",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120577",
+      "summary": "CVE ID :CVE-2026-120577 Published : Nov. 3, 2026, 5:18 a.m. | 1 hour, 47 minutes ago Description :The FluentCart A New Era of eCommerce – Faster, Lighter, and Simpler plugin for WordPress is...",
+      "source": "CVE Feed",
+      "published": "2026-11-03T05:18:34+00:00"
+    },
+    {
+      "title": "CVE-2026-120574 - SureCart – Ecommerce Made Easy For Selling Physical Products, Digital Downloads, Subscriptions, Donations, & Payments <= 4.9.5 - Unauthenticated Account Takeover",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120574",
+      "summary": "CVE ID :CVE-2026-120574 Published : Nov. 3, 2026, 5:18 a.m. | 1 hour, 47 minutes ago Description :The SureCart plugin for WordPress is vulnerable to unauthenticated account takeover in all versions...",
+      "source": "CVE Feed",
+      "published": "2026-11-03T05:18:33+00:00"
+    },
+    {
+      "title": "CVE-2026-120538 - Easy Digital Downloads <= 3.7.2 - Unauthenticated Authentication Bypass to Administrator Account Takeover via Guest Checkout Email Binding at PayPal Capture",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120538",
+      "summary": "CVE ID :CVE-2026-120538 Published : Nov. 3, 2026, 5:18 a.m. | 1 hour, 47 minutes ago Description :The Easy Digital Downloads plugin for WordPress is vulnerable to authentication bypass leading to...",
+      "source": "CVE Feed",
+      "published": "2026-11-03T05:18:32+00:00"
+    },
+    {
+      "title": "CVE-2026-120534 - Advanced Custom Fields: Extended PRO <= 0.9.2.6 - Unauthenticated Remote Code Execution via Dynamic Render Field Type",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120534",
+      "summary": "CVE ID :CVE-2026-120534 Published : Nov. 3, 2026, 5:18 a.m. | 1 hour, 47 minutes ago Description :The Advanced Custom Fields: Extended PRO plugin for WordPress is vulnerable to Limited Code Injection...",
+      "source": "CVE Feed",
+      "published": "2026-11-03T05:18:31+00:00"
+    },
+    {
+      "title": "CVE-2026-120518 - BuddyPress XProfile Image Field <= 3.1.0 - Unauthenticated Arbitrary File Deletion via Signup Image Field Activation Handler",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120518",
+      "summary": "CVE ID :CVE-2026-120518 Published : Nov. 3, 2026, 5:18 a.m. | 1 hour, 47 minutes ago Description :The BuddyPress XProfile Image Field plugin for WordPress is vulnerable to arbitrary file deletion in...",
+      "source": "CVE Feed",
+      "published": "2026-11-03T05:18:31+00:00"
+    },
+    {
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's...",
+      "source": "Krebs on Security",
+      "published": "2026-11-03T02:24:31+00:00"
+    },
+    {
+      "title": "CVE-2026-76955 - Zyxel NWA110AX Buffer Overflow Privilege Escalation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76955",
+      "summary": "CVE ID :CVE-2026-76955 Published : Nov. 3, 2026, 2:16 a.m. | 4 hours, 49 minutes ago Description :A buffer overflow vulnerability in the zdp_wtp binary in Zyxel NWA110AX firmware versions through...",
+      "source": "CVE Feed",
+      "published": "2026-11-03T02:16:53+00:00"
+    },
+    {
+      "title": "CVE-2026-107441 - Zyxel GS1900-24E CGI Program Out-of-Bounds Write Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-107441",
+      "summary": "CVE ID :CVE-2026-107441 Published : Nov. 3, 2026, 2:16 a.m. | 4 hours, 49 minutes ago Description :An out-of-bounds write vulnerability in the CGI program of Zyxel GS1900-24E firmware versions...",
+      "source": "CVE Feed",
+      "published": "2026-11-03T02:16:52+00:00"
+    },
+    {
+      "title": "CVE-2026-120833 - labbench before 0.46.1 Deserialization of Untrusted Data via read() Pickle Auto-Dispatch",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120833",
+      "summary": "CVE ID :CVE-2026-120833 Published : Nov. 3, 2026, 1:16 a.m. | 5 hours, 49 minutes ago Description :labbench before 0.46.1 contains a deserialization of untrusted data vulnerability in read() and...",
+      "source": "CVE Feed",
+      "published": "2026-11-03T01:16:52+00:00"
+    },
     {
       "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
       "link": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
@@ -11,7 +116,7 @@
     {
       "title": "CVE-2026-71450 - Johnson Controls EasyIO Neo EC and CW Edge Controller Authentication Bypass",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-71450",
-      "summary": "CVE ID :CVE-2026-71450 Published : Nov. 2, 2026, 11:17 p.m. | 1 hour, 47 minutes ago Description :Authentication bypass using an alternate path or channel vulnerability in Johnson Controls EasyIO Neo...",
+      "summary": "CVE ID :CVE-2026-71450 Published : Nov. 2, 2026, 11:17 p.m. | 7 hours, 48 minutes ago Description :Authentication bypass using an alternate path or channel vulnerability in Johnson Controls EasyIO...",
       "source": "CVE Feed",
       "published": "2026-11-02T23:17:21+00:00"
     },
@@ -25,28 +130,28 @@
     {
       "title": "CVE-2026-86596 - s2Member <= 260927 - Unauthenticated Remote Code Execution via 'item_name' IPN Parameter",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-86596",
-      "summary": "CVE ID :CVE-2026-86596 Published : Nov. 2, 2026, 10:17 p.m. | 2 hours, 47 minutes ago Description :The s2Member plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and...",
+      "summary": "CVE ID :CVE-2026-86596 Published : Nov. 2, 2026, 10:17 p.m. | 8 hours, 48 minutes ago Description :The s2Member plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and...",
       "source": "CVE Feed",
       "published": "2026-11-02T22:17:23+00:00"
     },
     {
       "title": "CVE-2026-120091 - Temporal Server Kubernetes compute provider builds a client from caller-supplied configuration and runs a caller-chosen command on the Worker Service host",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120091",
-      "summary": "CVE ID :CVE-2026-120091 Published : Nov. 2, 2026, 10:17 p.m. | 2 hours, 47 minutes ago Description :Temporal Server compiles a Worker Controller Instance module, go.temporal.io/auto-scaled-workers...",
+      "summary": "CVE ID :CVE-2026-120091 Published : Nov. 2, 2026, 10:17 p.m. | 8 hours, 48 minutes ago Description :Temporal Server compiles a Worker Controller Instance module, go.temporal.io/auto-scaled-workers...",
       "source": "CVE Feed",
       "published": "2026-11-02T22:17:20+00:00"
     },
     {
       "title": "CVE-2026-115403 - NULL pointer dereference in the BSD raw IPv6 send path when the destination table is full",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115403",
-      "summary": "CVE ID :CVE-2026-115403 Published : Nov. 2, 2026, 10:17 p.m. | 2 hours, 47 minutes ago Description :In Eclipse ThreadX NetX Duo versions 6.0 through 6.5.2.202603a, built with BSD raw socket and IPv6...",
+      "summary": "CVE ID :CVE-2026-115403 Published : Nov. 2, 2026, 10:17 p.m. | 8 hours, 48 minutes ago Description :In Eclipse ThreadX NetX Duo versions 6.0 through 6.5.2.202603a, built with BSD raw socket and IPv6...",
       "source": "CVE Feed",
       "published": "2026-11-02T22:17:18+00:00"
     },
     {
       "title": "CVE-2026-115215 - NetX Secure DTLS server allocates a session for each new source before the cookie exchange and never reclaims it, so spoofed datagrams exhaust the session pool",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115215",
-      "summary": "CVE ID :CVE-2026-115215 Published : Nov. 2, 2026, 10:17 p.m. | 2 hours, 47 minutes ago Description :In Eclipse ThreadX NetX Duo versions 6.0 through 6.5.2.202603a, the NetX Secure DTLS server...",
+      "summary": "CVE ID :CVE-2026-115215 Published : Nov. 2, 2026, 10:17 p.m. | 8 hours, 48 minutes ago Description :In Eclipse ThreadX NetX Duo versions 6.0 through 6.5.2.202603a, the NetX Secure DTLS server...",
       "source": "CVE Feed",
       "published": "2026-11-02T22:17:18+00:00"
     },
@@ -67,142 +172,86 @@
     {
       "title": "CVE-2026-58873 - WindowManagerService Permission Bypass and Local Escalation of Privilege",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-58873",
-      "summary": "CVE ID :CVE-2026-58873 Published : Nov. 2, 2026, 9:17 p.m. | 3 hours, 47 minutes ago Description :In addDragDropListener of WindowManagerService.java, there is a possible permission bypass due to a...",
+      "summary": "CVE ID :CVE-2026-58873 Published : Nov. 2, 2026, 9:17 p.m. | 9 hours, 48 minutes ago Description :In addDragDropListener of WindowManagerService.java, there is a possible permission bypass due to a...",
       "source": "CVE Feed",
       "published": "2026-11-02T21:17:35+00:00"
     },
     {
       "title": "CVE-2026-29508 - ReadyMedia 1.3.0 - 1.3.3 Stack Buffer Overflow via DFF Parser",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-29508",
-      "summary": "CVE ID :CVE-2026-29508 Published : Nov. 2, 2026, 9:17 p.m. | 3 hours, 47 minutes ago Description :ReadyMedia (formerly MiniDLNA) versions 1.3.0 through 1.3.3 contain a stack-based buffer overflow...",
+      "summary": "CVE ID :CVE-2026-29508 Published : Nov. 2, 2026, 9:17 p.m. | 9 hours, 48 minutes ago Description :ReadyMedia (formerly MiniDLNA) versions 1.3.0 through 1.3.3 contain a stack-based buffer overflow...",
       "source": "CVE Feed",
       "published": "2026-11-02T21:17:31+00:00"
     },
     {
       "title": "CVE-2026-116766 - Improper input handling in Secure Access server",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-116766",
-      "summary": "CVE ID :CVE-2026-116766 Published : Nov. 2, 2026, 9:17 p.m. | 3 hours, 47 minutes ago Description :CVE-2026-116766 is an improper input handling vulnerability in the Secure Access server versions...",
+      "summary": "CVE ID :CVE-2026-116766 Published : Nov. 2, 2026, 9:17 p.m. | 9 hours, 48 minutes ago Description :CVE-2026-116766 is an improper input handling vulnerability in the Secure Access server versions...",
       "source": "CVE Feed",
       "published": "2026-11-02T21:17:24+00:00"
     },
     {
       "title": "CVE-2026-105476 - cPanel Arbitrary File Write Privilege Escalation",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-105476",
-      "summary": "CVE ID :CVE-2026-105476 Published : Nov. 2, 2026, 9:17 p.m. | 3 hours, 47 minutes ago Description :Improper link resolution before file access in cPanel allows remote authenticated users to write...",
+      "summary": "CVE ID :CVE-2026-105476 Published : Nov. 2, 2026, 9:17 p.m. | 9 hours, 48 minutes ago Description :Improper link resolution before file access in cPanel allows remote authenticated users to write...",
       "source": "CVE Feed",
       "published": "2026-11-02T21:17:22+00:00"
     },
     {
       "title": "CVE-2026-105475 - cPanel NUL Byte Injection Information Disclosure",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-105475",
-      "summary": "CVE ID :CVE-2026-105475 Published : Nov. 2, 2026, 9:17 p.m. | 3 hours, 47 minutes ago Description :Improper neutralization of a NUL byte in cPanel allows remote attackers to read any mail account's...",
+      "summary": "CVE ID :CVE-2026-105475 Published : Nov. 2, 2026, 9:17 p.m. | 9 hours, 48 minutes ago Description :Improper neutralization of a NUL byte in cPanel allows remote attackers to read any mail account's...",
       "source": "CVE Feed",
       "published": "2026-11-02T21:17:22+00:00"
     },
     {
       "title": "CVE-2026-97718 - CSRF in Secure Access Server v14.60",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-97718",
-      "summary": "CVE ID :CVE-2026-97718 Published : Nov. 2, 2026, 8:18 p.m. | 4 hours, 46 minutes ago Description :CVE-2026-97718 Is a cross-site request forgery vulnerability in version 14.60 of the Secure Access...",
+      "summary": "CVE ID :CVE-2026-97718 Published : Nov. 2, 2026, 8:18 p.m. | 10 hours, 48 minutes ago Description :CVE-2026-97718 Is a cross-site request forgery vulnerability in version 14.60 of the Secure Access...",
       "source": "CVE Feed",
       "published": "2026-11-02T20:18:05+00:00"
     },
     {
       "title": "CVE-2026-91898 - Dell Alienware Command Center Improper Verification of Cryptographic Signature Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-91898",
-      "summary": "CVE ID :CVE-2026-91898 Published : Nov. 2, 2026, 8:18 p.m. | 4 hours, 46 minutes ago Description :Dell Alienware Command Center (AWCC), versions prior to 6.14.54.0, contain an Improper Verification...",
+      "summary": "CVE ID :CVE-2026-91898 Published : Nov. 2, 2026, 8:18 p.m. | 10 hours, 48 minutes ago Description :Dell Alienware Command Center (AWCC), versions prior to 6.14.54.0, contain an Improper Verification...",
       "source": "CVE Feed",
       "published": "2026-11-02T20:18:04+00:00"
     },
     {
       "title": "CVE-2026-59044 - Linux Kernel Use-After-Free Local Privilege Escalation",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-59044",
-      "summary": "CVE ID :CVE-2026-59044 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In multiple locations, there is a possible use-after-free due to a logic error in the code. This...",
+      "summary": "CVE ID :CVE-2026-59044 Published : Nov. 2, 2026, 8:17 p.m. | 10 hours, 48 minutes ago Description :In multiple locations, there is a possible use-after-free due to a logic error in the code. This...",
       "source": "CVE Feed",
       "published": "2026-11-02T20:17:57+00:00"
     },
     {
       "title": "CVE-2026-59028 - Android RegisteredAidCache Permission Bypass",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-59028",
-      "summary": "CVE ID :CVE-2026-59028 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In resolveAidConflictLocked of RegisteredAidCache.java, there is a possible permission bypass due to...",
+      "summary": "CVE ID :CVE-2026-59028 Published : Nov. 2, 2026, 8:17 p.m. | 10 hours, 48 minutes ago Description :In resolveAidConflictLocked of RegisteredAidCache.java, there is a possible permission bypass due to...",
       "source": "CVE Feed",
       "published": "2026-11-02T20:17:57+00:00"
     },
     {
       "title": "CVE-2026-59000 - [Product/Vendor Name] Permission Bypass via Confused Deputy Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-59000",
-      "summary": "CVE ID :CVE-2026-59000 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In multiple locations, there is a possible permission bypass due to a confused deputy. This could...",
+      "summary": "CVE ID :CVE-2026-59000 Published : Nov. 2, 2026, 8:17 p.m. | 10 hours, 48 minutes ago Description :In multiple locations, there is a possible permission bypass due to a confused deputy. This could...",
       "source": "CVE Feed",
       "published": "2026-11-02T20:17:55+00:00"
     },
     {
       "title": "CVE-2026-58984 - Linux Kernel Use-After-Free Memory Corruption",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-58984",
-      "summary": "CVE ID :CVE-2026-58984 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In multiple locations, there is a possible memory corruption due to a use-after-free. This could lead...",
+      "summary": "CVE ID :CVE-2026-58984 Published : Nov. 2, 2026, 8:17 p.m. | 10 hours, 48 minutes ago Description :In multiple locations, there is a possible memory corruption due to a use-after-free. This could...",
       "source": "CVE Feed",
       "published": "2026-11-02T20:17:54+00:00"
     },
     {
       "title": "CVE-2026-58970 - AppTimeTracker Background Activity Launch Privilege Escalation",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-58970",
-      "summary": "CVE ID :CVE-2026-58970 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In deliverResult of AppTimeTracker.java, there is a possible background activity launch due to a...",
+      "summary": "CVE ID :CVE-2026-58970 Published : Nov. 2, 2026, 8:17 p.m. | 10 hours, 48 minutes ago Description :In deliverResult of AppTimeTracker.java, there is a possible background activity launch due to a...",
       "source": "CVE Feed",
       "published": "2026-11-02T20:17:53+00:00"
-    },
-    {
-      "title": "CVE-2026-58965 - MusicFxHelper Permission Bypass Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58965",
-      "summary": "CVE ID :CVE-2026-58965 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In handleAudioEffectBroadcast of MusicFxHelper.java, there is a possible permission bypass due to a...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T20:17:52+00:00"
-    },
-    {
-      "title": "CVE-2026-58957 - Android ActivityStarter Background Activity Launch Privilege Escalation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58957",
-      "summary": "CVE ID :CVE-2026-58957 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In resolveToHeavyWeightSwitcherIfNeeded of ActivityStarter.java, there is a possible background...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T20:17:52+00:00"
-    },
-    {
-      "title": "CVE-2026-58946 - Android ActivityClientController Permission Bypass",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58946",
-      "summary": "CVE ID :CVE-2026-58946 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In navigateUpTo of ActivityClientController.java, there is a possible permission bypass due to a...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T20:17:51+00:00"
-    },
-    {
-      "title": "CVE-2026-58944 - Android ActivityTaskManagerService Background Activity Launch Privilege Escalation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58944",
-      "summary": "CVE ID :CVE-2026-58944 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In moveTaskToFrontLocked of ActivityTaskManagerService.java, there is a possible background...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T20:17:51+00:00"
-    },
-    {
-      "title": "CVE-2026-58943 - Android AddAccountSettings Background Activity Launch Privilege Escalation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58943",
-      "summary": "CVE ID :CVE-2026-58943 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In run of AddAccountSettings.java, there is a possible background activity launch due to a confused...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T20:17:51+00:00"
-    },
-    {
-      "title": "CVE-2026-58942 - Linux Kernel Use-After-Free Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58942",
-      "summary": "CVE ID :CVE-2026-58942 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In do_fault_around of memory.c, there is a possible use after free due to a logic error in the code...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T20:17:51+00:00"
-    },
-    {
-      "title": "CVE-2026-58934 - Android WindowState Permission Bypass",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58934",
-      "summary": "CVE ID :CVE-2026-58934 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In prepareWindowToDisplayDuringRelayout of WindowState.java, there is a possible permission bypass...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T20:17:50+00:00"
-    },
-    {
-      "title": "CVE-2026-58885 - Linux Kernel Confused Deputy Privilege Escalation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58885",
-      "summary": "CVE ID :CVE-2026-58885 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In multiple locations, there is a possible permission bypass due to a confused deputy. This could...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T20:17:50+00:00"
     },
     {
       "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
@@ -324,9 +373,9 @@
       "published": "2026-11-02T13:57:29+00:00"
     },
     {
-      "title": "Revolve Data Breach Impacts at Least 180,000 People",
+      "title": "Revolve Data Breach Impacts at Least 200,000 People",
       "link": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
-      "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 180,000 People appeared first on SecurityWeek.",
+      "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 200,000 People appeared first on SecurityWeek.",
       "source": "SecurityWeek",
       "published": "2026-11-02T13:35:21+00:00"
     },
@@ -415,13 +464,6 @@
       "published": "2026-11-02T08:40:36+00:00"
     },
     {
-      "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
-      "link": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
-      "summary": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days Exploited in Connect...",
-      "source": "SecurityWeek",
-      "published": "2026-11-02T07:57:49+00:00"
-    },
-    {
       "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
       "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
       "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their...",
@@ -448,13 +490,6 @@
       "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
       "source": "BleepingComputer",
       "published": "2026-11-01T13:53:11+00:00"
-    },
-    {
-      "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
-      "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
-      "summary": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose...",
-      "source": "SecurityWeek",
-      "published": "2026-11-01T11:15:00+00:00"
     },
     {
       "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
@@ -800,17 +835,10 @@
       "published": "2026-10-29T11:33:15+00:00"
     },
     {
-      "title": "Vulnerabilities in Szafir software",
-      "link": "https://cert.pl/en/posts/2026/10/CVE-2026-93570/",
-      "summary": "Vulnerabilities in Szafir software Vulnerabilities in Szafir software CVE ID CVE-2026-93570 Publication date 29 October 2026 Vendor Krajowa Izba Rozliczeniowa Product SzafirSzafir Weryfikująca...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-29T10:55:00+00:00"
-    },
-    {
       "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
       "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "summary": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA)...",
-      "source": "CVE Newsroom",
+      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has...",
+      "source": "The Hacker News",
       "published": "2026-10-29T10:44:46+00:00"
     },
     {
@@ -924,34 +952,6 @@
       "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but...",
       "source": "The Hacker News",
       "published": "2026-10-28T11:50:00+00:00"
-    },
-    {
-      "title": "Wazuh and AI for Enhanced SOC Workflows",
-      "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate...",
-      "source": "The Hacker News",
-      "published": "2026-10-28T11:30:00+00:00"
-    },
-    {
-      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-      "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-      "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and...",
-      "source": "The Hacker News",
-      "published": "2026-10-28T11:15:51+00:00"
-    },
-    {
-      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-      "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-      "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted...",
-      "source": "The Hacker News",
-      "published": "2026-10-28T10:30:00+00:00"
-    },
-    {
-      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-      "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-      "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report...",
-      "source": "The Hacker News",
-      "published": "2026-10-28T08:15:07+00:00"
     },
     {
       "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
@@ -1232,13 +1232,6 @@
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up...",
       "source": "Krebs on Security",
       "published": "2026-09-16T18:14:22+00:00"
-    },
-    {
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial...",
-      "source": "Krebs on Security",
-      "published": "2026-09-08T21:44:22+00:00"
     }
   ]
 }
