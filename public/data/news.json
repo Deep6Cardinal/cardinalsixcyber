@@ -1,6 +1,216 @@
 {
-  "last_updated": "2026-11-02T19:53:52.015190+00:00",
+  "last_updated": "2026-11-03T01:55:14.743045+00:00",
   "articles": [
+    {
+      "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
+      "link": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
+      "summary": "\"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,\" the NCSC's chief will warn in releasing the agency's annual...",
+      "source": "The Record",
+      "published": "2026-11-03T00:01:00+00:00"
+    },
+    {
+      "title": "CVE-2026-71450 - Johnson Controls EasyIO Neo EC and CW Edge Controller Authentication Bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-71450",
+      "summary": "CVE ID :CVE-2026-71450 Published : Nov. 2, 2026, 11:17 p.m. | 1 hour, 47 minutes ago Description :Authentication bypass using an alternate path or channel vulnerability in Johnson Controls EasyIO Neo...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T23:17:21+00:00"
+    },
+    {
+      "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+      "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
+      "source": "Dark Reading",
+      "published": "2026-11-02T22:27:24+00:00"
+    },
+    {
+      "title": "CVE-2026-86596 - s2Member <= 260927 - Unauthenticated Remote Code Execution via 'item_name' IPN Parameter",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-86596",
+      "summary": "CVE ID :CVE-2026-86596 Published : Nov. 2, 2026, 10:17 p.m. | 2 hours, 47 minutes ago Description :The s2Member plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T22:17:23+00:00"
+    },
+    {
+      "title": "CVE-2026-120091 - Temporal Server Kubernetes compute provider builds a client from caller-supplied configuration and runs a caller-chosen command on the Worker Service host",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120091",
+      "summary": "CVE ID :CVE-2026-120091 Published : Nov. 2, 2026, 10:17 p.m. | 2 hours, 47 minutes ago Description :Temporal Server compiles a Worker Controller Instance module, go.temporal.io/auto-scaled-workers...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T22:17:20+00:00"
+    },
+    {
+      "title": "CVE-2026-115403 - NULL pointer dereference in the BSD raw IPv6 send path when the destination table is full",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115403",
+      "summary": "CVE ID :CVE-2026-115403 Published : Nov. 2, 2026, 10:17 p.m. | 2 hours, 47 minutes ago Description :In Eclipse ThreadX NetX Duo versions 6.0 through 6.5.2.202603a, built with BSD raw socket and IPv6...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T22:17:18+00:00"
+    },
+    {
+      "title": "CVE-2026-115215 - NetX Secure DTLS server allocates a session for each new source before the cookie exchange and never reclaims it, so spoofed datagrams exhaust the session pool",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115215",
+      "summary": "CVE ID :CVE-2026-115215 Published : Nov. 2, 2026, 10:17 p.m. | 2 hours, 47 minutes ago Description :In Eclipse ThreadX NetX Duo versions 6.0 through 6.5.2.202603a, the NetX Secure DTLS server...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T22:17:18+00:00"
+    },
+    {
+      "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
+      "link": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
+      "summary": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.",
+      "source": "The Record",
+      "published": "2026-11-02T21:42:00+00:00"
+    },
+    {
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-11-02T21:40:14+00:00"
+    },
+    {
+      "title": "CVE-2026-58873 - WindowManagerService Permission Bypass and Local Escalation of Privilege",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58873",
+      "summary": "CVE ID :CVE-2026-58873 Published : Nov. 2, 2026, 9:17 p.m. | 3 hours, 47 minutes ago Description :In addDragDropListener of WindowManagerService.java, there is a possible permission bypass due to a...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T21:17:35+00:00"
+    },
+    {
+      "title": "CVE-2026-29508 - ReadyMedia 1.3.0 - 1.3.3 Stack Buffer Overflow via DFF Parser",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-29508",
+      "summary": "CVE ID :CVE-2026-29508 Published : Nov. 2, 2026, 9:17 p.m. | 3 hours, 47 minutes ago Description :ReadyMedia (formerly MiniDLNA) versions 1.3.0 through 1.3.3 contain a stack-based buffer overflow...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T21:17:31+00:00"
+    },
+    {
+      "title": "CVE-2026-116766 - Improper input handling in Secure Access server",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116766",
+      "summary": "CVE ID :CVE-2026-116766 Published : Nov. 2, 2026, 9:17 p.m. | 3 hours, 47 minutes ago Description :CVE-2026-116766 is an improper input handling vulnerability in the Secure Access server versions...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T21:17:24+00:00"
+    },
+    {
+      "title": "CVE-2026-105476 - cPanel Arbitrary File Write Privilege Escalation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105476",
+      "summary": "CVE ID :CVE-2026-105476 Published : Nov. 2, 2026, 9:17 p.m. | 3 hours, 47 minutes ago Description :Improper link resolution before file access in cPanel allows remote authenticated users to write...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T21:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-105475 - cPanel NUL Byte Injection Information Disclosure",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105475",
+      "summary": "CVE ID :CVE-2026-105475 Published : Nov. 2, 2026, 9:17 p.m. | 3 hours, 47 minutes ago Description :Improper neutralization of a NUL byte in cPanel allows remote attackers to read any mail account's...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T21:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-97718 - CSRF in Secure Access Server v14.60",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-97718",
+      "summary": "CVE ID :CVE-2026-97718 Published : Nov. 2, 2026, 8:18 p.m. | 4 hours, 46 minutes ago Description :CVE-2026-97718 Is a cross-site request forgery vulnerability in version 14.60 of the Secure Access...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:18:05+00:00"
+    },
+    {
+      "title": "CVE-2026-91898 - Dell Alienware Command Center Improper Verification of Cryptographic Signature Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91898",
+      "summary": "CVE ID :CVE-2026-91898 Published : Nov. 2, 2026, 8:18 p.m. | 4 hours, 46 minutes ago Description :Dell Alienware Command Center (AWCC), versions prior to 6.14.54.0, contain an Improper Verification...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:18:04+00:00"
+    },
+    {
+      "title": "CVE-2026-59044 - Linux Kernel Use-After-Free Local Privilege Escalation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-59044",
+      "summary": "CVE ID :CVE-2026-59044 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In multiple locations, there is a possible use-after-free due to a logic error in the code. This...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:17:57+00:00"
+    },
+    {
+      "title": "CVE-2026-59028 - Android RegisteredAidCache Permission Bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-59028",
+      "summary": "CVE ID :CVE-2026-59028 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In resolveAidConflictLocked of RegisteredAidCache.java, there is a possible permission bypass due to...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:17:57+00:00"
+    },
+    {
+      "title": "CVE-2026-59000 - [Product/Vendor Name] Permission Bypass via Confused Deputy Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-59000",
+      "summary": "CVE ID :CVE-2026-59000 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In multiple locations, there is a possible permission bypass due to a confused deputy. This could...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:17:55+00:00"
+    },
+    {
+      "title": "CVE-2026-58984 - Linux Kernel Use-After-Free Memory Corruption",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58984",
+      "summary": "CVE ID :CVE-2026-58984 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In multiple locations, there is a possible memory corruption due to a use-after-free. This could lead...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:17:54+00:00"
+    },
+    {
+      "title": "CVE-2026-58970 - AppTimeTracker Background Activity Launch Privilege Escalation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58970",
+      "summary": "CVE ID :CVE-2026-58970 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In deliverResult of AppTimeTracker.java, there is a possible background activity launch due to a...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:17:53+00:00"
+    },
+    {
+      "title": "CVE-2026-58965 - MusicFxHelper Permission Bypass Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58965",
+      "summary": "CVE ID :CVE-2026-58965 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In handleAudioEffectBroadcast of MusicFxHelper.java, there is a possible permission bypass due to a...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:17:52+00:00"
+    },
+    {
+      "title": "CVE-2026-58957 - Android ActivityStarter Background Activity Launch Privilege Escalation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58957",
+      "summary": "CVE ID :CVE-2026-58957 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In resolveToHeavyWeightSwitcherIfNeeded of ActivityStarter.java, there is a possible background...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:17:52+00:00"
+    },
+    {
+      "title": "CVE-2026-58946 - Android ActivityClientController Permission Bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58946",
+      "summary": "CVE ID :CVE-2026-58946 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In navigateUpTo of ActivityClientController.java, there is a possible permission bypass due to a...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:17:51+00:00"
+    },
+    {
+      "title": "CVE-2026-58944 - Android ActivityTaskManagerService Background Activity Launch Privilege Escalation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58944",
+      "summary": "CVE ID :CVE-2026-58944 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In moveTaskToFrontLocked of ActivityTaskManagerService.java, there is a possible background...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:17:51+00:00"
+    },
+    {
+      "title": "CVE-2026-58943 - Android AddAccountSettings Background Activity Launch Privilege Escalation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58943",
+      "summary": "CVE ID :CVE-2026-58943 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In run of AddAccountSettings.java, there is a possible background activity launch due to a confused...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:17:51+00:00"
+    },
+    {
+      "title": "CVE-2026-58942 - Linux Kernel Use-After-Free Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58942",
+      "summary": "CVE ID :CVE-2026-58942 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In do_fault_around of memory.c, there is a possible use after free due to a logic error in the code...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:17:51+00:00"
+    },
+    {
+      "title": "CVE-2026-58934 - Android WindowState Permission Bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58934",
+      "summary": "CVE ID :CVE-2026-58934 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In prepareWindowToDisplayDuringRelayout of WindowState.java, there is a possible permission bypass...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:17:50+00:00"
+    },
+    {
+      "title": "CVE-2026-58885 - Linux Kernel Confused Deputy Privilege Escalation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58885",
+      "summary": "CVE ID :CVE-2026-58885 Published : Nov. 2, 2026, 8:17 p.m. | 4 hours, 47 minutes ago Description :In multiple locations, there is a possible permission bypass due to a confused deputy. This could...",
+      "source": "CVE Feed",
+      "published": "2026-11-02T20:17:50+00:00"
+    },
+    {
+      "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
+      "link": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
+      "summary": "A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the...",
+      "source": "The Record",
+      "published": "2026-11-02T19:54:00+00:00"
+    },
     {
       "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
@@ -9,60 +219,11 @@
       "published": "2026-11-02T19:00:45+00:00"
     },
     {
-      "title": "CVE-2026-119731 - Munshi Payment Bypass via Unauthenticated Webhook Endpoint",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-119731",
-      "summary": "CVE ID :CVE-2026-119731 Published : Nov. 2, 2026, 6:54 p.m. | 14 minutes ago Description :Munshi (by Petpooja) before 2026-06-30 contained a payment bypass vulnerability in its subscription payment...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T18:54:28+00:00"
-    },
-    {
-      "title": "CVE-2026-105604 - Joomla Extension - dj-extensions.com - Unauthenticated SQL injection in DJ-Classifieds < 3.11.3",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105604",
-      "summary": "CVE ID :CVE-2026-105604 Published : Nov. 2, 2026, 6:27 p.m. | 41 minutes ago Description :Joomla Extension - dj-extensions.com - Unauthenticated SQL injection in DJ-Classifieds Severity: 9.3 |...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T18:27:14+00:00"
-    },
-    {
-      "title": "CVE-2026-105603 - Joomla Extension - dj-extensions.com - Authenticated arbitrary file upload in DJ-Classifieds < 3.11.3",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105603",
-      "summary": "CVE ID :CVE-2026-105603 Published : Nov. 2, 2026, 6:25 p.m. | 43 minutes ago Description :Joomla Extension - dj-extensions.com - Authenticated arbitrary file upload in DJ-Classifieds Severity: 9.4 |...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T18:25:29+00:00"
-    },
-    {
-      "title": "CVE-2026-119085 - Template injection in the publishing component of awslabs Virtual Engineering Workbench",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-119085",
-      "summary": "CVE ID :CVE-2026-119085 Published : Nov. 2, 2026, 6:18 p.m. | 49 minutes ago Description :Improper neutralization of special elements used in a template engine in the publishing component of Amazon...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T18:18:44+00:00"
-    },
-    {
-      "title": "CVE-2026-111048 - FOSSBilling: Low-privileged staff can run JavaScript in administrators' browsers via stored XSS in support ticket notes",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111048",
-      "summary": "CVE ID :CVE-2026-111048 Published : Nov. 2, 2026, 6:18 p.m. | 50 minutes ago Description :FOSSBilling is an open source billing and client-management platform. From 0.1.0 until 0.8.9, the...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T18:18:35+00:00"
-    },
-    {
       "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
       "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
       "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with...",
       "source": "BleepingComputer",
       "published": "2026-11-02T18:16:34+00:00"
-    },
-    {
-      "title": "CVE-2026-88811 - Rancher credentials disclosed to third-party hosts by the Rancher Manager meta proxy",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-88811",
-      "summary": "CVE ID :CVE-2026-88811 Published : Nov. 2, 2026, 5:17 p.m. | 1 hour, 50 minutes ago Description :Missing filtering in the SUSE Rancher Manager meta proxy could cause passed in rancher credentials to...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T17:17:45+00:00"
-    },
-    {
-      "title": "CVE-2026-105769 - kaniko can send the build's Azure (Entra ID) access token to lookalike ACR registry hosts",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105769",
-      "summary": "CVE ID :CVE-2026-105769 Published : Nov. 2, 2026, 5:17 p.m. | 1 hour, 51 minutes ago Description :kaniko before 1.25.20 can send a Microsoft Entra ID (Azure AD) access token for Azure Resource...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T17:17:32+00:00"
     },
     {
       "title": "Polymarket pledges to give $3.9 million back to victims after site compromise",
@@ -74,8 +235,8 @@
     {
       "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
       "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was...",
-      "source": "The Hacker News",
+      "summary": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared...",
+      "source": "CVE Newsroom",
       "published": "2026-11-02T16:57:56+00:00"
     },
     {
@@ -86,137 +247,11 @@
       "published": "2026-11-02T16:30:00+00:00"
     },
     {
-      "title": "CVE-2026-94290 - Privilege escalation to cluster-admin on the Rancher local cluster through Fleet's agent management controller",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-94290",
-      "summary": "CVE ID :CVE-2026-94290 Published : Nov. 2, 2026, 4:17 p.m. | 2 hours, 50 minutes ago Description :SUSE Rancher Fleet clusters reference a kubeconfig secret that the controller uses to install and...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T16:17:45+00:00"
-    },
-    {
-      "title": "CVE-2026-77880 - Control Web Panel (CWP) < 1.16 OS Command Injection via /newpass/",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77880",
-      "summary": "CVE ID :CVE-2026-77880 Published : Nov. 2, 2026, 4:17 p.m. | 2 hours, 50 minutes ago Description :Control Web Panel (CWP) before webpanel_version 1.16 contains an OS command injection vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T16:17:43+00:00"
-    },
-    {
-      "title": "CVE-2026-77879 - Control Web Panel (CWP) < 1.16 SQL Injection via access_token() API",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77879",
-      "summary": "CVE ID :CVE-2026-77879 Published : Nov. 2, 2026, 4:17 p.m. | 2 hours, 50 minutes ago Description :Control Web Panel (CWP) before webpanel_version 1.16 contains a SQL injection vulnerability in the...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T16:17:43+00:00"
-    },
-    {
-      "title": "CVE-2026-77878 - Control Web Panel (CWP) < 1.30 OS Command Injection via restoredatabase API",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77878",
-      "summary": "CVE ID :CVE-2026-77878 Published : Nov. 2, 2026, 4:17 p.m. | 2 hours, 50 minutes ago Description :Control Web Panel (CWP) before webpanel_version 1.30 contains an OS command injection vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T16:17:43+00:00"
-    },
-    {
-      "title": "CVE-2026-77877 - Control Web Panel (CWP) < 1.30 Unauthenticated Loopback API Root Access",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77877",
-      "summary": "CVE ID :CVE-2026-77877 Published : Nov. 2, 2026, 4:17 p.m. | 2 hours, 50 minutes ago Description :Control Web Panel (CWP) before webpanel_version 1.30 contains a missing authentication vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T16:17:43+00:00"
-    },
-    {
-      "title": "CVE-2026-77876 - Control Web Panel (CWP) < 1.16 OS Command Injection via protected_directory",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77876",
-      "summary": "CVE ID :CVE-2026-77876 Published : Nov. 2, 2026, 4:17 p.m. | 2 hours, 50 minutes ago Description :Control Web Panel (CWP) before webpanel_version 1.16 contains an OS command injection vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T16:17:43+00:00"
-    },
-    {
-      "title": "CVE-2026-114408 - NULL pointer dereference in ICMPv6 Packet Too Big processing when the destination table is full",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114408",
-      "summary": "CVE ID :CVE-2026-114408 Published : Nov. 2, 2026, 4:17 p.m. | 2 hours, 51 minutes ago Description :In Eclipse ThreadX NetX Duo versions 6.4.5.202504 through 6.5.2.202603a, built with IPv6 path MTU...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T16:17:27+00:00"
-    },
-    {
-      "title": "CVE-2026-109142 - Krill treats a \"local parent\" as already-authenticated, letting a CA operator act as any child of any CA on the same server",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109142",
-      "summary": "CVE ID :CVE-2026-109142 Published : Nov. 2, 2026, 4:17 p.m. | 2 hours, 51 minutes ago Description :When a CA's parent lives on the same Krill server: instead of building and verifying a signed CMS...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T16:17:27+00:00"
-    },
-    {
-      "title": "CVE-2026-109141 - Krill users restricted to one CA can make any other CA delegate its prefixes and publish ROAs for them via bulk import",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109141",
-      "summary": "CVE ID :CVE-2026-109141 Published : Nov. 2, 2026, 4:17 p.m. | 2 hours, 51 minutes ago Description :The vulnerability gives a role that is restricted to a list of CAs (cas = [...]) its full permission...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T16:17:27+00:00"
-    },
-    {
-      "title": "CVE-2026-109140 - Krill login-session tokens reuse their encryption nonce across restarts, so any user who can log in can forge an \"admin\" token",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109140",
-      "summary": "CVE ID :CVE-2026-109140 Published : Nov. 2, 2026, 4:17 p.m. | 2 hours, 51 minutes ago Description :The vulnerability is that Krill encrypts every login-session token with a nonce built from a counter...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T16:17:26+00:00"
-    },
-    {
-      "title": "CVE-2026-104080 - Control Web Panel (CWP) < 1.30 OS Command Injection via valid_token",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-104080",
-      "summary": "CVE ID :CVE-2026-104080 Published : Nov. 2, 2026, 4:17 p.m. | 2 hours, 51 minutes ago Description :Control Web Panel (CWP) before webpanel_version 1.30 contains an OS command injection vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T16:17:22+00:00"
-    },
-    {
       "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
       "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
       "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device...",
       "source": "The Hacker News",
       "published": "2026-11-02T15:50:26+00:00"
-    },
-    {
-      "title": "CVE-2026-73697 - Control Web Panel (CWP) < 1.16 File Write and Command Injection via phpini_editor",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-73697",
-      "summary": "CVE ID :CVE-2026-73697 Published : Nov. 2, 2026, 3:17 p.m. | 3 hours, 51 minutes ago Description :Control Web Panel (CWP) before webpanel_version 1.16 contains an arbitrary file write and OS command...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T15:17:37+00:00"
-    },
-    {
-      "title": "CVE-2026-73696 - Control Web Panel (CWP) < 1.12 Execution After Redirect in CWPUserIndex",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-73696",
-      "summary": "CVE ID :CVE-2026-73696 Published : Nov. 2, 2026, 3:17 p.m. | 3 hours, 51 minutes ago Description :Control Web Panel (CWP) before webpanel_version 1.12 contains an execution after redirect...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T15:17:37+00:00"
-    },
-    {
-      "title": "CVE-2026-73695 - Control Web Panel (CWP) < 1.16 Path Traversal via services/users/index.php",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-73695",
-      "summary": "CVE ID :CVE-2026-73695 Published : Nov. 2, 2026, 3:17 p.m. | 3 hours, 51 minutes ago Description :Control Web Panel (CWP) before webpanel_version 1.16 contains a path traversal vulnerability in...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T15:17:37+00:00"
-    },
-    {
-      "title": "CVE-2026-120487 - LaraDashboard before 1.4.5 Incorrect Authorization via SettingPolicy Core Upgrades",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120487",
-      "summary": "CVE ID :CVE-2026-120487 Published : Nov. 2, 2026, 3:17 p.m. | 3 hours, 51 minutes ago Description :LaraDashboard before 1.4.5 contains an incorrect authorization vulnerability in...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T15:17:30+00:00"
-    },
-    {
-      "title": "CVE-2026-120461 - Jpom through 2.11.12 Cross-Workspace Authorization Bypass via /node/ssh_command/batch",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120461",
-      "summary": "CVE ID :CVE-2026-120461 Published : Nov. 2, 2026, 3:17 p.m. | 3 hours, 51 minutes ago Description :Jpom through 2.11.12 contains a cross-workspace authorization bypass in POST /node/ssh_command/batch...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T15:17:30+00:00"
-    },
-    {
-      "title": "CVE-2026-120460 - Jpom through 2.11.12 Cross-Workspace Authorization Bypass via Docker Controllers",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120460",
-      "summary": "CVE ID :CVE-2026-120460 Published : Nov. 2, 2026, 3:17 p.m. | 3 hours, 51 minutes ago Description :Jpom through 2.11.12 contains a cross-workspace authorization bypass vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T15:17:30+00:00"
-    },
-    {
-      "title": "CVE-2026-120459 - python-jose through 3.5.0 Authentication Bypass via Empty HMAC Key",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120459",
-      "summary": "CVE ID :CVE-2026-120459 Published : Nov. 2, 2026, 3:17 p.m. | 3 hours, 51 minutes ago Description :python-jose through 3.5.0 contains an authentication bypass vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-11-02T15:17:29+00:00"
     },
     {
       "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
@@ -261,20 +296,6 @@
       "published": "2026-11-02T14:44:18+00:00"
     },
     {
-      "title": "Apple warns users in 99 countries of mercenary spyware",
-      "link": "https://therecord.media/apple-warns-users-99-countries-mercenary-spyware",
-      "summary": "Apple does not attribute attacks or the notices to specific malicious actors or geographical regions, the notification said, due to the “extreme cost, sophistication, and worldwide nature of...",
-      "source": "The Record",
-      "published": "2026-11-02T14:42:00+00:00"
-    },
-    {
-      "title": "Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings",
-      "link": "https://therecord.media/ukraine-hackers-russia-alert-system",
-      "summary": "A popular Ukrainian air raid alert system was hacked over the weekend, prompting a cyber group to breach a similar Russian system in retaliation.",
-      "source": "The Record",
-      "published": "2026-11-02T14:30:00+00:00"
-    },
-    {
       "title": "Hackers disrupt refrigeration systems at European supermarkets",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
       "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and...",
@@ -317,13 +338,6 @@
       "published": "2026-11-02T13:25:11+00:00"
     },
     {
-      "title": "Second wave of suspected cyberattacks hits supermarket freezers across Europe",
-      "link": "https://therecord.media/cyberattack-grocery-freezers-europe",
-      "summary": "Supermarket and grocery store refrigerators across Europe appear to have been hacked early Monday — the second such incident in recent weeks where attackers have manipulated temperature controls and...",
-      "source": "The Record",
-      "published": "2026-11-02T13:00:00+00:00"
-    },
-    {
       "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
       "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
@@ -333,8 +347,8 @@
     {
       "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
       "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and...",
-      "source": "The Hacker News",
+      "summary": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code...",
+      "source": "CVE Newsroom",
       "published": "2026-11-02T11:50:00+00:00"
     },
     {
@@ -445,8 +459,8 @@
     {
       "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
       "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the...",
-      "source": "The Hacker News",
+      "summary": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without...",
+      "source": "CVE Newsroom",
       "published": "2026-11-01T08:51:31+00:00"
     },
     {
@@ -485,13 +499,6 @@
       "published": "2026-10-31T15:35:11+00:00"
     },
     {
-      "title": "Reddit to lock content behind logins to fight scrapers",
-      "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-      "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-10-31T14:05:15+00:00"
-    },
-    {
       "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
       "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
       "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the...",
@@ -501,8 +508,8 @@
     {
       "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
       "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog...",
-      "source": "The Hacker News",
+      "summary": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting...",
+      "source": "CVE Newsroom",
       "published": "2026-10-31T08:27:43+00:00"
     },
     {
@@ -578,8 +585,8 @@
     {
       "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
       "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes...",
-      "source": "The Hacker News",
+      "summary": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that...",
+      "source": "CVE Newsroom",
       "published": "2026-10-30T15:17:28+00:00"
     },
     {
@@ -662,15 +669,15 @@
     {
       "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
       "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of...",
-      "source": "The Hacker News",
+      "summary": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core...",
+      "source": "CVE Newsroom",
       "published": "2026-10-30T07:45:30+00:00"
     },
     {
       "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
       "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence...",
-      "source": "The Hacker News",
+      "summary": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and...",
+      "source": "CVE Newsroom",
       "published": "2026-10-30T07:27:05+00:00"
     },
     {
@@ -704,8 +711,8 @@
     {
       "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
       "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't...",
-      "source": "The Hacker News",
+      "summary": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories Some attacks take real skill. Others just need someone to leave a door open. This week has...",
+      "source": "CVE Newsroom",
       "published": "2026-10-29T19:11:58+00:00"
     },
     {
@@ -718,8 +725,8 @@
     {
       "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
       "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on...",
-      "source": "The Hacker News",
+      "summary": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux...",
+      "source": "CVE Newsroom",
       "published": "2026-10-29T15:57:05+00:00"
     },
     {
@@ -753,8 +760,8 @@
     {
       "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
       "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and...",
-      "source": "The Hacker News",
+      "summary": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art...",
+      "source": "CVE Newsroom",
       "published": "2026-10-29T13:42:40+00:00"
     },
     {
@@ -774,8 +781,8 @@
     {
       "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
       "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The...",
-      "source": "The Hacker News",
+      "summary": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim...",
+      "source": "CVE Newsroom",
       "published": "2026-10-29T11:39:18+00:00"
     },
     {
@@ -802,8 +809,8 @@
     {
       "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
       "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has...",
-      "source": "The Hacker News",
+      "summary": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA)...",
+      "source": "CVE Newsroom",
       "published": "2026-10-29T10:44:46+00:00"
     },
     {
@@ -1169,13 +1176,6 @@
       "summary": "The attack uses malicious Google search results related to Amazon and leverages the \"finger\" utility to launch a CAPTCHA that installs malware, including the Lumma stealer.",
       "source": "Dark Reading",
       "published": "2026-10-21T13:00:00+00:00"
-    },
-    {
-      "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
-      "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
-      "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
-      "source": "Dark Reading",
-      "published": "2026-10-20T21:45:47+00:00"
     },
     {
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
