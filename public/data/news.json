@@ -1,6 +1,188 @@
 {
-  "last_updated": "2026-11-03T22:42:26.442583+00:00",
+  "last_updated": "2026-11-04T04:00:27.336277+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-121802 - Better-Auth Expo Improper Authentication Verification Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121802",
+      "summary": "CVE ID :CVE-2026-121802 Published : Nov. 4, 2026, 2:36 a.m. | 31 minutes ago Description :@better-auth/expo before 1.7.16 allows certain account-takeover outcomes (e.g., unauthenticated changes of...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T02:36:13+00:00"
+    },
+    {
+      "title": "CVE-2026-84730 - ASUS Router AiCloud Stack-Based Buffer Overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-84730",
+      "summary": "CVE ID :CVE-2026-84730 Published : Nov. 4, 2026, 2:17 a.m. | 50 minutes ago Description :Stack-based buffer overflow in certain ASUS Router firmware allows an unauthenticated nearby attacker to...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T02:17:21+00:00"
+    },
+    {
+      "title": "CVE-2026-121609 - Qihoo 360 Whole Home Router M5 Boot Script mpt start hard-coded credentials",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121609",
+      "summary": "CVE ID :CVE-2026-121609 Published : Nov. 4, 2026, 2:17 a.m. | 50 minutes ago Description :A vulnerability was identified in Qihoo 360 Whole Home Router M5 4.0.17.1566. This issue affects the function...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T02:17:20+00:00"
+    },
+    {
+      "title": "CVE-2026-121607 - Qihoo 360 D603-2/D600-2/D606-6/D706 iscm testspeed_command os command injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121607",
+      "summary": "CVE ID :CVE-2026-121607 Published : Nov. 4, 2026, 2:17 a.m. | 50 minutes ago Description :A vulnerability was found in Qihoo 360 D603-2, D600-2, D606-6 and D706 up to 6.4.9. This affects the function...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T02:17:19+00:00"
+    },
+    {
+      "title": "CVE-2026-112116 - ASUS System Control Interface Arbitrary Memory Access Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112116",
+      "summary": "CVE ID :CVE-2026-112116 Published : Nov. 4, 2026, 2:17 a.m. | 50 minutes ago Description :An exposed IOCTL with insufficient access control in ASUS System Control Interface allows a local...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T02:17:14+00:00"
+    },
+    {
+      "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+      "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
+      "source": "Dark Reading",
+      "published": "2026-11-04T02:00:00+00:00"
+    },
+    {
+      "title": "CVE-2026-121606 - Qihoo 360 D621-2/D603-2/D600-2/D619/D606-6/D706 Firmware Signature Verification iscm verify_sign signature verification",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121606",
+      "summary": "CVE ID :CVE-2026-121606 Published : Nov. 4, 2026, 1:17 a.m. | 1 hour, 50 minutes ago Description :A vulnerability has been found in Qihoo 360 D621-2, D603-2, D600-2, D619, D606-6 and D706 up to...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T01:17:23+00:00"
+    },
+    {
+      "title": "CVE-2026-121600 - TOTOLINK A950RG MAC Filter cstecgi.cgi setMacFilterRules stack-based overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121600",
+      "summary": "CVE ID :CVE-2026-121600 Published : Nov. 4, 2026, 1:17 a.m. | 1 hour, 50 minutes ago Description :A flaw has been found in TOTOLINK A950RG 4.1.2cu.5268_B20221104. Affected by this vulnerability is...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T01:17:23+00:00"
+    },
+    {
+      "title": "CVE-2026-121599 - TOTOLINK A950RG Multi-SSID Configuration cstecgi.cgi delWiFiMultipleConfig stack-based overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121599",
+      "summary": "CVE ID :CVE-2026-121599 Published : Nov. 4, 2026, 1:17 a.m. | 1 hour, 50 minutes ago Description :A vulnerability was detected in TOTOLINK A950RG 4.1.2cu.5268_B20221104. Affected is the function...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T01:17:23+00:00"
+    },
+    {
+      "title": "CVE-2026-121598 - TOTOLINK A950RG Basic Wireless Configuration cstecgi.cgi strcpy stack-based overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121598",
+      "summary": "CVE ID :CVE-2026-121598 Published : Nov. 4, 2026, 1:17 a.m. | 1 hour, 50 minutes ago Description :A security vulnerability has been detected in TOTOLINK A950RG 4.1.2cu.5268_B20221104. This impacts...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T01:17:23+00:00"
+    },
+    {
+      "title": "CVE-2026-92198 - Quest Foglight for Databases getSource XML External Entity Processing Information Disclosure Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92198",
+      "summary": "CVE ID :CVE-2026-92198 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :Quest Foglight for Databases getSource XML External Entity Processing Information Disclosure...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:30+00:00"
+    },
+    {
+      "title": "CVE-2026-92197 - Quest Foglight for Databases unzipFile Directory Traversal Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92197",
+      "summary": "CVE ID :CVE-2026-92197 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :Quest Foglight for Databases unzipFile Directory Traversal Remote Code Execution Vulnerability. This...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:30+00:00"
+    },
+    {
+      "title": "CVE-2026-92195 - Quest Foglight for Databases loadEvolveLicense Directory Traversal Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92195",
+      "summary": "CVE ID :CVE-2026-92195 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :Quest Foglight for Databases loadEvolveLicense Directory Traversal Remote Code Execution...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:30+00:00"
+    },
+    {
+      "title": "CVE-2026-92194 - Quest Foglight for Databases loadManageServerLicense Directory Traversal Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92194",
+      "summary": "CVE ID :CVE-2026-92194 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :Quest Foglight for Databases loadManageServerLicense Directory Traversal Remote Code Execution...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:30+00:00"
+    },
+    {
+      "title": "CVE-2026-92192 - Quest Foglight for Databases installLicense Directory Traversal Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92192",
+      "summary": "CVE ID :CVE-2026-92192 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :Quest Foglight for Databases installLicense Directory Traversal Remote Code Execution Vulnerability...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:29+00:00"
+    },
+    {
+      "title": "CVE-2026-92191 - Quest Foglight for Databases runScript Incorrect Authorization Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92191",
+      "summary": "CVE ID :CVE-2026-92191 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :Quest Foglight for Databases runScript Incorrect Authorization Remote Code Execution Vulnerability...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:29+00:00"
+    },
+    {
+      "title": "CVE-2026-92190 - Quest Foglight for Databases baseRmiServiceExporter Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92190",
+      "summary": "CVE ID :CVE-2026-92190 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :Quest Foglight for Databases baseRmiServiceExporter Deserialization of Untrusted Data Remote Code...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:29+00:00"
+    },
+    {
+      "title": "CVE-2026-92189 - Quest Foglight for Databases writeTopologySectionToFile External Control of File Path Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92189",
+      "summary": "CVE ID :CVE-2026-92189 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :Quest Foglight for Databases writeTopologySectionToFile External Control of File Path Remote Code...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:29+00:00"
+    },
+    {
+      "title": "CVE-2026-92188 - Quest Foglight for Databases ForgeMBeanServerSupport Missing Authentication Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92188",
+      "summary": "CVE ID :CVE-2026-92188 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :Quest Foglight for Databases ForgeMBeanServerSupport Missing Authentication Remote Code Execution...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:29+00:00"
+    },
+    {
+      "title": "CVE-2026-92187 - Quest Foglight for Databases extractAndCreateUploadInfoList Directory Traversal Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92187",
+      "summary": "CVE ID :CVE-2026-92187 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :Quest Foglight for Databases extractAndCreateUploadInfoList Directory Traversal Remote Code...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:28+00:00"
+    },
+    {
+      "title": "CVE-2026-92186 - Quest Foglight for Databases paFnUploadFileAndCreateInfo Directory Traversal Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92186",
+      "summary": "CVE ID :CVE-2026-92186 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :Quest Foglight for Databases paFnUploadFileAndCreateInfo Directory Traversal Remote Code Execution...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:28+00:00"
+    },
+    {
+      "title": "CVE-2026-121597 - TOTOLINK A950RG Easy Setup Wizard cstecgi.cgi setAppEasyWizardConfig stack-based overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121597",
+      "summary": "CVE ID :CVE-2026-121597 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :A weakness has been identified in TOTOLINK A950RG 4.1.2cu.5268_B20221104. This affects the function...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:27+00:00"
+    },
+    {
+      "title": "CVE-2026-118628 - MLflow get-artifacts Server-Side Request Forgery Information Disclosure Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118628",
+      "summary": "CVE ID :CVE-2026-118628 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :MLflow get-artifacts Server-Side Request Forgery Information Disclosure Vulnerability. This...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:24+00:00"
+    },
+    {
+      "title": "CVE-2026-114550 - libwebsockets MQTT Protocol PUBACK Packet Handling Out-Of-Bounds Write Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114550",
+      "summary": "CVE ID :CVE-2026-114550 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :libwebsockets MQTT Protocol PUBACK Packet Handling Out-Of-Bounds Write Remote Code Execution...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-114549 - NoMachine nxwebrunner Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114549",
+      "summary": "CVE ID :CVE-2026-114549 Published : Nov. 4, 2026, 12:17 a.m. | 2 hours, 50 minutes ago Description :NoMachine nxwebrunner Heap-based Buffer Overflow Remote Code Execution Vulnerability. This...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T00:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-121731 - RosarioSIS before 12.9 SQL Injection via period_id in Attendance Absence Report",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121731",
+      "summary": "CVE ID :CVE-2026-121731 Published : Nov. 3, 2026, 11:17 p.m. | 3 hours, 50 minutes ago Description :RosarioSIS before 12.9 contains a sql injection vulnerability that allows authenticated non-student...",
+      "source": "CVE Feed",
+      "published": "2026-11-03T23:17:36+00:00"
+    },
     {
       "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
@@ -28,181 +210,6 @@
       "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
       "source": "BleepingComputer",
       "published": "2026-11-03T21:28:44+00:00"
-    },
-    {
-      "title": "CVE-2026-82158 - Dell Wyse Management Suite Cross-Site Scripting Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-82158",
-      "summary": "CVE ID :CVE-2026-82158 Published : Nov. 3, 2026, 8:52 p.m. | 20 minutes ago Description :Dell Wyse Management Suite, versions prior to 2609.0.0.155, contain an Improper Neutralization of Input During...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:52:46+00:00"
-    },
-    {
-      "title": "CVE-2026-82159 - Dell Wyse Management Suite Cross-Site Scripting Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-82159",
-      "summary": "CVE ID :CVE-2026-82159 Published : Nov. 3, 2026, 8:50 p.m. | 22 minutes ago Description :Dell Wyse Management Suite, versions prior to 2609.0.0.155, contain an Improper Neutralization of Input During...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:50:52+00:00"
-    },
-    {
-      "title": "CVE-2026-115731 - Report Deserialization Code Execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115731",
-      "summary": "CVE ID :CVE-2026-115731 Published : Nov. 3, 2026, 8:40 p.m. | 32 minutes ago Description :Deserialization of untrusted data in the report-processing code of Puppet, as used by Puppet Server, in the...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:40:10+00:00"
-    },
-    {
-      "title": "CVE-2026-115732 - Certificate Name Authorization Bypass",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115732",
-      "summary": "CVE ID :CVE-2026-115732 Published : Nov. 3, 2026, 8:38 p.m. | 34 minutes ago Description :Incorrect authorization in the certificate-name matching of trapperkeeper-authorization, as used by Puppet...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:38:24+00:00"
-    },
-    {
-      "title": "CVE-2026-95741 - Authenticated Missing Integrity Verification in API of HPE Networking Fabric Composer",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95741",
-      "summary": "CVE ID :CVE-2026-95741 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :A missing integrity verification vulnerability exists in the API of HPE Networking Fabric Composer. Successful...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:22+00:00"
-    },
-    {
-      "title": "CVE-2026-95740 - Unauthenticated Adjacent Improper Certificate Validation Vulnerability leads to Information Disclosure in HPE Networking Fabric Composer",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95740",
-      "summary": "CVE ID :CVE-2026-95740 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :An improper certificate validation vulnerability in HPE Networking Fabric Composer could allow an...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:22+00:00"
-    },
-    {
-      "title": "CVE-2026-95739 - Unauthenticated Improper Restriction of Excessive Authentication Attempts in the API of HPE Networking Fabric Composer",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95739",
-      "summary": "CVE ID :CVE-2026-95739 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :An improper restriction of excessive authentication attempts vulnerability in the API of HPE Networking Fabric...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:22+00:00"
-    },
-    {
-      "title": "CVE-2026-95738 - Authentication Bypass in the Affected Interface of HPE Networking Fabric Composer",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95738",
-      "summary": "CVE ID :CVE-2026-95738 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :Authentication bypass vulnerabilities in the affected interface of HPE Networking Fabric Composer could allow...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:22+00:00"
-    },
-    {
-      "title": "CVE-2026-95737 - Local Privilege Escalation in HPE Networking Fabric Composer",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95737",
-      "summary": "CVE ID :CVE-2026-95737 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :A privilege escalation vulnerability exists in the underlying operating system of HPE Networking Fabric...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:21+00:00"
-    },
-    {
-      "title": "CVE-2026-95736 - Unauthenticated Adjacent Improper Certificate Validation Vulnerabilities in HPE Networking Fabric Composer",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95736",
-      "summary": "CVE ID :CVE-2026-95736 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :Improper certificate validation vulnerabilities exist in the affected interface of HPE Networking Fabric...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:21+00:00"
-    },
-    {
-      "title": "CVE-2026-95735 - Improper Certificate Validation in HPE Networking Fabric Composer",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95735",
-      "summary": "CVE ID :CVE-2026-95735 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :An improper certificate validation vulnerability exists in HPE Networking Fabric Composer. Successful...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:21+00:00"
-    },
-    {
-      "title": "CVE-2026-95734 - Authenticated Sensitive Information Disclosure in HPE Networking Fabric Composer API",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95734",
-      "summary": "CVE ID :CVE-2026-95734 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :A sensitive information disclosure vulnerability in the API of HPE Networking Fabric Composer could allow an...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:21+00:00"
-    },
-    {
-      "title": "CVE-2026-95733 - Use of Hardcoded Credentials in HPE Networking Fabric Composer Could Allow Adjacent Arbitrary Code Execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95733",
-      "summary": "CVE ID :CVE-2026-95733 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :A vulnerability exists in a component of HPE Networking Fabric Composer. Successful exploitation could allow...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:21+00:00"
-    },
-    {
-      "title": "CVE-2026-95732 - Authentication Bypass in HPE Networking Fabric Composer allows Arbitrary Code Execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95732",
-      "summary": "CVE ID :CVE-2026-95732 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :An authentication bypass vulnerability exists in the underlying operating system of HPE Networking Fabric...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:21+00:00"
-    },
-    {
-      "title": "CVE-2026-95731 - Unauthenticated Hardcoded Password Vulnerabilities in HPE Networking Fabric Composer Command-Line Interface allow Unauthorized Administrative Access",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95731",
-      "summary": "CVE ID :CVE-2026-95731 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :Hardcoded password vulnerabilities in the command-line interface of HPE Networking Fabric Composer could allow...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:21+00:00"
-    },
-    {
-      "title": "CVE-2026-95724 - Unauthenticated Improper Certificate Validation leads to Authentication Bypass in HPE Networking Virtual Intranet Access (VIA)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95724",
-      "summary": "CVE ID :CVE-2026-95724 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :An improper certificate validation vulnerability exists in HPE Networking Virtual Intranet Access (VIA)...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:20+00:00"
-    },
-    {
-      "title": "CVE-2026-95723 - Authenticated Local Missing Integrity Verification Vulnerability leads to Local Privilege Escalation in Virtual Intranet Access (VIA) Client",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95723",
-      "summary": "CVE ID :CVE-2026-95723 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :A missing integrity verification vulnerability has been discovered in the Virtual Intranet Access (VIA)...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:20+00:00"
-    },
-    {
-      "title": "CVE-2026-95722 - Local Privilege Escalation Vulnerability in the Virtual Intranet Access (VIA) Client",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-95722",
-      "summary": "CVE ID :CVE-2026-95722 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :A local privilege escalation vulnerability has been discovered in the Virtual Intranet Access (VIA) client...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:20+00:00"
-    },
-    {
-      "title": "CVE-2026-63502 - Yeti: Path traversal in ExportTask name allows authenticated arbitrary file read and write",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63502",
-      "summary": "CVE ID :CVE-2026-63502 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :Yeti bridges the gap between CTI and DFIR practitioners by providing a Forensics Intelligence platform and...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:17+00:00"
-    },
-    {
-      "title": "CVE-2026-63471 - fastapi-code-generator: Import-time RCE via route path -> unescaped @app.get('...') decorator",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63471",
-      "summary": "CVE ID :CVE-2026-63471 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :fastapi-code-generator creates FastAPI applications from OpenAPI files. Prior to 0.8.1, the generator inserts...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:15+00:00"
-    },
-    {
-      "title": "CVE-2026-63470 - fastapi-code-generator: Call-time RCE via operation summary -> unescaped route-handler docstring",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63470",
-      "summary": "CVE ID :CVE-2026-63470 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :fastapi-code-generator creates FastAPI applications from OpenAPI files. Prior to 0.8.1, the generator inserts...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:15+00:00"
-    },
-    {
-      "title": "CVE-2026-63469 - fastapi-code-generator: Import-time RCE via response status-code key -> unescaped @app.get(..., responses={...}) dict",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63469",
-      "summary": "CVE ID :CVE-2026-63469 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :fastapi-code-generator creates FastAPI applications from OpenAPI files. Prior to 0.8.1, the generator inserts...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:15+00:00"
-    },
-    {
-      "title": "CVE-2026-63395 - isomorphic-git: Arbitrary file write outside the working tree via a directory symlink during checkout (potential RCE)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63395",
-      "summary": "CVE ID :CVE-2026-63395 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :isomorphic-git is a pure JavaScript implementation of Git for Node.js and browsers. Prior to 1.38.6...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:14+00:00"
-    },
-    {
-      "title": "CVE-2026-54161 - upsmon: remote OS command injection (RCE) via attacker-controlled ups.alarm in NOTIFYCMD execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54161",
-      "summary": "CVE ID :CVE-2026-54161 Published : Nov. 3, 2026, 8:18 p.m. | 54 minutes ago Description :Network UPS Tools is a collection of programs which provide a common interface for monitoring and...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:14+00:00"
-    },
-    {
-      "title": "CVE-2026-105822 - Server-Side Request Forgery in Tapo Cloud MQTT Proxy",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105822",
-      "summary": "CVE ID :CVE-2026-105822 Published : Nov. 3, 2026, 8:18 p.m. | 55 minutes ago Description :The Tapo Cloud MQTT proxy contains a server-side request forgery (SSRF) vulnerability because it accepts a...",
-      "source": "CVE Feed",
-      "published": "2026-11-03T20:18:06+00:00"
     },
     {
       "title": "Binance says fake job interview led to $6.3 billion crypto heist",
@@ -242,8 +249,8 @@
     {
       "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
       "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-      "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The...",
-      "source": "The Hacker News",
+      "summary": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T18:16:19+00:00"
     },
     {
@@ -277,15 +284,15 @@
     {
       "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
       "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-      "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible...",
-      "source": "The Hacker News",
+      "summary": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T15:59:19+00:00"
     },
     {
       "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
       "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-      "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called...",
-      "source": "The Hacker News",
+      "summary": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T15:41:53+00:00"
     },
     {
@@ -396,8 +403,8 @@
     {
       "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
       "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest...",
-      "source": "The Hacker News",
+      "summary": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T11:23:53+00:00"
     },
     {
@@ -410,8 +417,8 @@
     {
       "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
       "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group...",
-      "source": "The Hacker News",
+      "summary": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T11:00:45+00:00"
     },
     {
@@ -459,8 +466,8 @@
     {
       "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
       "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-      "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed...",
-      "source": "The Hacker News",
+      "summary": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T07:43:07+00:00"
     },
     {
@@ -473,15 +480,15 @@
     {
       "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
       "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-      "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS...",
-      "source": "The Hacker News",
+      "summary": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T05:34:41+00:00"
     },
     {
       "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
       "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-      "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability...",
-      "source": "The Hacker News",
+      "summary": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T05:34:37+00:00"
     },
     {
@@ -522,8 +529,8 @@
     {
       "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
       "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was...",
-      "source": "The Hacker News",
+      "summary": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared...",
+      "source": "CVE Newsroom",
       "published": "2026-11-02T16:57:56+00:00"
     },
     {
@@ -592,8 +599,8 @@
     {
       "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
       "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and...",
-      "source": "The Hacker News",
+      "summary": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code...",
+      "source": "CVE Newsroom",
       "published": "2026-11-02T11:50:00+00:00"
     },
     {
@@ -627,8 +634,8 @@
     {
       "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
       "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the...",
-      "source": "The Hacker News",
+      "summary": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without...",
+      "source": "CVE Newsroom",
       "published": "2026-11-01T08:51:31+00:00"
     },
     {
@@ -662,8 +669,8 @@
     {
       "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
       "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog...",
-      "source": "The Hacker News",
+      "summary": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting...",
+      "source": "CVE Newsroom",
       "published": "2026-10-31T08:27:43+00:00"
     },
     {
@@ -739,8 +746,8 @@
     {
       "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
       "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes...",
-      "source": "The Hacker News",
+      "summary": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that...",
+      "source": "CVE Newsroom",
       "published": "2026-10-30T15:17:28+00:00"
     },
     {
@@ -823,15 +830,15 @@
     {
       "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
       "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of...",
-      "source": "The Hacker News",
+      "summary": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core...",
+      "source": "CVE Newsroom",
       "published": "2026-10-30T07:45:30+00:00"
     },
     {
       "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
       "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence...",
-      "source": "The Hacker News",
+      "summary": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and...",
+      "source": "CVE Newsroom",
       "published": "2026-10-30T07:27:05+00:00"
     },
     {
@@ -1155,13 +1162,6 @@
       "summary": "The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.",
       "source": "Dark Reading",
       "published": "2026-10-21T20:14:42+00:00"
-    },
-    {
-      "title": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens",
-      "link": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
-      "summary": "Research finds that, among respondents experiencing data loss, only 16% said DLP blocked their most significant incidents before data left the organization.",
-      "source": "Dark Reading",
-      "published": "2026-10-21T20:03:14+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
