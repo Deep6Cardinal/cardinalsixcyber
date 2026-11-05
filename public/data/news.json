@@ -1,159 +1,208 @@
 {
-  "last_updated": "2026-11-05T01:54:10.579418+00:00",
+  "last_updated": "2026-11-05T08:45:09.070494+00:00",
   "articles": [
     {
-      "title": "CVE-2026-77372 - VeraCrypt: Heap overflow and out-of-bounds read in Serializable deserialization (elevated Core service input path)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77372",
-      "summary": "CVE ID :CVE-2026-77372 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 1 minute ago Description :VeraCrypt provides disk encryption with strong security based on TrueCrypt. Prior to 1.26.30, the Unix...",
+      "title": "CVE-2026-123033 - TrueNAS SCALE middlewared Authentication Bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123033",
+      "summary": "CVE ID :CVE-2026-123033 Published : Nov. 5, 2026, 7:17 a.m. | 1 hour, 9 minutes ago Description :Authentication bypass in the HA heartbeat origin check in middlewared in TrueNAS SCALE before 25.10.8...",
       "source": "CVE Feed",
-      "published": "2026-11-04T23:17:58+00:00"
+      "published": "2026-11-05T07:17:26+00:00"
     },
     {
-      "title": "CVE-2026-76892 - tsParticles: Malformed JSON requests can terminate the @tsparticles/mcp-server HTTP process",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76892",
-      "summary": "CVE ID :CVE-2026-76892 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 1 minute ago Description :tsParticles is a TypeScript library for creating highly customizable particle animations. Prior to...",
+      "title": "CVE-2026-123025 - OPNsense os-acme-client Google Cloud DNS OS Command Injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123025",
+      "summary": "CVE ID :CVE-2026-123025 Published : Nov. 5, 2026, 7:17 a.m. | 1 hour, 9 minutes ago Description :An OS Command Injection vulnerability was discovered in the Google Cloud DNS validation module of the...",
       "source": "CVE Feed",
-      "published": "2026-11-04T23:17:58+00:00"
+      "published": "2026-11-05T07:17:25+00:00"
     },
     {
-      "title": "CVE-2026-54384 - VitaFit Cloud API Authentication Bypass via POST /front/login/sns/",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54384",
-      "summary": "CVE ID :CVE-2026-54384 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 1 minute ago Description :VitaFit cloud API before 2026-10-30 contained an authentication bypass vulnerability that allows remote...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T23:17:48+00:00"
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+      "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone...",
+      "source": "The Hacker News",
+      "published": "2026-11-05T07:06:33+00:00"
     },
     {
-      "title": "CVE-2026-54381 - VitaFit Cloud API Storage Bucket Unauthenticated Access Information Disclosure",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54381",
-      "summary": "CVE ID :CVE-2026-54381 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 1 minute ago Description :VitaFit cloud API before 2026-10-30 contained a misconfigured cloud storage bucket vulnerability that...",
+      "title": "CVE-2026-123014 - iTerm2 Argument Injection Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123014",
+      "summary": "CVE ID :CVE-2026-123014 Published : Nov. 5, 2026, 6:17 a.m. | 2 hours, 9 minutes ago Description :iTerm2 before 3.7.7beta2 has an argument injection vulnerability in the x-man-page: URL handler...",
       "source": "CVE Feed",
-      "published": "2026-11-04T23:17:48+00:00"
+      "published": "2026-11-05T06:17:07+00:00"
     },
     {
-      "title": "CVE-2026-52848 - GLPI: MFA bypass",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-52848",
-      "summary": "CVE ID :CVE-2026-52848 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 1 minute ago Description :GLPI is a free asset and IT management software package. From 11.0.0 until 11.0.8, during the login...",
+      "title": "CVE-2026-93389 - LiteSpeed Cache <= 7.9.1 - Unauthenticated Sensitive Information Disclosure (WooCommerce Store API Cart/Checkout PII + Cart-Token) via Public REST Caching",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-93389",
+      "summary": "CVE ID :CVE-2026-93389 Published : Nov. 5, 2026, 5:18 a.m. | 3 hours, 8 minutes ago Description :The LiteSpeed Cache plugin for WordPress is vulnerable to unauthenticated disclosure of sensitive...",
       "source": "CVE Feed",
-      "published": "2026-11-04T23:17:46+00:00"
+      "published": "2026-11-05T05:18:40+00:00"
     },
     {
-      "title": "CVE-2026-47678 - GLPI: Blind Time based SQLI in dropdowns",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-47678",
-      "summary": "CVE ID :CVE-2026-47678 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 1 minute ago Description :GLPI is a free asset and IT management software package. From 9.4.0 until 10.0.26 and 11.0.8, any...",
+      "title": "CVE-2026-118193 - GiveWP <= 4.19.1 - Authenticated (Custom+) Privilege Escalation to 'donor_default_user_role' Parameter",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118193",
+      "summary": "CVE ID :CVE-2026-118193 Published : Nov. 5, 2026, 5:18 a.m. | 3 hours, 8 minutes ago Description :The GiveWP – Donation Plugin and Fundraising Platform plugin for WordPress is vulnerable to Privilege...",
       "source": "CVE Feed",
-      "published": "2026-11-04T23:17:34+00:00"
+      "published": "2026-11-05T05:18:19+00:00"
     },
     {
-      "title": "CVE-2026-122299 - Dulwich before 1.2.20 Commit Parser Tree Header Misinterpretation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122299",
-      "summary": "CVE ID :CVE-2026-122299 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 2 minutes ago Description :Dulwich before 1.2.20 contains a commit object parsing vulnerability where the read path in...",
+      "title": "CVE-2026-116617 - Motors <= 1.4.128 - Authenticated (Subscriber+) File Deletion via 'stm_dealer_logo_path' Parameter",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116617",
+      "summary": "CVE ID :CVE-2026-116617 Published : Nov. 5, 2026, 5:18 a.m. | 3 hours, 8 minutes ago Description :The Motors – Car Dealership & Classified Listings Plugin plugin for WordPress is vulnerable to File...",
       "source": "CVE Feed",
-      "published": "2026-11-04T23:17:23+00:00"
+      "published": "2026-11-05T05:18:19+00:00"
     },
     {
-      "title": "CVE-2026-115770 - Pocket ID: Email verification token remains valid after address change, enabling arbitrary verified-email spoofing",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115770",
-      "summary": "CVE ID :CVE-2026-115770 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 2 minutes ago Description :Pocket ID is an OIDC provider that allows users to authenticate with their passkeys to services. From...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T23:17:18+00:00"
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "summary": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-05T05:17:04+00:00"
     },
     {
-      "title": "CVE-2026-108387 - radare2: Remote code execution when loading Pebble/SMD binary",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108387",
-      "summary": "CVE ID :CVE-2026-108387 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 2 minutes ago Description :radare2 is a UNIX-like reverse engineering framework and command-line toolset. Prior to 6.2.2...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T23:17:18+00:00"
+      "title": "Want to Rent an Internet Address at the White House?",
+      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts...",
+      "source": "Krebs on Security",
+      "published": "2026-11-05T04:36:17+00:00"
     },
     {
-      "title": "CVE-2026-97693 - Yuxi sandbox isolation failure allows cross-tenant access and internal service compromise",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-97693",
-      "summary": "CVE ID :CVE-2026-97693 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :Yuxi is a large-model-based intelligent knowledge base and knowledge graph agent development platform...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T22:18:07+00:00"
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for...",
+      "source": "The Hacker News",
+      "published": "2026-11-05T04:31:16+00:00"
     },
     {
-      "title": "CVE-2026-57567 - Readest: Unscoped Tauri IPC download_file/upload_file allow arbitrary local file write and read from the webview",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-57567",
-      "summary": "CVE ID :CVE-2026-57567 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :Readest is a modern, feature-rich ebook reader designed for seamless cross-platform access and an...",
+      "title": "CVE-2026-122992 - DStarGateway Integer Underflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122992",
+      "summary": "CVE ID :CVE-2026-122992 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :In G4KLX DStarGateway and F4FXL DStarGateway before 7b75de6, dstarCallsignToAPRS in APRSUtils.cpp has...",
       "source": "CVE Feed",
-      "published": "2026-11-04T22:18:07+00:00"
+      "published": "2026-11-05T03:17:25+00:00"
     },
     {
-      "title": "CVE-2026-57566 - Readest: Unauthenticated SSRF / open request proxy in /api/opds/proxy",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-57566",
-      "summary": "CVE ID :CVE-2026-57566 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :Readest is a modern, feature-rich ebook reader designed for seamless cross-platform access and an...",
+      "title": "CVE-2026-122323 - Kyverno 1.11.0 before 1.19.2 Memory Exhaustion via Notary Signature Decompression",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122323",
+      "summary": "CVE ID :CVE-2026-122323 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno from 1.11.0 before 1.19.2 contains an unbounded decompression vulnerability in...",
       "source": "CVE Feed",
-      "published": "2026-11-04T22:18:06+00:00"
+      "published": "2026-11-05T03:17:25+00:00"
     },
     {
-      "title": "CVE-2026-55368 - h2o: buffer overflow when using the %{error}x log directive",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-55368",
-      "summary": "CVE ID :CVE-2026-55368 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :h2o is an HTTP server with support for HTTP/1.x, HTTP/2 and HTTP/3. Prior to commit...",
+      "title": "CVE-2026-122322 - Kyverno from 1.11.0 before 1.19.2 Memory Exhaustion via Notary Attestation Decompression",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122322",
+      "summary": "CVE ID :CVE-2026-122322 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno from 1.11.0 before 1.19.2 contains an unbounded decompression vulnerability in...",
       "source": "CVE Feed",
-      "published": "2026-11-04T22:18:06+00:00"
+      "published": "2026-11-05T03:17:25+00:00"
     },
     {
-      "title": "CVE-2026-54378 - VitaFit Cloud API Broken Access Control via S3 Token Endpoint",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54378",
-      "summary": "CVE ID :CVE-2026-54378 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :VitaFit cloud API before 2026-10-30 contained a broken access control vulnerability that allows any...",
+      "title": "CVE-2026-122321 - Kyverno 1.18.0 before 1.19.2 verifyImages Cache Signature Verification Bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122321",
+      "summary": "CVE ID :CVE-2026-122321 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno 1.18.0 before 1.19.2 contains a signature verification bypass in verifyImages because cached...",
       "source": "CVE Feed",
-      "published": "2026-11-04T22:18:05+00:00"
+      "published": "2026-11-05T03:17:25+00:00"
     },
     {
-      "title": "CVE-2026-54376 - VitaFit Android < 2.8.1.0 Custom URI Scheme Token Hijacking",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54376",
-      "summary": "CVE ID :CVE-2026-54376 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :VitaFit Android application (com.vt.vitafit) before 2.8.1.0 contains an insecure custom URI scheme...",
+      "title": "CVE-2026-122320 - Kyverno before 1.19.2 Cross-Namespace Resource Read via generate.clone",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122320",
+      "summary": "CVE ID :CVE-2026-122320 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno before 1.19.2 contains a missing authorization vulnerability that allows namespaced Policy...",
       "source": "CVE Feed",
-      "published": "2026-11-04T22:18:05+00:00"
+      "published": "2026-11-05T03:17:24+00:00"
     },
     {
-      "title": "CVE-2026-54375 - VitaFit Android < 2.8.1.0 Long-Lived Session Token Exposure",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54375",
-      "summary": "CVE ID :CVE-2026-54375 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :VitaFit Android application (com.vt.vitafit) before 2.8.1.0 contains an insecure session management...",
+      "title": "CVE-2026-122319 - Kyverno before 1.19.2 Denial of Service via In/NotIn Operator Panic",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122319",
+      "summary": "CVE ID :CVE-2026-122319 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno before 1.19.2 contains a denial-of-service vulnerability in the In and NotIn operators that...",
       "source": "CVE Feed",
-      "published": "2026-11-04T22:18:05+00:00"
+      "published": "2026-11-05T03:17:24+00:00"
     },
     {
-      "title": "CVE-2026-54374 - VitaFit Android < 2.8.1.0 Hardcoded Credentials Disclosure",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54374",
-      "summary": "CVE ID :CVE-2026-54374 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :VitaFit Android application (com.vt.vitafit) before 2.8.1.0 contains a hardcoded credentials...",
+      "title": "CVE-2026-122316 - Kyverno 1.17.0 before 1.19.2 Cross-Namespace Write via NamespacedMutatingPolicy mutateExisting",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122316",
+      "summary": "CVE ID :CVE-2026-122316 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno from 1.17.0 before 1.19.2 contains a missing authorization vulnerability in the...",
       "source": "CVE Feed",
-      "published": "2026-11-04T22:18:05+00:00"
+      "published": "2026-11-05T03:17:24+00:00"
     },
     {
-      "title": "CVE-2026-54372 - VitaFit Android < 2.8.1.0 Insecure TLS Certificate Validation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54372",
-      "summary": "CVE ID :CVE-2026-54372 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :VitaFit Android application (com.vt.vitafit) before 2.8.1.0 contains an insecure TLS/SSL certificate...",
+      "title": "CVE-2026-122315 - Kyverno before 1.19.2 Image Verification Bypass via Attestation Type Panic",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122315",
+      "summary": "CVE ID :CVE-2026-122315 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno before 1.19.2 contains an unchecked type assertion in buildStatementMap that allows...",
       "source": "CVE Feed",
-      "published": "2026-11-04T22:18:04+00:00"
+      "published": "2026-11-05T03:17:24+00:00"
     },
     {
-      "title": "CVE-2026-122266 - Improper isolation of shared resources in aws-network-policy-agent in Amazon EKS",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122266",
-      "summary": "CVE ID :CVE-2026-122266 Published : Nov. 4, 2026, 10:17 p.m. | 2 hours, 1 minute ago Description :Improper isolation of shared resources in aws-network-policy-agent in Amazon EKS Network Policy Agent...",
+      "title": "CVE-2026-122314 - Kyverno before 1.19.2 Denial of Service via Shallow Variable Substitution Panic",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122314",
+      "summary": "CVE ID :CVE-2026-122314 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno before 1.19.2 contains an unchecked type assertion in its variable-substitution engine that...",
       "source": "CVE Feed",
-      "published": "2026-11-04T22:17:56+00:00"
+      "published": "2026-11-05T03:17:24+00:00"
     },
     {
-      "title": "CVE-2026-103002 - GPUStack: Missing authorization on several cluster and resource endpoints allows cross-user access and cluster takeover",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-103002",
-      "summary": "CVE ID :CVE-2026-103002 Published : Nov. 4, 2026, 10:17 p.m. | 2 hours, 1 minute ago Description :GPUStack is an open-source GPU cluster manager for AI model serving and GPU instance provisioning...",
+      "title": "CVE-2026-122313 - Kyverno 1.17.0 before 1.19.2 Cross-Namespace Privilege Escalation via NamespacedMutatingPolicy",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122313",
+      "summary": "CVE ID :CVE-2026-122313 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno from 1.17.0 before 1.19.2 contains a privilege escalation vulnerability that allows...",
       "source": "CVE Feed",
-      "published": "2026-11-04T22:17:44+00:00"
+      "published": "2026-11-05T03:17:23+00:00"
     },
     {
-      "title": "CVE-2026-102895 - GPUStack: Authentication bypass via trusted loopback source (reverse-proxy TCP peer or X-GPUStack-Real-IP header) grants unauthenticated admin",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102895",
-      "summary": "CVE ID :CVE-2026-102895 Published : Nov. 4, 2026, 10:17 p.m. | 2 hours, 1 minute ago Description :GPUStack is an open-source GPU cluster manager for AI model serving and GPU instance provisioning...",
+      "title": "CVE-2026-122312 - Kyverno 1.19.1 before 1.19.2 Namespace Isolation Bypass via APICall URLPath Query String",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122312",
+      "summary": "CVE ID :CVE-2026-122312 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno from 1.19.1 before 1.19.2 contains a namespace isolation bypass in APICall Fetch() in...",
       "source": "CVE Feed",
-      "published": "2026-11-04T22:17:44+00:00"
+      "published": "2026-11-05T03:17:23+00:00"
     },
     {
-      "title": "CVE-2026-102894 - GPUStack: SAML callback trusts an unverified SAMLResponse, allowing authentication bypass and account takeover",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102894",
-      "summary": "CVE ID :CVE-2026-102894 Published : Nov. 4, 2026, 10:17 p.m. | 2 hours, 1 minute ago Description :GPUStack is an open-source GPU cluster manager for AI model serving and GPU instance provisioning...",
+      "title": "CVE-2026-122311 - Kyverno 1.16.0 before 1.19.2 Path Traversal in Namespaced CEL Policies via resource argument",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122311",
+      "summary": "CVE ID :CVE-2026-122311 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno from 1.16.0 before 1.19.2 fails to validate path segments in the resource argument of...",
       "source": "CVE Feed",
-      "published": "2026-11-04T22:17:44+00:00"
+      "published": "2026-11-05T03:17:23+00:00"
+    },
+    {
+      "title": "CVE-2026-122310 - Kyverno 1.19.1 before 1.19.2 Privilege Escalation via Policy apiCall urlPath",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122310",
+      "summary": "CVE ID :CVE-2026-122310 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno from 1.19.1 before 1.19.2 validates a Policy's context.apiCall urlPath after cleaning it but...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T03:17:23+00:00"
+    },
+    {
+      "title": "CVE-2026-122309 - Kyverno before 1.19.2 Denial of Service via Unbounded CEL Policy Evaluation Cost",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122309",
+      "summary": "CVE ID :CVE-2026-122309 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno before 1.19.2 contains a denial of service vulnerability that allows namespace-scoped policy...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T03:17:23+00:00"
+    },
+    {
+      "title": "CVE-2026-122308 - Kyverno before 1.19.2 Label Spoofing via Generation Handler processRequest",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122308",
+      "summary": "CVE ID :CVE-2026-122308 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno before 1.19.2 contains an authorization bypass vulnerability in the Generation Handler that...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T03:17:23+00:00"
+    },
+    {
+      "title": "CVE-2026-122307 - Kyverno before 1.19.2 Policy Bypass via admissionpolicygenerator PolicyException Handling",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122307",
+      "summary": "CVE ID :CVE-2026-122307 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno before 1.19.2 contains a policy bypass vulnerability in the admissionpolicygenerator...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T03:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-122306 - Kyverno before 1.19.2 Denial of Service via Exponential-Time Wildcard Matching",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122306",
+      "summary": "CVE ID :CVE-2026-122306 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno before 1.19.2 contains a denial of service vulnerability that allows namespaced policy...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T03:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-122305 - Kyverno before 1.19.2 Denial of Service via Nested Variable Substitution Loop",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122305",
+      "summary": "CVE ID :CVE-2026-122305 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno before 1.19.2 contains a denial of service vulnerability in substituteVariablesIfAny that...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T03:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-122304 - Kyverno 1.17.0 before 1.19.2 Privilege Escalation via CleanupPolicy Context Loader",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122304",
+      "summary": "CVE ID :CVE-2026-122304 Published : Nov. 5, 2026, 3:17 a.m. | 5 hours, 9 minutes ago Description :Kyverno from 1.17.0 before 1.19.2 contains an authorization bypass vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T03:17:22+00:00"
     },
     {
       "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
@@ -175,27 +224,6 @@
       "summary": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group...",
       "source": "The Record",
       "published": "2026-11-04T21:30:00+00:00"
-    },
-    {
-      "title": "CVE-2026-82418 - IBM Watson Speech Services Cartridge is vulnerable to a Use After Free condition in cryptography wheels OpenSSL",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-82418",
-      "summary": "CVE ID :CVE-2026-82418 Published : Nov. 4, 2026, 9:18 p.m. | 3 hours, 1 minute ago Description :IBM Watson Speech Services Cartridge 4.0.0 through 5.4.0 could allow a remote attacker to execute...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T21:18:14+00:00"
-    },
-    {
-      "title": "CVE-2026-13292 - IBM MQ Managed File Transfer is affected by an arbitrary code execution vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-13292",
-      "summary": "CVE ID :CVE-2026-13292 Published : Nov. 4, 2026, 9:18 p.m. | 3 hours, 1 minute ago Description :IBM MQ 9.2.0.0 through 9.2.0.44 LTS, 9.3.0.0 through 9.3.0.42 LTS, 9.4.0.0 through 9.4.0.26 LTS...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T21:18:12+00:00"
-    },
-    {
-      "title": "CVE-2026-13271 - IBM MQ Managed File Transfer is affected by a denial of service vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-13271",
-      "summary": "CVE ID :CVE-2026-13271 Published : Nov. 4, 2026, 9:18 p.m. | 3 hours, 1 minute ago Description :IBM MQ 9.2.0.0 through 9.2.0.44 LTS, 9.3.0.0 through 9.3.0.42 LTS, 9.4.0.0 through 9.4.0.26 LTS...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T21:18:11+00:00"
     },
     {
       "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
@@ -800,13 +828,6 @@
       "published": "2026-10-31T04:56:12+00:00"
     },
     {
-      "title": "CISA Adds 10 Vulnerabilities to the KEV Catalog: Weekly Security Briefing",
-      "link": "https://thecyberthrone.in/2026/10/31/cisa-adds-10-vulnerabilities-to-the-kev-catalog-weekly-security-briefing/",
-      "summary": "CISA Adds 10 Vulnerabilities to the KEV Catalog: Weekly Security Briefing CISA’s Known Exploited Vulnerabilities (KEV) Catalog identifies security vulnerabilities for which exploitation has been...",
-      "source": "CVE Newsroom",
-      "published": "2026-10-31T03:35:39+00:00"
-    },
-    {
       "title": "Investors Dish on New Startups & What They'd Back Next",
       "link": "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
       "summary": "The cybersecurity market is difficult to predict, but a glimpse into the annual DataTribe Challenge shows what's trending and what's not.",
@@ -884,32 +905,11 @@
       "published": "2026-10-30T10:40:45+00:00"
     },
     {
-      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to...",
-      "source": "The Hacker News",
-      "published": "2026-10-30T08:55:47+00:00"
-    },
-    {
       "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
       "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
       "summary": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.",
       "source": "Dark Reading",
       "published": "2026-10-30T08:00:00+00:00"
-    },
-    {
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of...",
-      "source": "The Hacker News",
-      "published": "2026-10-30T07:45:30+00:00"
-    },
-    {
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence...",
-      "source": "The Hacker News",
-      "published": "2026-10-30T07:27:05+00:00"
     },
     {
       "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
@@ -1183,13 +1183,6 @@
       "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced...",
       "source": "Krebs on Security",
       "published": "2026-09-25T21:44:40+00:00"
-    },
-    {
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up...",
-      "source": "Krebs on Security",
-      "published": "2026-09-16T18:14:22+00:00"
     }
   ]
 }
