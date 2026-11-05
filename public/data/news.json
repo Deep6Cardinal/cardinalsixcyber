@@ -1,61 +1,208 @@
 {
-  "last_updated": "2026-11-04T20:36:17.498833+00:00",
+  "last_updated": "2026-11-05T01:54:10.579418+00:00",
   "articles": [
     {
-      "title": "CVE-2026-82033 - DeepSeek Harness Unauthenticated RPC Command Execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-82033",
-      "summary": "CVE ID :CVE-2026-82033 Published : Nov. 4, 2026, 7:17 p.m. | 37 minutes ago Description :DeepSeek Harness prior to 0.1.2-alpha.2, and specifically commit 3e24087, contains a missing authentication...",
+      "title": "CVE-2026-77372 - VeraCrypt: Heap overflow and out-of-bounds read in Serializable deserialization (elevated Core service input path)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77372",
+      "summary": "CVE ID :CVE-2026-77372 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 1 minute ago Description :VeraCrypt provides disk encryption with strong security based on TrueCrypt. Prior to 1.26.30, the Unix...",
       "source": "CVE Feed",
-      "published": "2026-11-04T19:17:41+00:00"
+      "published": "2026-11-04T23:17:58+00:00"
     },
     {
-      "title": "CVE-2026-122148 - Yealink MeetingBoard Pro Front-End Validation Bypass Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122148",
-      "summary": "CVE ID :CVE-2026-122148 Published : Nov. 4, 2026, 7:17 p.m. | 37 minutes ago Description :In Yealink MeetingBoard Pro before 331.320.0.64, the Web management module has a front-end validation bypass...",
+      "title": "CVE-2026-76892 - tsParticles: Malformed JSON requests can terminate the @tsparticles/mcp-server HTTP process",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76892",
+      "summary": "CVE ID :CVE-2026-76892 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 1 minute ago Description :tsParticles is a TypeScript library for creating highly customizable particle animations. Prior to...",
       "source": "CVE Feed",
-      "published": "2026-11-04T19:17:39+00:00"
+      "published": "2026-11-04T23:17:58+00:00"
     },
     {
-      "title": "CVE-2026-122120 - Yealink Plug-in Software Unauthorized File Write Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122120",
-      "summary": "CVE ID :CVE-2026-122120 Published : Nov. 4, 2026, 7:17 p.m. | 37 minutes ago Description :In Yealink Plug-in Softwares before 2.35.219.0, there is an unauthorized file write vulnerability under...",
+      "title": "CVE-2026-54384 - VitaFit Cloud API Authentication Bypass via POST /front/login/sns/",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54384",
+      "summary": "CVE ID :CVE-2026-54384 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 1 minute ago Description :VitaFit cloud API before 2026-10-30 contained an authentication bypass vulnerability that allows remote...",
       "source": "CVE Feed",
-      "published": "2026-11-04T19:17:39+00:00"
+      "published": "2026-11-04T23:17:48+00:00"
     },
     {
-      "title": "CVE-2026-121932 - Linksys E5350 apply.cgi system os command injection",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121932",
-      "summary": "CVE ID :CVE-2026-121932 Published : Nov. 4, 2026, 7:17 p.m. | 37 minutes ago Description :A vulnerability was detected in Linksys E5350 1.0.00.037. This affects the function system of the file...",
+      "title": "CVE-2026-54381 - VitaFit Cloud API Storage Bucket Unauthenticated Access Information Disclosure",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54381",
+      "summary": "CVE ID :CVE-2026-54381 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 1 minute ago Description :VitaFit cloud API before 2026-10-30 contained a misconfigured cloud storage bucket vulnerability that...",
       "source": "CVE Feed",
-      "published": "2026-11-04T19:17:33+00:00"
+      "published": "2026-11-04T23:17:48+00:00"
     },
     {
-      "title": "CVE-2026-121931 - Linksys WRT54GL Traceroute Diagnostic Function apply.cgi system os command injection",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121931",
-      "summary": "CVE ID :CVE-2026-121931 Published : Nov. 4, 2026, 7:17 p.m. | 37 minutes ago Description :A security vulnerability has been detected in Linksys WRT54GL 4.30.18. The impacted element is the function...",
+      "title": "CVE-2026-52848 - GLPI: MFA bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-52848",
+      "summary": "CVE ID :CVE-2026-52848 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 1 minute ago Description :GLPI is a free asset and IT management software package. From 11.0.0 until 11.0.8, during the login...",
       "source": "CVE Feed",
-      "published": "2026-11-04T19:17:33+00:00"
+      "published": "2026-11-04T23:17:46+00:00"
     },
     {
-      "title": "CVE-2026-121930 - Linksys WRT54GL Ping Diagnostic apply.cgi system os command injection",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121930",
-      "summary": "CVE ID :CVE-2026-121930 Published : Nov. 4, 2026, 7:17 p.m. | 37 minutes ago Description :A weakness has been identified in Linksys WRT54GL 4.30.18. The affected element is the function system of the...",
+      "title": "CVE-2026-47678 - GLPI: Blind Time based SQLI in dropdowns",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-47678",
+      "summary": "CVE ID :CVE-2026-47678 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 1 minute ago Description :GLPI is a free asset and IT management software package. From 9.4.0 until 10.0.26 and 11.0.8, any...",
       "source": "CVE Feed",
-      "published": "2026-11-04T19:17:32+00:00"
+      "published": "2026-11-04T23:17:34+00:00"
     },
     {
-      "title": "CVE-2026-113780 - ESF-IDF: Unvalidated Stack Pointer at the ESP-TEE Privilege-Switch Boundary",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-113780",
-      "summary": "CVE ID :CVE-2026-113780 Published : Nov. 4, 2026, 7:17 p.m. | 37 minutes ago Description :ESF-IDF is the Espressif Internet of Things (IOT) Development Framework. From 5.5.5 until 5.5.6, 6.0.4, and...",
+      "title": "CVE-2026-122299 - Dulwich before 1.2.20 Commit Parser Tree Header Misinterpretation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122299",
+      "summary": "CVE ID :CVE-2026-122299 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 2 minutes ago Description :Dulwich before 1.2.20 contains a commit object parsing vulnerability where the read path in...",
       "source": "CVE Feed",
-      "published": "2026-11-04T19:17:18+00:00"
+      "published": "2026-11-04T23:17:23+00:00"
     },
     {
-      "title": "CVE-2026-107846 - bitcoinjs-lib: Undetected merkle node duplication in block root computation validates a forged transaction list",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-107846",
-      "summary": "CVE ID :CVE-2026-107846 Published : Nov. 4, 2026, 7:17 p.m. | 37 minutes ago Description :bitcoinjs-lib is a JavaScript Bitcoin library for Node.js and browsers. From 2.3.0 until 5.2.1, 6.1.8, and...",
+      "title": "CVE-2026-115770 - Pocket ID: Email verification token remains valid after address change, enabling arbitrary verified-email spoofing",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115770",
+      "summary": "CVE ID :CVE-2026-115770 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 2 minutes ago Description :Pocket ID is an OIDC provider that allows users to authenticate with their passkeys to services. From...",
       "source": "CVE Feed",
-      "published": "2026-11-04T19:17:18+00:00"
+      "published": "2026-11-04T23:17:18+00:00"
+    },
+    {
+      "title": "CVE-2026-108387 - radare2: Remote code execution when loading Pebble/SMD binary",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-108387",
+      "summary": "CVE ID :CVE-2026-108387 Published : Nov. 4, 2026, 11:17 p.m. | 1 hour, 2 minutes ago Description :radare2 is a UNIX-like reverse engineering framework and command-line toolset. Prior to 6.2.2...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T23:17:18+00:00"
+    },
+    {
+      "title": "CVE-2026-97693 - Yuxi sandbox isolation failure allows cross-tenant access and internal service compromise",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-97693",
+      "summary": "CVE ID :CVE-2026-97693 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :Yuxi is a large-model-based intelligent knowledge base and knowledge graph agent development platform...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T22:18:07+00:00"
+    },
+    {
+      "title": "CVE-2026-57567 - Readest: Unscoped Tauri IPC download_file/upload_file allow arbitrary local file write and read from the webview",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-57567",
+      "summary": "CVE ID :CVE-2026-57567 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :Readest is a modern, feature-rich ebook reader designed for seamless cross-platform access and an...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T22:18:07+00:00"
+    },
+    {
+      "title": "CVE-2026-57566 - Readest: Unauthenticated SSRF / open request proxy in /api/opds/proxy",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-57566",
+      "summary": "CVE ID :CVE-2026-57566 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :Readest is a modern, feature-rich ebook reader designed for seamless cross-platform access and an...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T22:18:06+00:00"
+    },
+    {
+      "title": "CVE-2026-55368 - h2o: buffer overflow when using the %{error}x log directive",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-55368",
+      "summary": "CVE ID :CVE-2026-55368 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :h2o is an HTTP server with support for HTTP/1.x, HTTP/2 and HTTP/3. Prior to commit...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T22:18:06+00:00"
+    },
+    {
+      "title": "CVE-2026-54378 - VitaFit Cloud API Broken Access Control via S3 Token Endpoint",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54378",
+      "summary": "CVE ID :CVE-2026-54378 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :VitaFit cloud API before 2026-10-30 contained a broken access control vulnerability that allows any...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T22:18:05+00:00"
+    },
+    {
+      "title": "CVE-2026-54376 - VitaFit Android < 2.8.1.0 Custom URI Scheme Token Hijacking",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54376",
+      "summary": "CVE ID :CVE-2026-54376 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :VitaFit Android application (com.vt.vitafit) before 2.8.1.0 contains an insecure custom URI scheme...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T22:18:05+00:00"
+    },
+    {
+      "title": "CVE-2026-54375 - VitaFit Android < 2.8.1.0 Long-Lived Session Token Exposure",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54375",
+      "summary": "CVE ID :CVE-2026-54375 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :VitaFit Android application (com.vt.vitafit) before 2.8.1.0 contains an insecure session management...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T22:18:05+00:00"
+    },
+    {
+      "title": "CVE-2026-54374 - VitaFit Android < 2.8.1.0 Hardcoded Credentials Disclosure",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54374",
+      "summary": "CVE ID :CVE-2026-54374 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :VitaFit Android application (com.vt.vitafit) before 2.8.1.0 contains a hardcoded credentials...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T22:18:05+00:00"
+    },
+    {
+      "title": "CVE-2026-54372 - VitaFit Android < 2.8.1.0 Insecure TLS Certificate Validation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54372",
+      "summary": "CVE ID :CVE-2026-54372 Published : Nov. 4, 2026, 10:18 p.m. | 2 hours, 1 minute ago Description :VitaFit Android application (com.vt.vitafit) before 2.8.1.0 contains an insecure TLS/SSL certificate...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T22:18:04+00:00"
+    },
+    {
+      "title": "CVE-2026-122266 - Improper isolation of shared resources in aws-network-policy-agent in Amazon EKS",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122266",
+      "summary": "CVE ID :CVE-2026-122266 Published : Nov. 4, 2026, 10:17 p.m. | 2 hours, 1 minute ago Description :Improper isolation of shared resources in aws-network-policy-agent in Amazon EKS Network Policy Agent...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T22:17:56+00:00"
+    },
+    {
+      "title": "CVE-2026-103002 - GPUStack: Missing authorization on several cluster and resource endpoints allows cross-user access and cluster takeover",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-103002",
+      "summary": "CVE ID :CVE-2026-103002 Published : Nov. 4, 2026, 10:17 p.m. | 2 hours, 1 minute ago Description :GPUStack is an open-source GPU cluster manager for AI model serving and GPU instance provisioning...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T22:17:44+00:00"
+    },
+    {
+      "title": "CVE-2026-102895 - GPUStack: Authentication bypass via trusted loopback source (reverse-proxy TCP peer or X-GPUStack-Real-IP header) grants unauthenticated admin",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102895",
+      "summary": "CVE ID :CVE-2026-102895 Published : Nov. 4, 2026, 10:17 p.m. | 2 hours, 1 minute ago Description :GPUStack is an open-source GPU cluster manager for AI model serving and GPU instance provisioning...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T22:17:44+00:00"
+    },
+    {
+      "title": "CVE-2026-102894 - GPUStack: SAML callback trusts an unverified SAMLResponse, allowing authentication bypass and account takeover",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102894",
+      "summary": "CVE ID :CVE-2026-102894 Published : Nov. 4, 2026, 10:17 p.m. | 2 hours, 1 minute ago Description :GPUStack is an open-source GPU cluster manager for AI model serving and GPU instance provisioning...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T22:17:44+00:00"
+    },
+    {
+      "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+      "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
+      "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
+      "source": "Dark Reading",
+      "published": "2026-11-04T21:48:18+00:00"
+    },
+    {
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-11-04T21:31:18+00:00"
+    },
+    {
+      "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
+      "link": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
+      "summary": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group...",
+      "source": "The Record",
+      "published": "2026-11-04T21:30:00+00:00"
+    },
+    {
+      "title": "CVE-2026-82418 - IBM Watson Speech Services Cartridge is vulnerable to a Use After Free condition in cryptography wheels OpenSSL",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-82418",
+      "summary": "CVE ID :CVE-2026-82418 Published : Nov. 4, 2026, 9:18 p.m. | 3 hours, 1 minute ago Description :IBM Watson Speech Services Cartridge 4.0.0 through 5.4.0 could allow a remote attacker to execute...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T21:18:14+00:00"
+    },
+    {
+      "title": "CVE-2026-13292 - IBM MQ Managed File Transfer is affected by an arbitrary code execution vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-13292",
+      "summary": "CVE ID :CVE-2026-13292 Published : Nov. 4, 2026, 9:18 p.m. | 3 hours, 1 minute ago Description :IBM MQ 9.2.0.0 through 9.2.0.44 LTS, 9.3.0.0 through 9.3.0.42 LTS, 9.4.0.0 through 9.4.0.26 LTS...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T21:18:12+00:00"
+    },
+    {
+      "title": "CVE-2026-13271 - IBM MQ Managed File Transfer is affected by a denial of service vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-13271",
+      "summary": "CVE ID :CVE-2026-13271 Published : Nov. 4, 2026, 9:18 p.m. | 3 hours, 1 minute ago Description :IBM MQ 9.2.0.0 through 9.2.0.44 LTS, 9.3.0.0 through 9.3.0.42 LTS, 9.4.0.0 through 9.4.0.26 LTS...",
+      "source": "CVE Feed",
+      "published": "2026-11-04T21:18:11+00:00"
+    },
+    {
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials...",
+      "source": "BleepingComputer",
+      "published": "2026-11-04T20:58:19+00:00"
     },
     {
       "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
@@ -79,20 +226,6 @@
       "published": "2026-11-04T18:58:00+00:00"
     },
     {
-      "title": "CVE-2026-57853 - DataGerry < 3.3.0 SSTI via DocAPI Template Rendering",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-57853",
-      "summary": "CVE ID :CVE-2026-57853 Published : Nov. 4, 2026, 6:17 p.m. | 1 hour, 37 minutes ago Description :DataGerry before 3.3.0 contains a server-side template injection vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T18:17:44+00:00"
-    },
-    {
-      "title": "CVE-2026-121971 - Symfony: ScopingHttpClient Sends the Credentials of Its Default Scope to Other Origins Through Network-Path References",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121971",
-      "summary": "CVE ID :CVE-2026-121971 Published : Nov. 4, 2026, 6:17 p.m. | 1 hour, 37 minutes ago Description :The component ScopingHttpClient in Symfony HttpClient merges the options of its default scope (such...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T18:17:43+00:00"
-    },
-    {
       "title": "Cyberattack disrupts blood storage refrigeration systems in France",
       "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
       "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored...",
@@ -100,24 +233,17 @@
       "published": "2026-11-04T18:02:56+00:00"
     },
     {
-      "title": "CVE-2026-119749 - GetPaid WordPress Plugin < 2.8.63 Negative Quantity Payment Bypass",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-119749",
-      "summary": "CVE ID :CVE-2026-119749 Published : Nov. 4, 2026, 5:17 p.m. | 2 hours, 37 minutes ago Description :The GetPaid plugin for WordPress before 2.8.63 contains an improper input validation vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T17:17:34+00:00"
-    },
-    {
       "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
       "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according...",
-      "source": "The Hacker News",
+      "summary": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T17:00:46+00:00"
     },
     {
       "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
       "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS...",
-      "source": "The Hacker News",
+      "summary": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T17:00:38+00:00"
     },
     {
@@ -133,104 +259,6 @@
       "summary": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
       "source": "Dark Reading",
       "published": "2026-11-04T16:24:08+00:00"
-    },
-    {
-      "title": "CVE-2026-92704 - SharpEmu: Cross-site request forgery in the debugger frontend leads to arbitrary process execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92704",
-      "summary": "CVE ID :CVE-2026-92704 Published : Nov. 4, 2026, 4:17 p.m. | 3 hours, 37 minutes ago Description :SharpEmu is an experimental PlayStation 5 emulator for Windows and Linux. In version 0.0.3-release.3...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T16:17:55+00:00"
-    },
-    {
-      "title": "CVE-2026-121966 - Traefik before 2.11.60 and 3.7.16 ForwardAuth NTLM/Negotiate Identity Leak",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121966",
-      "summary": "CVE ID :CVE-2026-121966 Published : Nov. 4, 2026, 4:17 p.m. | 3 hours, 37 minutes ago Description :Traefik 2.x before 2.11.60 and 3.x before 3.7.16 sends ForwardAuth subrequests (and, in 3.7, Ingress...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T16:17:50+00:00"
-    },
-    {
-      "title": "CVE-2026-121964 - FreeRDP before 3.32.2 Heap Buffer Overflow via rpc_client_recv_fragment",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121964",
-      "summary": "CVE ID :CVE-2026-121964 Published : Nov. 4, 2026, 4:17 p.m. | 3 hours, 37 minutes ago Description :FreeRDP before 3.32.2 contains a heap-based buffer overflow in the RD Gateway RPC client, where...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T16:17:49+00:00"
-    },
-    {
-      "title": "CVE-2026-121963 - FreeRDP before 3.32.2 Use-After-Free via Dynamic rdpsnd Channel Close",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121963",
-      "summary": "CVE ID :CVE-2026-121963 Published : Nov. 4, 2026, 4:17 p.m. | 3 hours, 37 minutes ago Description :FreeRDP before 3.32.2 contains a use-after-free vulnerability in the asynchronous dynamic rdpsnd...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T16:17:49+00:00"
-    },
-    {
-      "title": "CVE-2026-121962 - FreeRDP before 3.32.2 Heap Buffer Overflow via Early User Authorization Read",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121962",
-      "summary": "CVE ID :CVE-2026-121962 Published : Nov. 4, 2026, 4:17 p.m. | 3 hours, 37 minutes ago Description :FreeRDP before 3.32.2 contains a heap buffer overflow in transport_default_read_pdu when handling...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T16:17:49+00:00"
-    },
-    {
-      "title": "CVE-2026-121961 - FreeRDP before 3.32.2 Use-After-Free via DRDYNVC Tracker Race",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121961",
-      "summary": "CVE ID :CVE-2026-121961 Published : Nov. 4, 2026, 4:17 p.m. | 3 hours, 37 minutes ago Description :FreeRDP before 3.32.2 contains a use-after-free vulnerability in the freerdp-proxy DRDYNVC tracker...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T16:17:49+00:00"
-    },
-    {
-      "title": "CVE-2026-121960 - FreeRDP before 3.32.2 Unauthenticated Denial of Service via CredSSP TSRequest",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121960",
-      "summary": "CVE ID :CVE-2026-121960 Published : Nov. 4, 2026, 4:17 p.m. | 3 hours, 37 minutes ago Description :FreeRDP before 3.32.2 contains a denial of service vulnerability in the NLA-enabled shadow server...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T16:17:48+00:00"
-    },
-    {
-      "title": "CVE-2026-121958 - FreeRDP through 3.32.1 Heap Out-of-Bounds Write via RDPGFX HashTable_GetKeys",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121958",
-      "summary": "CVE ID :CVE-2026-121958 Published : Nov. 4, 2026, 4:17 p.m. | 3 hours, 37 minutes ago Description :FreeRDP through 3.32.1 has a heap out-of-bounds write in the RDPGFX client because the...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T16:17:48+00:00"
-    },
-    {
-      "title": "CVE-2026-121957 - FreeRDP before 3.32.2 Use-After-Free via RDPGFX ResetGraphics Race",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121957",
-      "summary": "CVE ID :CVE-2026-121957 Published : Nov. 4, 2026, 4:17 p.m. | 3 hours, 37 minutes ago Description :FreeRDP before 3.32.2 contains a use-after-free vulnerability that allows malicious RDP servers to...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T16:17:48+00:00"
-    },
-    {
-      "title": "CVE-2026-121956 - FreeRDP before 3.32.2 Double Free in WinPR Kerberos retrieveSomeTgt",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121956",
-      "summary": "CVE ID :CVE-2026-121956 Published : Nov. 4, 2026, 4:17 p.m. | 3 hours, 37 minutes ago Description :FreeRDP before 3.32.2 contains a double free in the WinPR Kerberos SSPI retrieveSomeTgt function...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T16:17:48+00:00"
-    },
-    {
-      "title": "CVE-2026-121955 - FreeRDP before 3.32.2 Use-After-Free in Smartcard Emulation ReleaseContext",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121955",
-      "summary": "CVE ID :CVE-2026-121955 Published : Nov. 4, 2026, 4:17 p.m. | 3 hours, 37 minutes ago Description :FreeRDP before 3.32.2 contains a use-after-free vulnerability in Emulate_SCardReleaseContext that...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T16:17:48+00:00"
-    },
-    {
-      "title": "CVE-2026-121953 - FreeRDP before 3.32.2 Use-After-Free via rdpgfx Dynamic Virtual Channel Close",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121953",
-      "summary": "CVE ID :CVE-2026-121953 Published : Nov. 4, 2026, 4:17 p.m. | 3 hours, 37 minutes ago Description :FreeRDP before 3.32.2 has a use-after-free in the client's rdpgfx dynamic virtual channel: a...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T16:17:47+00:00"
-    },
-    {
-      "title": "CVE-2026-121952 - FreeRDP before 3.32.2 Proxy Out-of-Bounds Write via Bitmap Cache v2 Capability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121952",
-      "summary": "CVE ID :CVE-2026-121952 Published : Nov. 4, 2026, 4:17 p.m. | 3 hours, 37 minutes ago Description :FreeRDP before 3.32.2 has an out-of-bounds write in the proxy because...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T16:17:47+00:00"
-    },
-    {
-      "title": "CVE-2026-121951 - FreeRDP 3.0.0 before 3.32.2 Denial of Service via Slow-Path Input Event",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121951",
-      "summary": "CVE ID :CVE-2026-121951 Published : Nov. 4, 2026, 4:17 p.m. | 3 hours, 37 minutes ago Description :FreeRDP 3.0.0 before 3.32.2 server-side RDP peer input parsing skips the six-byte body of a...",
-      "source": "CVE Feed",
-      "published": "2026-11-04T16:17:47+00:00"
     },
     {
       "title": "Ukrainian news outlet Kyiv Independent hit by suspected Russian cyberattack",
@@ -277,8 +305,8 @@
     {
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
       "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain...",
-      "source": "The Hacker News",
+      "summary": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T14:27:52+00:00"
     },
     {
@@ -308,13 +336,6 @@
       "summary": "A major Russian web hosting provider is struggling to restore its services after a cyberattack destroyed data across its cloud infrastructure and disrupted hundreds of websites.",
       "source": "The Record",
       "published": "2026-11-04T14:00:00+00:00"
-    },
-    {
-      "title": "French blood service hit by Europe-wide cyberattacks on refrigeration",
-      "link": "https://therecord.media/france-cyberattack-blood-refrigeration",
-      "summary": "Temperature controls were altered at three of France’s national blood service sites this week amid a wave of cyberattacks affecting refrigeration systems across Europe.",
-      "source": "The Record",
-      "published": "2026-11-04T13:45:00+00:00"
     },
     {
       "title": "US charges two Canadians accused of hacking US universities",
@@ -347,15 +368,15 @@
     {
       "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
       "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The...",
-      "source": "The Hacker News",
+      "summary": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T12:07:04+00:00"
     },
     {
       "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
       "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full...",
-      "source": "The Hacker News",
+      "summary": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T11:46:27+00:00"
     },
     {
@@ -368,8 +389,8 @@
     {
       "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
       "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input...",
-      "source": "The Hacker News",
+      "summary": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS)...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T11:24:31+00:00"
     },
     {
@@ -424,15 +445,15 @@
     {
       "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
       "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14...",
-      "source": "The Hacker News",
+      "summary": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction A critical Android flaw could allow an attacker to run code on a phone without any user action remotely...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T07:46:15+00:00"
     },
     {
       "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
       "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active...",
-      "source": "The Hacker News",
+      "summary": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T05:43:11+00:00"
     },
     {
@@ -501,8 +522,8 @@
     {
       "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
       "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-      "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The...",
-      "source": "The Hacker News",
+      "summary": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T18:16:19+00:00"
     },
     {
@@ -522,15 +543,15 @@
     {
       "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
       "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-      "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible...",
-      "source": "The Hacker News",
+      "summary": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T15:59:19+00:00"
     },
     {
       "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
       "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-      "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called...",
-      "source": "The Hacker News",
+      "summary": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T15:41:53+00:00"
     },
     {
@@ -555,20 +576,6 @@
       "published": "2026-11-03T15:16:32+00:00"
     },
     {
-      "title": "Barracuda warns of critical flaws allowing root access to devices",
-      "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-      "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-11-03T15:06:16+00:00"
-    },
-    {
-      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-      "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC...",
-      "source": "BleepingComputer",
-      "published": "2026-11-03T15:00:10+00:00"
-    },
-    {
       "title": "PHP2Shell: what we know about the threat two weeks later | Kaspersky official blog",
       "link": "https://www.kaspersky.co.uk/blog/php2shell-two-weeks-after-patches/31035/",
       "summary": "PHP2Shell: what we know about the threat two weeks later | Kaspersky official blog Late October brought several unsettling cybersecurity stories all at once. Among these were two critical...",
@@ -585,8 +592,8 @@
     {
       "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
       "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest...",
-      "source": "The Hacker News",
+      "summary": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T11:23:53+00:00"
     },
     {
@@ -599,8 +606,8 @@
     {
       "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
       "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group...",
-      "source": "The Hacker News",
+      "summary": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T11:00:45+00:00"
     },
     {
@@ -613,8 +620,8 @@
     {
       "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
       "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-      "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed...",
-      "source": "The Hacker News",
+      "summary": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T07:43:07+00:00"
     },
     {
@@ -627,15 +634,15 @@
     {
       "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
       "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-      "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS...",
-      "source": "The Hacker News",
+      "summary": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T05:34:41+00:00"
     },
     {
       "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
       "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-      "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability...",
-      "source": "The Hacker News",
+      "summary": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T05:34:37+00:00"
     },
     {
@@ -662,8 +669,8 @@
     {
       "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
       "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was...",
-      "source": "The Hacker News",
+      "summary": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared...",
+      "source": "CVE Newsroom",
       "published": "2026-11-02T16:57:56+00:00"
     },
     {
@@ -704,8 +711,8 @@
     {
       "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
       "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and...",
-      "source": "The Hacker News",
+      "summary": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code...",
+      "source": "CVE Newsroom",
       "published": "2026-11-02T11:50:00+00:00"
     },
     {
@@ -739,8 +746,8 @@
     {
       "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
       "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the...",
-      "source": "The Hacker News",
+      "summary": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without...",
+      "source": "CVE Newsroom",
       "published": "2026-11-01T08:51:31+00:00"
     },
     {
@@ -774,8 +781,8 @@
     {
       "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
       "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog...",
-      "source": "The Hacker News",
+      "summary": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting...",
+      "source": "CVE Newsroom",
       "published": "2026-10-31T08:27:43+00:00"
     },
     {
@@ -1120,13 +1127,6 @@
       "summary": "Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de...",
       "source": "Dark Reading",
       "published": "2026-10-22T19:30:20+00:00"
-    },
-    {
-      "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
-      "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
-      "summary": "Some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
-      "source": "Dark Reading",
-      "published": "2026-10-22T14:21:22+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
