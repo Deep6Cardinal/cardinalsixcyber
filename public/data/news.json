@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-05T23:03:04.631461+00:00",
+  "last_updated": "2026-11-06T04:20:15.225583+00:00",
   "articles": [
+    {
+      "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+      "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+      "summary": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate...",
+      "source": "SecurityWeek",
+      "published": "2026-11-06T03:03:29+00:00"
+    },
+    {
+      "title": "CVE-2026-63774 - Subnet Solutions PowerSYSTEM Center SQL Injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63774",
+      "summary": "CVE ID :CVE-2026-63774 Published : Nov. 6, 2026, 1:17 a.m. | 1 hour, 54 minutes ago Description :Insufficient input validation in the PowerSYSTEM Center report designer allows an authenticated user...",
+      "source": "CVE Feed",
+      "published": "2026-11-06T01:17:50+00:00"
+    },
+    {
+      "title": "CVE-2026-63017 - Subnet Solutions PowerSYSTEM Center Incorrect Authorization",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63017",
+      "summary": "CVE ID :CVE-2026-63017 Published : Nov. 6, 2026, 1:17 a.m. | 1 hour, 54 minutes ago Description :Incorrect authorization in PowerSYSTEM Center allows a low-privileged, authenticated user to access...",
+      "source": "CVE Feed",
+      "published": "2026-11-06T01:17:50+00:00"
+    },
+    {
+      "title": "CVE-2026-107492 - Envoy Proxy Improper Authentication Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-107492",
+      "summary": "CVE ID :CVE-2026-107492 Published : Nov. 6, 2026, 1:17 a.m. | 1 hour, 54 minutes ago Description :Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. Severity...",
+      "source": "CVE Feed",
+      "published": "2026-11-06T01:17:48+00:00"
+    },
+    {
+      "title": "CVE-2025-71458 - FTS3 Web Monitoring 3.12.0 through 3.13.2 and 3.14.0 SQL Injection via /linkinfo",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2025-71458",
+      "summary": "CVE ID :CVE-2025-71458 Published : Nov. 6, 2026, 1:17 a.m. | 1 hour, 54 minutes ago Description :FTS3 Web Monitoring (fts-monitoring) versions 3.12.0 through 3.13.2 and 3.14.0 contain an...",
+      "source": "CVE Feed",
+      "published": "2026-11-06T01:17:47+00:00"
+    },
+    {
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards...",
+      "source": "BleepingComputer",
+      "published": "2026-11-06T00:56:44+00:00"
+    },
+    {
+      "title": "CVE-2026-92698 - FastNetMon: sFlow header_size field trusted as parser capture length causes remote out-of-bounds read",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92698",
+      "summary": "CVE ID :CVE-2026-92698 Published : Nov. 5, 2026, 11:17 p.m. | 3 hours, 55 minutes ago Description :FastNetMon is a high-performance DDoS detector and sensor. In version 1.2.9 and earlier...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T23:17:02+00:00"
+    },
+    {
+      "title": "CVE-2026-92695 - FastNetMon: Legacy pcap parse_packet() has no bounds checking, causing out-of-bounds read on truncated frames",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92695",
+      "summary": "CVE ID :CVE-2026-92695 Published : Nov. 5, 2026, 11:17 p.m. | 3 hours, 55 minutes ago Description :FastNetMon is a high-performance DDoS detector and sensor. In version 1.2.9 and earlier, the live...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T23:17:02+00:00"
+    },
+    {
+      "title": "CVE-2026-92693 - FastNetMon: IPv6 Fragment header dereferenced without bounds check in shared packet parser",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92693",
+      "summary": "CVE ID :CVE-2026-92693 Published : Nov. 5, 2026, 11:17 p.m. | 3 hours, 55 minutes ago Description :FastNetMon is a high-performance DDoS detector and sensor. In version 1.2.9 and earlier...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T23:17:01+00:00"
+    },
+    {
+      "title": "CVE-2026-88981 - Kubeflow Pipelines: Unauthenticated SSRF through artifact provider endpoints",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-88981",
+      "summary": "CVE ID :CVE-2026-88981 Published : Nov. 5, 2026, 11:17 p.m. | 3 hours, 55 minutes ago Description :Kubeflow Pipelines enables users to build and deploy portable, scalable machine learning workflows...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T23:17:01+00:00"
+    },
+    {
+      "title": "CVE-2026-88980 - Kubeflow Pipelines: Unauthenticated server-side request forgery in the frontend http/https artifact source via decimal-IP bypass of the bucket validator",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-88980",
+      "summary": "CVE ID :CVE-2026-88980 Published : Nov. 5, 2026, 11:17 p.m. | 3 hours, 55 minutes ago Description :Kubeflow Pipelines enables users to build and deploy portable, scalable machine learning workflows...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T23:17:01+00:00"
+    },
+    {
+      "title": "CVE-2026-77596 - Kubeflow Pipelines API server lacks authorization for shared pipeline uploads",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77596",
+      "summary": "CVE ID :CVE-2026-77596 Published : Nov. 5, 2026, 11:17 p.m. | 3 hours, 55 minutes ago Description :Kubeflow Pipelines enables users to build and deploy portable, scalable machine learning workflows...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T23:17:00+00:00"
+    },
+    {
+      "title": "CVE-2026-113663 - AG2: Newline injection in SandboxShellTool bypasses allowed=[...] and readonly=True, enabling arbitrary command execution",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-113663",
+      "summary": "CVE ID :CVE-2026-113663 Published : Nov. 5, 2026, 11:16 p.m. | 3 hours, 55 minutes ago Description :AG2 is an open-source AgentOS. From 0.13.2 until ag2 1.1.1, and from autogen 0.13.2 to 0.14.1...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T23:16:50+00:00"
+    },
+    {
+      "title": "CVE-2026-58273 - Rucio: Authorisation Bypass on REST API endpoint for signing URLs",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58273",
+      "summary": "CVE ID :CVE-2026-58273 Published : Nov. 5, 2026, 10:18 p.m. | 4 hours, 53 minutes ago Description :Rucio is a scientific data management framework. From 1.16.1 until 35.9.0, 38.6.0, and 41.0.0rc1...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T22:18:49+00:00"
+    },
+    {
+      "title": "CVE-2026-33944 - Dolibarr: SQL Injection in societe/class/societe.class.php via localtax1_value parameter",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-33944",
+      "summary": "CVE ID :CVE-2026-33944 Published : Nov. 5, 2026, 10:18 p.m. | 4 hours, 54 minutes ago Description :Dolibarr is an open-source enterprise resource planning and customer relationship management...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T22:18:41+00:00"
+    },
+    {
+      "title": "CVE-2026-122267 - MinIO Signature V4 Authentication Bypass Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122267",
+      "summary": "CVE ID :CVE-2026-122267 Published : Nov. 5, 2026, 10:17 p.m. | 4 hours, 54 minutes ago Description :MinIO Signature V4 verification before RELEASE.2026-09-22T19-25-18Z accepts unsigned x-amz-*...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T22:17:55+00:00"
+    },
+    {
+      "title": "CVE-2026-119757 - BTCPay Server < 2.4.2 LND Macaroon Credential File Disclosure",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-119757",
+      "summary": "CVE ID :CVE-2026-119757 Published : Nov. 5, 2026, 10:17 p.m. | 4 hours, 54 minutes ago Description :BTCPay Server before 2.4.2, including 2.4.2 release candidates, contains an information disclosure...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T22:17:53+00:00"
+    },
+    {
+      "title": "CVE-2026-111494 - Incorrect validation of TLS certificates in the MatchPoint Android app",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111494",
+      "summary": "CVE ID :CVE-2026-111494 Published : Nov. 5, 2026, 10:17 p.m. | 4 hours, 55 minutes ago Description :Incorrect validation of TLS certificates in the MatchPoint Android app due to a TrustManager that...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T22:17:44+00:00"
+    },
+    {
+      "title": "CVE-2026-111493 - Lack of authentication and authorization in the Images.ashx endpoint in MatchPoint",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111493",
+      "summary": "CVE ID :CVE-2026-111493 Published : Nov. 5, 2026, 10:17 p.m. | 4 hours, 55 minutes ago Description :Lack of authentication and authorization in the Images.ashx endpoint in MatchPoint, which allows...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T22:17:44+00:00"
+    },
+    {
+      "title": "CVE-2026-111492 - SQL injection in the push notification handler of the MatchPoint Android app",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111492",
+      "summary": "CVE ID :CVE-2026-111492 Published : Nov. 5, 2026, 10:17 p.m. | 4 hours, 55 minutes ago Description :SQL injection in the push notification handler of the MatchPoint Android app, which processes...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T22:17:43+00:00"
+    },
+    {
+      "title": "CVE-2026-111490 - Insecure direct object reference (IDOR) vulnerability in the MatchPoint API",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111490",
+      "summary": "CVE ID :CVE-2026-111490 Published : Nov. 5, 2026, 10:17 p.m. | 4 hours, 55 minutes ago Description :Insecure direct object reference (IDOR) vulnerability in the MatchPoint API, which relies on the...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T22:17:43+00:00"
+    },
+    {
+      "title": "CVE-2026-111489 - A static credential embedded in the mobile app has been reported to return the 'autorizado' token on the MatchPoint platform",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-111489",
+      "summary": "CVE ID :CVE-2026-111489 Published : Nov. 5, 2026, 10:17 p.m. | 4 hours, 55 minutes ago Description :A static credential embedded in the mobile app has been reported to return the 'autorizado' token...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T22:17:43+00:00"
+    },
     {
       "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
       "link": "https://therecord.media/queens-library-ransomware-causes-disruptions",
@@ -23,6 +177,41 @@
       "published": "2026-11-05T21:30:30+00:00"
     },
     {
+      "title": "CVE-2026-85076 - Cronicle: Privilege Escalation via Arbitrary Environment Variable Injection through Event Params (Incomplete Fix for CVE-2026-39401)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-85076",
+      "summary": "CVE ID :CVE-2026-85076 Published : Nov. 5, 2026, 9:18 p.m. | 5 hours, 53 minutes ago Description :Cronicle is a multi-server task scheduler and runner, with a web based front-end UI. Prior to...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T21:18:54+00:00"
+    },
+    {
+      "title": "CVE-2026-77622 - Sliver: Unauthenticated Memory Exhaustion Denial of Service in Sliver HTTP(S) Listener PNG Decoder",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77622",
+      "summary": "CVE ID :CVE-2026-77622 Published : Nov. 5, 2026, 9:18 p.m. | 5 hours, 53 minutes ago Description :Sliver is a command and control framework. Prior to 1.7.6, an HTTP(S) listener using the PNG encoder...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T21:18:53+00:00"
+    },
+    {
+      "title": "CVE-2026-49272 - OAuthLib: Bearer token can be retrieved as long as client knows a valid client ID for device workflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-49272",
+      "summary": "CVE ID :CVE-2026-49272 Published : Nov. 5, 2026, 9:18 p.m. | 5 hours, 53 minutes ago Description :OAuthLib is an implementation of the OAuth request-signing logic for Python 3.6+. From 3.3.0 until...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T21:18:50+00:00"
+    },
+    {
+      "title": "CVE-2026-48705 - MONAI: MONAILabel Server Crash and Silent Inference Corruption via Crafted DICOM (pydicom DS/IS Validation Bypass)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-48705",
+      "summary": "CVE ID :CVE-2026-48705 Published : Nov. 5, 2026, 9:18 p.m. | 5 hours, 53 minutes ago Description :MONAI (Medical Open Network for AI) is an AI toolkit for health care imaging. Prior to 1.6.1...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T21:18:50+00:00"
+    },
+    {
+      "title": "CVE-2026-46350 - dcmjs: DS/IS VALUE REPRESENTATION INPUT VALIDATION BYPASS",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-46350",
+      "summary": "CVE ID :CVE-2026-46350 Published : Nov. 5, 2026, 9:18 p.m. | 5 hours, 53 minutes ago Description :dcmjs is a JavaScript implementation of DICOM manipulation. Prior to 0.52.0, the DecimalString and...",
+      "source": "CVE Feed",
+      "published": "2026-11-05T21:18:50+00:00"
+    },
+    {
       "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
       "link": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
       "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
@@ -35,69 +224,6 @@
       "summary": "Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”",
       "source": "The Record",
       "published": "2026-11-05T20:48:00+00:00"
-    },
-    {
-      "title": "CVE-2026-116790 - FreeSWITCH: Inbound ICE connectivity checks are accepted without verifying STUN MESSAGE-INTEGRITY",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116790",
-      "summary": "CVE ID :CVE-2026-116790 Published : Nov. 5, 2026, 8:17 p.m. | 1 hour, 8 minutes ago Description :FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T20:17:46+00:00"
-    },
-    {
-      "title": "CVE-2026-116788 - FreeSWITCH: Pre-authentication heap buffer overflow in core XML empty-entity decoding",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116788",
-      "summary": "CVE ID :CVE-2026-116788 Published : Nov. 5, 2026, 8:17 p.m. | 1 hour, 8 minutes ago Description :FreeSWITCH is an open-source software telecommunications platform. Before version 1.11.2, an integer...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T20:17:46+00:00"
-    },
-    {
-      "title": "CVE-2026-116786 - FreeSWITCH: Channel-variable injection via SIP REFER leads to command execution in mod_sofia",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116786",
-      "summary": "CVE ID :CVE-2026-116786 Published : Nov. 5, 2026, 8:17 p.m. | 1 hour, 8 minutes ago Description :FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T20:17:45+00:00"
-    },
-    {
-      "title": "CVE-2026-116785 - FreeSWITCH: Pre-authentication heap out-of-bounds write in mod_xml_rpc WebSocket frame length handling",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116785",
-      "summary": "CVE ID :CVE-2026-116785 Published : Nov. 5, 2026, 8:17 p.m. | 1 hour, 8 minutes ago Description :FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T20:17:45+00:00"
-    },
-    {
-      "title": "CVE-2026-116783 - FreeSWITCH mod_spandsp: out-of-bounds write parsing UDPTL error-recovery data",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116783",
-      "summary": "CVE ID :CVE-2026-116783 Published : Nov. 5, 2026, 8:17 p.m. | 1 hour, 8 minutes ago Description :FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T20:17:45+00:00"
-    },
-    {
-      "title": "CVE-2026-116779 - FreeSWITCH: Inbound SIP MESSAGE can select the api chat proto and run FreeSWITCH API commands",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116779",
-      "summary": "CVE ID :CVE-2026-116779 Published : Nov. 5, 2026, 8:17 p.m. | 1 hour, 8 minutes ago Description :FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T20:17:44+00:00"
-    },
-    {
-      "title": "CVE-2026-115573 - OpenEMR: Broken Access Control in controller.php Enables Insurance Routing Credential Hijack and PHI Enumeration",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115573",
-      "summary": "CVE ID :CVE-2026-115573 Published : Nov. 5, 2026, 8:17 p.m. | 1 hour, 8 minutes ago Description :OpenEMR is a free and open source electronic health records and medical practice management...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T20:17:42+00:00"
-    },
-    {
-      "title": "CVE-2026-103935 - OpenEMR: Stored XSS via `text()` Misuse in Double-Quoted HTML Attribute",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-103935",
-      "summary": "CVE ID :CVE-2026-103935 Published : Nov. 5, 2026, 8:17 p.m. | 1 hour, 8 minutes ago Description :OpenEMR is a free and open source electronic health records and medical practice management...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T20:17:38+00:00"
-    },
-    {
-      "title": "CVE-2026-102940 - OpenEMR: Missing Write ACL Allows Unauthorized Document Reassignment",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102940",
-      "summary": "CVE ID :CVE-2026-102940 Published : Nov. 5, 2026, 8:17 p.m. | 1 hour, 8 minutes ago Description :OpenEMR is a free and open source electronic health records and medical practice management...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T20:17:37+00:00"
     },
     {
       "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
@@ -116,8 +242,8 @@
     {
       "title": "APT29's Watering Holes Target Thousands of Mobile Users",
       "link": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-      "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
-      "source": "Dark Reading",
+      "summary": "APT29's Watering Holes Target Thousands of Mobile Users 4 Min ReadSource: tete_escape via ShutterstockIt has emerged this week that Russia's APT29 threat group compromised the website of a Ukrainian...",
+      "source": "CVE Newsroom",
       "published": "2026-11-05T20:05:39+00:00"
     },
     {
@@ -126,118 +252,6 @@
       "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
       "source": "BleepingComputer",
       "published": "2026-11-05T19:24:26+00:00"
-    },
-    {
-      "title": "CVE-2026-97377 - SuiteCRM: Authenticated SQL Injection in SOAP Portal Method portal_get_entry_list",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-97377",
-      "summary": "CVE ID :CVE-2026-97377 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 8 minutes ago Description :SuiteCRM is an open-source, enterprise-ready Customer Relationship Management (CRM) software...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:29+00:00"
-    },
-    {
-      "title": "CVE-2026-71550 - SuiteCRM: LFI to RCE via AOW_WorkFlow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-71550",
-      "summary": "CVE ID :CVE-2026-71550 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :SuiteCRM is an open-source, enterprise-ready Customer Relationship Management (CRM) software...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:26+00:00"
-    },
-    {
-      "title": "CVE-2026-71548 - SuiteCRM: Authenticated SQL Injection in AOR_Reports `parameter_value` (value_type=Field) allows any low-privileged user to read the full database",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-71548",
-      "summary": "CVE ID :CVE-2026-71548 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :SuiteCRM is an open-source, enterprise-ready Customer Relationship Management (CRM) software...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:26+00:00"
-    },
-    {
-      "title": "CVE-2026-69142 - SuiteCRM: Authenticated SQL Injection in map_markers distance Parameter",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-69142",
-      "summary": "CVE ID :CVE-2026-69142 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :SuiteCRM is an open-source, enterprise-ready Customer Relationship Management (CRM) software...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:25+00:00"
-    },
-    {
-      "title": "CVE-2026-69141 - SuiteCRM: SQL injection via search param in modules/Cases/controller.php",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-69141",
-      "summary": "CVE ID :CVE-2026-69141 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :SuiteCRM is an open-source, enterprise-ready Customer Relationship Management (CRM) software...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:25+00:00"
-    },
-    {
-      "title": "CVE-2026-69140 - SuiteCRM: SQL injection via get_latest_for_id param in GetLatestRevision.php",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-69140",
-      "summary": "CVE ID :CVE-2026-69140 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :SuiteCRM is an open-source, enterprise-ready Customer Relationship Management (CRM) software...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:25+00:00"
-    },
-    {
-      "title": "CVE-2026-69134 - SuiteCRM: SQL Injection via REST API securexss() Bypass in Relationship Management",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-69134",
-      "summary": "CVE ID :CVE-2026-69134 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :SuiteCRM is an open-source, enterprise-ready Customer Relationship Management (CRM) software...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:24+00:00"
-    },
-    {
-      "title": "CVE-2026-63215 - SuiteCRM: Time-Based Blind SQL Injection via REST API",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63215",
-      "summary": "CVE ID :CVE-2026-63215 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :SuiteCRM is an open-source, enterprise-ready Customer Relationship Management (CRM) software...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:23+00:00"
-    },
-    {
-      "title": "CVE-2026-63214 - SuiteCRM: Authenticated SQL Injection in v4_1 get_entry_list rest api",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63214",
-      "summary": "CVE ID :CVE-2026-63214 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :SuiteCRM is an open-source, enterprise-ready Customer Relationship Management (CRM) software...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:23+00:00"
-    },
-    {
-      "title": "CVE-2026-61653 - SuiteCRM: SQL injection via id param in modules/Campaigns/PopupCampaignRoi.php",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61653",
-      "summary": "CVE ID :CVE-2026-61653 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :SuiteCRM is an open-source, enterprise-ready Customer Relationship Management (CRM) software...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-61651 - SuiteCRM: Authenticated SQL Injection in get_end_date function in Project Controller",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61651",
-      "summary": "CVE ID :CVE-2026-61651 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :SuiteCRM is an open-source, enterprise-ready Customer Relationship Management (CRM) software...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-61650 - SuiteCRM: Incorrect Access Control in V8 relationship creation via missing edit authorization",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61650",
-      "summary": "CVE ID :CVE-2026-61650 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :SuiteCRM is an open-source, enterprise-ready Customer Relationship Management (CRM) software...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-61648 - SuiteCRM: SQL injection via parameter_value[0] param in AOR_Report.php",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61648",
-      "summary": "CVE ID :CVE-2026-61648 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :SuiteCRM is an open-source, enterprise-ready Customer Relationship Management (CRM) software...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-123272 - mcp-go before v1.2.1 Origin Validation Error via Unvalidated Well-Known Protected Resource Metadata",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123272",
-      "summary": "CVE ID :CVE-2026-123272 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :Mark3labs mcp-go before v1.2.1 contains an improper validation vulnerability in...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:20+00:00"
-    },
-    {
-      "title": "CVE-2026-123271 - ChatCLI before v1.215.2 Origin Validation Error via Unvalidated MCP OAuth Resource Indicator",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123271",
-      "summary": "CVE ID :CVE-2026-123271 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :ChatCLI before v1.215.2 contains an improper validation vulnerability in the MCP OAuth login flow...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:20+00:00"
-    },
-    {
-      "title": "CVE-2026-123208 - noname v1.11.2 through v1.11.6.1 Missing Authentication in Electron Local File Server",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123208",
-      "summary": "CVE ID :CVE-2026-123208 Published : Nov. 5, 2026, 7:17 p.m. | 2 hours, 9 minutes ago Description :noname Electron desktop build v1.11.2 through v1.11.6.1 contains an unauthenticated local file server...",
-      "source": "CVE Feed",
-      "published": "2026-11-05T19:17:20+00:00"
     },
     {
       "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
@@ -520,20 +534,6 @@
       "published": "2026-11-04T16:00:18+00:00"
     },
     {
-      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation...",
-      "source": "BleepingComputer",
-      "published": "2026-11-04T15:00:10+00:00"
-    },
-    {
-      "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
-      "link": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-      "summary": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents...",
-      "source": "SecurityWeek",
-      "published": "2026-11-04T14:34:44+00:00"
-    },
-    {
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
       "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
       "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply...",
@@ -772,13 +772,6 @@
       "published": "2026-11-02T22:27:24+00:00"
     },
     {
-      "title": "Guiding Customers Through Critical PHP Vulnerabilities",
-      "link": "https://www.paloaltonetworks.com/blog/2026/11/guiding-customers-through-critical-php-vulnerabilities/",
-      "summary": "Guiding Customers Through Critical PHP Vulnerabilities Over the past week, our industry has faced a wave of critical vulnerabilities in PHP (CVE-2026-109618 and CVE-2026-109619). As Palo Alto...",
-      "source": "CVE Newsroom",
-      "published": "2026-11-02T16:59:18+00:00"
-    },
-    {
       "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
       "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
       "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was...",
@@ -805,13 +798,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026...",
       "source": "The Hacker News",
       "published": "2026-11-02T14:46:05+00:00"
-    },
-    {
-      "title": "CVE-2026-98432: Critical Linux Kernel Use-After-Free Flaw",
-      "link": "https://thecyberthrone.in/2026/11/02/cve-2026-98432-critical-linux-kernel-use-after-free-flaw/",
-      "summary": "CVE-2026-98432: Critical Linux Kernel Use-After-Free Flaw The Linux kernel sits at the heart of servers, cloud infrastructure, containers and several enterprise platforms. A vulnerability in its...",
-      "source": "CVE Newsroom",
-      "published": "2026-11-02T14:12:37+00:00"
     },
     {
       "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
