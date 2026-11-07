@@ -1,10 +1,31 @@
 {
-  "last_updated": "2026-11-07T19:55:07.740865+00:00",
+  "last_updated": "2026-11-07T23:16:13.167660+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-124060 - TOTOLINK CA300-PoE cstecgi.cgi UploadCustomModule buffer overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124060",
+      "summary": "CVE ID :CVE-2026-124060 Published : Nov. 7, 2026, 9:17 p.m. | 22 minutes ago Description :A vulnerability was detected in TOTOLINK CA300-PoE 6.2c.884. Affected by this issue is the function...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T21:17:00+00:00"
+    },
+    {
+      "title": "CVE-2026-124059 - TOTOLINK CA300-PoE cstecgi.cgi setWiFiWdsAddConfig buffer overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124059",
+      "summary": "CVE ID :CVE-2026-124059 Published : Nov. 7, 2026, 7:17 p.m. | 2 hours, 22 minutes ago Description :A security vulnerability has been detected in TOTOLINK CA300-PoE 6.2c.884. Affected by this...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T19:17:28+00:00"
+    },
+    {
+      "title": "CVE-2026-124058 - TOTOLINK CA300-PoE cstecgi.cgi setWiFiRepeaterConfig buffer overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124058",
+      "summary": "CVE ID :CVE-2026-124058 Published : Nov. 7, 2026, 7:17 p.m. | 2 hours, 22 minutes ago Description :A weakness has been identified in TOTOLINK CA300-PoE 6.2c.884. Affected is the function...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T19:17:28+00:00"
+    },
     {
       "title": "CVE-2026-124057 - TOTOLINK CA300-PoE cstecgi.cgi setWiFiMultipleConfig buffer overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-124057",
-      "summary": "CVE ID :CVE-2026-124057 Published : Nov. 7, 2026, 6:17 p.m. | 55 minutes ago Description :A security flaw has been discovered in TOTOLINK CA300-PoE 6.2c.884. This impacts the function...",
+      "summary": "CVE ID :CVE-2026-124057 Published : Nov. 7, 2026, 6:17 p.m. | 3 hours, 22 minutes ago Description :A security flaw has been discovered in TOTOLINK CA300-PoE 6.2c.884. This impacts the function...",
       "source": "CVE Feed",
       "published": "2026-11-07T18:17:21+00:00"
     },
@@ -18,21 +39,21 @@
     {
       "title": "CVE-2026-124318 - Treeio through 2.0 Insecure Deserialization RCE via Admin-Editable Pickle Fields",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-124318",
-      "summary": "CVE ID :CVE-2026-124318 Published : Nov. 7, 2026, 3:17 p.m. | 3 hours, 55 minutes ago Description :Treeio through 2.0 contains an insecure deserialization vulnerability in...",
+      "summary": "CVE ID :CVE-2026-124318 Published : Nov. 7, 2026, 3:17 p.m. | 6 hours, 22 minutes ago Description :Treeio through 2.0 contains an insecure deserialization vulnerability in...",
       "source": "CVE Feed",
       "published": "2026-11-07T15:17:16+00:00"
     },
     {
       "title": "CVE-2026-123966 - Tenda AC19 saveParentControlInfo heap-based overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123966",
-      "summary": "CVE ID :CVE-2026-123966 Published : Nov. 7, 2026, 2:17 p.m. | 4 hours, 55 minutes ago Description :A vulnerability was determined in Tenda AC19 16.03.10.07. Affected by this issue is the function...",
+      "summary": "CVE ID :CVE-2026-123966 Published : Nov. 7, 2026, 2:17 p.m. | 7 hours, 22 minutes ago Description :A vulnerability was determined in Tenda AC19 16.03.10.07. Affected by this issue is the function...",
       "source": "CVE Feed",
       "published": "2026-11-07T14:17:01+00:00"
     },
     {
       "title": "CVE-2026-120984 - Keycloak-services: keycloak-services: manage-clients to arbitrary code execution through inline javascript policy import",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120984",
-      "summary": "CVE ID :CVE-2026-120984 Published : Nov. 7, 2026, 2:17 p.m. | 4 hours, 55 minutes ago Description :A flaw was found in the Keycloak server's client management component. When a client is created or...",
+      "summary": "CVE ID :CVE-2026-120984 Published : Nov. 7, 2026, 2:17 p.m. | 7 hours, 22 minutes ago Description :A flaw was found in the Keycloak server's client management component. When a client is created or...",
       "source": "CVE Feed",
       "published": "2026-11-07T14:17:01+00:00"
     },
@@ -46,21 +67,21 @@
     {
       "title": "CVE-2026-122041 - Checkout Field Editor for WooCommerce (Pro) <= 3.8.0 - Missing Authorization to Unauthenticated Arbitrary Attachment Deletion via 'attachment_id' Parameter via thwcfe_remove_uploaded AJAX Action",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-122041",
-      "summary": "CVE ID :CVE-2026-122041 Published : Nov. 7, 2026, 1:16 p.m. | 5 hours, 56 minutes ago Description :The Checkout Field Editor for WooCommerce (Pro) plugin for WordPress is vulnerable to unauthorized...",
+      "summary": "CVE ID :CVE-2026-122041 Published : Nov. 7, 2026, 1:16 p.m. | 8 hours, 23 minutes ago Description :The Checkout Field Editor for WooCommerce (Pro) plugin for WordPress is vulnerable to unauthorized...",
       "source": "CVE Feed",
       "published": "2026-11-07T13:16:36+00:00"
     },
     {
       "title": "CVE-2026-120841 - WordPress WpTravelly plugin <= 2.3.8 - Local File Inclusion vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120841",
-      "summary": "CVE ID :CVE-2026-120841 Published : Nov. 7, 2026, 1:16 p.m. | 5 hours, 56 minutes ago Description :Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File...",
+      "summary": "CVE ID :CVE-2026-120841 Published : Nov. 7, 2026, 1:16 p.m. | 8 hours, 23 minutes ago Description :Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File...",
       "source": "CVE Feed",
       "published": "2026-11-07T13:16:35+00:00"
     },
     {
       "title": "CVE-2026-120839 - WordPress WpTravelly plugin <= 2.3.8 - Local File Inclusion vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-120839",
-      "summary": "CVE ID :CVE-2026-120839 Published : Nov. 7, 2026, 1:16 p.m. | 5 hours, 56 minutes ago Description :Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File...",
+      "summary": "CVE ID :CVE-2026-120839 Published : Nov. 7, 2026, 1:16 p.m. | 8 hours, 23 minutes ago Description :Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File...",
       "source": "CVE Feed",
       "published": "2026-11-07T13:16:34+00:00"
     },
@@ -74,70 +95,70 @@
     {
       "title": "CVE-2026-119075 - Registration Form for WooCommerce <= 1.1.4 - Unauthenticated Privilege Escalation to 'user_roles' Parameter at Checkout",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-119075",
-      "summary": "CVE ID :CVE-2026-119075 Published : Nov. 7, 2026, 12:17 p.m. | 6 hours, 54 minutes ago Description :The Registration Form for WooCommerce plugin for WordPress is vulnerable to privilege escalation...",
+      "summary": "CVE ID :CVE-2026-119075 Published : Nov. 7, 2026, 12:17 p.m. | 9 hours, 22 minutes ago Description :The Registration Form for WooCommerce plugin for WordPress is vulnerable to privilege escalation...",
       "source": "CVE Feed",
       "published": "2026-11-07T12:17:44+00:00"
     },
     {
       "title": "CVE-2026-118267 - WP Data Access <= 5.5.89 - Incorrect Authorization to Unauthenticated Privilege Escalation via 'key' and 'val' Parameters on app/update, app/delete, app/insert",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-118267",
-      "summary": "CVE ID :CVE-2026-118267 Published : Nov. 7, 2026, 12:17 p.m. | 6 hours, 54 minutes ago Description :The WP Data Access – App Builder for Tables, Forms, Dashboards, Charts & Maps plugin for WordPress...",
+      "summary": "CVE ID :CVE-2026-118267 Published : Nov. 7, 2026, 12:17 p.m. | 9 hours, 22 minutes ago Description :The WP Data Access – App Builder for Tables, Forms, Dashboards, Charts & Maps plugin for WordPress...",
       "source": "CVE Feed",
       "published": "2026-11-07T12:17:43+00:00"
     },
     {
       "title": "CVE-2026-118066 - Appointment Booking Plugin <= 5.7.6 - Unauthenticated Authentication Bypass via Account Takeover via 'IS NOT NULL' Sentinel in 'password_reset_token' Parameter",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-118066",
-      "summary": "CVE ID :CVE-2026-118066 Published : Nov. 7, 2026, 12:17 p.m. | 6 hours, 54 minutes ago Description :The Appointment Booking Plugin – LatePoint | Calendar & Scheduling for WordPress plugin for...",
+      "summary": "CVE ID :CVE-2026-118066 Published : Nov. 7, 2026, 12:17 p.m. | 9 hours, 22 minutes ago Description :The Appointment Booking Plugin – LatePoint | Calendar & Scheduling for WordPress plugin for...",
       "source": "CVE Feed",
       "published": "2026-11-07T12:17:43+00:00"
     },
     {
       "title": "CVE-2026-104746 - Motors <= 1.4.125 - Authenticated (Subscriber+) Arbitrary File Deletion via 'stm_user_avatar_path' User Meta",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-104746",
-      "summary": "CVE ID :CVE-2026-104746 Published : Nov. 7, 2026, 12:17 p.m. | 6 hours, 55 minutes ago Description :The Motors – Car Dealership & Classified Listings Plugin plugin for WordPress is vulnerable to...",
+      "summary": "CVE ID :CVE-2026-104746 Published : Nov. 7, 2026, 12:17 p.m. | 9 hours, 22 minutes ago Description :The Motors – Car Dealership & Classified Listings Plugin plugin for WordPress is vulnerable to...",
       "source": "CVE Feed",
       "published": "2026-11-07T12:17:41+00:00"
     },
     {
       "title": "CVE-2026-104014 - Naimur Email OTP Verification for WooCommerce <= 2.1.0 - Unauthenticated Authentication Bypass to Account Takeover via Abandoned Password Reset Finalization",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-104014",
-      "summary": "CVE ID :CVE-2026-104014 Published : Nov. 7, 2026, 12:17 p.m. | 6 hours, 55 minutes ago Description :The Naimur Email OTP Verification for WooCommerce plugin for WordPress is vulnerable to...",
+      "summary": "CVE ID :CVE-2026-104014 Published : Nov. 7, 2026, 12:17 p.m. | 9 hours, 22 minutes ago Description :The Naimur Email OTP Verification for WooCommerce plugin for WordPress is vulnerable to...",
       "source": "CVE Feed",
       "published": "2026-11-07T12:17:41+00:00"
     },
     {
       "title": "CVE-2026-123961 - TOTOLINK CA300-PoE cstecgi.cgi setWiFiBasicConfig buffer overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123961",
-      "summary": "CVE ID :CVE-2026-123961 Published : Nov. 7, 2026, 11:17 a.m. | 7 hours, 55 minutes ago Description :A security vulnerability has been detected in TOTOLINK CA300-PoE 6.2c.884. This impacts the...",
+      "summary": "CVE ID :CVE-2026-123961 Published : Nov. 7, 2026, 11:17 a.m. | 10 hours, 22 minutes ago Description :A security vulnerability has been detected in TOTOLINK CA300-PoE 6.2c.884. This impacts the...",
       "source": "CVE Feed",
       "published": "2026-11-07T11:17:01+00:00"
     },
     {
       "title": "CVE-2026-123960 - TOTOLINK CA300-PoE cstecgi.cgi setWanConfig buffer overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123960",
-      "summary": "CVE ID :CVE-2026-123960 Published : Nov. 7, 2026, 10:17 a.m. | 8 hours, 55 minutes ago Description :A weakness has been identified in TOTOLINK CA300-PoE 6.2c.884. This affects the function...",
+      "summary": "CVE ID :CVE-2026-123960 Published : Nov. 7, 2026, 10:17 a.m. | 11 hours, 22 minutes ago Description :A weakness has been identified in TOTOLINK CA300-PoE 6.2c.884. This affects the function...",
       "source": "CVE Feed",
       "published": "2026-11-07T10:17:12+00:00"
     },
     {
       "title": "CVE-2026-123959 - TOTOLINK CA300-PoE cstecgi.cgi setLanguageCfg buffer overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123959",
-      "summary": "CVE ID :CVE-2026-123959 Published : Nov. 7, 2026, 10:17 a.m. | 8 hours, 55 minutes ago Description :A security flaw has been discovered in TOTOLINK CA300-PoE 6.2c.884. The impacted element is the...",
+      "summary": "CVE ID :CVE-2026-123959 Published : Nov. 7, 2026, 10:17 a.m. | 11 hours, 22 minutes ago Description :A security flaw has been discovered in TOTOLINK CA300-PoE 6.2c.884. The impacted element is the...",
       "source": "CVE Feed",
       "published": "2026-11-07T10:17:12+00:00"
     },
     {
       "title": "CVE-2026-121762 - WordPress PowerPress Podcasting plugin <= 11.18.0 - Cross Site Request Forgery (CSRF) vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-121762",
-      "summary": "CVE ID :CVE-2026-121762 Published : Nov. 7, 2026, 10:17 a.m. | 8 hours, 55 minutes ago Description :Cross-Site Request Forgery (CSRF) vulnerability in Blubrry Podcasting PowerPress Podcasting...",
+      "summary": "CVE ID :CVE-2026-121762 Published : Nov. 7, 2026, 10:17 a.m. | 11 hours, 22 minutes ago Description :Cross-Site Request Forgery (CSRF) vulnerability in Blubrry Podcasting PowerPress Podcasting...",
       "source": "CVE Feed",
       "published": "2026-11-07T10:17:11+00:00"
     },
     {
       "title": "CVE-2026-103900 - WPJAM Basic <= 7.1 - Unauthenticated Privilege Escalation to 'data[args][role]' Parameter",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-103900",
-      "summary": "CVE ID :CVE-2026-103900 Published : Nov. 7, 2026, 10:17 a.m. | 8 hours, 55 minutes ago Description :The WPJAM Basic plugin for WordPress is vulnerable to Privilege Escalation in versions up to, and...",
+      "summary": "CVE ID :CVE-2026-103900 Published : Nov. 7, 2026, 10:17 a.m. | 11 hours, 22 minutes ago Description :The WPJAM Basic plugin for WordPress is vulnerable to Privilege Escalation in versions up to, and...",
       "source": "CVE Feed",
       "published": "2026-11-07T10:17:05+00:00"
     },
@@ -151,35 +172,35 @@
     {
       "title": "CVE-2026-66669 - WordPress Superb Addons: Blocks, Patterns & theme Designer plugin <= 4.2.4 - Cross Site Request Forgery (CSRF) vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-66669",
-      "summary": "CVE ID :CVE-2026-66669 Published : Nov. 7, 2026, 9:17 a.m. | 9 hours, 55 minutes ago Description :Cross-Site Request Forgery (CSRF) vulnerability in Suplugins Superb Addons: Blocks, Patterns & Theme...",
+      "summary": "CVE ID :CVE-2026-66669 Published : Nov. 7, 2026, 9:17 a.m. | 12 hours, 22 minutes ago Description :Cross-Site Request Forgery (CSRF) vulnerability in Suplugins Superb Addons: Blocks, Patterns & Theme...",
       "source": "CVE Feed",
       "published": "2026-11-07T09:17:16+00:00"
     },
     {
       "title": "CVE-2026-123958 - TOTOLINK CA300-PoE cstecgi.cgi setLanConfig buffer overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123958",
-      "summary": "CVE ID :CVE-2026-123958 Published : Nov. 7, 2026, 9:17 a.m. | 9 hours, 55 minutes ago Description :A vulnerability was identified in TOTOLINK CA300-PoE 6.2c.884. The affected element is the function...",
+      "summary": "CVE ID :CVE-2026-123958 Published : Nov. 7, 2026, 9:17 a.m. | 12 hours, 22 minutes ago Description :A vulnerability was identified in TOTOLINK CA300-PoE 6.2c.884. The affected element is the function...",
       "source": "CVE Feed",
       "published": "2026-11-07T09:17:15+00:00"
     },
     {
       "title": "CVE-2026-123957 - TOTOLINK CA300-PoE cstecgi.cgi setIpQosRules buffer overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123957",
-      "summary": "CVE ID :CVE-2026-123957 Published : Nov. 7, 2026, 9:17 a.m. | 9 hours, 55 minutes ago Description :A vulnerability was determined in TOTOLINK CA300-PoE 6.2c.884. Impacted is the function...",
+      "summary": "CVE ID :CVE-2026-123957 Published : Nov. 7, 2026, 9:17 a.m. | 12 hours, 22 minutes ago Description :A vulnerability was determined in TOTOLINK CA300-PoE 6.2c.884. Impacted is the function...",
       "source": "CVE Feed",
       "published": "2026-11-07T09:17:14+00:00"
     },
     {
       "title": "CVE-2026-104738 - Advanced Form Integration <= 2.10.2 - Unauthenticated PHP Object Injection via $_POST Parameters",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-104738",
-      "summary": "CVE ID :CVE-2026-104738 Published : Nov. 7, 2026, 9:17 a.m. | 9 hours, 55 minutes ago Description :The Advanced Form Integration — Connect Forms to 300+ Apps plugin for WordPress is vulnerable to PHP...",
+      "summary": "CVE ID :CVE-2026-104738 Published : Nov. 7, 2026, 9:17 a.m. | 12 hours, 22 minutes ago Description :The Advanced Form Integration — Connect Forms to 300+ Apps plugin for WordPress is vulnerable to...",
       "source": "CVE Feed",
       "published": "2026-11-07T09:17:11+00:00"
     },
     {
       "title": "CVE-2026-87112 - QA Assistants <= 5.3.0 - Unauthenticated PHP Object Injection to Remote Code Execution via 'raw_name' and 'dlevent_ver' Parameters",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-87112",
-      "summary": "CVE ID :CVE-2026-87112 Published : Nov. 7, 2026, 7:17 a.m. | 11 hours, 55 minutes ago Description :The QA Assistants – Driven by data plugin for WordPress is vulnerable to PHP Object Injection in all...",
+      "summary": "CVE ID :CVE-2026-87112 Published : Nov. 7, 2026, 7:17 a.m. | 14 hours, 22 minutes ago Description :The QA Assistants – Driven by data plugin for WordPress is vulnerable to PHP Object Injection in all...",
       "source": "CVE Feed",
       "published": "2026-11-07T07:17:05+00:00"
     },
@@ -196,27 +217,6 @@
       "summary": "CISA KEV Roundup Week 45 CISA’s Known Exploited Vulnerabilities (KEV) Catalog received three new additions this week. The vulnerabilities affect SonicWall SonicOS SSLVPN, multiple Apple products and...",
       "source": "CVE Newsroom",
       "published": "2026-11-07T06:09:46+00:00"
-    },
-    {
-      "title": "CVE-2026-19121 - Multiple Vulnerabilities in IBM API Connect",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-19121",
-      "summary": "CVE ID :CVE-2026-19121 Published : Nov. 7, 2026, 5:18 a.m. | 13 hours, 53 minutes ago Description :IBM API Connect 12.1.0.0 through 12.1.1.2 could allow an authenticated attacker to gain unauthorized...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T05:18:59+00:00"
-    },
-    {
-      "title": "CVE-2026-18838 - Multiple Vulnerabilities in IBM API Connect",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-18838",
-      "summary": "CVE ID :CVE-2026-18838 Published : Nov. 7, 2026, 5:18 a.m. | 13 hours, 53 minutes ago Description :IBM API Connect 12.1.0.0 through 12.1.1.2 could allow a remote attacker to obtain sensitive...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T05:18:59+00:00"
-    },
-    {
-      "title": "CVE-2026-18836 - Multiple Vulnerabilities in IBM API Connect",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-18836",
-      "summary": "CVE ID :CVE-2026-18836 Published : Nov. 7, 2026, 5:18 a.m. | 13 hours, 53 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T05:18:59+00:00"
     },
     {
       "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
