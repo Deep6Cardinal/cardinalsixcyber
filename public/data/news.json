@@ -1,19 +1,194 @@
 {
-  "last_updated": "2026-11-07T01:27:59.093386+00:00",
+  "last_updated": "2026-11-07T08:02:26.707466+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-87112 - QA Assistants <= 5.3.0 - Unauthenticated PHP Object Injection to Remote Code Execution via 'raw_name' and 'dlevent_ver' Parameters",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-87112",
+      "summary": "CVE ID :CVE-2026-87112 Published : Nov. 7, 2026, 7:17 a.m. | 22 minutes ago Description :The QA Assistants – Driven by data plugin for WordPress is vulnerable to PHP Object Injection in all versions...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T07:17:05+00:00"
+    },
+    {
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask...",
+      "source": "The Hacker News",
+      "published": "2026-11-07T06:44:17+00:00"
+    },
+    {
+      "title": "CVE-2026-19121 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-19121",
+      "summary": "CVE ID :CVE-2026-19121 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 12.1.0.0 through 12.1.1.2 could allow an authenticated attacker to gain unauthorized...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:59+00:00"
+    },
+    {
+      "title": "CVE-2026-18838 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-18838",
+      "summary": "CVE ID :CVE-2026-18838 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 12.1.0.0 through 12.1.1.2 could allow a remote attacker to obtain sensitive...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:59+00:00"
+    },
+    {
+      "title": "CVE-2026-18836 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-18836",
+      "summary": "CVE ID :CVE-2026-18836 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:59+00:00"
+    },
+    {
+      "title": "CVE-2026-18535 - IBM API Connect Denial of Service",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-18535",
+      "summary": "CVE ID :CVE-2026-18535 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 are vulnerable to a Regular...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:59+00:00"
+    },
+    {
+      "title": "CVE-2026-17410 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17410",
+      "summary": "CVE ID :CVE-2026-17410 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:58+00:00"
+    },
+    {
+      "title": "CVE-2026-17409 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17409",
+      "summary": "CVE ID :CVE-2026-17409 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:58+00:00"
+    },
+    {
+      "title": "CVE-2026-17408 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17408",
+      "summary": "CVE ID :CVE-2026-17408 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:57+00:00"
+    },
+    {
+      "title": "CVE-2026-17407 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17407",
+      "summary": "CVE ID :CVE-2026-17407 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:57+00:00"
+    },
+    {
+      "title": "CVE-2026-17406 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17406",
+      "summary": "CVE ID :CVE-2026-17406 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:57+00:00"
+    },
+    {
+      "title": "CVE-2026-17405 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17405",
+      "summary": "CVE ID :CVE-2026-17405 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:57+00:00"
+    },
+    {
+      "title": "CVE-2026-17404 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17404",
+      "summary": "CVE ID :CVE-2026-17404 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:56+00:00"
+    },
+    {
+      "title": "CVE-2026-17403 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17403",
+      "summary": "CVE ID :CVE-2026-17403 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:56+00:00"
+    },
+    {
+      "title": "CVE-2026-17402 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17402",
+      "summary": "CVE ID :CVE-2026-17402 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:56+00:00"
+    },
+    {
+      "title": "CVE-2026-17399 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17399",
+      "summary": "CVE ID :CVE-2026-17399 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:55+00:00"
+    },
+    {
+      "title": "CVE-2026-17398 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17398",
+      "summary": "CVE ID :CVE-2026-17398 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:55+00:00"
+    },
+    {
+      "title": "CVE-2026-17397 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17397",
+      "summary": "CVE ID :CVE-2026-17397 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:55+00:00"
+    },
+    {
+      "title": "CVE-2026-17396 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17396",
+      "summary": "CVE ID :CVE-2026-17396 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:55+00:00"
+    },
+    {
+      "title": "CVE-2026-17394 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17394",
+      "summary": "CVE ID :CVE-2026-17394 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:54+00:00"
+    },
+    {
+      "title": "CVE-2026-17392 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17392",
+      "summary": "CVE ID :CVE-2026-17392 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:54+00:00"
+    },
+    {
+      "title": "CVE-2026-17388 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17388",
+      "summary": "CVE ID :CVE-2026-17388 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:53+00:00"
+    },
+    {
+      "title": "CVE-2026-17386 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17386",
+      "summary": "CVE ID :CVE-2026-17386 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 could allow a remote attacker to gain full administrative...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:52+00:00"
+    },
+    {
+      "title": "CVE-2026-17385 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17385",
+      "summary": "CVE ID :CVE-2026-17385 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:52+00:00"
+    },
+    {
+      "title": "CVE-2026-17384 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17384",
+      "summary": "CVE ID :CVE-2026-17384 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 could allow a remote authenticated attacker to obtain...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:52+00:00"
+    },
+    {
+      "title": "CVE-2026-17382 - Multiple Vulnerabilities in IBM API Connect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-17382",
+      "summary": "CVE ID :CVE-2026-17382 Published : Nov. 7, 2026, 5:18 a.m. | 2 hours, 20 minutes ago Description :IBM API Connect 10.0.8.0 through 10.0.8.12 and 12.1.0.0 through 12.1.1.2 could allow a remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-07T05:18:52+00:00"
+    },
     {
       "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
       "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
       "source": "BleepingComputer",
       "published": "2026-11-07T00:00:55+00:00"
-    },
-    {
-      "title": "CVE-2026-109469 - Entra Device Registration Elevation of Privilege Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109469",
-      "summary": "CVE ID :CVE-2026-109469 Published : Nov. 6, 2026, 11:17 p.m. | 1 hour, 2 minutes ago Description :Authorization bypass through user-controlled key in Entra Device Registration allows an unauthorized...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T23:17:20+00:00"
     },
     {
       "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
@@ -23,27 +198,6 @@
       "published": "2026-11-06T22:27:25+00:00"
     },
     {
-      "title": "CVE-2026-68935 - Chartbrew: SSRF to Internal Network via User-Controlled allowPrivateHost Flag on API Connections",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-68935",
-      "summary": "CVE ID :CVE-2026-68935 Published : Nov. 6, 2026, 10:17 p.m. | 2 hours, 2 minutes ago Description :Chartbrew is an open-source web application for creating charts from databases and APIs. In versions...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T22:17:59+00:00"
-    },
-    {
-      "title": "CVE-2026-59104 - UgCS server HCI authentication bypass with empty credentials",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-59104",
-      "summary": "CVE ID :CVE-2026-59104 Published : Nov. 6, 2026, 10:17 p.m. | 2 hours, 2 minutes ago Description :UgCS server before 6.2 contains an authentication bypass in the HCI protocol login handler...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T22:17:59+00:00"
-    },
-    {
-      "title": "CVE-2026-50240 - Pipelines-as-code: openshift-pipelines-operator-rh: pipelines-as-code: repository users can trigger namespace edit-equivalent execution via auto-provisioned pipeline serviceaccount",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-50240",
-      "summary": "CVE ID :CVE-2026-50240 Published : Nov. 6, 2026, 10:17 p.m. | 2 hours, 2 minutes ago Description :A flaw was found in OpenShift Pipelines-as-Code (PAC). PAC does not verify whether the creator of a...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T22:17:58+00:00"
-    },
-    {
       "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
       "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
       "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
@@ -51,158 +205,11 @@
       "published": "2026-11-06T21:27:36+00:00"
     },
     {
-      "title": "CVE-2026-86044 - JupyterLab Desktop: One-Click Jupyter Server Token Leak leading to Remote Code Execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-86044",
-      "summary": "CVE ID :CVE-2026-86044 Published : Nov. 6, 2026, 9:17 p.m. | 3 hours, 2 minutes ago Description :JupyterLab Desktop is the cross-platform desktop application for JupyterLab. Prior to 4.6.2-1...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T21:17:12+00:00"
-    },
-    {
-      "title": "CVE-2026-86005 - Chartbrew: Unauthenticated BullMQ Admin Dashboard Exposure in Chartbrew",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-86005",
-      "summary": "CVE ID :CVE-2026-86005 Published : Nov. 6, 2026, 9:17 p.m. | 3 hours, 2 minutes ago Description :Chartbrew is an open-source web application that can connect directly to databases and APIs and use...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T21:17:12+00:00"
-    },
-    {
-      "title": "CVE-2026-85736 - Chartbrew: Arbitrary file deletion as root via data connection SSL/SSH paths",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-85736",
-      "summary": "CVE ID :CVE-2026-85736 Published : Nov. 6, 2026, 9:17 p.m. | 3 hours, 2 minutes ago Description :Chartbrew is an open-source web application that can connect directly to databases and APIs and use...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T21:17:11+00:00"
-    },
-    {
-      "title": "CVE-2026-85712 - Chartbrew: Cross-tenant project takeover via body.team_id in /project routes",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-85712",
-      "summary": "CVE ID :CVE-2026-85712 Published : Nov. 6, 2026, 9:17 p.m. | 3 hours, 2 minutes ago Description :Chartbrew is an open-source web application that can connect directly to databases and APIs and use...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T21:17:11+00:00"
-    },
-    {
-      "title": "CVE-2026-85295 - Chartbrew: Full account takeover via JWTs accepted under default CB_SECRET",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-85295",
-      "summary": "CVE ID :CVE-2026-85295 Published : Nov. 6, 2026, 9:17 p.m. | 3 hours, 3 minutes ago Description :Chartbrew is an open-source web application that can connect directly to databases and APIs and use...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T21:17:10+00:00"
-    },
-    {
-      "title": "CVE-2026-71397 - Unbounded request body accumulation on streaming RPCs causes memory exhaustion in grpc_server",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-71397",
-      "summary": "CVE ID :CVE-2026-71397 Published : Nov. 6, 2026, 9:17 p.m. | 3 hours, 3 minutes ago Description :Allocation of Resources Without Limits or Throttling vulnerability in elixir-grpc grpc_server allows...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T21:17:10+00:00"
-    },
-    {
-      "title": "CVE-2026-63439 - 2FAuth: Reverse Proxy Guard Trusts Client-Supplied Headers Without Proxy Verification",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63439",
-      "summary": "CVE ID :CVE-2026-63439 Published : Nov. 6, 2026, 9:17 p.m. | 3 hours, 3 minutes ago Description :2FAuth is a web app to manage Two-Factor Authentication (2FA) accounts and generate their security...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T21:17:09+00:00"
-    },
-    {
-      "title": "CVE-2026-63438 - 2FAuth: Reverse Proxy Guard Auto-Creates Users With Admin Promotion From Unauthenticated Header Value",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63438",
-      "summary": "CVE ID :CVE-2026-63438 Published : Nov. 6, 2026, 9:17 p.m. | 3 hours, 3 minutes ago Description :2FAuth is a web app to manage Two-Factor Authentication (2FA) accounts and generate their security...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T21:17:09+00:00"
-    },
-    {
-      "title": "CVE-2026-54349 - Chartbrew SQL injection in dashboard filter substitution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54349",
-      "summary": "CVE ID :CVE-2026-54349 Published : Nov. 6, 2026, 9:17 p.m. | 3 hours, 3 minutes ago Description :Chartbrew is an open-source web application that can connect directly to databases and APIs and use...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T21:17:08+00:00"
-    },
-    {
-      "title": "CVE-2026-124078 - plist.js before 5.0.1 Uncontrolled Resource Consumption via Binary Parser",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124078",
-      "summary": "CVE ID :CVE-2026-124078 Published : Nov. 6, 2026, 9:17 p.m. | 3 hours, 3 minutes ago Description :plist.js (npm package 'plist') before 5.0.1 contains an uncontrolled resource consumption...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T21:17:08+00:00"
-    },
-    {
-      "title": "CVE-2026-102530 - JupyterLab Desktop: Cross-Site Scripting (XSS) leading to Remote Code Execution on Connect URL",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102530",
-      "summary": "CVE ID :CVE-2026-102530 Published : Nov. 6, 2026, 9:17 p.m. | 3 hours, 3 minutes ago Description :JupyterLab Desktop is the cross-platform desktop application for JupyterLab. Prior to 4.6.2-1...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T21:17:05+00:00"
-    },
-    {
-      "title": "CVE-2026-102344 - Lavish: DNS rebinding allows any website to read arbitrary local files and inject prompts into the AI agent via the unauthenticated local server",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-102344",
-      "summary": "CVE ID :CVE-2026-102344 Published : Nov. 6, 2026, 9:17 p.m. | 3 hours, 3 minutes ago Description :Lavish is the new editor for your HTML artifacts. Prior to 0.1.43, the lavish-axi loopback HTTP...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T21:17:05+00:00"
-    },
-    {
       "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
       "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
       "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct...",
       "source": "BleepingComputer",
       "published": "2026-11-06T20:24:19+00:00"
-    },
-    {
-      "title": "CVE-2026-65960 - Tetragon: Unauthenticated Tetragon gRPC admin API accessible from hostNetwork pods",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-65960",
-      "summary": "CVE ID :CVE-2026-65960 Published : Nov. 6, 2026, 8:17 p.m. | 4 hours, 2 minutes ago Description :Tetragon is an eBPF-based security observability and runtime enforcement project. Versions before...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T20:17:24+00:00"
-    },
-    {
-      "title": "CVE-2026-58490 - Tracecat: Unsigned SAML response accepted in Docker Compose SAML deployments due to empty signing defaults",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-58490",
-      "summary": "CVE ID :CVE-2026-58490 Published : Nov. 6, 2026, 8:17 p.m. | 4 hours, 2 minutes ago Description :Tracecat is an open-source security automation platform for teams and AI agents. From version 0.37.0...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T20:17:23+00:00"
-    },
-    {
-      "title": "CVE-2026-33050 - GeoNode: OS command injection via uploaded file layer name",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-33050",
-      "summary": "CVE ID :CVE-2026-33050 Published : Nov. 6, 2026, 8:17 p.m. | 4 hours, 2 minutes ago Description :GeoNode is a geospatial content management system, a platform for the management and publication of...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T20:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-124040 - CivetWeb through 1.16 HTTP/2 Use-After-Free via Stale Pseudo-Header State",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124040",
-      "summary": "CVE ID :CVE-2026-124040 Published : Nov. 6, 2026, 8:17 p.m. | 4 hours, 2 minutes ago Description :CivetWeb through 1.16, when built with USE_HTTP2 and enable_http2 on, contains a use-after-free...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T20:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-124027 - ChatWiki before 2.10.0 Unauthenticated Document Disclosure via getLibRawFileOnePage",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124027",
-      "summary": "CVE ID :CVE-2026-124027 Published : Nov. 6, 2026, 8:17 p.m. | 4 hours, 2 minutes ago Description :ChatWiki before 2.10.0 contains a missing authentication vulnerability in the GET...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T20:17:21+00:00"
-    },
-    {
-      "title": "CVE-2026-71495 - Wanderer: SSRF Vulnerability in /api/v1/trail/download - Unvalidated URL Leads to Internal Network Access",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-71495",
-      "summary": "CVE ID :CVE-2026-71495 Published : Nov. 6, 2026, 7:17 p.m. | 5 hours, 2 minutes ago Description :Wanderer is a self-hosted trail database for saving and sharing adventures. Prior to 0.20.0, when...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T19:17:56+00:00"
-    },
-    {
-      "title": "CVE-2026-123998 - Hisense VIDAA Smart TV MQTT Broker Authentication Bypass",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123998",
-      "summary": "CVE ID :CVE-2026-123998 Published : Nov. 6, 2026, 7:17 p.m. | 5 hours, 2 minutes ago Description :Hisense VIDAA Smart TV firmware V0000.01.00a.P0220 contains an authentication bypass vulnerability in...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T19:17:45+00:00"
-    },
-    {
-      "title": "CVE-2026-123993 - Hisense VIDAA Smart TV Unauthenticated WebDriver Remote Access",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123993",
-      "summary": "CVE ID :CVE-2026-123993 Published : Nov. 6, 2026, 7:17 p.m. | 5 hours, 2 minutes ago Description :Hisense VIDAA Smart TV firmware V0000.01.00a.P0220 contains an unauthenticated access vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T19:17:44+00:00"
-    },
-    {
-      "title": "CVE-2026-119924 - Out-of-Bounds Read in Babelfish for PostgreSQL TDS RPC Procedure-Name Parser",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-119924",
-      "summary": "CVE ID :CVE-2026-119924 Published : Nov. 6, 2026, 7:17 p.m. | 5 hours, 2 minutes ago Description :An out-of-bounds read in the TDS RPC procedure-name parser in the Babelfish for PostgreSQL extension...",
-      "source": "CVE Feed",
-      "published": "2026-11-06T19:17:39+00:00"
     },
     {
       "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
@@ -256,8 +263,8 @@
     {
       "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
       "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs...",
-      "source": "The Hacker News",
+      "summary": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according...",
+      "source": "CVE Newsroom",
       "published": "2026-11-06T16:08:38+00:00"
     },
     {
@@ -277,8 +284,8 @@
     {
       "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
       "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability...",
-      "source": "The Hacker News",
+      "summary": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable...",
+      "source": "CVE Newsroom",
       "published": "2026-11-06T15:21:49+00:00"
     },
     {
@@ -298,8 +305,8 @@
     {
       "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
       "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-      "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in...",
-      "source": "The Hacker News",
+      "summary": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that...",
+      "source": "CVE Newsroom",
       "published": "2026-11-06T14:58:32+00:00"
     },
     {
@@ -382,8 +389,8 @@
     {
       "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
       "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build...",
-      "source": "The Hacker News",
+      "summary": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix...",
+      "source": "CVE Newsroom",
       "published": "2026-11-06T12:06:43+00:00"
     },
     {
@@ -445,8 +452,8 @@
     {
       "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
       "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-      "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released...",
-      "source": "The Hacker News",
+      "summary": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run...",
+      "source": "CVE Newsroom",
       "published": "2026-11-06T05:39:10+00:00"
     },
     {
@@ -508,8 +515,8 @@
     {
       "title": "APT29's Watering Holes Target Thousands of Mobile Users",
       "link": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-      "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
-      "source": "Dark Reading",
+      "summary": "APT29's Watering Holes Target Thousands of Mobile Users 4 Min ReadSource: tete_escape via ShutterstockIt has emerged this week that Russia's APT29 threat group compromised the website of a Ukrainian...",
+      "source": "CVE Newsroom",
       "published": "2026-11-05T20:05:39+00:00"
     },
     {
@@ -536,22 +543,22 @@
     {
       "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
       "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the...",
-      "source": "The Hacker News",
+      "summary": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine...",
+      "source": "CVE Newsroom",
       "published": "2026-11-05T16:42:46+00:00"
     },
     {
       "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
       "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the...",
-      "source": "The Hacker News",
+      "summary": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass...",
+      "source": "CVE Newsroom",
       "published": "2026-11-05T16:42:32+00:00"
     },
     {
       "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
       "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file...",
-      "source": "The Hacker News",
+      "summary": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across...",
+      "source": "CVE Newsroom",
       "published": "2026-11-05T14:41:10+00:00"
     },
     {
@@ -599,15 +606,15 @@
     {
       "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
       "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone...",
-      "source": "The Hacker News",
+      "summary": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open...",
+      "source": "CVE Newsroom",
       "published": "2026-11-05T07:06:33+00:00"
     },
     {
       "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities...",
-      "source": "The Hacker News",
+      "summary": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw...",
+      "source": "CVE Newsroom",
       "published": "2026-11-05T05:17:04+00:00"
     },
     {
@@ -627,15 +634,15 @@
     {
       "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
       "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according...",
-      "source": "The Hacker News",
+      "summary": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T17:00:46+00:00"
     },
     {
       "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
       "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS...",
-      "source": "The Hacker News",
+      "summary": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T17:00:38+00:00"
     },
     {
@@ -655,8 +662,8 @@
     {
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
       "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply...",
-      "source": "The Hacker News",
+      "summary": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T14:27:52+00:00"
     },
     {
@@ -669,15 +676,15 @@
     {
       "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
       "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The...",
-      "source": "The Hacker News",
+      "summary": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T12:07:04+00:00"
     },
     {
       "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
       "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full...",
-      "source": "The Hacker News",
+      "summary": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T11:46:27+00:00"
     },
     {
@@ -690,8 +697,8 @@
     {
       "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
       "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input...",
-      "source": "The Hacker News",
+      "summary": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS)...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T11:24:31+00:00"
     },
     {
@@ -704,15 +711,15 @@
     {
       "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
       "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14...",
-      "source": "The Hacker News",
+      "summary": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction A critical Android flaw could allow an attacker to run code on a phone without any user action remotely...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T07:46:15+00:00"
     },
     {
       "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
       "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active...",
-      "source": "The Hacker News",
+      "summary": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known...",
+      "source": "CVE Newsroom",
       "published": "2026-11-04T05:43:11+00:00"
     },
     {
@@ -753,8 +760,8 @@
     {
       "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
       "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-      "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The...",
-      "source": "The Hacker News",
+      "summary": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that...",
+      "source": "CVE Newsroom",
       "published": "2026-11-03T18:16:19+00:00"
     },
     {
@@ -931,13 +938,6 @@
       "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey...",
       "source": "The Hacker News",
       "published": "2026-11-02T11:30:00+00:00"
-    },
-    {
-      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
-      "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
-      "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to...",
-      "source": "The Hacker News",
-      "published": "2026-11-02T11:08:45+00:00"
     },
     {
       "title": "Investors Dish on New Startups & What They'd Back Next",
