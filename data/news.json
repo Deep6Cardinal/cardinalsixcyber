@@ -1,33 +1,180 @@
 {
-  "last_updated": "2026-11-07T23:16:13.167660+00:00",
+  "last_updated": "2026-11-08T03:30:55.527793+00:00",
   "articles": [
     {
-      "title": "CVE-2026-124060 - TOTOLINK CA300-PoE cstecgi.cgi UploadCustomModule buffer overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124060",
-      "summary": "CVE ID :CVE-2026-124060 Published : Nov. 7, 2026, 9:17 p.m. | 22 minutes ago Description :A vulnerability was detected in TOTOLINK CA300-PoE 6.2c.884. Affected by this issue is the function...",
+      "title": "CVE-2026-123616 - imgproxy 3.3.0 before 4.0.16 Memory Exhaustion DoS via ICO Loader",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123616",
+      "summary": "CVE ID :CVE-2026-123616 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :imgproxy from 3.3.0 before 4.0.16 contains an unbounded memory allocation vulnerability in the ICO loader...",
       "source": "CVE Feed",
-      "published": "2026-11-07T21:17:00+00:00"
+      "published": "2026-11-08T02:16:57+00:00"
     },
     {
-      "title": "CVE-2026-124059 - TOTOLINK CA300-PoE cstecgi.cgi setWiFiWdsAddConfig buffer overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124059",
-      "summary": "CVE ID :CVE-2026-124059 Published : Nov. 7, 2026, 7:17 p.m. | 2 hours, 22 minutes ago Description :A security vulnerability has been detected in TOTOLINK CA300-PoE 6.2c.884. Affected by this...",
+      "title": "CVE-2026-123615 - imgproxy before 4.0.17 Out-of-Bounds Write in ICO Loader",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123615",
+      "summary": "CVE ID :CVE-2026-123615 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :imgproxy 3.3.0 before 4.0.17 contains an out-of-bounds heap read and write in the ICO loader's BMP header...",
       "source": "CVE Feed",
-      "published": "2026-11-07T19:17:28+00:00"
+      "published": "2026-11-08T02:16:57+00:00"
     },
     {
-      "title": "CVE-2026-124058 - TOTOLINK CA300-PoE cstecgi.cgi setWiFiRepeaterConfig buffer overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124058",
-      "summary": "CVE ID :CVE-2026-124058 Published : Nov. 7, 2026, 7:17 p.m. | 2 hours, 22 minutes ago Description :A weakness has been identified in TOTOLINK CA300-PoE 6.2c.884. Affected is the function...",
+      "title": "CVE-2026-123614 - imgproxy 4.0.0 before 4.0.16 Heap Buffer Overflow via ICO Loader Integer Overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123614",
+      "summary": "CVE ID :CVE-2026-123614 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :imgproxy from 4.0.0 before 4.0.16 contains an integer overflow in the ICO loader that allows remote attackers...",
       "source": "CVE Feed",
-      "published": "2026-11-07T19:17:28+00:00"
+      "published": "2026-11-08T02:16:56+00:00"
     },
     {
-      "title": "CVE-2026-124057 - TOTOLINK CA300-PoE cstecgi.cgi setWiFiMultipleConfig buffer overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124057",
-      "summary": "CVE ID :CVE-2026-124057 Published : Nov. 7, 2026, 6:17 p.m. | 3 hours, 22 minutes ago Description :A security flaw has been discovered in TOTOLINK CA300-PoE 6.2c.884. This impacts the function...",
+      "title": "CVE-2026-123608 - Hickory DNS hickory-proto 0.3.1 before 0.26.1 CPU Exhaustion via BinEncoder Name Compression",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123608",
+      "summary": "CVE ID :CVE-2026-123608 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-proto from 0.3.1 before 0.26.1 contains a denial of service vulnerability in BinEncoder...",
       "source": "CVE Feed",
-      "published": "2026-11-07T18:17:21+00:00"
+      "published": "2026-11-08T02:16:55+00:00"
+    },
+    {
+      "title": "CVE-2026-123607 - Hickory DNS NSEC3 Closest-Encloser Proof Unbounded Loop Denial of Service",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123607",
+      "summary": "CVE ID :CVE-2026-123607 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-proto 0.25.0-alpha.3 through 0.25.2 and hickory-net before 0.26.1 contain an unbounded...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:55+00:00"
+    },
+    {
+      "title": "CVE-2026-123606 - Hickory-DNS Recursor 0.25.0-alpha.3 through 0.25.2 Glueless-NS Referral Amplification",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123606",
+      "summary": "CVE ID :CVE-2026-123606 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :The hickory-dns recursor in hickory-recursor 0.25.0-alpha.3 through 0.25.2 and hickory-resolver...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:55+00:00"
+    },
+    {
+      "title": "CVE-2026-123605 - Hickory DNS through 0.25.0-alpha.3 DNSSEC Validation Bypass via RRSIG Signer's Name",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123605",
+      "summary": "CVE ID :CVE-2026-123605 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-proto 0.1 through 0.25.0-alpha.3 and hickory-net before 0.26.2 contain a DNSSEC...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:55+00:00"
+    },
+    {
+      "title": "CVE-2026-123604 - Hickory DNS 0.26.0-beta.1 before 0.26.2 Resource Exhaustion DoS via NameServerPool::try_send TC-Retry Loop",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123604",
+      "summary": "CVE ID :CVE-2026-123604 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-resolver 0.26.0-beta.1 before 0.26.2 contains an unbounded retry loop in...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:55+00:00"
+    },
+    {
+      "title": "CVE-2026-123602 - Hickory DNS Recursor Ghost Domain Attack via Child-Side NS RRset Caching",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123602",
+      "summary": "CVE ID :CVE-2026-123602 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :The Hickory DNS recursor in all versions of hickory-recursor and in hickory-resolver 0.26.0-beta.1 before...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:54+00:00"
+    },
+    {
+      "title": "CVE-2026-123601 - Hickory DNS 0.26.0-beta.1 before 0.26.2 NSEC3 Proof of Nonexistence Forgery",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123601",
+      "summary": "CVE ID :CVE-2026-123601 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-proto 0.25.0 through 0.26.0-alpha.1 and hickory-net 0.26.0-beta.1 before 0.26.2 invert...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:54+00:00"
+    },
+    {
+      "title": "CVE-2026-123596 - Hickory DNS through 0.26.0-alpha.1 DNSSEC Validation Bypass via Ancestor-Delegation NSEC",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123596",
+      "summary": "CVE ID :CVE-2026-123596 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-proto through 0.26.0-alpha.1 and hickory-net 0.26.0-beta.1 before 0.26.2 contain a DNSSEC...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:54+00:00"
+    },
+    {
+      "title": "CVE-2026-123595 - Hickory DNS through 0.26.0-alpha.1 DNSSEC Validation Bypass via Ancestor-Delegation NSEC3",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123595",
+      "summary": "CVE ID :CVE-2026-123595 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-proto 0.25 through 0.26.0-alpha.1 and hickory-net 0.26.0-beta.1 before 0.26.2 contain a...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:53+00:00"
+    },
+    {
+      "title": "CVE-2026-123592 - Hickory DNS 0.26.0-beta.1 before 0.26.2 DNSSEC Validation Bypass via Name Hash Collision",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123592",
+      "summary": "CVE ID :CVE-2026-123592 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :The hickory-net crate in Hickory DNS 0.26.0-beta.1 before 0.26.2 allows DNSSEC validation bypass because...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:53+00:00"
+    },
+    {
+      "title": "CVE-2026-123591 - Hickory DNS 0.26.0-beta.1 before 0.26.2 DNSSEC Validation Bypass via Missing RFC 6840 Checks",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123591",
+      "summary": "CVE ID :CVE-2026-123591 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-net 0.26.0-beta.1 before 0.26.2 and hickory-proto through 0.26.0-alpha.1 fail to verify...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:53+00:00"
+    },
+    {
+      "title": "CVE-2026-123588 - Hickory DNS Recursive Resolver Denial of Service via Cached Empty Connection Pool",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123588",
+      "summary": "CVE ID :CVE-2026-123588 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :The recursive resolver in Hickory DNS (all versions of the hickory-recursor crate, and hickory-resolver...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:52+00:00"
+    },
+    {
+      "title": "CVE-2026-123587 - Hickory-DNS 0.26.0 before 0.26.2 DNSSEC Nonexistence Forgery via Wraparound NSEC",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123587",
+      "summary": "CVE ID :CVE-2026-123587 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :The DNSSEC validation in the Hickory DNS hickory-net crate 0.26.0 before 0.26.2 identifies wraparound NSEC...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:52+00:00"
+    },
+    {
+      "title": "CVE-2026-123586 - Hickory DNS 0.25.0-alpha.3 through 0.25.2 Query Amplification via Cyclic Referrals",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123586",
+      "summary": "CVE ID :CVE-2026-123586 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS 0.25.0-alpha.3 through 0.25.2 contains a query amplification vulnerability in its recursive...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:52+00:00"
+    },
+    {
+      "title": "CVE-2026-123584 - Hickory-DNS 0.26.0 before 0.26.2 UDP Client Denial of Service via Spoofed Responses",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123584",
+      "summary": "CVE ID :CVE-2026-123584 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :The hickory-net crate in Hickory DNS 0.26.0 before 0.26.2 stops listening and returns an error when a client...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:52+00:00"
+    },
+    {
+      "title": "CVE-2026-123580 - Hickory-DNS 0.26.0-beta.1 before 0.26.2 DNSSEC Nonexistence Proof Forgery via NSEC3",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123580",
+      "summary": "CVE ID :CVE-2026-123580 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-net 0.26.0-beta.1 before 0.26.2 and hickory-proto through 0.26.0-alpha.1 perform...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:51+00:00"
+    },
+    {
+      "title": "CVE-2026-123577 - Hickory DNS 0.24.0 before 0.26.2 DoH Unbounded Request Body Denial of Service",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123577",
+      "summary": "CVE ID :CVE-2026-123577 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS from 0.24.0 before 0.26.2 contains a resource exhaustion vulnerability that allows remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:51+00:00"
+    },
+    {
+      "title": "CVE-2026-123576 - Hickory DNS 0.24.0 through 0.26.1 Memory Exhaustion via DNS-over-QUIC Requests",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123576",
+      "summary": "CVE ID :CVE-2026-123576 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS 0.24.0 through 0.26.1 contains a memory exhaustion vulnerability that allows remote attackers to...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:50+00:00"
+    },
+    {
+      "title": "CVE-2026-123575 - Hickory DNS before 0.26.2 DoH Memory Exhaustion via Incomplete Request Bodies",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123575",
+      "summary": "CVE ID :CVE-2026-123575 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS before 0.26.2 contains a resource exhaustion vulnerability in its DNS-over-HTTPS HTTP/2 server...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:50+00:00"
+    },
+    {
+      "title": "CVE-2026-123574 - Hickory DNS 0.24.0 before 0.26.2 Denial of Service via Zone File Parser",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123574",
+      "summary": "CVE ID :CVE-2026-123574 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :The zone file parser in the hickory-proto crate of Hickory DNS 0.24.0 before 0.26.2 panics when a single...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:50+00:00"
+    },
+    {
+      "title": "CVE-2026-123573 - hickory-dns from 0.20.1 before 0.26.2 Panic in SVCB/HTTPS Zone File Parser",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123573",
+      "summary": "CVE ID :CVE-2026-123573 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :hickory-dns from 0.20.1 before 0.26.2 contains a denial of service vulnerability in the hickory-proto SVCB...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:50+00:00"
+    },
+    {
+      "title": "CVE-2026-123572 - Hickory-dns 0.20.1 before 0.26.2 Panic DoS via SVCB/HTTPS Zone Parser",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123572",
+      "summary": "CVE ID :CVE-2026-123572 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory-dns from 0.20.1 before 0.26.2 contains a denial of service vulnerability in the hickory-proto SVCB...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T02:16:50+00:00"
     },
     {
       "title": "Hackers pull off $133 million French bank heist via service provider",
@@ -37,53 +184,11 @@
       "published": "2026-11-07T15:25:35+00:00"
     },
     {
-      "title": "CVE-2026-124318 - Treeio through 2.0 Insecure Deserialization RCE via Admin-Editable Pickle Fields",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124318",
-      "summary": "CVE ID :CVE-2026-124318 Published : Nov. 7, 2026, 3:17 p.m. | 6 hours, 22 minutes ago Description :Treeio through 2.0 contains an insecure deserialization vulnerability in...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T15:17:16+00:00"
-    },
-    {
-      "title": "CVE-2026-123966 - Tenda AC19 saveParentControlInfo heap-based overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123966",
-      "summary": "CVE ID :CVE-2026-123966 Published : Nov. 7, 2026, 2:17 p.m. | 7 hours, 22 minutes ago Description :A vulnerability was determined in Tenda AC19 16.03.10.07. Affected by this issue is the function...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T14:17:01+00:00"
-    },
-    {
-      "title": "CVE-2026-120984 - Keycloak-services: keycloak-services: manage-clients to arbitrary code execution through inline javascript policy import",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120984",
-      "summary": "CVE ID :CVE-2026-120984 Published : Nov. 7, 2026, 2:17 p.m. | 7 hours, 22 minutes ago Description :A flaw was found in the Keycloak server's client management component. When a client is created or...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T14:17:01+00:00"
-    },
-    {
       "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
       "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
       "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these...",
       "source": "BleepingComputer",
       "published": "2026-11-07T14:10:19+00:00"
-    },
-    {
-      "title": "CVE-2026-122041 - Checkout Field Editor for WooCommerce (Pro) <= 3.8.0 - Missing Authorization to Unauthenticated Arbitrary Attachment Deletion via 'attachment_id' Parameter via thwcfe_remove_uploaded AJAX Action",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122041",
-      "summary": "CVE ID :CVE-2026-122041 Published : Nov. 7, 2026, 1:16 p.m. | 8 hours, 23 minutes ago Description :The Checkout Field Editor for WooCommerce (Pro) plugin for WordPress is vulnerable to unauthorized...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T13:16:36+00:00"
-    },
-    {
-      "title": "CVE-2026-120841 - WordPress WpTravelly plugin <= 2.3.8 - Local File Inclusion vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120841",
-      "summary": "CVE ID :CVE-2026-120841 Published : Nov. 7, 2026, 1:16 p.m. | 8 hours, 23 minutes ago Description :Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T13:16:35+00:00"
-    },
-    {
-      "title": "CVE-2026-120839 - WordPress WpTravelly plugin <= 2.3.8 - Local File Inclusion vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120839",
-      "summary": "CVE ID :CVE-2026-120839 Published : Nov. 7, 2026, 1:16 p.m. | 8 hours, 23 minutes ago Description :Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T13:16:34+00:00"
     },
     {
       "title": "Microsoft Paint RCE Vulnerability: CVE-2026-83844",
@@ -93,116 +198,11 @@
       "published": "2026-11-07T12:51:38+00:00"
     },
     {
-      "title": "CVE-2026-119075 - Registration Form for WooCommerce <= 1.1.4 - Unauthenticated Privilege Escalation to 'user_roles' Parameter at Checkout",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-119075",
-      "summary": "CVE ID :CVE-2026-119075 Published : Nov. 7, 2026, 12:17 p.m. | 9 hours, 22 minutes ago Description :The Registration Form for WooCommerce plugin for WordPress is vulnerable to privilege escalation...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T12:17:44+00:00"
-    },
-    {
-      "title": "CVE-2026-118267 - WP Data Access <= 5.5.89 - Incorrect Authorization to Unauthenticated Privilege Escalation via 'key' and 'val' Parameters on app/update, app/delete, app/insert",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118267",
-      "summary": "CVE ID :CVE-2026-118267 Published : Nov. 7, 2026, 12:17 p.m. | 9 hours, 22 minutes ago Description :The WP Data Access – App Builder for Tables, Forms, Dashboards, Charts & Maps plugin for WordPress...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T12:17:43+00:00"
-    },
-    {
-      "title": "CVE-2026-118066 - Appointment Booking Plugin <= 5.7.6 - Unauthenticated Authentication Bypass via Account Takeover via 'IS NOT NULL' Sentinel in 'password_reset_token' Parameter",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118066",
-      "summary": "CVE ID :CVE-2026-118066 Published : Nov. 7, 2026, 12:17 p.m. | 9 hours, 22 minutes ago Description :The Appointment Booking Plugin – LatePoint | Calendar & Scheduling for WordPress plugin for...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T12:17:43+00:00"
-    },
-    {
-      "title": "CVE-2026-104746 - Motors <= 1.4.125 - Authenticated (Subscriber+) Arbitrary File Deletion via 'stm_user_avatar_path' User Meta",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-104746",
-      "summary": "CVE ID :CVE-2026-104746 Published : Nov. 7, 2026, 12:17 p.m. | 9 hours, 22 minutes ago Description :The Motors – Car Dealership & Classified Listings Plugin plugin for WordPress is vulnerable to...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T12:17:41+00:00"
-    },
-    {
-      "title": "CVE-2026-104014 - Naimur Email OTP Verification for WooCommerce <= 2.1.0 - Unauthenticated Authentication Bypass to Account Takeover via Abandoned Password Reset Finalization",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-104014",
-      "summary": "CVE ID :CVE-2026-104014 Published : Nov. 7, 2026, 12:17 p.m. | 9 hours, 22 minutes ago Description :The Naimur Email OTP Verification for WooCommerce plugin for WordPress is vulnerable to...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T12:17:41+00:00"
-    },
-    {
-      "title": "CVE-2026-123961 - TOTOLINK CA300-PoE cstecgi.cgi setWiFiBasicConfig buffer overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123961",
-      "summary": "CVE ID :CVE-2026-123961 Published : Nov. 7, 2026, 11:17 a.m. | 10 hours, 22 minutes ago Description :A security vulnerability has been detected in TOTOLINK CA300-PoE 6.2c.884. This impacts the...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T11:17:01+00:00"
-    },
-    {
-      "title": "CVE-2026-123960 - TOTOLINK CA300-PoE cstecgi.cgi setWanConfig buffer overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123960",
-      "summary": "CVE ID :CVE-2026-123960 Published : Nov. 7, 2026, 10:17 a.m. | 11 hours, 22 minutes ago Description :A weakness has been identified in TOTOLINK CA300-PoE 6.2c.884. This affects the function...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T10:17:12+00:00"
-    },
-    {
-      "title": "CVE-2026-123959 - TOTOLINK CA300-PoE cstecgi.cgi setLanguageCfg buffer overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123959",
-      "summary": "CVE ID :CVE-2026-123959 Published : Nov. 7, 2026, 10:17 a.m. | 11 hours, 22 minutes ago Description :A security flaw has been discovered in TOTOLINK CA300-PoE 6.2c.884. The impacted element is the...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T10:17:12+00:00"
-    },
-    {
-      "title": "CVE-2026-121762 - WordPress PowerPress Podcasting plugin <= 11.18.0 - Cross Site Request Forgery (CSRF) vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121762",
-      "summary": "CVE ID :CVE-2026-121762 Published : Nov. 7, 2026, 10:17 a.m. | 11 hours, 22 minutes ago Description :Cross-Site Request Forgery (CSRF) vulnerability in Blubrry Podcasting PowerPress Podcasting...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T10:17:11+00:00"
-    },
-    {
-      "title": "CVE-2026-103900 - WPJAM Basic <= 7.1 - Unauthenticated Privilege Escalation to 'data[args][role]' Parameter",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-103900",
-      "summary": "CVE ID :CVE-2026-103900 Published : Nov. 7, 2026, 10:17 a.m. | 11 hours, 22 minutes ago Description :The WPJAM Basic plugin for WordPress is vulnerable to Privilege Escalation in versions up to, and...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T10:17:05+00:00"
-    },
-    {
       "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
       "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
       "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That...",
       "source": "SecurityWeek",
       "published": "2026-11-07T10:16:23+00:00"
-    },
-    {
-      "title": "CVE-2026-66669 - WordPress Superb Addons: Blocks, Patterns & theme Designer plugin <= 4.2.4 - Cross Site Request Forgery (CSRF) vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-66669",
-      "summary": "CVE ID :CVE-2026-66669 Published : Nov. 7, 2026, 9:17 a.m. | 12 hours, 22 minutes ago Description :Cross-Site Request Forgery (CSRF) vulnerability in Suplugins Superb Addons: Blocks, Patterns & Theme...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T09:17:16+00:00"
-    },
-    {
-      "title": "CVE-2026-123958 - TOTOLINK CA300-PoE cstecgi.cgi setLanConfig buffer overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123958",
-      "summary": "CVE ID :CVE-2026-123958 Published : Nov. 7, 2026, 9:17 a.m. | 12 hours, 22 minutes ago Description :A vulnerability was identified in TOTOLINK CA300-PoE 6.2c.884. The affected element is the function...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T09:17:15+00:00"
-    },
-    {
-      "title": "CVE-2026-123957 - TOTOLINK CA300-PoE cstecgi.cgi setIpQosRules buffer overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123957",
-      "summary": "CVE ID :CVE-2026-123957 Published : Nov. 7, 2026, 9:17 a.m. | 12 hours, 22 minutes ago Description :A vulnerability was determined in TOTOLINK CA300-PoE 6.2c.884. Impacted is the function...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T09:17:14+00:00"
-    },
-    {
-      "title": "CVE-2026-104738 - Advanced Form Integration <= 2.10.2 - Unauthenticated PHP Object Injection via $_POST Parameters",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-104738",
-      "summary": "CVE ID :CVE-2026-104738 Published : Nov. 7, 2026, 9:17 a.m. | 12 hours, 22 minutes ago Description :The Advanced Form Integration — Connect Forms to 300+ Apps plugin for WordPress is vulnerable to...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T09:17:11+00:00"
-    },
-    {
-      "title": "CVE-2026-87112 - QA Assistants <= 5.3.0 - Unauthenticated PHP Object Injection to Remote Code Execution via 'raw_name' and 'dlevent_ver' Parameters",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-87112",
-      "summary": "CVE ID :CVE-2026-87112 Published : Nov. 7, 2026, 7:17 a.m. | 14 hours, 22 minutes ago Description :The QA Assistants – Driven by data plugin for WordPress is vulnerable to PHP Object Injection in all...",
-      "source": "CVE Feed",
-      "published": "2026-11-07T07:17:05+00:00"
     },
     {
       "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
