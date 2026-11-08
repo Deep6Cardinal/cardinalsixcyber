@@ -1,178 +1,178 @@
 {
-  "last_updated": "2026-11-08T03:30:55.527793+00:00",
+  "last_updated": "2026-11-08T10:54:47.527471+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-114713 - UnrealIRCd IRCv3 Label Message Tag Command Injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114713",
+      "summary": "CVE ID :CVE-2026-114713 Published : Nov. 8, 2026, 3:16 a.m. | 6 hours, 44 minutes ago Description :The labeled-response module in UnrealIRCd 6.0.0 before 6.2.7.1 does not escape the IRCv3 \"label\"...",
+      "source": "CVE Feed",
+      "published": "2026-11-08T03:16:33+00:00"
+    },
     {
       "title": "CVE-2026-123616 - imgproxy 3.3.0 before 4.0.16 Memory Exhaustion DoS via ICO Loader",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123616",
-      "summary": "CVE ID :CVE-2026-123616 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :imgproxy from 3.3.0 before 4.0.16 contains an unbounded memory allocation vulnerability in the ICO loader...",
+      "summary": "CVE ID :CVE-2026-123616 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :imgproxy from 3.3.0 before 4.0.16 contains an unbounded memory allocation vulnerability in the ICO...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:57+00:00"
     },
     {
       "title": "CVE-2026-123615 - imgproxy before 4.0.17 Out-of-Bounds Write in ICO Loader",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123615",
-      "summary": "CVE ID :CVE-2026-123615 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :imgproxy 3.3.0 before 4.0.17 contains an out-of-bounds heap read and write in the ICO loader's BMP header...",
+      "summary": "CVE ID :CVE-2026-123615 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :imgproxy 3.3.0 before 4.0.17 contains an out-of-bounds heap read and write in the ICO loader's BMP...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:57+00:00"
     },
     {
       "title": "CVE-2026-123614 - imgproxy 4.0.0 before 4.0.16 Heap Buffer Overflow via ICO Loader Integer Overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123614",
-      "summary": "CVE ID :CVE-2026-123614 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :imgproxy from 4.0.0 before 4.0.16 contains an integer overflow in the ICO loader that allows remote attackers...",
+      "summary": "CVE ID :CVE-2026-123614 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :imgproxy from 4.0.0 before 4.0.16 contains an integer overflow in the ICO loader that allows remote...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:56+00:00"
     },
     {
       "title": "CVE-2026-123608 - Hickory DNS hickory-proto 0.3.1 before 0.26.1 CPU Exhaustion via BinEncoder Name Compression",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123608",
-      "summary": "CVE ID :CVE-2026-123608 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-proto from 0.3.1 before 0.26.1 contains a denial of service vulnerability in BinEncoder...",
+      "summary": "CVE ID :CVE-2026-123608 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :Hickory DNS hickory-proto from 0.3.1 before 0.26.1 contains a denial of service vulnerability in...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:55+00:00"
     },
     {
       "title": "CVE-2026-123607 - Hickory DNS NSEC3 Closest-Encloser Proof Unbounded Loop Denial of Service",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123607",
-      "summary": "CVE ID :CVE-2026-123607 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-proto 0.25.0-alpha.3 through 0.25.2 and hickory-net before 0.26.1 contain an unbounded...",
+      "summary": "CVE ID :CVE-2026-123607 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :Hickory DNS hickory-proto 0.25.0-alpha.3 through 0.25.2 and hickory-net before 0.26.1 contain an...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:55+00:00"
     },
     {
       "title": "CVE-2026-123606 - Hickory-DNS Recursor 0.25.0-alpha.3 through 0.25.2 Glueless-NS Referral Amplification",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123606",
-      "summary": "CVE ID :CVE-2026-123606 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :The hickory-dns recursor in hickory-recursor 0.25.0-alpha.3 through 0.25.2 and hickory-resolver...",
+      "summary": "CVE ID :CVE-2026-123606 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :The hickory-dns recursor in hickory-recursor 0.25.0-alpha.3 through 0.25.2 and hickory-resolver...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:55+00:00"
     },
     {
       "title": "CVE-2026-123605 - Hickory DNS through 0.25.0-alpha.3 DNSSEC Validation Bypass via RRSIG Signer's Name",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123605",
-      "summary": "CVE ID :CVE-2026-123605 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-proto 0.1 through 0.25.0-alpha.3 and hickory-net before 0.26.2 contain a DNSSEC...",
+      "summary": "CVE ID :CVE-2026-123605 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :Hickory DNS hickory-proto 0.1 through 0.25.0-alpha.3 and hickory-net before 0.26.2 contain a DNSSEC...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:55+00:00"
     },
     {
       "title": "CVE-2026-123604 - Hickory DNS 0.26.0-beta.1 before 0.26.2 Resource Exhaustion DoS via NameServerPool::try_send TC-Retry Loop",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123604",
-      "summary": "CVE ID :CVE-2026-123604 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-resolver 0.26.0-beta.1 before 0.26.2 contains an unbounded retry loop in...",
+      "summary": "CVE ID :CVE-2026-123604 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :Hickory DNS hickory-resolver 0.26.0-beta.1 before 0.26.2 contains an unbounded retry loop in...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:55+00:00"
     },
     {
       "title": "CVE-2026-123602 - Hickory DNS Recursor Ghost Domain Attack via Child-Side NS RRset Caching",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123602",
-      "summary": "CVE ID :CVE-2026-123602 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :The Hickory DNS recursor in all versions of hickory-recursor and in hickory-resolver 0.26.0-beta.1 before...",
+      "summary": "CVE ID :CVE-2026-123602 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :The Hickory DNS recursor in all versions of hickory-recursor and in hickory-resolver 0.26.0-beta.1...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:54+00:00"
     },
     {
       "title": "CVE-2026-123601 - Hickory DNS 0.26.0-beta.1 before 0.26.2 NSEC3 Proof of Nonexistence Forgery",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123601",
-      "summary": "CVE ID :CVE-2026-123601 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-proto 0.25.0 through 0.26.0-alpha.1 and hickory-net 0.26.0-beta.1 before 0.26.2 invert...",
+      "summary": "CVE ID :CVE-2026-123601 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :Hickory DNS hickory-proto 0.25.0 through 0.26.0-alpha.1 and hickory-net 0.26.0-beta.1 before 0.26.2...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:54+00:00"
     },
     {
       "title": "CVE-2026-123596 - Hickory DNS through 0.26.0-alpha.1 DNSSEC Validation Bypass via Ancestor-Delegation NSEC",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123596",
-      "summary": "CVE ID :CVE-2026-123596 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-proto through 0.26.0-alpha.1 and hickory-net 0.26.0-beta.1 before 0.26.2 contain a DNSSEC...",
+      "summary": "CVE ID :CVE-2026-123596 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :Hickory DNS hickory-proto through 0.26.0-alpha.1 and hickory-net 0.26.0-beta.1 before 0.26.2 contain...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:54+00:00"
     },
     {
       "title": "CVE-2026-123595 - Hickory DNS through 0.26.0-alpha.1 DNSSEC Validation Bypass via Ancestor-Delegation NSEC3",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123595",
-      "summary": "CVE ID :CVE-2026-123595 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-proto 0.25 through 0.26.0-alpha.1 and hickory-net 0.26.0-beta.1 before 0.26.2 contain a...",
+      "summary": "CVE ID :CVE-2026-123595 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :Hickory DNS hickory-proto 0.25 through 0.26.0-alpha.1 and hickory-net 0.26.0-beta.1 before 0.26.2...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:53+00:00"
     },
     {
       "title": "CVE-2026-123592 - Hickory DNS 0.26.0-beta.1 before 0.26.2 DNSSEC Validation Bypass via Name Hash Collision",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123592",
-      "summary": "CVE ID :CVE-2026-123592 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :The hickory-net crate in Hickory DNS 0.26.0-beta.1 before 0.26.2 allows DNSSEC validation bypass because...",
+      "summary": "CVE ID :CVE-2026-123592 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :The hickory-net crate in Hickory DNS 0.26.0-beta.1 before 0.26.2 allows DNSSEC validation bypass...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:53+00:00"
     },
     {
       "title": "CVE-2026-123591 - Hickory DNS 0.26.0-beta.1 before 0.26.2 DNSSEC Validation Bypass via Missing RFC 6840 Checks",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123591",
-      "summary": "CVE ID :CVE-2026-123591 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-net 0.26.0-beta.1 before 0.26.2 and hickory-proto through 0.26.0-alpha.1 fail to verify...",
+      "summary": "CVE ID :CVE-2026-123591 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :Hickory DNS hickory-net 0.26.0-beta.1 before 0.26.2 and hickory-proto through 0.26.0-alpha.1 fail to...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:53+00:00"
     },
     {
       "title": "CVE-2026-123588 - Hickory DNS Recursive Resolver Denial of Service via Cached Empty Connection Pool",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123588",
-      "summary": "CVE ID :CVE-2026-123588 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :The recursive resolver in Hickory DNS (all versions of the hickory-recursor crate, and hickory-resolver...",
+      "summary": "CVE ID :CVE-2026-123588 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :The recursive resolver in Hickory DNS (all versions of the hickory-recursor crate, and...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:52+00:00"
     },
     {
       "title": "CVE-2026-123587 - Hickory-DNS 0.26.0 before 0.26.2 DNSSEC Nonexistence Forgery via Wraparound NSEC",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123587",
-      "summary": "CVE ID :CVE-2026-123587 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :The DNSSEC validation in the Hickory DNS hickory-net crate 0.26.0 before 0.26.2 identifies wraparound NSEC...",
+      "summary": "CVE ID :CVE-2026-123587 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :The DNSSEC validation in the Hickory DNS hickory-net crate 0.26.0 before 0.26.2 identifies...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:52+00:00"
     },
     {
       "title": "CVE-2026-123586 - Hickory DNS 0.25.0-alpha.3 through 0.25.2 Query Amplification via Cyclic Referrals",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123586",
-      "summary": "CVE ID :CVE-2026-123586 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS 0.25.0-alpha.3 through 0.25.2 contains a query amplification vulnerability in its recursive...",
+      "summary": "CVE ID :CVE-2026-123586 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :Hickory DNS 0.25.0-alpha.3 through 0.25.2 contains a query amplification vulnerability in its...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:52+00:00"
     },
     {
       "title": "CVE-2026-123584 - Hickory-DNS 0.26.0 before 0.26.2 UDP Client Denial of Service via Spoofed Responses",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123584",
-      "summary": "CVE ID :CVE-2026-123584 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :The hickory-net crate in Hickory DNS 0.26.0 before 0.26.2 stops listening and returns an error when a client...",
+      "summary": "CVE ID :CVE-2026-123584 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :The hickory-net crate in Hickory DNS 0.26.0 before 0.26.2 stops listening and returns an error when...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:52+00:00"
     },
     {
       "title": "CVE-2026-123580 - Hickory-DNS 0.26.0-beta.1 before 0.26.2 DNSSEC Nonexistence Proof Forgery via NSEC3",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123580",
-      "summary": "CVE ID :CVE-2026-123580 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS hickory-net 0.26.0-beta.1 before 0.26.2 and hickory-proto through 0.26.0-alpha.1 perform...",
+      "summary": "CVE ID :CVE-2026-123580 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :Hickory DNS hickory-net 0.26.0-beta.1 before 0.26.2 and hickory-proto through 0.26.0-alpha.1 perform...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:51+00:00"
     },
     {
       "title": "CVE-2026-123577 - Hickory DNS 0.24.0 before 0.26.2 DoH Unbounded Request Body Denial of Service",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123577",
-      "summary": "CVE ID :CVE-2026-123577 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS from 0.24.0 before 0.26.2 contains a resource exhaustion vulnerability that allows remote...",
+      "summary": "CVE ID :CVE-2026-123577 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :Hickory DNS from 0.24.0 before 0.26.2 contains a resource exhaustion vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:51+00:00"
     },
     {
       "title": "CVE-2026-123576 - Hickory DNS 0.24.0 through 0.26.1 Memory Exhaustion via DNS-over-QUIC Requests",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123576",
-      "summary": "CVE ID :CVE-2026-123576 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS 0.24.0 through 0.26.1 contains a memory exhaustion vulnerability that allows remote attackers to...",
+      "summary": "CVE ID :CVE-2026-123576 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :Hickory DNS 0.24.0 through 0.26.1 contains a memory exhaustion vulnerability that allows remote...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:50+00:00"
     },
     {
       "title": "CVE-2026-123575 - Hickory DNS before 0.26.2 DoH Memory Exhaustion via Incomplete Request Bodies",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123575",
-      "summary": "CVE ID :CVE-2026-123575 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory DNS before 0.26.2 contains a resource exhaustion vulnerability in its DNS-over-HTTPS HTTP/2 server...",
+      "summary": "CVE ID :CVE-2026-123575 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :Hickory DNS before 0.26.2 contains a resource exhaustion vulnerability in its DNS-over-HTTPS HTTP/2...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:50+00:00"
     },
     {
       "title": "CVE-2026-123574 - Hickory DNS 0.24.0 before 0.26.2 Denial of Service via Zone File Parser",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123574",
-      "summary": "CVE ID :CVE-2026-123574 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :The zone file parser in the hickory-proto crate of Hickory DNS 0.24.0 before 0.26.2 panics when a single...",
+      "summary": "CVE ID :CVE-2026-123574 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :The zone file parser in the hickory-proto crate of Hickory DNS 0.24.0 before 0.26.2 panics when a...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:50+00:00"
     },
     {
       "title": "CVE-2026-123573 - hickory-dns from 0.20.1 before 0.26.2 Panic in SVCB/HTTPS Zone File Parser",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-123573",
-      "summary": "CVE ID :CVE-2026-123573 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :hickory-dns from 0.20.1 before 0.26.2 contains a denial of service vulnerability in the hickory-proto SVCB...",
-      "source": "CVE Feed",
-      "published": "2026-11-08T02:16:50+00:00"
-    },
-    {
-      "title": "CVE-2026-123572 - Hickory-dns 0.20.1 before 0.26.2 Panic DoS via SVCB/HTTPS Zone Parser",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123572",
-      "summary": "CVE ID :CVE-2026-123572 Published : Nov. 8, 2026, 2:16 a.m. | 28 minutes ago Description :Hickory-dns from 0.20.1 before 0.26.2 contains a denial of service vulnerability in the hickory-proto SVCB...",
+      "summary": "CVE ID :CVE-2026-123573 Published : Nov. 8, 2026, 2:16 a.m. | 7 hours, 44 minutes ago Description :hickory-dns from 0.20.1 before 0.26.2 contains a denial of service vulnerability in the...",
       "source": "CVE Feed",
       "published": "2026-11-08T02:16:50+00:00"
     },
@@ -298,8 +298,8 @@
     {
       "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
       "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-      "summary": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according...",
-      "source": "CVE Newsroom",
+      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs...",
+      "source": "The Hacker News",
       "published": "2026-11-06T16:08:38+00:00"
     },
     {
@@ -319,8 +319,8 @@
     {
       "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
       "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "summary": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable...",
-      "source": "CVE Newsroom",
+      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability...",
+      "source": "The Hacker News",
       "published": "2026-11-06T15:21:49+00:00"
     },
     {
@@ -340,8 +340,8 @@
     {
       "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
       "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-      "summary": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that...",
-      "source": "CVE Newsroom",
+      "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in...",
+      "source": "The Hacker News",
       "published": "2026-11-06T14:58:32+00:00"
     },
     {
@@ -424,8 +424,8 @@
     {
       "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
       "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-      "summary": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix...",
-      "source": "CVE Newsroom",
+      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build...",
+      "source": "The Hacker News",
       "published": "2026-11-06T12:06:43+00:00"
     },
     {
@@ -487,8 +487,8 @@
     {
       "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
       "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-      "summary": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run...",
-      "source": "CVE Newsroom",
+      "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released...",
+      "source": "The Hacker News",
       "published": "2026-11-06T05:39:10+00:00"
     },
     {
@@ -557,22 +557,22 @@
     {
       "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
       "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-      "summary": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine...",
-      "source": "CVE Newsroom",
+      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the...",
+      "source": "The Hacker News",
       "published": "2026-11-05T16:42:46+00:00"
     },
     {
       "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
       "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-      "summary": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass...",
-      "source": "CVE Newsroom",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the...",
+      "source": "The Hacker News",
       "published": "2026-11-05T16:42:32+00:00"
     },
     {
       "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
       "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-      "summary": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across...",
-      "source": "CVE Newsroom",
+      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file...",
+      "source": "The Hacker News",
       "published": "2026-11-05T14:41:10+00:00"
     },
     {
@@ -620,15 +620,15 @@
     {
       "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
       "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-      "summary": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open...",
-      "source": "CVE Newsroom",
+      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone...",
+      "source": "The Hacker News",
       "published": "2026-11-05T07:06:33+00:00"
     },
     {
       "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-      "summary": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw...",
-      "source": "CVE Newsroom",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities...",
+      "source": "The Hacker News",
       "published": "2026-11-05T05:17:04+00:00"
     },
     {
@@ -648,15 +648,15 @@
     {
       "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
       "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "summary": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package...",
-      "source": "CVE Newsroom",
+      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according...",
+      "source": "The Hacker News",
       "published": "2026-11-04T17:00:46+00:00"
     },
     {
       "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
       "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "summary": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it...",
-      "source": "CVE Newsroom",
+      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS...",
+      "source": "The Hacker News",
       "published": "2026-11-04T17:00:38+00:00"
     },
     {
@@ -676,8 +676,8 @@
     {
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
       "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "summary": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting...",
-      "source": "CVE Newsroom",
+      "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply...",
+      "source": "The Hacker News",
       "published": "2026-11-04T14:27:52+00:00"
     },
     {
@@ -690,15 +690,15 @@
     {
       "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
       "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "summary": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's...",
-      "source": "CVE Newsroom",
+      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The...",
+      "source": "The Hacker News",
       "published": "2026-11-04T12:07:04+00:00"
     },
     {
       "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
       "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "summary": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs...",
-      "source": "CVE Newsroom",
+      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full...",
+      "source": "The Hacker News",
       "published": "2026-11-04T11:46:27+00:00"
     },
     {
@@ -711,8 +711,8 @@
     {
       "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
       "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "summary": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS)...",
-      "source": "CVE Newsroom",
+      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input...",
+      "source": "The Hacker News",
       "published": "2026-11-04T11:24:31+00:00"
     },
     {
@@ -725,15 +725,15 @@
     {
       "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
       "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-      "summary": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction A critical Android flaw could allow an attacker to run code on a phone without any user action remotely...",
-      "source": "CVE Newsroom",
+      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14...",
+      "source": "The Hacker News",
       "published": "2026-11-04T07:46:15+00:00"
     },
     {
       "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
       "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-      "summary": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known...",
-      "source": "CVE Newsroom",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active...",
+      "source": "The Hacker News",
       "published": "2026-11-04T05:43:11+00:00"
     },
     {
