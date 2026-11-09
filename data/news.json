@@ -1,136 +1,192 @@
 {
-  "last_updated": "2026-11-09T01:18:32.328397+00:00",
+  "last_updated": "2026-11-09T08:52:39.797323+00:00",
   "articles": [
+    {
+      "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
+      "link": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
+      "summary": "Working with cryptographers, DeepMind’s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys. The post Google DeepMind’s AI Agents Make 1024-Bit RSA Keys...",
+      "source": "SecurityWeek",
+      "published": "2026-11-09T08:35:50+00:00"
+    },
+    {
+      "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+      "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+      "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC...",
+      "source": "The Hacker News",
+      "published": "2026-11-09T07:05:48+00:00"
+    },
+    {
+      "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+      "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+      "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire...",
+      "source": "The Hacker News",
+      "published": "2026-11-09T06:15:10+00:00"
+    },
+    {
+      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+      "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following...",
+      "source": "The Hacker News",
+      "published": "2026-11-09T06:05:24+00:00"
+    },
+    {
+      "title": "CVE-2026-113364 - NEC WebSAM WinShare Buffer Overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-113364",
+      "summary": "CVE ID :CVE-2026-113364 Published : Nov. 9, 2026, 5:18 a.m. | 1 hour, 55 minutes ago Description :Buffer Overflow in the data receiving process in NEC Corporation WebSAM WinShare Ver 7.5.0 and...",
+      "source": "CVE Feed",
+      "published": "2026-11-09T05:18:26+00:00"
+    },
+    {
+      "title": "CVE-2026-113363 - NEC WebSAM WinShare Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-113363",
+      "summary": "CVE ID :CVE-2026-113363 Published : Nov. 9, 2026, 5:18 a.m. | 1 hour, 55 minutes ago Description :Improper Input Validation in the network communication processing in NEC Corporation WebSAM WinShare...",
+      "source": "CVE Feed",
+      "published": "2026-11-09T05:18:26+00:00"
+    },
+    {
+      "title": "CVE-2026-113362 - NEC WebSAM Winshare Improper Access Control Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-113362",
+      "summary": "CVE ID :CVE-2026-113362 Published : Nov. 9, 2026, 4:17 a.m. | 2 hours, 57 minutes ago Description :Improper Access Control in the program installation folder in NEC Corporation WebSAM Winshare Ver...",
+      "source": "CVE Feed",
+      "published": "2026-11-09T04:17:06+00:00"
+    },
+    {
+      "title": "CVE-2026-124560 - D-Link DIR-878 HNAP prog.cgi GetCAPTCHAsetting heap-based overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124560",
+      "summary": "CVE ID :CVE-2026-124560 Published : Nov. 9, 2026, 3:16 a.m. | 3 hours, 57 minutes ago Description :A vulnerability was found in D-Link DIR-878 1.20B05. This affects the function GetCAPTCHAsetting of...",
+      "source": "CVE Feed",
+      "published": "2026-11-09T03:16:38+00:00"
+    },
     {
       "title": "CVE-2026-119506 - WordPress Frontend Admin by DynamiApps plugin <= 3.30.1 - Privilege Escalation vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-119506",
-      "summary": "CVE ID :CVE-2026-119506 Published : Nov. 9, 2026, 12:37 a.m. | 35 minutes ago Description :Incorrect Privilege Assignment vulnerability in DynamiApps Frontend Admin by DynamiApps...",
+      "summary": "CVE ID :CVE-2026-119506 Published : Nov. 9, 2026, 1:17 a.m. | 5 hours, 57 minutes ago Description :Incorrect Privilege Assignment vulnerability in DynamiApps Frontend Admin by DynamiApps...",
       "source": "CVE Feed",
-      "published": "2026-11-09T00:37:53+00:00"
+      "published": "2026-11-09T01:17:01+00:00"
     },
     {
       "title": "CVE-2026-118904 - IBM webMethods Integration Server is affected by vulnerabilty in backup code validation during 2FA Authentication.",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-118904",
-      "summary": "CVE ID :CVE-2026-118904 Published : Nov. 8, 2026, 8:17 p.m. | 4 hours, 55 minutes ago Description :IBM webMethods Integration Server 12.1 could allow a remote authenticated attacker to bypass...",
+      "summary": "CVE ID :CVE-2026-118904 Published : Nov. 8, 2026, 8:17 p.m. | 10 hours, 56 minutes ago Description :IBM webMethods Integration Server 12.1 could allow a remote authenticated attacker to bypass...",
       "source": "CVE Feed",
       "published": "2026-11-08T20:17:23+00:00"
     },
     {
       "title": "CVE-2026-9764 - IBM Bob is vulnerable to Remote Code Execution due to improper control of workspace-defined MCP server execution",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-9764",
-      "summary": "CVE ID :CVE-2026-9764 Published : Nov. 8, 2026, 7:17 p.m. | 5 hours, 55 minutes ago Description :IBM Bob 1.0.4 through 2.0.1 could allow a remote attacker to inject arbitrary code on the system, due...",
+      "summary": "CVE ID :CVE-2026-9764 Published : Nov. 8, 2026, 7:17 p.m. | 11 hours, 56 minutes ago Description :IBM Bob 1.0.4 through 2.0.1 could allow a remote attacker to inject arbitrary code on the system, due...",
       "source": "CVE Feed",
       "published": "2026-11-08T19:17:54+00:00"
     },
     {
       "title": "CVE-2026-97677 - Langflow OSS is affected by multiple vulnerabilities",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-97677",
-      "summary": "CVE ID :CVE-2026-97677 Published : Nov. 8, 2026, 7:17 p.m. | 5 hours, 55 minutes ago Description :IBM Langflow OSS 1.0.0 through 1.12.2 An authenticated flow author could write attacker-controlled...",
+      "summary": "CVE ID :CVE-2026-97677 Published : Nov. 8, 2026, 7:17 p.m. | 11 hours, 56 minutes ago Description :IBM Langflow OSS 1.0.0 through 1.12.2 An authenticated flow author could write attacker-controlled...",
       "source": "CVE Feed",
       "published": "2026-11-08T19:17:54+00:00"
     },
     {
       "title": "CVE-2026-8639 - IBM Verify Directory is affected by multiple vulnerabilities",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-8639",
-      "summary": "CVE ID :CVE-2026-8639 Published : Nov. 8, 2026, 7:17 p.m. | 5 hours, 55 minutes ago Description :IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 is vulnerable to...",
+      "summary": "CVE ID :CVE-2026-8639 Published : Nov. 8, 2026, 7:17 p.m. | 11 hours, 56 minutes ago Description :IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 is vulnerable to...",
       "source": "CVE Feed",
       "published": "2026-11-08T19:17:42+00:00"
     },
     {
       "title": "CVE-2026-6715 - Multiple Vulnerabilities in IBM Concert Software",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-6715",
-      "summary": "CVE ID :CVE-2026-6715 Published : Nov. 8, 2026, 7:17 p.m. | 5 hours, 55 minutes ago Description :IBM Concert 1.0 through 3.0.1.1 allows an attacker can supply crafted input that is incorporated into...",
+      "summary": "CVE ID :CVE-2026-6715 Published : Nov. 8, 2026, 7:17 p.m. | 11 hours, 56 minutes ago Description :IBM Concert 1.0 through 3.0.1.1 allows an attacker can supply crafted input that is incorporated into...",
       "source": "CVE Feed",
       "published": "2026-11-08T19:17:39+00:00"
     },
     {
       "title": "CVE-2026-19133 - TS4500 Tape Library addresses security vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-19133",
-      "summary": "CVE ID :CVE-2026-19133 Published : Nov. 8, 2026, 7:17 p.m. | 5 hours, 55 minutes ago Description :IBM Storage TS4500 Library 1.1.1.6 through 1.12.0.3 could allow a remote authenticated attacker to...",
+      "summary": "CVE ID :CVE-2026-19133 Published : Nov. 8, 2026, 7:17 p.m. | 11 hours, 56 minutes ago Description :IBM Storage TS4500 Library 1.1.1.6 through 1.12.0.3 could allow a remote authenticated attacker to...",
       "source": "CVE Feed",
       "published": "2026-11-08T19:17:38+00:00"
     },
     {
       "title": "CVE-2026-17466 - IBM Optim Test Data Management 1.0.0, 1.1.0, and 1.2.0 impacted by Path Traversal, Rate Limiting, and Weak Password Policy vulnerabilities",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-17466",
-      "summary": "CVE ID :CVE-2026-17466 Published : Nov. 8, 2026, 6:17 p.m. | 6 hours, 56 minutes ago Description :IBM Optim 1.0.0, 1.1.0, and 1.2.0 could allow a remote authenticated attacker to obtain sensitive...",
+      "summary": "CVE ID :CVE-2026-17466 Published : Nov. 8, 2026, 6:17 p.m. | 12 hours, 57 minutes ago Description :IBM Optim 1.0.0, 1.1.0, and 1.2.0 could allow a remote authenticated attacker to obtain sensitive...",
       "source": "CVE Feed",
       "published": "2026-11-08T18:17:03+00:00"
     },
     {
       "title": "CVE-2026-15266 - Multiple Vulnerabilities in IBM Concert Software",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-15266",
-      "summary": "CVE ID :CVE-2026-15266 Published : Nov. 8, 2026, 6:17 p.m. | 6 hours, 56 minutes ago Description :IBM Concert 1.0 through 3.0.1.1 contains components that allow potentially unsafe command execution...",
+      "summary": "CVE ID :CVE-2026-15266 Published : Nov. 8, 2026, 6:17 p.m. | 12 hours, 57 minutes ago Description :IBM Concert 1.0 through 3.0.1.1 contains components that allow potentially unsafe command execution...",
       "source": "CVE Feed",
       "published": "2026-11-08T18:17:02+00:00"
     },
     {
       "title": "CVE-2026-117545 - IBM webMethods Integration Server is vulnerable of bypassing the two-factor authentication mechanism.",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-117545",
-      "summary": "CVE ID :CVE-2026-117545 Published : Nov. 8, 2026, 5:16 p.m. | 7 hours, 56 minutes ago Description :IBM webMethods Integration Server 12.1 could allow a remote authenticated attacker to bypass...",
+      "summary": "CVE ID :CVE-2026-117545 Published : Nov. 8, 2026, 5:16 p.m. | 13 hours, 57 minutes ago Description :IBM webMethods Integration Server 12.1 could allow a remote authenticated attacker to bypass...",
       "source": "CVE Feed",
       "published": "2026-11-08T17:16:37+00:00"
     },
     {
       "title": "CVE-2026-116501 - Qiskit SDK C API may trigger an out of bounds write on accessing the unitary matrix with qk_circuit_inst_unitary().",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-116501",
-      "summary": "CVE ID :CVE-2026-116501 Published : Nov. 8, 2026, 5:16 p.m. | 7 hours, 56 minutes ago Description :IBM Qiskit SDK 2.4.0 through 2.6.1 could allow a local attacker to execute arbitrary code due to an...",
+      "summary": "CVE ID :CVE-2026-116501 Published : Nov. 8, 2026, 5:16 p.m. | 13 hours, 57 minutes ago Description :IBM Qiskit SDK 2.4.0 through 2.6.1 could allow a local attacker to execute arbitrary code due to an...",
       "source": "CVE Feed",
       "published": "2026-11-08T17:16:37+00:00"
     },
     {
       "title": "CVE-2026-116499 - Arbitrary Code Execution in Qiskit SDK QPY Deserialization",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-116499",
-      "summary": "CVE ID :CVE-2026-116499 Published : Nov. 8, 2026, 5:16 p.m. | 7 hours, 56 minutes ago Description :IBM Qiskit SDK 1.4.2 through 2.6.2 could allow a local attacker to execute arbitrary code due to...",
+      "summary": "CVE ID :CVE-2026-116499 Published : Nov. 8, 2026, 5:16 p.m. | 13 hours, 57 minutes ago Description :IBM Qiskit SDK 1.4.2 through 2.6.2 could allow a local attacker to execute arbitrary code due to...",
       "source": "CVE Feed",
       "published": "2026-11-08T17:16:36+00:00"
     },
     {
       "title": "CVE-2026-114464 - Multiple security vulnerabilities are addressed with IBM Process Mining Interim Fix for October 2026",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-114464",
-      "summary": "CVE ID :CVE-2026-114464 Published : Nov. 8, 2026, 5:16 p.m. | 7 hours, 56 minutes ago Description :IBM Process Mining 2.0.0 through 2.2.1 could allow a remote attacker to obtain sensitive information...",
+      "summary": "CVE ID :CVE-2026-114464 Published : Nov. 8, 2026, 5:16 p.m. | 13 hours, 57 minutes ago Description :IBM Process Mining 2.0.0 through 2.2.1 could allow a remote attacker to obtain sensitive...",
       "source": "CVE Feed",
       "published": "2026-11-08T17:16:36+00:00"
     },
     {
       "title": "CVE-2026-110273 - Security Vulnerability identified in IBM TRIRIGA - Command Execution",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-110273",
-      "summary": "CVE ID :CVE-2026-110273 Published : Nov. 8, 2026, 5:16 p.m. | 7 hours, 56 minutes ago Description :IBM TRIRIGA Application Platform 5.0.0 through 5.0.9 IBM TRIRIGA could allow a remote authenticated...",
+      "summary": "CVE ID :CVE-2026-110273 Published : Nov. 8, 2026, 5:16 p.m. | 13 hours, 57 minutes ago Description :IBM TRIRIGA Application Platform 5.0.0 through 5.0.9 IBM TRIRIGA could allow a remote authenticated...",
       "source": "CVE Feed",
       "published": "2026-11-08T17:16:36+00:00"
     },
     {
       "title": "CVE-2026-107331 - DataStage on Cloud Pak for Data has several vulnerabilities",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-107331",
-      "summary": "CVE ID :CVE-2026-107331 Published : Nov. 8, 2026, 5:16 p.m. | 7 hours, 56 minutes ago Description :IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obtain...",
+      "summary": "CVE ID :CVE-2026-107331 Published : Nov. 8, 2026, 5:16 p.m. | 13 hours, 57 minutes ago Description :IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obtain...",
       "source": "CVE Feed",
       "published": "2026-11-08T17:16:35+00:00"
     },
     {
       "title": "CVE-2026-105467 - IBM QRadar SIEM is vulnerable to Open Redirect and Reflected XSS",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-105467",
-      "summary": "CVE ID :CVE-2026-105467 Published : Nov. 8, 2026, 5:16 p.m. | 7 hours, 56 minutes ago Description :IBM QRadar 7.5.0 through 7.5.0 Update Pack 16 Interim Fix 02, and 7.6.0.0 through 7.6.0.5 is...",
+      "summary": "CVE ID :CVE-2026-105467 Published : Nov. 8, 2026, 5:16 p.m. | 13 hours, 57 minutes ago Description :IBM QRadar 7.5.0 through 7.5.0 Update Pack 16 Interim Fix 02, and 7.6.0.0 through 7.6.0.5 is...",
       "source": "CVE Feed",
       "published": "2026-11-08T17:16:35+00:00"
     },
     {
       "title": "CVE-2026-114189 - WordPress AnyWhere Elementor plugin <= 1.3.0 - SQL Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-114189",
-      "summary": "CVE ID :CVE-2026-114189 Published : Nov. 8, 2026, 4:16 p.m. | 8 hours, 56 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability...",
+      "summary": "CVE ID :CVE-2026-114189 Published : Nov. 8, 2026, 4:16 p.m. | 14 hours, 57 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability...",
       "source": "CVE Feed",
       "published": "2026-11-08T16:16:37+00:00"
     },
     {
       "title": "CVE-2026-109900 - WordPress Melapress Role Editor plugin <= 1.3.0 - Privilege Escalation vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-109900",
-      "summary": "CVE ID :CVE-2026-109900 Published : Nov. 8, 2026, 4:16 p.m. | 8 hours, 56 minutes ago Description :Incorrect Privilege Assignment vulnerability in Melapress Melapress Role Editor...",
+      "summary": "CVE ID :CVE-2026-109900 Published : Nov. 8, 2026, 4:16 p.m. | 14 hours, 57 minutes ago Description :Incorrect Privilege Assignment vulnerability in Melapress Melapress Role Editor...",
       "source": "CVE Feed",
       "published": "2026-11-08T16:16:36+00:00"
     },
     {
       "title": "CVE-2026-101117 - IBM WebSphere eXtremes Scale Liberty deployment is affected by Cross Site Scripting(XSS) attacks.",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-101117",
-      "summary": "CVE ID :CVE-2026-101117 Published : Nov. 8, 2026, 4:16 p.m. | 8 hours, 56 minutes ago Description :IBM WebSphere Extreme Scale 8.6.1.0 through 8.6.2.2 could allow a remote attacker to bypass security...",
+      "summary": "CVE ID :CVE-2026-101117 Published : Nov. 8, 2026, 4:16 p.m. | 14 hours, 57 minutes ago Description :IBM WebSphere Extreme Scale 8.6.1.0 through 8.6.2.2 could allow a remote attacker to bypass...",
       "source": "CVE Feed",
       "published": "2026-11-08T16:16:36+00:00"
     },
@@ -144,44 +200,16 @@
     {
       "title": "CVE-2026-124553 - BabelDOC from 0.3.61 before 0.7.0 Denial of Service via ToUnicode CMap Parsing",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-124553",
-      "summary": "CVE ID :CVE-2026-124553 Published : Nov. 8, 2026, 3:16 p.m. | 9 hours, 56 minutes ago Description :BabelDOC from 0.3.61 before 0.7.0 contains a resource exhaustion vulnerability that allows remote...",
+      "summary": "CVE ID :CVE-2026-124553 Published : Nov. 8, 2026, 3:16 p.m. | 15 hours, 57 minutes ago Description :BabelDOC from 0.3.61 before 0.7.0 contains a resource exhaustion vulnerability that allows remote...",
       "source": "CVE Feed",
       "published": "2026-11-08T15:16:51+00:00"
     },
     {
       "title": "CVE-2026-124494 - SunEditor before 3.4.0 Stored XSS via : Entity Sanitizer Bypass",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-124494",
-      "summary": "CVE ID :CVE-2026-124494 Published : Nov. 8, 2026, 2:18 p.m. | 10 hours, 54 minutes ago Description :SunEditor before 3.4.0 contains a stored cross-site scripting vulnerability because the...",
+      "summary": "CVE ID :CVE-2026-124494 Published : Nov. 8, 2026, 2:18 p.m. | 16 hours, 55 minutes ago Description :SunEditor before 3.4.0 contains a stored cross-site scripting vulnerability because the...",
       "source": "CVE Feed",
       "published": "2026-11-08T14:18:19+00:00"
-    },
-    {
-      "title": "CVE-2026-124493 - SunEditor before 3.4.0 Stored XSS via DocumentType Header textContent",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124493",
-      "summary": "CVE ID :CVE-2026-124493 Published : Nov. 8, 2026, 2:18 p.m. | 10 hours, 54 minutes ago Description :SunEditor before 3.4.0 contains a stored cross-site scripting vulnerability in the DocumentType...",
-      "source": "CVE Feed",
-      "published": "2026-11-08T14:18:19+00:00"
-    },
-    {
-      "title": "CVE-2026-124492 - SunEditor before 3.4.0 Stored XSS via Link Modal Bookmark List",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124492",
-      "summary": "CVE ID :CVE-2026-124492 Published : Nov. 8, 2026, 2:18 p.m. | 10 hours, 54 minutes ago Description :SunEditor before 3.4.0 contains a stored cross-site scripting vulnerability in ModalAnchorEditor's...",
-      "source": "CVE Feed",
-      "published": "2026-11-08T14:18:18+00:00"
-    },
-    {
-      "title": "CVE-2026-124490 - OpenEMR before 8.3.0 Arbitrary File Read/Write via oe-module-faxsms disposeDocument",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124490",
-      "summary": "CVE ID :CVE-2026-124490 Published : Nov. 8, 2026, 2:18 p.m. | 10 hours, 54 minutes ago Description :OpenEMR before 8.3.0 contains a path traversal vulnerability in the RingCentral RCFaxClient...",
-      "source": "CVE Feed",
-      "published": "2026-11-08T14:18:18+00:00"
-    },
-    {
-      "title": "CVE-2026-124488 - OpenEMR before 8.3.0 Authorization Bypass via load_form.php High-Sensitivity Encounters",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124488",
-      "summary": "CVE ID :CVE-2026-124488 Published : Nov. 8, 2026, 2:18 p.m. | 10 hours, 54 minutes ago Description :OpenEMR before 8.3.0 contains an authorization bypass vulnerability that allows authenticated...",
-      "source": "CVE Feed",
-      "published": "2026-11-08T14:18:18+00:00"
     },
     {
       "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
@@ -429,13 +457,6 @@
       "published": "2026-11-06T12:16:13+00:00"
     },
     {
-      "title": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
-      "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
-      "summary": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass appeared...",
-      "source": "SecurityWeek",
-      "published": "2026-11-06T12:07:42+00:00"
-    },
-    {
       "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
       "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
       "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build...",
@@ -543,8 +564,8 @@
     {
       "title": "APT29's Watering Holes Target Thousands of Mobile Users",
       "link": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-      "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
-      "source": "Dark Reading",
+      "summary": "APT29's Watering Holes Target Thousands of Mobile Users 4 Min ReadSource: tete_escape via ShutterstockIt has emerged this week that Russia's APT29 threat group compromised the website of a Ukrainian...",
+      "source": "CVE Newsroom",
       "published": "2026-11-05T20:05:39+00:00"
     },
     {
@@ -919,32 +940,11 @@
       "published": "2026-11-02T15:00:00+00:00"
     },
     {
-      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-      "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026...",
-      "source": "The Hacker News",
-      "published": "2026-11-02T14:46:05+00:00"
-    },
-    {
       "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
       "summary": "Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.",
       "source": "Dark Reading",
       "published": "2026-11-02T14:00:00+00:00"
-    },
-    {
-      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-      "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and...",
-      "source": "The Hacker News",
-      "published": "2026-11-02T11:50:00+00:00"
-    },
-    {
-      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-      "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-      "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey...",
-      "source": "The Hacker News",
-      "published": "2026-11-02T11:30:00+00:00"
     },
     {
       "title": "Investors Dish on New Startups & What They'd Back Next",
