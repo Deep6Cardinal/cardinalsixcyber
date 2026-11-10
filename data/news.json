@@ -1,124 +1,250 @@
 {
-  "last_updated": "2026-11-09T20:17:33.758030+00:00",
+  "last_updated": "2026-11-10T03:53:36.633760+00:00",
   "articles": [
     {
-      "title": "CVE-2026-12977 - Org.wildfly.core/wildfly-server: wildfly: rbac bypass in wildfly deployment-operation handlers leads to privilege escalation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-12977",
-      "summary": "CVE ID :CVE-2026-12977 Published : Nov. 9, 2026, 7:17 p.m. | 24 minutes ago Description :A flaw was found in the deployment-operation family of WildFly Core. Certain handlers, such as...",
+      "title": "CVE-2026-125612 - DIAEnergie - SQL Injection Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125612",
+      "summary": "CVE ID :CVE-2026-125612 Published : Nov. 10, 2026, 3:16 a.m. | 25 minutes ago Description :Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:17:04+00:00"
+      "published": "2026-11-10T03:16:42+00:00"
     },
     {
-      "title": "CVE-2026-125250 - FFmpeg through 9.0.2 GIF Encoder Heap Buffer Overflow via shrunk_buf Remap",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125250",
-      "summary": "CVE ID :CVE-2026-125250 Published : Nov. 9, 2026, 7:17 p.m. | 24 minutes ago Description :FFmpeg through 9.0.2 contains a heap buffer overflow in the GIF encoder's gif_image_write_image() in...",
+      "title": "CVE-2026-88710 - ASUS Router OS Command Injection Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-88710",
+      "summary": "CVE ID :CVE-2026-88710 Published : Nov. 10, 2026, 2:16 a.m. | 1 hour, 25 minutes ago Description :Improper neutralization of special elements used in an OS command in certain ASUS Router firmware...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:17:03+00:00"
+      "published": "2026-11-10T02:16:45+00:00"
     },
     {
-      "title": "CVE-2026-125244 - FFmpeg before 8.1.3 and 9.x before 9.0.2 VVC Decoder Out-of-Bounds Write via sh_entry_points",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125244",
-      "summary": "CVE ID :CVE-2026-125244 Published : Nov. 9, 2026, 7:17 p.m. | 24 minutes ago Description :FFmpeg before 8.1.3 and 9.x before 9.0.2 contains an out-of-bounds write vulnerability in the VVC decoder's...",
+      "title": "CVE-2026-89126 - Memory Corruption vulnerability in SAP Web Dispatcher",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-89126",
+      "summary": "CVE ID :CVE-2026-89126 Published : Nov. 10, 2026, 1:17 a.m. | 2 hours, 24 minutes ago Description :SAP Web Dispatcher does not sufficiently validate certain network input processed by an internal...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:17:02+00:00"
+      "published": "2026-11-10T01:17:22+00:00"
     },
     {
-      "title": "CVE-2026-125233 - FFmpeg through 9.0.2 Heap Buffer Overflow via DVB Subtitle Encoder",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125233",
-      "summary": "CVE ID :CVE-2026-125233 Published : Nov. 9, 2026, 7:17 p.m. | 24 minutes ago Description :FFmpeg through 9.0.2 contains a heap buffer overflow vulnerability in dvbsub_encode() in...",
+      "title": "CVE-2026-89119 - Cross-Site Request Forgery (CSRF) vulnerability in SAP Web Dispatcher and Internet Communication Manager",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-89119",
+      "summary": "CVE ID :CVE-2026-89119 Published : Nov. 10, 2026, 1:17 a.m. | 2 hours, 24 minutes ago Description :SAP Web Dispatcher and SAP NetWeaver Application Server ABAP (Internet Communication Manager) do not...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:17:01+00:00"
+      "published": "2026-11-10T01:17:22+00:00"
     },
     {
-      "title": "CVE-2026-125229 - FFmpeg through 9.0.2 Out-of-Bounds Memory Access in Huffyuv/FFVHUFF Median Predictor",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125229",
-      "summary": "CVE ID :CVE-2026-125229 Published : Nov. 9, 2026, 7:17 p.m. | 24 minutes ago Description :FFmpeg through 9.0.2 contains an out-of-bounds memory access vulnerability in the encode_frame() function of...",
+      "title": "CVE-2026-89103 - Broken Access Control in SAP Gateway",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-89103",
+      "summary": "CVE ID :CVE-2026-89103 Published : Nov. 10, 2026, 1:17 a.m. | 2 hours, 24 minutes ago Description :SAP Gateway activates the default Access Control List with high privileges allowing categorization...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:17:00+00:00"
+      "published": "2026-11-10T01:17:21+00:00"
     },
     {
-      "title": "CVE-2026-125209 - FFmpeg before 8.1.3 and 9.x before 9.0.2 Heap Buffer Overflow via dvdsubenc.c",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125209",
-      "summary": "CVE ID :CVE-2026-125209 Published : Nov. 9, 2026, 7:16 p.m. | 24 minutes ago Description :FFmpeg before 8.1.3 and 9.x before 9.0.2 contains a heap buffer overflow vulnerability in the DVD subtitle...",
+      "title": "CVE-2026-76966 - Multiple vulnerabilities in Application Server ABAP of SAP NetWeaver and ABAP Platform",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76966",
+      "summary": "CVE ID :CVE-2026-76966 Published : Nov. 10, 2026, 1:17 a.m. | 2 hours, 24 minutes ago Description :Due to improper RFC protocol validation in the SAP Kernel used by the Application Server ABAP of SAP...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:16:57+00:00"
+      "published": "2026-11-10T01:17:20+00:00"
     },
     {
-      "title": "CVE-2026-125203 - FFmpeg before 8.1.3 and 9.x before 9.0.2 Heap Buffer Overflow in Cook Multichannel Decoder",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125203",
-      "summary": "CVE ID :CVE-2026-125203 Published : Nov. 9, 2026, 7:16 p.m. | 24 minutes ago Description :FFmpeg before 8.1.3 and 9.x before 9.0.2 contains a heap buffer overflow vulnerability in the Cook...",
+      "title": "CVE-2026-76965 - OS Command Injection vulnerability in ABAP Application Server for SAP NetWeaver and ABAP Platform",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76965",
+      "summary": "CVE ID :CVE-2026-76965 Published : Nov. 10, 2026, 1:17 a.m. | 2 hours, 24 minutes ago Description :SAP NetWeaver Application Server ABAP and ABAP Platform does not perform necessary authorization...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:16:56+00:00"
+      "published": "2026-11-10T01:17:20+00:00"
     },
     {
-      "title": "CVE-2026-124001 - ION-DTN 2.2.1b-4.2.0 Integer Overflow Heap Corruption via DGR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124001",
-      "summary": "CVE ID :CVE-2026-124001 Published : Nov. 9, 2026, 7:16 p.m. | 24 minutes ago Description :NASA JPL ION-DTN 2.2.1b through 4.2.0 contains an integer overflow vulnerability in the Datagram...",
+      "title": "CVE-2026-76964 - Memory Corruption Vulnerability in SAP NetWeaver AS ABAP (Internet Communication Manager)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76964",
+      "summary": "CVE ID :CVE-2026-76964 Published : Nov. 10, 2026, 1:17 a.m. | 2 hours, 24 minutes ago Description :SAP NetWeaver Application Server ABAP does not sufficiently validate certain network input processed...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:16:48+00:00"
+      "published": "2026-11-10T01:17:20+00:00"
     },
     {
-      "title": "CVE-2026-123999 - ION-DTN 3.6.2-4.2.0 Heap Buffer Overflow via nm_mgr AMP Rendering",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123999",
-      "summary": "CVE ID :CVE-2026-123999 Published : Nov. 9, 2026, 7:16 p.m. | 24 minutes ago Description :NASA JPL ION-DTN 3.6.2 through 4.2.0 contains a heap-based buffer overflow in the Network Management daemon...",
+      "title": "CVE-2026-125086 - D-Link M60 emDaemon MQTT Broker mosquitto.conf system hard-coded credentials",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125086",
+      "summary": "CVE ID :CVE-2026-125086 Published : Nov. 10, 2026, 1:17 a.m. | 2 hours, 24 minutes ago Description :A vulnerability has been found in D-Link M60 1.12.B01. Impacted is the function system of the file...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:16:47+00:00"
+      "published": "2026-11-10T01:17:19+00:00"
     },
     {
-      "title": "CVE-2026-123803 - SuperTokens Core: WebAuthn sign-in accepts a passkey across tenant boundaries",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123803",
-      "summary": "CVE ID :CVE-2026-123803 Published : Nov. 9, 2026, 7:16 p.m. | 24 minutes ago Description :SuperTokens Core is an open source authentication server. From 10.1.0 until 11.0.9, 11.1.4, 11.2.4, 11.3.8...",
+      "title": "CVE-2026-124600 - Unencrypted HTTP Traffic Exposing Sensitive User Credentials in GV-Face Android Application v2.2.1",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124600",
+      "summary": "CVE ID :CVE-2026-124600 Published : Nov. 10, 2026, 1:17 a.m. | 2 hours, 24 minutes ago Description :GV-Face transmits sensitive user credentials and related authentication data over unencrypted HTTP...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:16:47+00:00"
+      "published": "2026-11-10T01:17:18+00:00"
     },
     {
-      "title": "CVE-2026-123802 - SuperTokens Core SAML: identity taken from an assertion that never passed the audience check, allowing sign-in as any IdP user",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123802",
-      "summary": "CVE ID :CVE-2026-123802 Published : Nov. 9, 2026, 7:16 p.m. | 24 minutes ago Description :SuperTokens Core is an open source authentication server. From 11.3.0 until 11.3.8, 11.4.8, 12.0.11, 12.1.2...",
+      "title": "CVE-2026-120017 - Missing Authentication in SAP NetWeaver AS ABAP and ABAP Platform (SAML2 Service Provider)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120017",
+      "summary": "CVE ID :CVE-2026-120017 Published : Nov. 10, 2026, 1:17 a.m. | 2 hours, 24 minutes ago Description :SAP NetWeaver AS ABAP and ABAP Platform does not perform sufficient verification of incoming...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:16:47+00:00"
+      "published": "2026-11-10T01:17:16+00:00"
     },
     {
-      "title": "CVE-2026-123800 - SuperTokens Core: App-scoped API key can overwrite the parent connection URI domain's credentials and take over sibling applications",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123800",
-      "summary": "CVE ID :CVE-2026-123800 Published : Nov. 9, 2026, 7:16 p.m. | 24 minutes ago Description :SuperTokens Core is an open source authentication server. From 6.0.0 until 6.0.24, 7.0.23, 8.0.7, 9.0.6...",
+      "title": "CVE-2026-120008 - Memory Corruption Vulnerability in SAP NetWeaver (Internet Graphics Service)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120008",
+      "summary": "CVE ID :CVE-2026-120008 Published : Nov. 10, 2026, 1:17 a.m. | 2 hours, 24 minutes ago Description :SAP NetWeaver (Internet Graphics Service) does not sufficiently validate certain input values...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:16:46+00:00"
+      "published": "2026-11-10T01:17:15+00:00"
     },
     {
-      "title": "CVE-2026-123798 - SuperTokens Core: SAML XML Signature Wrapping authentication bypass — any IdP user can authenticate as any other user",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123798",
-      "summary": "CVE ID :CVE-2026-123798 Published : Nov. 9, 2026, 7:16 p.m. | 24 minutes ago Description :SuperTokens Core is an open source authentication server. From 11.3.0 until 11.3.7, 11.4.7, and 12.0.10...",
+      "title": "CVE-2026-109803 - Code Injection vulnerability in SAP NetWeaver Knowledge Management (XML Forms)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109803",
+      "summary": "CVE ID :CVE-2026-109803 Published : Nov. 10, 2026, 1:17 a.m. | 2 hours, 24 minutes ago Description :SAP NetWeaver Knowledge Management (XML Forms) does not sufficiently restrict the selection of XSL...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:16:46+00:00"
+      "published": "2026-11-10T01:17:14+00:00"
     },
     {
-      "title": "CVE-2026-121769 - WordPress WP w3all phpBB plugin <= 3.1.9 - SQL Injection vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121769",
-      "summary": "CVE ID :CVE-2026-121769 Published : Nov. 9, 2026, 7:16 p.m. | 24 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in...",
+      "title": "CVE-2026-109798 - XML External Entity (XXE) Vulnerability in SAP BusinessObjects Business Intelligence Platform (Web Intelligence)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109798",
+      "summary": "CVE ID :CVE-2026-109798 Published : Nov. 10, 2026, 1:17 a.m. | 2 hours, 24 minutes ago Description :SAP BusinessObjects Business Intelligence Platform (Web Intelligence) does not properly restrict...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:16:46+00:00"
+      "published": "2026-11-10T01:17:13+00:00"
     },
     {
-      "title": "CVE-2026-125267 - FFmpeg before 8.1.3 and 9.x before 9.0.2 Heap Out-of-Bounds Write via APAC Decoder",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125267",
-      "summary": "CVE ID :CVE-2026-125267 Published : Nov. 9, 2026, 7:12 p.m. | 29 minutes ago Description :FFmpeg before 8.1.3 and 9.x before 9.0.2 contains a heap out-of-bounds write vulnerability in the APAC...",
+      "title": "CVE-2026-109795 - Missing authorization check in S4CRM",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-109795",
+      "summary": "CVE ID :CVE-2026-109795 Published : Nov. 10, 2026, 1:17 a.m. | 2 hours, 24 minutes ago Description :SAP NetWeaver does not perform necessary authorization checks and lacks sufficient input validation...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:12:08+00:00"
+      "published": "2026-11-10T01:17:13+00:00"
     },
     {
-      "title": "CVE-2026-125262 - FFmpeg through 9.0.2 Heap Buffer Overflow via LCEVC Enhancement Decoding",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125262",
-      "summary": "CVE ID :CVE-2026-125262 Published : Nov. 9, 2026, 7:12 p.m. | 29 minutes ago Description :FFmpeg through 9.0.2 contains a heap buffer overflow vulnerability in libavcodec/lcevcdec.c because LCEVC...",
+      "title": "CVE-2026-107246 - Plesk Site Import Path Traversal to Arbitrary Code Execution",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-107246",
+      "summary": "CVE ID :CVE-2026-107246 Published : Nov. 10, 2026, 1:17 a.m. | 2 hours, 24 minutes ago Description :The Plesk extension \"Site Import\" before 1.13.2 does not properly validate domain and session...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:12:04+00:00"
+      "published": "2026-11-10T01:17:12+00:00"
     },
     {
-      "title": "CVE-2026-125259 - FFmpeg through 9.0.2 Heap Buffer Overflow via ProRes prores_ks Encoder",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125259",
-      "summary": "CVE ID :CVE-2026-125259 Published : Nov. 9, 2026, 7:12 p.m. | 29 minutes ago Description :FFmpeg through 9.0.2 contains an integer overflow vulnerability in ff_prores_kostya_encode_init() that...",
+      "title": "CVE-2026-125406 - Ettercap through 0.8.4.1 Stack Buffer Underwrite via Telnet Dissector Backspace Handling",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125406",
+      "summary": "CVE ID :CVE-2026-125406 Published : Nov. 10, 2026, 12:17 a.m. | 3 hours, 24 minutes ago Description :Ettercap through 0.8.4.1 contains a stack buffer underwrite vulnerability in the telnet dissector...",
       "source": "CVE Feed",
-      "published": "2026-11-09T19:12:02+00:00"
+      "published": "2026-11-10T00:17:15+00:00"
+    },
+    {
+      "title": "CVE-2026-125405 - Ettercap through 0.8.4.1 Out-of-Bounds Read via HTTP NTLM Authentication Parsing",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125405",
+      "summary": "CVE ID :CVE-2026-125405 Published : Nov. 10, 2026, 12:17 a.m. | 3 hours, 24 minutes ago Description :Ettercap through 0.8.4.1 contains an out-of-bounds read vulnerability in Parse_NTLM_Auth() in...",
+      "source": "CVE Feed",
+      "published": "2026-11-10T00:17:15+00:00"
+    },
+    {
+      "title": "CVE-2026-125403 - Ettercap through 0.8.4.1 Out-of-Bounds Read via sslw_remove_sts",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125403",
+      "summary": "CVE ID :CVE-2026-125403 Published : Nov. 10, 2026, 12:17 a.m. | 3 hours, 24 minutes ago Description :Ettercap through 0.8.4.1 contains an out-of-bounds read and size_t underflow vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-11-10T00:17:14+00:00"
+    },
+    {
+      "title": "CVE-2026-125402 - Ettercap through 0.8.4.1 Heap Out-of-Bounds Read via TLS SNI Parsing",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125402",
+      "summary": "CVE ID :CVE-2026-125402 Published : Nov. 10, 2026, 12:17 a.m. | 3 hours, 24 minutes ago Description :Ettercap through 0.8.4.1 contains a heap out-of-bounds read vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-11-10T00:17:14+00:00"
+    },
+    {
+      "title": "CVE-2026-125401 - Ettercap through 0.8.4.1 Heap Buffer Overflow via Gadu-Gadu Dissector",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125401",
+      "summary": "CVE ID :CVE-2026-125401 Published : Nov. 10, 2026, 12:17 a.m. | 3 hours, 24 minutes ago Description :Ettercap through 0.8.4.1 contains a heap buffer overflow vulnerability in gg_get_version() in...",
+      "source": "CVE Feed",
+      "published": "2026-11-10T00:17:14+00:00"
+    },
+    {
+      "title": "CVE-2026-125400 - Ettercap through 0.8.4.1 Use-After-Free via PCRE2 Filter Substitution",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125400",
+      "summary": "CVE ID :CVE-2026-125400 Published : Nov. 10, 2026, 12:17 a.m. | 3 hours, 24 minutes ago Description :Ettercap through 0.8.4.1 contains a use-after-free vulnerability in func_pcre() in src/ec_filter.c...",
+      "source": "CVE Feed",
+      "published": "2026-11-10T00:17:14+00:00"
+    },
+    {
+      "title": "CVE-2026-125399 - Fluxion before 6.39 OS Command Injection via Crafted SSID",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125399",
+      "summary": "CVE ID :CVE-2026-125399 Published : Nov. 10, 2026, 12:17 a.m. | 3 hours, 24 minutes ago Description :Fluxion before 6.39 contains an OS command injection vulnerability in the fluxion.sh target...",
+      "source": "CVE Feed",
+      "published": "2026-11-10T00:17:14+00:00"
+    },
+    {
+      "title": "CVE-2026-125396 - Ghostscript before 10.08.0 -dSAFER Bypass via .putgstringcopy .forceput Recovery",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125396",
+      "summary": "CVE ID :CVE-2026-125396 Published : Nov. 10, 2026, 12:17 a.m. | 3 hours, 24 minutes ago Description :Ghostscript before 10.08.0 contains a -dSAFER bypass vulnerability in the .putgstringcopy...",
+      "source": "CVE Feed",
+      "published": "2026-11-10T00:17:13+00:00"
+    },
+    {
+      "title": "CVE-2026-125391 - Webmin through 2.670 OS Command Injection via Samba User Account Options",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125391",
+      "summary": "CVE ID :CVE-2026-125391 Published : Nov. 10, 2026, 12:17 a.m. | 3 hours, 24 minutes ago Description :Webmin through 2.670 contains an OS command injection vulnerability in samba/save_euser.cgi that...",
+      "source": "CVE Feed",
+      "published": "2026-11-10T00:17:12+00:00"
+    },
+    {
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee...",
+      "source": "BleepingComputer",
+      "published": "2026-11-09T23:52:12+00:00"
+    },
+    {
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-11-09T22:09:33+00:00"
+    },
+    {
+      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
+      "summary": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.",
+      "source": "Dark Reading",
+      "published": "2026-11-09T21:38:20+00:00"
+    },
+    {
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day...",
+      "source": "BleepingComputer",
+      "published": "2026-11-09T21:26:25+00:00"
+    },
+    {
+      "title": "York University breach exposed personal information dating to 2007",
+      "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-11-09T21:22:31+00:00"
+    },
+    {
+      "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
+      "link": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
+      "summary": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion 3 Min ReadMicrosoft recently patched a remote code execution (RCE) vulnerability in Windows Paint, though details regarding how to...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-09T21:12:24+00:00"
+    },
+    {
+      "title": "N-able Disables Cloud Services Following Disclosure of \"Able2Shell\" Exploit Chains",
+      "link": "https://www.huntress.com/blog/n-able-disables-cloud-services-following-disclosure-of-able2shell-exploit-chains",
+      "summary": "N-able Disables Cloud Services Following Disclosure of \"Able2Shell\" Exploit Chains Key TakeawaysOn November 9, N-able took N-central hosted environments offline after a security researcher disclosed...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-09T21:00:00+00:00"
+    },
+    {
+      "title": "Data breach at hearing aid giant Amplifon impacts thousands",
+      "link": "https://therecord.media/amplifon-hearing-aid-company-data-breach",
+      "summary": "The U.S arm of international hearing aid company Amplifon has been notifying customers about a data breach early this year that included medical information.",
+      "source": "The Record",
+      "published": "2026-11-09T20:44:00+00:00"
+    },
+    {
+      "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
+      "link": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
+      "summary": "Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and...",
+      "source": "Dark Reading",
+      "published": "2026-11-09T20:19:56+00:00"
+    },
+    {
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "summary": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation Researchers at security firm watchTowr said Friday that they, too, were seeing exploitation activity, which was...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-09T19:41:34+00:00"
     },
     {
       "title": "France blames Iran for fridge cyberattacks, says some caused fires",
@@ -126,6 +252,13 @@
       "summary": "In the first attribution since the October attacks, the French authorities identified the perpetrators as part of Shahid Kaveh, an IRGC cyber unit previously linked to attacks on industrial...",
       "source": "The Record",
       "published": "2026-11-09T18:45:00+00:00"
+    },
+    {
+      "title": "C3RB3R attacks Synology NAS: how to protect your files | Kaspersky official blog",
+      "link": "https://www.kaspersky.co.uk/blog/synology-c3rb3r-attack/31044/",
+      "summary": "C3RB3R attacks Synology NAS: how to protect your files | Kaspersky official blog Many people think of a home network-attached storage (NAS) device as a large hard drive connected to their router...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-09T18:35:15+00:00"
     },
     {
       "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
@@ -140,27 +273,6 @@
       "summary": "Vanderbilt University announced a cyberattack, warning students and employees that campus devices and systems may be impacted by the incident.",
       "source": "The Record",
       "published": "2026-11-09T18:30:00+00:00"
-    },
-    {
-      "title": "CVE-2026-19706 - Openshift/installer: openshift installer: unconditional csr approval during agent-based installation (abi) bootstrap",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-19706",
-      "summary": "CVE ID :CVE-2026-19706 Published : Nov. 9, 2026, 6:17 p.m. | 1 hour, 24 minutes ago Description :During ABI bootstrap, the bootstrap node's approve-csr.service approves and signs every CSR without...",
-      "source": "CVE Feed",
-      "published": "2026-11-09T18:17:27+00:00"
-    },
-    {
-      "title": "CVE-2026-123270 - CVE-2026-123270",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123270",
-      "summary": "CVE ID :CVE-2026-123270 Published : Nov. 9, 2026, 6:17 p.m. | 1 hour, 24 minutes ago Description :Redpanda Connect versions 4.39 to 4.110 contain a missing authentication vulnerability that enables...",
-      "source": "CVE Feed",
-      "published": "2026-11-09T18:17:25+00:00"
-    },
-    {
-      "title": "CVE-2026-119756 - Tasmota 16.0.0 Heap Out-of-Bounds Write via Device Groups UDP",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-119756",
-      "summary": "CVE ID :CVE-2026-119756 Published : Nov. 9, 2026, 6:17 p.m. | 1 hour, 24 minutes ago Description :Tasmota through 16.0.0, fixed in commit e97e1e4, contains a heap out-of-bounds write vulnerability in...",
-      "source": "CVE Feed",
-      "published": "2026-11-09T18:17:22+00:00"
     },
     {
       "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
@@ -191,39 +303,11 @@
       "published": "2026-11-09T17:36:28+00:00"
     },
     {
-      "title": "CVE-2026-124683 - Eclipse Langium Algorithmic Complexity Denial of Service",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124683",
-      "summary": "CVE ID :CVE-2026-124683 Published : Nov. 9, 2026, 5:17 p.m. | 2 hours, 24 minutes ago Description :Eclipse Langium versions 3.2.0 through 4.4.0 contain an inefficient algorithmic complexity issue...",
-      "source": "CVE Feed",
-      "published": "2026-11-09T17:17:27+00:00"
-    },
-    {
       "title": "PwC's CISO on AI, Robots & What's Next for Security",
       "link": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
       "summary": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies.",
       "source": "Dark Reading",
       "published": "2026-11-09T17:17:23+00:00"
-    },
-    {
-      "title": "CVE-2026-121576 - WordPress MCP Server for WordPress plugin <= 2.0.1 - Privilege Escalation vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121576",
-      "summary": "CVE ID :CVE-2026-121576 Published : Nov. 9, 2026, 5:17 p.m. | 2 hours, 24 minutes ago Description :Incorrect Privilege Assignment vulnerability in AtlasAiDev MCP Server for WordPress...",
-      "source": "CVE Feed",
-      "published": "2026-11-09T17:17:14+00:00"
-    },
-    {
-      "title": "CVE-2026-115338 - Insecure XFT Transport in Progress WS_FTP Server",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115338",
-      "summary": "CVE ID :CVE-2026-115338 Published : Nov. 9, 2026, 5:17 p.m. | 2 hours, 24 minutes ago Description :Insufficient protection of communications in Progress WS_FTP Server versions prior to 2025.0.5 could...",
-      "source": "CVE Feed",
-      "published": "2026-11-09T17:17:11+00:00"
-    },
-    {
-      "title": "CVE-2026-104989 - Pre-authentication remote code execution in Chaos V-Ray Swarm",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-104989",
-      "summary": "CVE ID :CVE-2026-104989 Published : Nov. 9, 2026, 5:17 p.m. | 2 hours, 24 minutes ago Description :Uncontrolled search path element in package upload feature in Chaos Software V-Ray versions through...",
-      "source": "CVE Feed",
-      "published": "2026-11-09T17:17:07+00:00"
     },
     {
       "title": "Binance denies data breach after alleged ShinyHunters claims",
@@ -252,13 +336,6 @@
       "summary": "Ukraine's cyber police said the four arrested men included the alleged leader of the scam call centers.",
       "source": "The Record",
       "published": "2026-11-09T15:24:00+00:00"
-    },
-    {
-      "title": "CVE-2026-104620 - PackageKit/ZYpp local privilege escalation using InstallFiles(SIMULATE)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-104620",
-      "summary": "CVE ID :CVE-2026-104620 Published : Nov. 9, 2026, 3:17 p.m. | 4 hours, 24 minutes ago Description :A path traversal attack in simulation of actions in the Zypp backend of PackageKit before 1.4.1...",
-      "source": "CVE Feed",
-      "published": "2026-11-09T15:17:04+00:00"
     },
     {
       "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
@@ -312,16 +389,9 @@
     {
       "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
       "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-      "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep...",
-      "source": "The Hacker News",
+      "summary": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough...",
+      "source": "CVE Newsroom",
       "published": "2026-11-09T13:28:25+00:00"
-    },
-    {
-      "title": "Pro-Russian hackers target European officials, offer rewards for personal information",
-      "link": "https://therecord.media/hackers-russia-italy-noname",
-      "summary": "Pro-Russian hackers published the personal information of Italian Foreign Minister Antonio Tajani and other senior European officials on the dark web, offering cryptocurrency rewards for additional...",
-      "source": "The Record",
-      "published": "2026-11-09T13:15:00+00:00"
     },
     {
       "title": "Plex2Shell Exploited Against QNAP NAS Users",
@@ -445,8 +515,8 @@
     {
       "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
       "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following...",
-      "source": "The Hacker News",
+      "summary": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting...",
+      "source": "CVE Newsroom",
       "published": "2026-11-09T06:05:24+00:00"
     },
     {
@@ -506,39 +576,11 @@
       "published": "2026-11-07T06:09:46+00:00"
     },
     {
-      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-      "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-11-07T00:00:55+00:00"
-    },
-    {
-      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-      "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-      "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing...",
-      "source": "BleepingComputer",
-      "published": "2026-11-06T22:27:25+00:00"
-    },
-    {
       "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
       "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
       "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
       "source": "Dark Reading",
       "published": "2026-11-06T21:27:36+00:00"
-    },
-    {
-      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-      "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-      "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct...",
-      "source": "BleepingComputer",
-      "published": "2026-11-06T20:24:19+00:00"
-    },
-    {
-      "title": "Fake security tools on GitHub push backdoors and infostealers",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-      "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-11-06T18:46:52+00:00"
     },
     {
       "title": "AI Gave Your Incident Archive a Second Job",
@@ -550,8 +592,8 @@
     {
       "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
       "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs...",
-      "source": "The Hacker News",
+      "summary": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according...",
+      "source": "CVE Newsroom",
       "published": "2026-11-06T16:08:38+00:00"
     },
     {
@@ -564,8 +606,8 @@
     {
       "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
       "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability...",
-      "source": "The Hacker News",
+      "summary": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable...",
+      "source": "CVE Newsroom",
       "published": "2026-11-06T15:21:49+00:00"
     },
     {
@@ -578,8 +620,8 @@
     {
       "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
       "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-      "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in...",
-      "source": "The Hacker News",
+      "summary": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that...",
+      "source": "CVE Newsroom",
       "published": "2026-11-06T14:58:32+00:00"
     },
     {
@@ -592,8 +634,8 @@
     {
       "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
       "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build...",
-      "source": "The Hacker News",
+      "summary": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix...",
+      "source": "CVE Newsroom",
       "published": "2026-11-06T12:06:43+00:00"
     },
     {
@@ -641,8 +683,8 @@
     {
       "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
       "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-      "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released...",
-      "source": "The Hacker News",
+      "summary": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run...",
+      "source": "CVE Newsroom",
       "published": "2026-11-06T05:39:10+00:00"
     },
     {
@@ -683,22 +725,22 @@
     {
       "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
       "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the...",
-      "source": "The Hacker News",
+      "summary": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine...",
+      "source": "CVE Newsroom",
       "published": "2026-11-05T16:42:46+00:00"
     },
     {
       "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
       "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the...",
-      "source": "The Hacker News",
+      "summary": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass...",
+      "source": "CVE Newsroom",
       "published": "2026-11-05T16:42:32+00:00"
     },
     {
       "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
       "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file...",
-      "source": "The Hacker News",
+      "summary": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across...",
+      "source": "CVE Newsroom",
       "published": "2026-11-05T14:41:10+00:00"
     },
     {
@@ -1148,27 +1190,6 @@
       "summary": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised...",
       "source": "Dark Reading",
       "published": "2026-10-27T16:47:20+00:00"
-    },
-    {
-      "title": "So Many AI Security Benchmarks, but None Tell the Whole Story",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
-      "summary": "Measuring artificial intelligence model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your...",
-      "source": "Dark Reading",
-      "published": "2026-10-27T00:26:50+00:00"
-    },
-    {
-      "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
-      "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
-      "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
-      "source": "Dark Reading",
-      "published": "2026-10-26T21:44:33+00:00"
-    },
-    {
-      "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
-      "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
-      "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
-      "source": "Dark Reading",
-      "published": "2026-10-26T20:59:26+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
