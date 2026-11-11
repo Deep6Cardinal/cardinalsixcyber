@@ -1,24 +1,157 @@
 {
-  "last_updated": "2026-11-11T00:18:56.308530+00:00",
+  "last_updated": "2026-11-11T08:39:20.816400+00:00",
   "articles": [
+    {
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover...",
+      "source": "The Hacker News",
+      "published": "2026-11-11T08:17:53+00:00"
+    },
+    {
+      "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+      "link": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
+      "summary": "The security defects could allow attackers to bypass authorization and gain root access to devices. The post Recently Patched Barracuda Vulnerabilities Exploited in Attacks appeared first on...",
+      "source": "SecurityWeek",
+      "published": "2026-11-11T07:53:51+00:00"
+    },
+    {
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said...",
+      "source": "The Hacker News",
+      "published": "2026-11-11T07:49:04+00:00"
+    },
+    {
+      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+      "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+      "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the...",
+      "source": "The Hacker News",
+      "published": "2026-11-11T07:21:05+00:00"
+    },
+    {
+      "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
+      "link": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
+      "summary": "Apple has patched Bluetooth and AirPlay pairing flaws, iMessage vulnerabilities, and an exploited Brotli bug across its platforms. The post Bluetooth, AirPlay Pairing Vulnerabilities Patched Across...",
+      "source": "SecurityWeek",
+      "published": "2026-11-11T07:00:17+00:00"
+    },
+    {
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited...",
+      "source": "The Hacker News",
+      "published": "2026-11-11T06:04:02+00:00"
+    },
+    {
+      "title": "CVE-2026-64682 - AstroBlocks: Admin session tokens can be forged due to a hard-coded fallback JWT secret and a mismatched environment variable name",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-64682",
+      "summary": "CVE ID :CVE-2026-64682 Published : Nov. 11, 2026, 5:19 a.m. | 2 hours, 13 minutes ago Description :AstroBlocks is a block-first CMS for Astro projects. Prior to version 3.4.0, admin session tokens...",
+      "source": "CVE Feed",
+      "published": "2026-11-11T05:19:52+00:00"
+    },
+    {
+      "title": "CVE-2026-64678 - Nitrite: Unfiltered Java Deserialization in Legacy v1 Database Migration Path",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-64678",
+      "summary": "CVE ID :CVE-2026-64678 Published : Nov. 11, 2026, 5:19 a.m. | 2 hours, 13 minutes ago Description :NOsql Object (NO2 a.k.a Nitrite) database is an open source nosql embedded document store. Prior to...",
+      "source": "CVE Feed",
+      "published": "2026-11-11T05:19:51+00:00"
+    },
+    {
+      "title": "CVE-2026-64670 - Stored XSS in @waline/client via the unsanitized markdown preview of a comment's raw body on edit",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-64670",
+      "summary": "CVE ID :CVE-2026-64670 Published : Nov. 11, 2026, 5:19 a.m. | 2 hours, 13 minutes ago Description :Waline is a comment system with backend support. In versions 3.15.2 and prior, @waline/client...",
+      "source": "CVE Feed",
+      "published": "2026-11-11T05:19:51+00:00"
+    },
+    {
+      "title": "CVE-2026-63660 - node-fontnik: integer-overflow heap out-of-bounds write in RenderSDF",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63660",
+      "summary": "CVE ID :CVE-2026-63660 Published : Nov. 11, 2026, 3:16 a.m. | 4 hours, 16 minutes ago Description :node-fontnik is a library that delivers a range of glyphs rendered as SDFs (signed distance fields)...",
+      "source": "CVE Feed",
+      "published": "2026-11-11T03:16:52+00:00"
+    },
+    {
+      "title": "CVE-2026-63194 - Bahmni-Core: Path traversal may lead to arbitrary file write in the admin CSV import",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63194",
+      "summary": "CVE ID :CVE-2026-63194 Published : Nov. 11, 2026, 3:16 a.m. | 4 hours, 16 minutes ago Description :OpenMRS module bahmnicore contains Core OpenMRS modules for Bahmni (including ERP & ELIS Atom Feed...",
+      "source": "CVE Feed",
+      "published": "2026-11-11T03:16:52+00:00"
+    },
+    {
+      "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
+      "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
+      "summary": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities Microsoft addressed 1,252 vulnerabilities in its November 2026 security update release, including one...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-11T02:40:33+00:00"
+    },
+    {
+      "title": "Microsoft Patch Tuesday – November 2026",
+      "link": "https://thecyberthrone.in/2026/11/11/microsoft-patch-tuesday-november-2026/",
+      "summary": "Microsoft Patch Tuesday – November 2026 November 10, 2026 | TheCyberThrone | Vulnerability IntelligenceStudy SecurityMicrosoft’s November Patch Tuesday brings another month of heavy security...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-11T02:32:23+00:00"
+    },
+    {
+      "title": "CVE-2026-126543 - WWBN AVideo through 29.7.1 Wallet Credit Manipulation via PayPalYPT ipnV2.php",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126543",
+      "summary": "CVE ID :CVE-2026-126543 Published : Nov. 11, 2026, 1:17 a.m. | 6 hours, 15 minutes ago Description :WWBN AVideo through 29.7.1 contains an improper payment verification vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-11-11T01:17:15+00:00"
+    },
+    {
+      "title": "CVE-2026-126542 - WWBN AVideo 6.5 through 29.7.1 Authentication Bypass via Hybridauth Social Login",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126542",
+      "summary": "CVE ID :CVE-2026-126542 Published : Nov. 11, 2026, 1:17 a.m. | 6 hours, 15 minutes ago Description :WWBN AVideo 6.5 through 29.7.1 contains an authentication bypass vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-11-11T01:17:15+00:00"
+    },
+    {
+      "title": "CVE-2026-126541 - WWBN AVideo through 29.7.1 Missing Authorization via Live Restream Endpoints",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126541",
+      "summary": "CVE ID :CVE-2026-126541 Published : Nov. 11, 2026, 1:17 a.m. | 6 hours, 15 minutes ago Description :WWBN AVideo through 29.7.1 contains a missing authorization vulnerability in Live plugin restream...",
+      "source": "CVE Feed",
+      "published": "2026-11-11T01:17:15+00:00"
+    },
+    {
+      "title": "CVE-2026-126539 - Directus before 12.1.0 Authorization Bypass via Public WebSocket REST Interface",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126539",
+      "summary": "CVE ID :CVE-2026-126539 Published : Nov. 11, 2026, 1:17 a.m. | 6 hours, 15 minutes ago Description :Directus before 12.1.0 contains an authorization bypass vulnerability that allows unauthenticated...",
+      "source": "CVE Feed",
+      "published": "2026-11-11T01:17:15+00:00"
+    },
+    {
+      "title": "CVE-2026-126499 - Jellyfin before 12.0 Path Traversal via Library VirtualFolders Endpoints",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126499",
+      "summary": "CVE ID :CVE-2026-126499 Published : Nov. 11, 2026, 1:17 a.m. | 6 hours, 15 minutes ago Description :Jellyfin before 12.0 contains a path traversal vulnerability in the DELETE /Library/VirtualFolders...",
+      "source": "CVE Feed",
+      "published": "2026-11-11T01:17:14+00:00"
+    },
+    {
+      "title": "CVE-2026-126497 - LibreCAD through 2.2.1.6 Heap Out-of-Bounds Write via dwgReader18::parseDataPage",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126497",
+      "summary": "CVE ID :CVE-2026-126497 Published : Nov. 11, 2026, 1:17 a.m. | 6 hours, 15 minutes ago Description :LibreCAD through 2.2.1.6 contains a heap-based out-of-bounds write vulnerability in the bundled...",
+      "source": "CVE Feed",
+      "published": "2026-11-11T01:17:14+00:00"
+    },
     {
       "title": "CVE-2026-126261 - Fortinet FortiManager Improper Authorization Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-126261",
-      "summary": "CVE ID :CVE-2026-126261 Published : Nov. 10, 2026, 11:17 p.m. | 16 minutes ago Description :A improper authorization vulnerability in Fortinet FortiManager 8.0.0, FortiManager 7.6.0 through 7.6.7...",
+      "summary": "CVE ID :CVE-2026-126261 Published : Nov. 10, 2026, 11:17 p.m. | 8 hours, 15 minutes ago Description :A improper authorization vulnerability in Fortinet FortiManager 8.0.0, FortiManager 7.6.0 through...",
       "source": "CVE Feed",
       "published": "2026-11-10T23:17:20+00:00"
     },
     {
       "title": "CVE-2026-126187 - React: Unauthenticated Remote Code Execution in React Server Components",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-126187",
-      "summary": "CVE ID :CVE-2026-126187 Published : Nov. 10, 2026, 11:17 p.m. | 16 minutes ago Description :React is a JavaScript library for building user interfaces. From 19.0.0 until 19.0.9, 19.1.10, 19.2.9, and...",
+      "summary": "CVE ID :CVE-2026-126187 Published : Nov. 10, 2026, 11:17 p.m. | 8 hours, 15 minutes ago Description :React is a JavaScript library for building user interfaces. From 19.0.0 until 19.0.9, 19.1.10...",
       "source": "CVE Feed",
       "published": "2026-11-10T23:17:20+00:00"
     },
     {
       "title": "CVE-2025-0008 - Secure Debug Unlock Authentication Bypass",
       "link": "https://cvefeed.io/vuln/detail/CVE-2025-0008",
-      "summary": "CVE ID :CVE-2025-0008 Published : Nov. 10, 2026, 11:17 p.m. | 16 minutes ago Description :Insufficient verification of data authenticity may allow a local attacker to bypass Secure Debug Unlock...",
+      "summary": "CVE ID :CVE-2025-0008 Published : Nov. 10, 2026, 11:17 p.m. | 8 hours, 15 minutes ago Description :Insufficient verification of data authenticity may allow a local attacker to bypass Secure Debug...",
       "source": "CVE Feed",
       "published": "2026-11-10T23:17:18+00:00"
     },
@@ -32,56 +165,56 @@
     {
       "title": "CVE-2026-96437 - Kong Gateway Enterprise ai-azure-content-safety Security Bypass Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-96437",
-      "summary": "CVE ID :CVE-2026-96437 Published : Nov. 10, 2026, 10:21 p.m. | 1 hour, 12 minutes ago Description :The ai-azure-content-safety plugin in Kong Gateway Enterprise skips inspection of request bodies...",
+      "summary": "CVE ID :CVE-2026-96437 Published : Nov. 10, 2026, 10:21 p.m. | 9 hours, 11 minutes ago Description :The ai-azure-content-safety plugin in Kong Gateway Enterprise skips inspection of request bodies...",
       "source": "CVE Feed",
       "published": "2026-11-10T22:21:17+00:00"
     },
     {
       "title": "CVE-2026-92545 - Kong Gateway Cache Key Collision Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-92545",
-      "summary": "CVE ID :CVE-2026-92545 Published : Nov. 10, 2026, 10:21 p.m. | 1 hour, 12 minutes ago Description :The proxy-cache and proxy-cache-advanced plugins in Kong Gateway Enterprise and Kong AI Gateway omit...",
+      "summary": "CVE ID :CVE-2026-92545 Published : Nov. 10, 2026, 10:21 p.m. | 9 hours, 11 minutes ago Description :The proxy-cache and proxy-cache-advanced plugins in Kong Gateway Enterprise and Kong AI Gateway...",
       "source": "CVE Feed",
       "published": "2026-11-10T22:21:15+00:00"
     },
     {
       "title": "CVE-2026-92443 - Kong Gateway Improper Authorization Caching Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-92443",
-      "summary": "CVE ID :CVE-2026-92443 Published : Nov. 10, 2026, 10:21 p.m. | 1 hour, 12 minutes ago Description :The caching plugins in Kong Gateway Enterprise and Kong AI Gateway may serve a response cached for a...",
+      "summary": "CVE ID :CVE-2026-92443 Published : Nov. 10, 2026, 10:21 p.m. | 9 hours, 11 minutes ago Description :The caching plugins in Kong Gateway Enterprise and Kong AI Gateway may serve a response cached for...",
       "source": "CVE Feed",
       "published": "2026-11-10T22:21:15+00:00"
     },
     {
       "title": "CVE-2026-92442 - Kong Gateway Enterprise GraphQL Proxy Cache Advanced Cache Poisoning Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-92442",
-      "summary": "CVE ID :CVE-2026-92442 Published : Nov. 10, 2026, 10:21 p.m. | 1 hour, 12 minutes ago Description :The graphql-proxy-cache-advanced plugin in Kong Gateway Enterprise omits the caller's identity from...",
+      "summary": "CVE ID :CVE-2026-92442 Published : Nov. 10, 2026, 10:21 p.m. | 9 hours, 11 minutes ago Description :The graphql-proxy-cache-advanced plugin in Kong Gateway Enterprise omits the caller's identity from...",
       "source": "CVE Feed",
       "published": "2026-11-10T22:21:14+00:00"
     },
     {
       "title": "CVE-2026-91000 - Insecure IPC Channels lead to local privilege escalation",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-91000",
-      "summary": "CVE ID :CVE-2026-91000 Published : Nov. 10, 2026, 10:21 p.m. | 1 hour, 12 minutes ago Description :Missing authentication for critical function vulnerability in N-able N-central allows Privilege...",
+      "summary": "CVE ID :CVE-2026-91000 Published : Nov. 10, 2026, 10:21 p.m. | 9 hours, 11 minutes ago Description :Missing authentication for critical function vulnerability in N-able N-central allows Privilege...",
       "source": "CVE Feed",
       "published": "2026-11-10T22:21:14+00:00"
     },
     {
       "title": "CVE-2026-89324 - Basel Post Types <= 1.18 - Unauthenticated Authentication Bypass via Forged Opauth Callback Signature with Hardcoded Fallback Salt",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-89324",
-      "summary": "CVE ID :CVE-2026-89324 Published : Nov. 10, 2026, 10:21 p.m. | 1 hour, 12 minutes ago Description :The Basel Post Types plugin for WordPress is vulnerable to Authentication Bypass in all versions up...",
+      "summary": "CVE ID :CVE-2026-89324 Published : Nov. 10, 2026, 10:21 p.m. | 9 hours, 11 minutes ago Description :The Basel Post Types plugin for WordPress is vulnerable to Authentication Bypass in all versions up...",
       "source": "CVE Feed",
       "published": "2026-11-10T22:21:14+00:00"
     },
     {
       "title": "CVE-2026-82391 - Out-of-bounds write in Zephyr HTTP/2 server static-filesystem handler via corrupted receive-buffer length",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-82391",
-      "summary": "CVE ID :CVE-2026-82391 Published : Nov. 10, 2026, 10:21 p.m. | 1 hour, 12 minutes ago Description :The HTTP/2 front-end of the Zephyr HTTP server aliased connection receive state as a scratch output...",
+      "summary": "CVE ID :CVE-2026-82391 Published : Nov. 10, 2026, 10:21 p.m. | 9 hours, 11 minutes ago Description :The HTTP/2 front-end of the Zephyr HTTP server aliased connection receive state as a scratch...",
       "source": "CVE Feed",
       "published": "2026-11-10T22:21:05+00:00"
     },
     {
       "title": "CVE-2026-77685 - Bluetooth Classic RFCOMM: integer underflow in the MCC TEST command handler leads to out-of-bounds read disclosed to the peer and out-of-bounds write",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-77685",
-      "summary": "CVE ID :CVE-2026-77685 Published : Nov. 10, 2026, 10:20 p.m. | 1 hour, 12 minutes ago Description :The RFCOMM multiplexer control-channel handler in subsys/bluetooth/host/classic/rfcomm.c computed...",
+      "summary": "CVE ID :CVE-2026-77685 Published : Nov. 10, 2026, 10:20 p.m. | 9 hours, 12 minutes ago Description :The RFCOMM multiplexer control-channel handler in subsys/bluetooth/host/classic/rfcomm.c computed...",
       "source": "CVE Feed",
       "published": "2026-11-10T22:20:53+00:00"
     },
@@ -95,100 +228,23 @@
     {
       "title": "CVE-2026-126186 - Active Storage: Possible arbitrary file read and remote code execution in Active Storage video previews, analysis and image processing",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-126186",
-      "summary": "CVE ID :CVE-2026-126186 Published : Nov. 10, 2026, 10:18 p.m. | 1 hour, 14 minutes ago Description :Active Storage makes it simple to upload and reference files in cloud services and attach those...",
+      "summary": "CVE ID :CVE-2026-126186 Published : Nov. 10, 2026, 10:18 p.m. | 9 hours, 14 minutes ago Description :Active Storage makes it simple to upload and reference files in cloud services and attach those...",
       "source": "CVE Feed",
       "published": "2026-11-10T22:18:31+00:00"
     },
     {
       "title": "CVE-2026-125883 - Multiple XXE Vulnerabilities",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-125883",
-      "summary": "CVE ID :CVE-2026-125883 Published : Nov. 10, 2026, 10:18 p.m. | 1 hour, 14 minutes ago Description :Improper restriction of XML external entity reference vulnerability in N-able N-central allows XML...",
+      "summary": "CVE ID :CVE-2026-125883 Published : Nov. 10, 2026, 10:18 p.m. | 9 hours, 14 minutes ago Description :Improper restriction of XML external entity reference vulnerability in N-able N-central allows XML...",
       "source": "CVE Feed",
       "published": "2026-11-10T22:18:31+00:00"
     },
     {
       "title": "CVE-2026-125882 - RCE via file repository upload path traversal",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-125882",
-      "summary": "CVE ID :CVE-2026-125882 Published : Nov. 10, 2026, 10:18 p.m. | 1 hour, 14 minutes ago Description :Relative path traversal vulnerability in N-able N-central allows Path Traversal. This issue affects...",
+      "summary": "CVE ID :CVE-2026-125882 Published : Nov. 10, 2026, 10:18 p.m. | 9 hours, 14 minutes ago Description :Relative path traversal vulnerability in N-able N-central allows Path Traversal. This issue...",
       "source": "CVE Feed",
       "published": "2026-11-10T22:18:31+00:00"
-    },
-    {
-      "title": "CVE-2026-125881 - Schema-hint SSRF via service import schema validation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125881",
-      "summary": "CVE ID :CVE-2026-125881 Published : Nov. 10, 2026, 10:18 p.m. | 1 hour, 14 minutes ago Description :Server-Side request forgery (SSRF) vulnerability in N-able N-central allows Server Side Request...",
-      "source": "CVE Feed",
-      "published": "2026-11-10T22:18:30+00:00"
-    },
-    {
-      "title": "CVE-2026-125880 - Stored XSS via MMS3 patch metadata (admin context)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125880",
-      "summary": "CVE ID :CVE-2026-125880 Published : Nov. 10, 2026, 10:18 p.m. | 1 hour, 14 minutes ago Description :Improper neutralization of HTTP headers for scripting syntax vulnerability in N-able N-central...",
-      "source": "CVE Feed",
-      "published": "2026-11-10T22:18:30+00:00"
-    },
-    {
-      "title": "CVE-2026-125879 - Local privilege escalation to root via nable-writable syslog-ng config",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125879",
-      "summary": "CVE ID :CVE-2026-125879 Published : Nov. 10, 2026, 10:18 p.m. | 1 hour, 14 minutes ago Description :Incorrect privilege assignment vulnerability in N-able N-central allows Privilege Escalation. This...",
-      "source": "CVE Feed",
-      "published": "2026-11-10T22:18:30+00:00"
-    },
-    {
-      "title": "CVE-2026-125878 - Multiple OGNL Injection vulnerabilities",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125878",
-      "summary": "CVE ID :CVE-2026-125878 Published : Nov. 10, 2026, 10:18 p.m. | 1 hour, 14 minutes ago Description :Improper neutralization of input during web page generation ('cross-site scripting') vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-11-10T22:18:30+00:00"
-    },
-    {
-      "title": "CVE-2026-125298 - AsiaInfo Business Support System (BSS) Missing JWT Signature Verification",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125298",
-      "summary": "CVE ID :CVE-2026-125298 Published : Nov. 10, 2026, 10:18 p.m. | 1 hour, 14 minutes ago Description :AsiaInfo Business Support System (BSS) 9.2.0 through 9.2.40 does not correctly verify cryptographic...",
-      "source": "CVE Feed",
-      "published": "2026-11-10T22:18:30+00:00"
-    },
-    {
-      "title": "CVE-2026-125297 - AsiaInfo Business Support System (BSS) Missing Authentication",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125297",
-      "summary": "CVE ID :CVE-2026-125297 Published : Nov. 10, 2026, 10:18 p.m. | 1 hour, 14 minutes ago Description :AsiaInfo Business Support System (BSS) 9.2.0 through 9.2.40 accepts unauthenticated requests via...",
-      "source": "CVE Feed",
-      "published": "2026-11-10T22:18:30+00:00"
-    },
-    {
-      "title": "CVE-2026-123041 - Kong Gateway Request-Callout Cache Poisoning Vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123041",
-      "summary": "CVE ID :CVE-2026-123041 Published : Nov. 10, 2026, 10:18 p.m. | 1 hour, 14 minutes ago Description :The request-callout plugin in Kong Gateway Enterprise and Kong AI Gateway omits callout headers not...",
-      "source": "CVE Feed",
-      "published": "2026-11-10T22:18:28+00:00"
-    },
-    {
-      "title": "CVE-2026-122102 - Adobe Connect | Cross-site Scripting (Stored XSS) (CWE-79)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122102",
-      "summary": "CVE ID :CVE-2026-122102 Published : Nov. 10, 2026, 10:18 p.m. | 1 hour, 14 minutes ago Description :Adobe Connect is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused...",
-      "source": "CVE Feed",
-      "published": "2026-11-10T22:18:28+00:00"
-    },
-    {
-      "title": "CVE-2026-121913 - Adobe Connect | Incorrect Authorization (CWE-863)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121913",
-      "summary": "CVE ID :CVE-2026-121913 Published : Nov. 10, 2026, 10:18 p.m. | 1 hour, 14 minutes ago Description :Adobe Connect is affected by an Incorrect Authorization vulnerability that could result in...",
-      "source": "CVE Feed",
-      "published": "2026-11-10T22:18:27+00:00"
-    },
-    {
-      "title": "CVE-2026-121908 - Adobe Connect | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') (CWE-89)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121908",
-      "summary": "CVE ID :CVE-2026-121908 Published : Nov. 10, 2026, 10:18 p.m. | 1 hour, 14 minutes ago Description :Adobe Connect is affected by an Improper Neutralization of Special Elements used in an SQL Command...",
-      "source": "CVE Feed",
-      "published": "2026-11-10T22:18:27+00:00"
-    },
-    {
-      "title": "CVE-2026-121906 - Adobe Connect | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') (CWE-22)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121906",
-      "summary": "CVE ID :CVE-2026-121906 Published : Nov. 10, 2026, 10:18 p.m. | 1 hour, 14 minutes ago Description :Adobe Connect is affected by an Improper Limitation of a Pathname to a Restricted Directory ('Path...",
-      "source": "CVE Feed",
-      "published": "2026-11-10T22:18:27+00:00"
     },
     {
       "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
@@ -443,13 +499,6 @@
       "published": "2026-11-10T13:00:00+00:00"
     },
     {
-      "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
-      "link": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
-      "summary": "Anthropic says Mythos 5.2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests. The post Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting...",
-      "source": "SecurityWeek",
-      "published": "2026-11-10T12:17:13+00:00"
-    },
-    {
       "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
       "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
       "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to...",
@@ -504,13 +553,6 @@
       "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP...",
       "source": "The Hacker News",
       "published": "2026-11-10T10:02:40+00:00"
-    },
-    {
-      "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
-      "link": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
-      "summary": "Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation. The post N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days...",
-      "source": "SecurityWeek",
-      "published": "2026-11-10T09:56:28+00:00"
     },
     {
       "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
@@ -585,8 +627,8 @@
     {
       "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
       "link": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
-      "summary": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion 3 Min ReadMicrosoft recently patched a remote code execution (RCE) vulnerability in Windows Paint, though details regarding how to...",
-      "source": "CVE Newsroom",
+      "summary": "Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.",
+      "source": "Dark Reading",
       "published": "2026-11-09T21:12:24+00:00"
     },
     {
@@ -800,13 +842,6 @@
       "published": "2026-11-06T15:21:49+00:00"
     },
     {
-      "title": "Cyber Brief 26-11 - October 2026",
-      "link": "https://cert.europa.eu/publications/threat-intelligence/cb26-11/",
-      "summary": "Cyber Brief 26-11 - October 2026 Cyber Brief (October 2026)November 6, 2026 - Version 1TLP:CLEARExecutive summaryWe analysed 415 open source reports for this Cyber Brief1.Relating to cyber policy and...",
-      "source": "CVE Newsroom",
-      "published": "2026-11-06T15:00:00+00:00"
-    },
-    {
       "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
       "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
       "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in...",
@@ -961,20 +996,6 @@
       "published": "2026-11-05T08:42:03+00:00"
     },
     {
-      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-      "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone...",
-      "source": "The Hacker News",
-      "published": "2026-11-05T07:06:33+00:00"
-    },
-    {
-      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities...",
-      "source": "The Hacker News",
-      "published": "2026-11-05T05:17:04+00:00"
-    },
-    {
       "title": "Want to Rent an Internet Address at the White House?",
       "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
       "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts...",
@@ -987,20 +1008,6 @@
       "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
       "source": "Dark Reading",
       "published": "2026-11-04T21:48:18+00:00"
-    },
-    {
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according...",
-      "source": "The Hacker News",
-      "published": "2026-11-04T17:00:46+00:00"
-    },
-    {
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS...",
-      "source": "The Hacker News",
-      "published": "2026-11-04T17:00:38+00:00"
     },
     {
       "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
