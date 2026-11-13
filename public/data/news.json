@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-11-12T21:58:12.054457+00:00",
+  "last_updated": "2026-11-13T02:25:03.788765+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-128067 - Pillow: Heap buffer overflow saving TIFF with libtiff when tags override image size",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-128067",
+      "summary": "CVE ID :CVE-2026-128067 Published : Nov. 13, 2026, 12:20 a.m. | 55 minutes ago Description :Pillow is a Python imaging library. From 2.3.0 through 12.3.0, Pillow applications that save compressed...",
+      "source": "CVE Feed",
+      "published": "2026-11-13T00:20:14+00:00"
+    },
+    {
+      "title": "CVE-2026-128066 - Pillow: Memory DoS in TIFF and EXIF IFD parsing via overlapping tag data",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-128066",
+      "summary": "CVE ID :CVE-2026-128066 Published : Nov. 13, 2026, 12:20 a.m. | 55 minutes ago Description :Pillow is a Python imaging library. From 1.0 through 12.3.0, ImageFileDirectory_v2.load() in...",
+      "source": "CVE Feed",
+      "published": "2026-11-13T00:20:14+00:00"
+    },
+    {
+      "title": "CVE-2026-127275 - Linksys EA8100 JNAP API ui_server.lua SetUnsecuredWiFiWarning missing authentication",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-127275",
+      "summary": "CVE ID :CVE-2026-127275 Published : Nov. 13, 2026, 12:20 a.m. | 55 minutes ago Description :A vulnerability was determined in Linksys EA8100 1.0.3.216940. This issue affects the function...",
+      "source": "CVE Feed",
+      "published": "2026-11-13T00:20:14+00:00"
+    },
+    {
+      "title": "CVE-2026-120868 - Memory overflow in Packet Processing can lead to unpredictable or erroneous behavior or Denial of Service in NetScaler ADC and NetScaler Gateway",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120868",
+      "summary": "CVE ID :CVE-2026-120868 Published : Nov. 13, 2026, 12:20 a.m. | 55 minutes ago Description :Memory overflow in Packet Processing can lead to unpredictable or erroneous behavior or Denial of Service...",
+      "source": "CVE Feed",
+      "published": "2026-11-13T00:20:09+00:00"
+    },
+    {
+      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+      "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP...",
+      "source": "BleepingComputer",
+      "published": "2026-11-12T22:53:10+00:00"
+    },
+    {
+      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+      "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+      "source": "BleepingComputer",
+      "published": "2026-11-12T22:25:30+00:00"
+    },
     {
       "title": "Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools",
       "link": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
@@ -16,11 +58,158 @@
       "published": "2026-11-12T21:18:52+00:00"
     },
     {
+      "title": "CVE-2026-86322 - Foreman: authorization flaw in the foreman::controller::useraware#find_user handling used by api::v2::personalaccesstokenscontroller",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-86322",
+      "summary": "CVE ID :CVE-2026-86322 Published : Nov. 12, 2026, 9:17 p.m. | 3 hours, 58 minutes ago Description :A flaw was found in Foreman’s Api::V2::PersonalAccessTokensController, where...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T21:17:33+00:00"
+    },
+    {
+      "title": "CVE-2026-127208 - datamodel-code-generator < 0.84.0 Code Injection via x-python-type Annotation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-127208",
+      "summary": "CVE ID :CVE-2026-127208 Published : Nov. 12, 2026, 9:17 p.m. | 3 hours, 58 minutes ago Description :datamodel-code-generator before 0.84.0 contains a code injection vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T21:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-126793 - Privilege escalation in Aurora PostgreSQL dialect detection in AWS Advanced Go Wrapper",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126793",
+      "summary": "CVE ID :CVE-2026-126793 Published : Nov. 12, 2026, 9:17 p.m. | 3 hours, 58 minutes ago Description :An untrusted search path issue in Aurora PostgreSQL dialect detection in the AWS Advanced Go...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T21:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-106018 - Johnson Controls EasyIO FW Authentication Bypass Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106018",
+      "summary": "CVE ID :CVE-2026-106018 Published : Nov. 12, 2026, 9:17 p.m. | 3 hours, 58 minutes ago Description :Authentication bypass using an alternate path or channel vulnerability in Johnson Controls EasyIO...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T21:17:17+00:00"
+    },
+    {
       "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
       "link": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
       "summary": "Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post...",
       "source": "SecurityWeek",
       "published": "2026-11-12T20:55:30+00:00"
+    },
+    {
+      "title": "CVE-2026-68548 - Algernon: Case-insensitive filesystem lets unauthenticated requests bypass /admin,/repo,/data permission-prefix gate",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-68548",
+      "summary": "CVE ID :CVE-2026-68548 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :Algernon is a small self-contained pure-Go web server. Prior to version 1.17.10, Algernon's...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:51+00:00"
+    },
+    {
+      "title": "CVE-2026-47711 - BACnet Stack: Stack buffer overflow in Loop internal ReadProperty path via Life_Safety_Zone.accepted-modes on the default BACnet/IP server",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-47711",
+      "summary": "CVE ID :CVE-2026-47711 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:41+00:00"
+    },
+    {
+      "title": "CVE-2026-47710 - BACnet Stack: Loop reference to long Structured View description causes stack-buffer-overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-47710",
+      "summary": "CVE ID :CVE-2026-47710 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:40+00:00"
+    },
+    {
+      "title": "CVE-2026-47259 - BACnet Stack: Stack-based buffer overflow in Notification Class RemoveListElement recipient-list decoding",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-47259",
+      "summary": "CVE ID :CVE-2026-47259 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:40+00:00"
+    },
+    {
+      "title": "CVE-2026-47258 - BACnet Stack: Stack-based buffer overflow in Notification Class AddListElement recipient-list decoding",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-47258",
+      "summary": "CVE ID :CVE-2026-47258 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:40+00:00"
+    },
+    {
+      "title": "CVE-2026-47257 - BACnet Stack: ReinitializeDevice ENDRESTORE can delete existing objects on an empty restore file and still return success",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-47257",
+      "summary": "CVE ID :CVE-2026-47257 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :BACnet Stack is a BACnet open source protocol stack C library for embedded systems. In versions...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:40+00:00"
+    },
+    {
+      "title": "CVE-2026-45265 - Atomic-Read-File RecordCount Stack-Based Out-of-Bounds Write in bacnet-stack",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-45265",
+      "summary": "CVE ID :CVE-2026-45265 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:38+00:00"
+    },
+    {
+      "title": "CVE-2026-124015 - Dixell/Copeland XWEB EVO Authentication Bypass via users.lua",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124015",
+      "summary": "CVE ID :CVE-2026-124015 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :XWEB EVO 5.6.2 through 5.8.8 contains an authentication bypass vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:26+00:00"
+    },
+    {
+      "title": "CVE-2026-124014 - Dixell/Copeland XWEB EVO Unauthenticated Configuration Write via config.lua",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124014",
+      "summary": "CVE ID :CVE-2026-124014 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :XWEB EVO 4.3.0 through 5.8.8 contains an unauthenticated arbitrary file write vulnerability that...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:25+00:00"
+    },
+    {
+      "title": "CVE-2026-124013 - Dixell/Copeland XWEB EVO OS Command Injection via api.lua",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124013",
+      "summary": "CVE ID :CVE-2026-124013 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :XWEB EVO 5.6.2 through 5.8.8 contains an authenticated OS command injection vulnerability in the...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:25+00:00"
+    },
+    {
+      "title": "CVE-2026-124012 - Dixell/Copeland XWEB EVO Hardcoded Administrator Daily Password Authentication Bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124012",
+      "summary": "CVE ID :CVE-2026-124012 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :XWEB EVO 5.6.2 through 5.8.8 contains a hardcoded credential vulnerability where the Administrator...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:24+00:00"
+    },
+    {
+      "title": "CVE-2026-124010 - Dixell/Copeland XWEB EVO Unauthenticated Command Injection via xwconsole.cgi",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124010",
+      "summary": "CVE ID :CVE-2026-124010 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :XWEB EVO before 5.6.2 contains a command injection vulnerability that allows unauthenticated remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:24+00:00"
+    },
+    {
+      "title": "CVE-2026-124009 - Dixell/Copeland XWEB EVO OS Command Injection via backup.lua",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124009",
+      "summary": "CVE ID :CVE-2026-124009 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :XWEB EVO 5.2.3 through 5.8.8 contains an authenticated OS command injection vulnerability that...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:23+00:00"
+    },
+    {
+      "title": "CVE-2026-124008 - Dixell/Copeland XWEB EVO OS Command Injection via devices.lua",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124008",
+      "summary": "CVE ID :CVE-2026-124008 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :XWEB EVO 5.2.3 through 5.8.8 contains an authenticated OS command injection vulnerability in the...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:23+00:00"
+    },
+    {
+      "title": "CVE-2026-124007 - Dixell/Copeland XWEB EVO Pre-Auth OS Command Injection via Password Field",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124007",
+      "summary": "CVE ID :CVE-2026-124007 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :XWEB EVO before 5.6.2 contains a pre-authentication OS command injection vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:23+00:00"
+    },
+    {
+      "title": "CVE-2026-124006 - Dixell/Copeland XWEB EVO Predictable Root Password Generation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124006",
+      "summary": "CVE ID :CVE-2026-124006 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :XWEB EVO through 5.8.8 contains a predictable credential generation vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:23+00:00"
+    },
+    {
+      "title": "CVE-2026-124005 - Dixell/Copeland XWEB EVO Predictable Administrator Password Generation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124005",
+      "summary": "CVE ID :CVE-2026-124005 Published : Nov. 12, 2026, 8:18 p.m. | 4 hours, 57 minutes ago Description :XWEB EVO 4.3.0 through 5.8.8 contains a weak password generation vulnerability that allows remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-12T20:18:22+00:00"
     },
     {
       "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
@@ -37,62 +226,6 @@
       "published": "2026-11-12T20:09:41+00:00"
     },
     {
-      "title": "CVE-2026-124015 - Dixell/Copeland XWEB EVO Authentication Bypass via users.lua",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124015",
-      "summary": "CVE ID :CVE-2026-124015 Published : Nov. 12, 2026, 8:07 p.m. | 10 minutes ago Description :XWEB EVO 5.6.2 through 5.8.8 contains an authentication bypass vulnerability that allows unauthenticated...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T20:07:32+00:00"
-    },
-    {
-      "title": "CVE-2026-124014 - Dixell/Copeland XWEB EVO Unauthenticated Configuration Write via config.lua",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124014",
-      "summary": "CVE ID :CVE-2026-124014 Published : Nov. 12, 2026, 8:05 p.m. | 11 minutes ago Description :XWEB EVO 4.3.0 through 5.8.8 contains an unauthenticated arbitrary file write vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T20:05:59+00:00"
-    },
-    {
-      "title": "CVE-2026-107360 - Rubygem-safemode: safemode: jail allow-list bypass via op-assign expressions",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-107360",
-      "summary": "CVE ID :CVE-2026-107360 Published : Nov. 12, 2026, 8:04 p.m. | 13 minutes ago Description :A flaw was found in rubygem-safemode. Compound assignment expressions in sandboxed code are evaluated...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T20:04:13+00:00"
-    },
-    {
-      "title": "CVE-2026-124013 - Dixell/Copeland XWEB EVO OS Command Injection via api.lua",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124013",
-      "summary": "CVE ID :CVE-2026-124013 Published : Nov. 12, 2026, 8:02 p.m. | 15 minutes ago Description :XWEB EVO 5.6.2 through 5.8.8 contains an authenticated OS command injection vulnerability in the api.lua...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T20:02:57+00:00"
-    },
-    {
-      "title": "CVE-2026-124012 - Dixell/Copeland XWEB EVO Hardcoded Administrator Daily Password Authentication Bypass",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124012",
-      "summary": "CVE ID :CVE-2026-124012 Published : Nov. 12, 2026, 8:01 p.m. | 16 minutes ago Description :XWEB EVO 5.6.2 through 5.8.8 contains a hardcoded credential vulnerability where the Administrator web...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T20:01:03+00:00"
-    },
-    {
-      "title": "CVE-2026-124010 - Dixell/Copeland XWEB EVO Unauthenticated Command Injection via xwconsole.cgi",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124010",
-      "summary": "CVE ID :CVE-2026-124010 Published : Nov. 12, 2026, 7:58 p.m. | 19 minutes ago Description :XWEB EVO before 5.6.2 contains a command injection vulnerability that allows unauthenticated remote...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T19:58:13+00:00"
-    },
-    {
-      "title": "CVE-2026-124009 - Dixell/Copeland XWEB EVO OS Command Injection via backup.lua",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124009",
-      "summary": "CVE ID :CVE-2026-124009 Published : Nov. 12, 2026, 7:54 p.m. | 23 minutes ago Description :XWEB EVO 5.2.3 through 5.8.8 contains an authenticated OS command injection vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T19:54:31+00:00"
-    },
-    {
-      "title": "CVE-2026-124008 - Dixell/Copeland XWEB EVO OS Command Injection via devices.lua",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124008",
-      "summary": "CVE ID :CVE-2026-124008 Published : Nov. 12, 2026, 7:53 p.m. | 24 minutes ago Description :XWEB EVO 5.2.3 through 5.8.8 contains an authenticated OS command injection vulnerability in the devices.lua...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T19:53:16+00:00"
-    },
-    {
       "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
       "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
       "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting...",
@@ -100,67 +233,11 @@
       "published": "2026-11-12T19:51:16+00:00"
     },
     {
-      "title": "CVE-2026-124007 - Dixell/Copeland XWEB EVO Pre-Auth OS Command Injection via Password Field",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124007",
-      "summary": "CVE ID :CVE-2026-124007 Published : Nov. 12, 2026, 7:48 p.m. | 29 minutes ago Description :XWEB EVO before 5.6.2 contains a pre-authentication OS command injection vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T19:48:39+00:00"
-    },
-    {
-      "title": "CVE-2026-124006 - Dixell/Copeland XWEB EVO Predictable Root Password Generation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124006",
-      "summary": "CVE ID :CVE-2026-124006 Published : Nov. 12, 2026, 7:44 p.m. | 33 minutes ago Description :XWEB EVO through 5.8.8 contains a predictable credential generation vulnerability that allows attackers to...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T19:44:23+00:00"
-    },
-    {
-      "title": "CVE-2026-124005 - Dixell/Copeland XWEB EVO Predictable Administrator Password Generation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124005",
-      "summary": "CVE ID :CVE-2026-124005 Published : Nov. 12, 2026, 7:42 p.m. | 35 minutes ago Description :XWEB EVO 4.3.0 through 5.8.8 contains a weak password generation vulnerability that allows remote attackers...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T19:42:31+00:00"
-    },
-    {
-      "title": "CVE-2026-124004 - Dixell/Copeland XWEB EVO Hardcoded Administrator Backdoor Password",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124004",
-      "summary": "CVE ID :CVE-2026-124004 Published : Nov. 12, 2026, 7:41 p.m. | 36 minutes ago Description :XWEB EVO before 5.6.2 contains a hardcoded backdoor password vulnerability that allows unauthenticated...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T19:41:02+00:00"
-    },
-    {
-      "title": "CVE-2026-68548 - Algernon: Case-insensitive filesystem lets unauthenticated requests bypass /admin,/repo,/data permission-prefix gate",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-68548",
-      "summary": "CVE ID :CVE-2026-68548 Published : Nov. 12, 2026, 7:39 p.m. | 38 minutes ago Description :Algernon is a small self-contained pure-Go web server. Prior to version 1.17.10, Algernon's URL-prefix...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T19:39:10+00:00"
-    },
-    {
-      "title": "CVE-2026-124002 - Dixell/Copeland XWEB EVO Pre-Auth OS Command Injection via Username",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124002",
-      "summary": "CVE ID :CVE-2026-124002 Published : Nov. 12, 2026, 7:34 p.m. | 43 minutes ago Description :XWEB EVO versions 5.2.3 through before 5.7.0 contains a pre-authentication OS command injection...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T19:34:26+00:00"
-    },
-    {
       "title": "United to block customers from using AI agents, citing cyber threats",
       "link": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
       "summary": "“Sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases\" and more, United Airlines...",
       "source": "The Record",
       "published": "2026-11-12T19:20:00+00:00"
-    },
-    {
-      "title": "CVE-2026-18379 - Yggdrasil-worker-package-manager: yggdrasil-worker-package-manager: path traversal via unsanitized repo name in addrepo/removerepo",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-18379",
-      "summary": "CVE ID :CVE-2026-18379 Published : Nov. 12, 2026, 7:17 p.m. | 1 hour ago Description :A flaw was found in yggdrasil-worker-package-manager. An authenticated attacker can exploit this issue to achieve...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T19:17:04+00:00"
-    },
-    {
-      "title": "CVE-2026-117544 - Joomla Extension - jdownloads.com - IDOR allowing restricted file downloads in jDownloads < 4.1.8",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-117544",
-      "summary": "CVE ID :CVE-2026-117544 Published : Nov. 12, 2026, 7:16 p.m. | 1 hour, 1 minute ago Description :Joomla Extension - jdownloads.com - IDOR allowing restricted file downloads in jDownloads Severity...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T19:16:47+00:00"
     },
     {
       "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
@@ -175,69 +252,6 @@
       "summary": "The incident is the latest in a string of attacks on ports and other shipping organizations worldwide, with Brazil’s largest port hit with ransomware last week.",
       "source": "The Record",
       "published": "2026-11-12T18:28:00+00:00"
-    },
-    {
-      "title": "CVE-2026-127204 - WooCommerce PayPal Pro Payment Gateway < 4.1.1 Payment Bypass via pp_capture_order",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-127204",
-      "summary": "CVE ID :CVE-2026-127204 Published : Nov. 12, 2026, 6:17 p.m. | 2 hours ago Description :WooCommerce PayPal Pro Payment Gateway plugin before 4.1.1 contains an unauthenticated payment bypass...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T18:17:42+00:00"
-    },
-    {
-      "title": "CVE-2026-127063 - ConnectWise ScreenConnect RMM+ Extension Improper Authentication",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-127063",
-      "summary": "CVE ID :CVE-2026-127063 Published : Nov. 12, 2026, 6:17 p.m. | 2 hours ago Description :The third-party RMM+ extension for ConnectWise ScreenConnect uses a static API secret by default. The value can...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T18:17:39+00:00"
-    },
-    {
-      "title": "CVE-2026-126197 - pgEdge Postgres MCP Server SQL injection through custom pl-do tool parameters",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126197",
-      "summary": "CVE ID :CVE-2026-126197 Published : Nov. 12, 2026, 6:17 p.m. | 2 hours ago Description :pgEdge Postgres MCP Server enables SQL queries against PostgreSQL databases through Model Context Protocol...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T18:17:24+00:00"
-    },
-    {
-      "title": "CVE-2026-126196 - pgEdge Postgres MCP Server read-only mode can be bypassed by SQL statement smuggling through query_database",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126196",
-      "summary": "CVE ID :CVE-2026-126196 Published : Nov. 12, 2026, 6:17 p.m. | 2 hours ago Description :pgEdge Postgres MCP Server enables SQL queries against PostgreSQL databases through Model Context Protocol...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T18:17:24+00:00"
-    },
-    {
-      "title": "CVE-2026-120466 - Joomla / WordPress Extension - acymailing.com - Missing authorization on subscription changes in AcyMailing 1.0.0 - 11.1.1",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120466",
-      "summary": "CVE ID :CVE-2026-120466 Published : Nov. 12, 2026, 6:17 p.m. | 2 hours ago Description :Joomla / WordPress Extension - acymailing.com - Missing authorization on subscription changes in AcyMailing...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T18:17:18+00:00"
-    },
-    {
-      "title": "CVE-2026-118495 - Joomla / WordPress Extension - acymailing.com - Exposure of sensitive information to an unauthorized actor in AcyMailing 6.0.0 - 11.1.1",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118495",
-      "summary": "CVE ID :CVE-2026-118495 Published : Nov. 12, 2026, 6:17 p.m. | 2 hours ago Description :Joomla / WordPress Extension - acymailing.com - Exposure of sensitive information to an unauthorized actor in...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T18:17:16+00:00"
-    },
-    {
-      "title": "CVE-2026-117551 - Joomla Extension - jdownloads.com - RCE through file upload in jDownloads < 4.1.8",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-117551",
-      "summary": "CVE ID :CVE-2026-117551 Published : Nov. 12, 2026, 6:17 p.m. | 2 hours ago Description :Joomla Extension - jdownloads.com - RCE through file upload in jDownloads Severity: 10.0 | CRITICAL Visit the...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T18:17:15+00:00"
-    },
-    {
-      "title": "CVE-2026-117543 - Joomla Extension - jdownloads.com - SSRF via external download URL field jDownloads < 4.1.8",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-117543",
-      "summary": "CVE ID :CVE-2026-117543 Published : Nov. 12, 2026, 6:17 p.m. | 2 hours ago Description :Joomla Extension - jdownloads.com - SSRF via external download URL field jDownloads Severity: 8.9 | HIGH Visit...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T18:17:15+00:00"
-    },
-    {
-      "title": "CVE-2026-106154 - Uncontrolled Recursion in Telerik UI for ASP.NET Core FilterParser",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106154",
-      "summary": "CVE ID :CVE-2026-106154 Published : Nov. 12, 2026, 6:17 p.m. | 2 hours ago Description :In Progress® Telerik® UI for ASP.NET Core versions `2015.1.318` through `2026.3.1015`, the server-side...",
-      "source": "CVE Feed",
-      "published": "2026-11-12T18:17:12+00:00"
     },
     {
       "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
@@ -569,10 +583,17 @@
       "published": "2026-11-11T22:56:21+00:00"
     },
     {
+      "title": "AIを活用したサイバー攻撃の増加を受け、日本がサイバーセキュリティへの緊急資金拠出を推進",
+      "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches-japanese",
+      "summary": "この対策パッケージには、官民合同のサイバー対応チーム、経済省が主導するAI専門チーム、および政府の新たな能動的サイバー防衛権限の行使に関する裁量の拡大が含まれている。",
+      "source": "Dark Reading",
+      "published": "2026-11-11T22:14:44+00:00"
+    },
+    {
       "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
       "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
-      "summary": "Attackers Say 'Hello' to a Different Scale of Cloud Attack 5 Min ReadSource: BanarTABS via Getty images What began as an exploratory Shodan search for exposed cloud instances has led to the discovery...",
-      "source": "CVE Newsroom",
+      "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs.",
+      "source": "Dark Reading",
       "published": "2026-11-11T21:44:04+00:00"
     },
     {
@@ -590,17 +611,10 @@
       "published": "2026-11-11T21:20:41+00:00"
     },
     {
-      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-      "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-      "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-11-11T20:54:20+00:00"
-    },
-    {
       "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
       "link": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
-      "summary": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws Source: Panther Media via Alamy Stock PhotoN-able is navigating a hectic crisis-management situation after the discovery of more...",
-      "source": "CVE Newsroom",
+      "summary": "The RMM provider also released a hotfix as a recommended mitigation to address public exploits for the alleged zero-days, which allow for attacker takeover.",
+      "source": "Dark Reading",
       "published": "2026-11-11T20:05:18+00:00"
     },
     {
@@ -609,13 +623,6 @@
       "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers...",
       "source": "Krebs on Security",
       "published": "2026-11-11T18:06:01+00:00"
-    },
-    {
-      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-      "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-      "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-11-11T16:24:18+00:00"
     },
     {
       "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
@@ -704,8 +711,8 @@
     {
       "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
       "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
-      "summary": "November Patch Tuesday: An Overflowing Cornucopia of CVEs Tara Seals,Senior Managing Editor,Dark ReadingNovember 10, 20265 Min ReadSource: Gurol Tuna via Getty ImagesNovember offers up a veritable...",
-      "source": "CVE Newsroom",
+      "summary": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
+      "source": "Dark Reading",
       "published": "2026-11-10T22:26:51+00:00"
     },
     {
@@ -1246,13 +1253,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for...",
       "source": "CISA Alerts",
       "published": "2026-10-30T12:00:00+00:00"
-    },
-    {
-      "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
-      "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
-      "summary": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.",
-      "source": "Dark Reading",
-      "published": "2026-10-30T08:00:00+00:00"
     },
     {
       "title": "Hitachi Energy TRO600 series products",
