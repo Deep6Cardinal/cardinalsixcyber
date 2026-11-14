@@ -1,66 +1,94 @@
 {
-  "last_updated": "2026-11-14T00:33:20.447747+00:00",
+  "last_updated": "2026-11-14T08:19:59.090247+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-129319 - create-ecdh: computeSecret does not validate that the peer public key is on the curve (invalid-curve attack)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129319",
+      "summary": "CVE ID :CVE-2026-129319 Published : Nov. 14, 2026, 7:17 a.m. | 59 minutes ago Description :create-ecdh is a browserifiable implementation of Node.js crypto.createECDH. In versions 4.0.4 and below...",
+      "source": "CVE Feed",
+      "published": "2026-11-14T07:17:21+00:00"
+    },
+    {
+      "title": "CVE-2026-126173 - AutomatorWP Pro Webhooks addon <= 1.4.4 - Missing Authorization to Unauthenticated Arbitrary User Password Reset / Account Takeover via Webhook with 'Is the user ID' Field",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126173",
+      "summary": "CVE ID :CVE-2026-126173 Published : Nov. 14, 2026, 5:18 a.m. | 2 hours, 57 minutes ago Description :The AutomatorWP Pro plugin for WordPress' webhook addon is vulnerable to authorization bypass in...",
+      "source": "CVE Feed",
+      "published": "2026-11-14T05:18:37+00:00"
+    },
+    {
+      "title": "CISA KEV Weekly Roundup – Week 46",
+      "link": "https://thecyberthrone.in/2026/11/14/cisa-kev-weekly-roundup-week-46/",
+      "summary": "CISA KEV Weekly Roundup – Week 46 12 Exploited Vulnerabilities Across Enterprise Infrastructure, Security Gateways and ApplicationsExploit Prevention ToolsThe CISA KEV Catalog continues to be an...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-14T04:05:00+00:00"
+    },
+    {
+      "title": "Attackers use Crypto Exchange Names to Disguise Unauthorized Sessions on 100+ ScreenConnect Servers",
+      "link": "https://www.huntress.com/blog/fake-crypto-exchange-sessions-screenconnect",
+      "summary": "Attackers use Crypto Exchange Names to Disguise Unauthorized Sessions on 100+ ScreenConnect Servers BackgroundOn November 12, 2026, an MSP asked us about a handful of unfamiliar machines in their...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-14T01:50:00+00:00"
+    },
     {
       "title": "CVE-2026-71531 - PrestaShop Webservice API Authorization Bypass via id_shop Parameter",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-71531",
-      "summary": "CVE ID :CVE-2026-71531 Published : Nov. 13, 2026, 11:17 p.m. | 57 minutes ago Description :PrestaShop before 8.2.9 and 9.2.1 contains an authorization flaw in the Webservice API that allows an...",
+      "summary": "CVE ID :CVE-2026-71531 Published : Nov. 13, 2026, 11:17 p.m. | 8 hours, 59 minutes ago Description :PrestaShop before 8.2.9 and 9.2.1 contains an authorization flaw in the Webservice API that allows...",
       "source": "CVE Feed",
       "published": "2026-11-13T23:17:19+00:00"
     },
     {
       "title": "CVE-2026-71519 - PrestaShop Webservice API Broken Access Control via Customer Endpoint",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-71519",
-      "summary": "CVE ID :CVE-2026-71519 Published : Nov. 13, 2026, 11:17 p.m. | 57 minutes ago Description :PrestaShop before 8.2.9 and 9.2.1 contains a broken access control vulnerability that allows an...",
+      "summary": "CVE ID :CVE-2026-71519 Published : Nov. 13, 2026, 11:17 p.m. | 8 hours, 59 minutes ago Description :PrestaShop before 8.2.9 and 9.2.1 contains a broken access control vulnerability that allows an...",
       "source": "CVE Feed",
       "published": "2026-11-13T23:17:19+00:00"
     },
     {
       "title": "CVE-2026-91869 - IBM Security QRadar EDR Improper Restriction of Excessive Authentication Attempts",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-91869",
-      "summary": "CVE ID :CVE-2026-91869 Published : Nov. 13, 2026, 10:17 p.m. | 1 hour, 57 minutes ago Description :IBM Security QRadar EDR 3.12 through 3.12.26 could allow a remote authenticated attacker to bypass...",
+      "summary": "CVE ID :CVE-2026-91869 Published : Nov. 13, 2026, 10:17 p.m. | 9 hours, 59 minutes ago Description :IBM Security QRadar EDR 3.12 through 3.12.26 could allow a remote authenticated attacker to bypass...",
       "source": "CVE Feed",
       "published": "2026-11-13T22:17:26+00:00"
     },
     {
       "title": "CVE-2026-124021 - Control Web Panel < 1.30.6 Authorization Bypass via oauth_authorization_codes",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-124021",
-      "summary": "CVE ID :CVE-2026-124021 Published : Nov. 13, 2026, 10:17 p.m. | 1 hour, 57 minutes ago Description :Control Web Panel (CWP) before webpanel_version 1.30.6 contains an authorization bypass...",
+      "summary": "CVE ID :CVE-2026-124021 Published : Nov. 13, 2026, 10:17 p.m. | 9 hours, 59 minutes ago Description :Control Web Panel (CWP) before webpanel_version 1.30.6 contains an authorization bypass...",
       "source": "CVE Feed",
       "published": "2026-11-13T22:17:22+00:00"
     },
     {
       "title": "CVE-2026-124020 - Control Web Panel < 1.30.6 Host Header Password Reset Poisoning",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-124020",
-      "summary": "CVE ID :CVE-2026-124020 Published : Nov. 13, 2026, 10:17 p.m. | 1 hour, 57 minutes ago Description :Control Web Panel (CWP) before webpanel_version 1.30.6 contains a host header injection...",
+      "summary": "CVE ID :CVE-2026-124020 Published : Nov. 13, 2026, 10:17 p.m. | 9 hours, 59 minutes ago Description :Control Web Panel (CWP) before webpanel_version 1.30.6 contains a host header injection...",
       "source": "CVE Feed",
       "published": "2026-11-13T22:17:22+00:00"
     },
     {
       "title": "CVE-2026-115788 - IBM App Connect Operator and IBM App Connect Enterprise Certified Containers Operands Log Forging",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-115788",
-      "summary": "CVE ID :CVE-2026-115788 Published : Nov. 13, 2026, 10:17 p.m. | 1 hour, 57 minutes ago Description :IBM App Connect Operator and IBM App Connect Enterprise Certified Containers Operands is vulnerable...",
+      "summary": "CVE ID :CVE-2026-115788 Published : Nov. 13, 2026, 10:17 p.m. | 9 hours, 59 minutes ago Description :IBM App Connect Operator and IBM App Connect Enterprise Certified Containers Operands is...",
       "source": "CVE Feed",
       "published": "2026-11-13T22:17:21+00:00"
     },
     {
       "title": "CVE-2026-110279 - IBM ContextForge MCP Gateway is affected by an improper authentication vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-110279",
-      "summary": "CVE ID :CVE-2026-110279 Published : Nov. 13, 2026, 10:17 p.m. | 1 hour, 57 minutes ago Description :IBM ContextForge MCP Gateway 1.0.0 through 1.1.0 is vulnerable to improper credential handling...",
+      "summary": "CVE ID :CVE-2026-110279 Published : Nov. 13, 2026, 10:17 p.m. | 9 hours, 59 minutes ago Description :IBM ContextForge MCP Gateway 1.0.0 through 1.1.0 is vulnerable to improper credential handling...",
       "source": "CVE Feed",
       "published": "2026-11-13T22:17:21+00:00"
     },
     {
       "title": "CVE-2025-53697 - Johnson Controls iSTAR Use of Default Credentials",
       "link": "https://cvefeed.io/vuln/detail/CVE-2025-53697",
-      "summary": "CVE ID :CVE-2025-53697 Published : Nov. 13, 2026, 10:17 p.m. | 1 hour, 57 minutes ago Description :Use of default credentials vulnerability in Johnson Controls iSTAR Ultra, Johnson Controls iSTAR...",
+      "summary": "CVE ID :CVE-2025-53697 Published : Nov. 13, 2026, 10:17 p.m. | 9 hours, 59 minutes ago Description :Use of default credentials vulnerability in Johnson Controls iSTAR Ultra, Johnson Controls iSTAR...",
       "source": "CVE Feed",
       "published": "2026-11-13T22:17:18+00:00"
     },
     {
       "title": "CVE-2025-43874 - Johnson Controls iSTAR OS Command Injection Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2025-43874",
-      "summary": "CVE ID :CVE-2025-43874 Published : Nov. 13, 2026, 10:17 p.m. | 1 hour, 57 minutes ago Description :: Improper Neutralization of Special Elements used in an OS Command vulnerability in Johnson...",
+      "summary": "CVE ID :CVE-2025-43874 Published : Nov. 13, 2026, 10:17 p.m. | 9 hours, 59 minutes ago Description :: Improper Neutralization of Special Elements used in an OS Command vulnerability in Johnson...",
       "source": "CVE Feed",
       "published": "2026-11-13T22:17:18+00:00"
     },
@@ -81,63 +109,63 @@
     {
       "title": "CVE-2026-82504 - VITEC EZ TV Platform Server Unauthenticated File Upload via UploadHandler.ashx",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-82504",
-      "summary": "CVE ID :CVE-2026-82504 Published : Nov. 13, 2026, 9:17 p.m. | 2 hours, 56 minutes ago Description :VITEC EZ TV Platform Server before 8.5.0 contains an unrestricted file upload vulnerability in the...",
+      "summary": "CVE ID :CVE-2026-82504 Published : Nov. 13, 2026, 9:17 p.m. | 10 hours, 58 minutes ago Description :VITEC EZ TV Platform Server before 8.5.0 contains an unrestricted file upload vulnerability in the...",
       "source": "CVE Feed",
       "published": "2026-11-13T21:17:48+00:00"
     },
     {
       "title": "CVE-2026-128132 - AIOHTTP: WebSocket receive queue limits bypassed by small or compressed messages",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-128132",
-      "summary": "CVE ID :CVE-2026-128132 Published : Nov. 13, 2026, 9:17 p.m. | 2 hours, 56 minutes ago Description :AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4...",
+      "summary": "CVE ID :CVE-2026-128132 Published : Nov. 13, 2026, 9:17 p.m. | 10 hours, 58 minutes ago Description :AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4...",
       "source": "CVE Feed",
       "published": "2026-11-13T21:17:45+00:00"
     },
     {
       "title": "CVE-2026-128131 - AIOHTTP: Concatenated compressed streams cause excessive CPU use",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-128131",
-      "summary": "CVE ID :CVE-2026-128131 Published : Nov. 13, 2026, 9:17 p.m. | 2 hours, 56 minutes ago Description :AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4...",
+      "summary": "CVE ID :CVE-2026-128131 Published : Nov. 13, 2026, 9:17 p.m. | 10 hours, 58 minutes ago Description :AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4...",
       "source": "CVE Feed",
       "published": "2026-11-13T21:17:45+00:00"
     },
     {
       "title": "CVE-2026-128130 - AIOHTTP: Pure-Python parser request replay and buffer growth behind a declined upgrade",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-128130",
-      "summary": "CVE ID :CVE-2026-128130 Published : Nov. 13, 2026, 9:17 p.m. | 2 hours, 56 minutes ago Description :AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4...",
+      "summary": "CVE ID :CVE-2026-128130 Published : Nov. 13, 2026, 9:17 p.m. | 10 hours, 58 minutes ago Description :AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4...",
       "source": "CVE Feed",
       "published": "2026-11-13T21:17:44+00:00"
     },
     {
       "title": "CVE-2026-128129 - AIOHTTP: Unbounded buffering of data received during an upgrade request",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-128129",
-      "summary": "CVE ID :CVE-2026-128129 Published : Nov. 13, 2026, 9:17 p.m. | 2 hours, 56 minutes ago Description :AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4...",
+      "summary": "CVE ID :CVE-2026-128129 Published : Nov. 13, 2026, 9:17 p.m. | 10 hours, 58 minutes ago Description :AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4...",
       "source": "CVE Feed",
       "published": "2026-11-13T21:17:44+00:00"
     },
     {
       "title": "CVE-2026-128127 - AIOHTTP: Base64 multipart parts bypass client_max_size",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-128127",
-      "summary": "CVE ID :CVE-2026-128127 Published : Nov. 13, 2026, 9:17 p.m. | 2 hours, 56 minutes ago Description :AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4...",
+      "summary": "CVE ID :CVE-2026-128127 Published : Nov. 13, 2026, 9:17 p.m. | 10 hours, 58 minutes ago Description :AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4...",
       "source": "CVE Feed",
       "published": "2026-11-13T21:17:44+00:00"
     },
     {
       "title": "CVE-2026-128126 - AIOHTTP: Too many URL-encoded form fields block the event loop",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-128126",
-      "summary": "CVE ID :CVE-2026-128126 Published : Nov. 13, 2026, 9:17 p.m. | 2 hours, 56 minutes ago Description :AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4...",
+      "summary": "CVE ID :CVE-2026-128126 Published : Nov. 13, 2026, 9:17 p.m. | 10 hours, 58 minutes ago Description :AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4...",
       "source": "CVE Feed",
       "published": "2026-11-13T21:17:44+00:00"
     },
     {
       "title": "CVE-2026-128124 - AIOHTTP: Event loop stall in add_domain() wildcard matching",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-128124",
-      "summary": "CVE ID :CVE-2026-128124 Published : Nov. 13, 2026, 9:17 p.m. | 2 hours, 56 minutes ago Description :AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4...",
+      "summary": "CVE ID :CVE-2026-128124 Published : Nov. 13, 2026, 9:17 p.m. | 10 hours, 58 minutes ago Description :AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4...",
       "source": "CVE Feed",
       "published": "2026-11-13T21:17:44+00:00"
     },
     {
       "title": "CVE-2025-43867 - Johnson Controls FX Series Arbitrary File Access via Vulnerable Third-Party Component",
       "link": "https://cvefeed.io/vuln/detail/CVE-2025-43867",
-      "summary": "CVE ID :CVE-2025-43867 Published : Nov. 13, 2026, 9:17 p.m. | 2 hours, 57 minutes ago Description :- Dependency on Vulnerable Third-Party Component vulnerability in Johnson Controls FX Server...",
+      "summary": "CVE ID :CVE-2025-43867 Published : Nov. 13, 2026, 9:17 p.m. | 10 hours, 58 minutes ago Description :- Dependency on Vulnerable Third-Party Component vulnerability in Johnson Controls FX Server...",
       "source": "CVE Feed",
       "published": "2026-11-13T21:17:35+00:00"
     },
@@ -151,28 +179,28 @@
     {
       "title": "CVE-2026-68905 - Hugo Blog: Unauthenticated AI Proxy Allows Abuse of Server-Side API Key",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-68905",
-      "summary": "CVE ID :CVE-2026-68905 Published : Nov. 13, 2026, 8:19 p.m. | 3 hours, 55 minutes ago Description :Hugo Blog is a tech blog site. In commit 744ca15 and prior, the AI assistant proxy exposes three...",
+      "summary": "CVE ID :CVE-2026-68905 Published : Nov. 13, 2026, 8:19 p.m. | 11 hours, 57 minutes ago Description :Hugo Blog is a tech blog site. In commit 744ca15 and prior, the AI assistant proxy exposes three...",
       "source": "CVE Feed",
       "published": "2026-11-13T20:19:00+00:00"
     },
     {
       "title": "CVE-2026-68551 - Budget Board's OIDC login links to an existing local account by email alone, with no email_verified check, enabling account takeover of pre-existing users",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-68551",
-      "summary": "CVE ID :CVE-2026-68551 Published : Nov. 13, 2026, 8:19 p.m. | 3 hours, 55 minutes ago Description :Budget Board is an app for tracking monthly spending and working towards financial goals. Prior to...",
+      "summary": "CVE ID :CVE-2026-68551 Published : Nov. 13, 2026, 8:19 p.m. | 11 hours, 57 minutes ago Description :Budget Board is an app for tracking monthly spending and working towards financial goals. Prior to...",
       "source": "CVE Feed",
       "published": "2026-11-13T20:19:00+00:00"
     },
     {
       "title": "CVE-2026-127215 - Kanbanz WordPress Plugin < 1.0.3 Broken Access Control via admin-ajax Handlers",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-127215",
-      "summary": "CVE ID :CVE-2026-127215 Published : Nov. 13, 2026, 8:18 p.m. | 3 hours, 55 minutes ago Description :Kanbanz by Softaculous plugin for WordPress before 1.0.3 contains a broken access control...",
+      "summary": "CVE ID :CVE-2026-127215 Published : Nov. 13, 2026, 8:18 p.m. | 11 hours, 57 minutes ago Description :Kanbanz by Softaculous plugin for WordPress before 1.0.3 contains a broken access control...",
       "source": "CVE Feed",
       "published": "2026-11-13T20:18:55+00:00"
     },
     {
       "title": "CVE-2026-127214 - Flowise 3.1.4 SSRF Bypass via Custom Function Sandbox",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-127214",
-      "summary": "CVE ID :CVE-2026-127214 Published : Nov. 13, 2026, 8:18 p.m. | 3 hours, 55 minutes ago Description :Flowise through 3.1.4 contains a server-side request forgery vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-127214 Published : Nov. 13, 2026, 8:18 p.m. | 11 hours, 57 minutes ago Description :Flowise through 3.1.4 contains a server-side request forgery vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-11-13T20:18:55+00:00"
     },
@@ -193,23 +221,9 @@
     {
       "title": "CVE-2026-82414 - BACnet Stack: MS/TP COBS decode overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-82414",
-      "summary": "CVE ID :CVE-2026-82414 Published : Nov. 13, 2026, 7:19 p.m. | 4 hours, 55 minutes ago Description :BACnet Stack is a BACnet open source protocol stack C library for embedded systems. From versions...",
+      "summary": "CVE ID :CVE-2026-82414 Published : Nov. 13, 2026, 7:19 p.m. | 12 hours, 56 minutes ago Description :BACnet Stack is a BACnet open source protocol stack C library for embedded systems. From versions...",
       "source": "CVE Feed",
       "published": "2026-11-13T19:19:36+00:00"
-    },
-    {
-      "title": "CVE-2026-62976 - BACnet Stack: Consecutive AtomicWriteFile(record-access) appends can trigger a heap out-of-bounds read in the RAMFS file backend",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-62976",
-      "summary": "CVE ID :CVE-2026-62976 Published : Nov. 13, 2026, 7:19 p.m. | 4 hours, 55 minutes ago Description :BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to version...",
-      "source": "CVE Feed",
-      "published": "2026-11-13T19:19:33+00:00"
-    },
-    {
-      "title": "CVE-2026-104204 - BACnet Stack: Structured View subordinate-list[0] WriteProperty allows unbounded synchronous resize and remote unauthenticated DoS",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-104204",
-      "summary": "CVE ID :CVE-2026-104204 Published : Nov. 13, 2026, 7:17 p.m. | 4 hours, 57 minutes ago Description :BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to...",
-      "source": "CVE Feed",
-      "published": "2026-11-13T19:17:37+00:00"
     },
     {
       "title": "NYC to bar surveillance pricing as momentum for bans grows nationwide",
@@ -704,8 +718,8 @@
     {
       "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
       "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
-      "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs.",
-      "source": "Dark Reading",
+      "summary": "Attackers Say 'Hello' to a Different Scale of Cloud Attack 5 Min ReadSource: BanarTABS via Getty images What began as an exploratory Shodan search for exposed cloud instances has led to the discovery...",
+      "source": "CVE Newsroom",
       "published": "2026-11-11T21:44:04+00:00"
     },
     {
@@ -725,8 +739,8 @@
     {
       "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
       "link": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
-      "summary": "The RMM provider also released a hotfix as a recommended mitigation to address public exploits for the alleged zero-days, which allow for attacker takeover.",
-      "source": "Dark Reading",
+      "summary": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws Source: Panther Media via Alamy Stock PhotoN-able is navigating a hectic crisis-management situation after the discovery of more...",
+      "source": "CVE Newsroom",
       "published": "2026-11-11T20:05:18+00:00"
     },
     {
@@ -1386,20 +1400,6 @@
       "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000...",
       "source": "Krebs on Security",
       "published": "2026-10-13T23:24:53+00:00"
-    },
-    {
-      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that...",
-      "source": "Krebs on Security",
-      "published": "2026-10-10T00:17:42+00:00"
-    },
-    {
-      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of...",
-      "source": "Krebs on Security",
-      "published": "2026-10-07T13:48:45+00:00"
     }
   ]
 }
