@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-11-15T16:42:35.099580+00:00",
+  "last_updated": "2026-11-15T22:17:51.044040+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-129091 - WordPress GrandPrix Core plugin <= 1.0 - Local File Inclusion vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129091",
+      "summary": "CVE ID :CVE-2026-129091 Published : Nov. 15, 2026, 7:17 p.m. | 2 hours, 57 minutes ago Description :Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T19:17:16+00:00"
+    },
+    {
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise...",
+      "source": "BleepingComputer",
+      "published": "2026-11-15T18:29:53+00:00"
+    },
     {
       "title": "TSMC employee data breach linked to cloud provider",
       "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
@@ -11,63 +25,63 @@
     {
       "title": "CVE-2026-125795 - WordPress Estatik plugin <= 4.3.6 - Local File Inclusion vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-125795",
-      "summary": "CVE ID :CVE-2026-125795 Published : Nov. 15, 2026, 3:16 p.m. | 1 hour, 6 minutes ago Description :Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File...",
+      "summary": "CVE ID :CVE-2026-125795 Published : Nov. 15, 2026, 3:16 p.m. | 6 hours, 58 minutes ago Description :Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File...",
       "source": "CVE Feed",
       "published": "2026-11-15T15:16:47+00:00"
     },
     {
       "title": "CVE-2026-129483 - Cyrus SASL through 2.1.28 SRP Authentication Bypass via plugins/srp.c",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129483",
-      "summary": "CVE ID :CVE-2026-129483 Published : Nov. 15, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Cyrus SASL through 2.1.28 contains an authentication bypass vulnerability in the SRP server...",
+      "summary": "CVE ID :CVE-2026-129483 Published : Nov. 15, 2026, 2:17 p.m. | 7 hours, 57 minutes ago Description :Cyrus SASL through 2.1.28 contains an authentication bypass vulnerability in the SRP server...",
       "source": "CVE Feed",
       "published": "2026-11-15T14:17:27+00:00"
     },
     {
       "title": "CVE-2026-129453 - DrayTek Vigor2960 File Existence Check mainfunction.cgi check_file_exist heap-based overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129453",
-      "summary": "CVE ID :CVE-2026-129453 Published : Nov. 15, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :A vulnerability was found in DrayTek Vigor2960 1.5.1.6. This issue affects the function...",
+      "summary": "CVE ID :CVE-2026-129453 Published : Nov. 15, 2026, 2:17 p.m. | 7 hours, 57 minutes ago Description :A vulnerability was found in DrayTek Vigor2960 1.5.1.6. This issue affects the function...",
       "source": "CVE Feed",
       "published": "2026-11-15T14:17:26+00:00"
     },
     {
       "title": "CVE-2026-125832 - WordPress WP Data Access plugin <= 5.5.92 - SQL Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-125832",
-      "summary": "CVE ID :CVE-2026-125832 Published : Nov. 15, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability...",
+      "summary": "CVE ID :CVE-2026-125832 Published : Nov. 15, 2026, 2:17 p.m. | 7 hours, 57 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability...",
       "source": "CVE Feed",
       "published": "2026-11-15T14:17:26+00:00"
     },
     {
       "title": "CVE-2026-125769 - WordPress Advanced Form Integration plugin <= 2.11.3 - Privilege Escalation vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-125769",
-      "summary": "CVE ID :CVE-2026-125769 Published : Nov. 15, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Incorrect Privilege Assignment vulnerability in Nasir Ahmed Advanced Form Integration...",
+      "summary": "CVE ID :CVE-2026-125769 Published : Nov. 15, 2026, 2:17 p.m. | 7 hours, 57 minutes ago Description :Incorrect Privilege Assignment vulnerability in Nasir Ahmed Advanced Form Integration...",
       "source": "CVE Feed",
       "published": "2026-11-15T14:17:24+00:00"
     },
     {
       "title": "CVE-2026-125449 - WordPress Testimonial Slider plugin <= 3.0.2 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-125449",
-      "summary": "CVE ID :CVE-2026-125449 Published : Nov. 15, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Deserialization of Untrusted Data vulnerability in Mamunur Rashid Testimonial Slider...",
+      "summary": "CVE ID :CVE-2026-125449 Published : Nov. 15, 2026, 2:17 p.m. | 7 hours, 57 minutes ago Description :Deserialization of Untrusted Data vulnerability in Mamunur Rashid Testimonial Slider...",
       "source": "CVE Feed",
       "published": "2026-11-15T14:17:24+00:00"
     },
     {
       "title": "CVE-2026-122662 - WordPress Document Library Pro plugin < 4.2.2 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-122662",
-      "summary": "CVE ID :CVE-2026-122662 Published : Nov. 15, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Deserialization of Untrusted Data vulnerability in Barn2 Plugins Document Library Pro...",
+      "summary": "CVE ID :CVE-2026-122662 Published : Nov. 15, 2026, 2:17 p.m. | 7 hours, 57 minutes ago Description :Deserialization of Untrusted Data vulnerability in Barn2 Plugins Document Library Pro...",
       "source": "CVE Feed",
       "published": "2026-11-15T14:17:20+00:00"
     },
     {
       "title": "CVE-2026-129452 - DrayTek Vigor2960 mainfunction.cgi set_table command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129452",
-      "summary": "CVE ID :CVE-2026-129452 Published : Nov. 15, 2026, 1:16 p.m. | 3 hours, 6 minutes ago Description :A vulnerability has been found in DrayTek Vigor2960 1.5.1.6. This vulnerability affects the function...",
+      "summary": "CVE ID :CVE-2026-129452 Published : Nov. 15, 2026, 1:16 p.m. | 8 hours, 58 minutes ago Description :A vulnerability has been found in DrayTek Vigor2960 1.5.1.6. This vulnerability affects the...",
       "source": "CVE Feed",
       "published": "2026-11-15T13:16:59+00:00"
     },
     {
       "title": "CVE-2026-129451 - DrayTek Vigor2960 mainfunction.cgi app_guest_export path traversal",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129451",
-      "summary": "CVE ID :CVE-2026-129451 Published : Nov. 15, 2026, 1:16 p.m. | 3 hours, 6 minutes ago Description :A flaw has been found in DrayTek Vigor2960 up to 1.5.1.6. This affects the function app_guest_export...",
+      "summary": "CVE ID :CVE-2026-129451 Published : Nov. 15, 2026, 1:16 p.m. | 8 hours, 58 minutes ago Description :A flaw has been found in DrayTek Vigor2960 up to 1.5.1.6. This affects the function...",
       "source": "CVE Feed",
       "published": "2026-11-15T13:16:58+00:00"
     },
@@ -81,7 +95,7 @@
     {
       "title": "CVE-2026-129450 - DrayTek Vigor2960 mainfunction.cgi sub_1E084 path traversal",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129450",
-      "summary": "CVE ID :CVE-2026-129450 Published : Nov. 15, 2026, 12:17 p.m. | 4 hours, 5 minutes ago Description :A vulnerability was detected in DrayTek Vigor2960 1.5.1.6. Affected by this issue is the function...",
+      "summary": "CVE ID :CVE-2026-129450 Published : Nov. 15, 2026, 12:17 p.m. | 9 hours, 57 minutes ago Description :A vulnerability was detected in DrayTek Vigor2960 1.5.1.6. Affected by this issue is the function...",
       "source": "CVE Feed",
       "published": "2026-11-15T12:17:20+00:00"
     },
@@ -102,28 +116,28 @@
     {
       "title": "CVE-2026-129449 - DrayTek Vigor2960 mainfunction.cgi sub_14914 command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129449",
-      "summary": "CVE ID :CVE-2026-129449 Published : Nov. 15, 2026, 11:17 a.m. | 5 hours, 5 minutes ago Description :A security vulnerability has been detected in DrayTek Vigor2960 up to 1.5.1.6. Affected by this...",
+      "summary": "CVE ID :CVE-2026-129449 Published : Nov. 15, 2026, 11:17 a.m. | 10 hours, 57 minutes ago Description :A security vulnerability has been detected in DrayTek Vigor2960 up to 1.5.1.6. Affected by this...",
       "source": "CVE Feed",
       "published": "2026-11-15T11:17:10+00:00"
     },
     {
       "title": "CVE-2026-129445 - D-Link DIR-850L Console Login consolepwd hard-coded credentials",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129445",
-      "summary": "CVE ID :CVE-2026-129445 Published : Nov. 15, 2026, 10:16 a.m. | 6 hours, 6 minutes ago Description :A security flaw has been discovered in D-Link DIR-850L FW1.20WWb03. This impacts an unknown...",
+      "summary": "CVE ID :CVE-2026-129445 Published : Nov. 15, 2026, 10:16 a.m. | 11 hours, 58 minutes ago Description :A security flaw has been discovered in D-Link DIR-850L FW1.20WWb03. This impacts an unknown...",
       "source": "CVE Feed",
       "published": "2026-11-15T10:16:53+00:00"
     },
     {
       "title": "CVE-2026-129349 - Apache Shiro: DefaultLdapRealm accepts any password when authentication caching is enabled",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129349",
-      "summary": "CVE ID :CVE-2026-129349 Published : Nov. 15, 2026, 10:16 a.m. | 6 hours, 6 minutes ago Description :When authentication caching is enabled on DefaultLdapRealm, after a user logs in successfully once...",
+      "summary": "CVE ID :CVE-2026-129349 Published : Nov. 15, 2026, 10:16 a.m. | 11 hours, 58 minutes ago Description :When authentication caching is enabled on DefaultLdapRealm, after a user logs in successfully...",
       "source": "CVE Feed",
       "published": "2026-11-15T10:16:53+00:00"
     },
     {
       "title": "CVE-2026-129444 - D-Link DSL-6740C FTP Daemon ftpd_conf.php hard-coded credentials",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129444",
-      "summary": "CVE ID :CVE-2026-129444 Published : Nov. 15, 2026, 9:16 a.m. | 7 hours, 6 minutes ago Description :A vulnerability was identified in D-Link DSL-6740C 20131126. This affects an unknown function of the...",
+      "summary": "CVE ID :CVE-2026-129444 Published : Nov. 15, 2026, 9:16 a.m. | 12 hours, 58 minutes ago Description :A vulnerability was identified in D-Link DSL-6740C 20131126. This affects an unknown function of...",
       "source": "CVE Feed",
       "published": "2026-11-15T09:16:44+00:00"
     },
@@ -137,42 +151,42 @@
     {
       "title": "CVE-2026-129465 - Zr.Admin.NET commit af07ffc through eb9228a IDOR via /system/user/profile",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129465",
-      "summary": "CVE ID :CVE-2026-129465 Published : Nov. 15, 2026, 2:17 a.m. | 14 hours, 5 minutes ago Description :Zr.Admin.NET commit af07ffc through commit eb9228a contains an insecure direct object reference...",
+      "summary": "CVE ID :CVE-2026-129465 Published : Nov. 15, 2026, 2:17 a.m. | 19 hours, 57 minutes ago Description :Zr.Admin.NET commit af07ffc through commit eb9228a contains an insecure direct object reference...",
       "source": "CVE Feed",
       "published": "2026-11-15T02:17:21+00:00"
     },
     {
       "title": "CVE-2026-129464 - Zr.Admin.NET commit 0ee1ab8 through eb9228a Path Traversal via DownloadFile",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129464",
-      "summary": "CVE ID :CVE-2026-129464 Published : Nov. 15, 2026, 2:17 a.m. | 14 hours, 5 minutes ago Description :Zr.Admin.NET commit 0ee1ab8 through commit eb9228a contains a path traversal vulnerability that...",
+      "summary": "CVE ID :CVE-2026-129464 Published : Nov. 15, 2026, 2:17 a.m. | 19 hours, 57 minutes ago Description :Zr.Admin.NET commit 0ee1ab8 through commit eb9228a contains a path traversal vulnerability that...",
       "source": "CVE Feed",
       "published": "2026-11-15T02:17:21+00:00"
     },
     {
       "title": "CVE-2026-129354 - D-Link DIR-600L HNAP cgibin hnap_main stack-based overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129354",
-      "summary": "CVE ID :CVE-2026-129354 Published : Nov. 15, 2026, 1:18 a.m. | 15 hours, 5 minutes ago Description :A flaw has been found in D-Link DIR-600L 2.17b02. Affected by this issue is the function hnap_main...",
+      "summary": "CVE ID :CVE-2026-129354 Published : Nov. 15, 2026, 1:18 a.m. | 20 hours, 57 minutes ago Description :A flaw has been found in D-Link DIR-600L 2.17b02. Affected by this issue is the function hnap_main...",
       "source": "CVE Feed",
       "published": "2026-11-15T01:18:03+00:00"
     },
     {
       "title": "CVE-2026-129353 - D-Link DIR-600L authentication.cgi authenticationcgi_main stack-based overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129353",
-      "summary": "CVE ID :CVE-2026-129353 Published : Nov. 15, 2026, 12:16 a.m. | 16 hours, 6 minutes ago Description :A vulnerability was detected in D-Link DIR-600L 2.17/2.17b02. Affected by this vulnerability is...",
+      "summary": "CVE ID :CVE-2026-129353 Published : Nov. 15, 2026, 12:16 a.m. | 21 hours, 58 minutes ago Description :A vulnerability was detected in D-Link DIR-600L 2.17/2.17b02. Affected by this vulnerability is...",
       "source": "CVE Feed",
       "published": "2026-11-15T00:16:51+00:00"
     },
     {
       "title": "CVE-2026-129352 - TRENDnet TEW-657BRM upgrade_flash.cgi stack-based overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129352",
-      "summary": "CVE ID :CVE-2026-129352 Published : Nov. 14, 2026, 11:16 p.m. | 17 hours, 6 minutes ago Description :A vulnerability was detected in TRENDnet TEW-657BRM 1.00.1. This issue affects some unknown...",
+      "summary": "CVE ID :CVE-2026-129352 Published : Nov. 14, 2026, 11:16 p.m. | 22 hours, 58 minutes ago Description :A vulnerability was detected in TRENDnet TEW-657BRM 1.00.1. This issue affects some unknown...",
       "source": "CVE Feed",
       "published": "2026-11-14T23:16:48+00:00"
     },
     {
       "title": "CVE-2026-129351 - TRENDnet TEW-657BRM mini_httpd setup.cgi sprintf out-of-bounds write",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129351",
-      "summary": "CVE ID :CVE-2026-129351 Published : Nov. 14, 2026, 11:16 p.m. | 17 hours, 6 minutes ago Description :A security vulnerability has been detected in TRENDnet TEW-657BRM 1.00.1. This vulnerability...",
+      "summary": "CVE ID :CVE-2026-129351 Published : Nov. 14, 2026, 11:16 p.m. | 22 hours, 58 minutes ago Description :A security vulnerability has been detected in TRENDnet TEW-657BRM 1.00.1. This vulnerability...",
       "source": "CVE Feed",
       "published": "2026-11-14T23:16:47+00:00"
     },
@@ -193,14 +207,14 @@
     {
       "title": "CVE-2026-129261 - Kingston FURY CTRL RGB Control Software IOCTL NTIOLib_X64.sys exposed ioctl with insufficient access control",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129261",
-      "summary": "CVE ID :CVE-2026-129261 Published : Nov. 14, 2026, 4:17 p.m. | 1 day ago Description :A vulnerability was found in Kingston FURY CTRL RGB Control Software up to 2.0.66.0. The impacted element is an...",
+      "summary": "CVE ID :CVE-2026-129261 Published : Nov. 14, 2026, 4:17 p.m. | 1 day, 5 hours ago Description :A vulnerability was found in Kingston FURY CTRL RGB Control Software up to 2.0.66.0. The impacted...",
       "source": "CVE Feed",
       "published": "2026-11-14T16:17:04+00:00"
     },
     {
       "title": "CVE-2026-129258 - Tenda AC18 Firmware Upgrade upgrade data authenticity",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129258",
-      "summary": "CVE ID :CVE-2026-129258 Published : Nov. 14, 2026, 3:16 p.m. | 1 day, 1 hour ago Description :A vulnerability was identified in Tenda AC18 15.03.05.05_multi/15.03.05.19 Build 6318. Affected by this...",
+      "summary": "CVE ID :CVE-2026-129258 Published : Nov. 14, 2026, 3:16 p.m. | 1 day, 6 hours ago Description :A vulnerability was identified in Tenda AC18 15.03.05.05_multi/15.03.05.19 Build 6318. Affected by this...",
       "source": "CVE Feed",
       "published": "2026-11-14T15:16:58+00:00"
     },
@@ -221,21 +235,14 @@
     {
       "title": "CVE-2026-19907 - Shipo 1.6 - 1.8.0 - Authentication Bypass to Administrator",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-19907",
-      "summary": "CVE ID :CVE-2026-19907 Published : Nov. 14, 2026, 1:17 p.m. | 1 day, 3 hours ago Description :The Shipo plugin for WordPress is vulnerable to Authentication Bypass in versions 1.6 through 1.8.0. This...",
+      "summary": "CVE ID :CVE-2026-19907 Published : Nov. 14, 2026, 1:17 p.m. | 1 day, 8 hours ago Description :The Shipo plugin for WordPress is vulnerable to Authentication Bypass in versions 1.6 through 1.8.0. This...",
       "source": "CVE Feed",
       "published": "2026-11-14T13:17:23+00:00"
     },
     {
       "title": "CVE-2026-18053 - MemberDash <= 1.8.7 - Authenticated (Subscriber+) Privilege Escalation to Administrator via Edit Profile 'id' Parameter",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-18053",
-      "summary": "CVE ID :CVE-2026-18053 Published : Nov. 14, 2026, 1:17 p.m. | 1 day, 3 hours ago Description :The MemberDash plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and...",
-      "source": "CVE Feed",
-      "published": "2026-11-14T13:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-129433 - Dokploy before 0.31.1 OS Command Injection via Compose Backup serviceName",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129433",
-      "summary": "CVE ID :CVE-2026-129433 Published : Nov. 14, 2026, 1:17 p.m. | 1 day, 3 hours ago Description :Dokploy before 0.31.1 contains an OS command injection vulnerability in getComposeContainerCommand()...",
+      "summary": "CVE ID :CVE-2026-18053 Published : Nov. 14, 2026, 1:17 p.m. | 1 day, 8 hours ago Description :The MemberDash plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and...",
       "source": "CVE Feed",
       "published": "2026-11-14T13:17:22+00:00"
     },
@@ -539,13 +546,6 @@
       "summary": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
       "source": "Dark Reading",
       "published": "2026-11-12T20:09:41+00:00"
-    },
-    {
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting...",
-      "source": "BleepingComputer",
-      "published": "2026-11-12T19:51:16+00:00"
     },
     {
       "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
