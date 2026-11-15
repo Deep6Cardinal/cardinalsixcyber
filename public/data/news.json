@@ -1,47 +1,187 @@
 {
-  "last_updated": "2026-11-15T08:38:43.551533+00:00",
+  "last_updated": "2026-11-15T16:42:35.099580+00:00",
   "articles": [
+    {
+      "title": "TSMC employee data breach linked to cloud provider",
+      "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for...",
+      "source": "BleepingComputer",
+      "published": "2026-11-15T15:23:48+00:00"
+    },
+    {
+      "title": "CVE-2026-125795 - WordPress Estatik plugin <= 4.3.6 - Local File Inclusion vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125795",
+      "summary": "CVE ID :CVE-2026-125795 Published : Nov. 15, 2026, 3:16 p.m. | 1 hour, 6 minutes ago Description :Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T15:16:47+00:00"
+    },
+    {
+      "title": "CVE-2026-129483 - Cyrus SASL through 2.1.28 SRP Authentication Bypass via plugins/srp.c",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129483",
+      "summary": "CVE ID :CVE-2026-129483 Published : Nov. 15, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Cyrus SASL through 2.1.28 contains an authentication bypass vulnerability in the SRP server...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T14:17:27+00:00"
+    },
+    {
+      "title": "CVE-2026-129453 - DrayTek Vigor2960 File Existence Check mainfunction.cgi check_file_exist heap-based overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129453",
+      "summary": "CVE ID :CVE-2026-129453 Published : Nov. 15, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :A vulnerability was found in DrayTek Vigor2960 1.5.1.6. This issue affects the function...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T14:17:26+00:00"
+    },
+    {
+      "title": "CVE-2026-125832 - WordPress WP Data Access plugin <= 5.5.92 - SQL Injection vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125832",
+      "summary": "CVE ID :CVE-2026-125832 Published : Nov. 15, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T14:17:26+00:00"
+    },
+    {
+      "title": "CVE-2026-125769 - WordPress Advanced Form Integration plugin <= 2.11.3 - Privilege Escalation vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125769",
+      "summary": "CVE ID :CVE-2026-125769 Published : Nov. 15, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Incorrect Privilege Assignment vulnerability in Nasir Ahmed Advanced Form Integration...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T14:17:24+00:00"
+    },
+    {
+      "title": "CVE-2026-125449 - WordPress Testimonial Slider plugin <= 3.0.2 - PHP Object Injection vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125449",
+      "summary": "CVE ID :CVE-2026-125449 Published : Nov. 15, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Deserialization of Untrusted Data vulnerability in Mamunur Rashid Testimonial Slider...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T14:17:24+00:00"
+    },
+    {
+      "title": "CVE-2026-122662 - WordPress Document Library Pro plugin < 4.2.2 - PHP Object Injection vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122662",
+      "summary": "CVE ID :CVE-2026-122662 Published : Nov. 15, 2026, 2:17 p.m. | 2 hours, 5 minutes ago Description :Deserialization of Untrusted Data vulnerability in Barn2 Plugins Document Library Pro...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T14:17:20+00:00"
+    },
+    {
+      "title": "CVE-2026-129452 - DrayTek Vigor2960 mainfunction.cgi set_table command injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129452",
+      "summary": "CVE ID :CVE-2026-129452 Published : Nov. 15, 2026, 1:16 p.m. | 3 hours, 6 minutes ago Description :A vulnerability has been found in DrayTek Vigor2960 1.5.1.6. This vulnerability affects the function...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T13:16:59+00:00"
+    },
+    {
+      "title": "CVE-2026-129451 - DrayTek Vigor2960 mainfunction.cgi app_guest_export path traversal",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129451",
+      "summary": "CVE ID :CVE-2026-129451 Published : Nov. 15, 2026, 1:16 p.m. | 3 hours, 6 minutes ago Description :A flaw has been found in DrayTek Vigor2960 up to 1.5.1.6. This affects the function app_guest_export...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T13:16:58+00:00"
+    },
+    {
+      "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+      "link": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+      "summary": "The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post Pentagon Renames CDAO ‘Super Intelligence Office’...",
+      "source": "SecurityWeek",
+      "published": "2026-11-15T12:51:33+00:00"
+    },
+    {
+      "title": "CVE-2026-129450 - DrayTek Vigor2960 mainfunction.cgi sub_1E084 path traversal",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129450",
+      "summary": "CVE ID :CVE-2026-129450 Published : Nov. 15, 2026, 12:17 p.m. | 4 hours, 5 minutes ago Description :A vulnerability was detected in DrayTek Vigor2960 1.5.1.6. Affected by this issue is the function...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T12:17:20+00:00"
+    },
+    {
+      "title": "PostgreSQL fixes a 22-Year-Old Security Flaw",
+      "link": "https://thecyberthrone.in/2026/11/15/postgresql-fixes-a-22-year-old-security-flaw/",
+      "summary": "PostgreSQL fixes a 22-Year-Old Security Flaw PostgreSQL released its November 12, 2026 security updates, addressing 52 security vulnerabilities and more than 140 bugs across supported...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-15T12:08:49+00:00"
+    },
+    {
+      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+      "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection...",
+      "source": "The Hacker News",
+      "published": "2026-11-15T11:27:31+00:00"
+    },
+    {
+      "title": "CVE-2026-129449 - DrayTek Vigor2960 mainfunction.cgi sub_14914 command injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129449",
+      "summary": "CVE ID :CVE-2026-129449 Published : Nov. 15, 2026, 11:17 a.m. | 5 hours, 5 minutes ago Description :A security vulnerability has been detected in DrayTek Vigor2960 up to 1.5.1.6. Affected by this...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T11:17:10+00:00"
+    },
+    {
+      "title": "CVE-2026-129445 - D-Link DIR-850L Console Login consolepwd hard-coded credentials",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129445",
+      "summary": "CVE ID :CVE-2026-129445 Published : Nov. 15, 2026, 10:16 a.m. | 6 hours, 6 minutes ago Description :A security flaw has been discovered in D-Link DIR-850L FW1.20WWb03. This impacts an unknown...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T10:16:53+00:00"
+    },
+    {
+      "title": "CVE-2026-129349 - Apache Shiro: DefaultLdapRealm accepts any password when authentication caching is enabled",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129349",
+      "summary": "CVE ID :CVE-2026-129349 Published : Nov. 15, 2026, 10:16 a.m. | 6 hours, 6 minutes ago Description :When authentication caching is enabled on DefaultLdapRealm, after a user logs in successfully once...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T10:16:53+00:00"
+    },
+    {
+      "title": "CVE-2026-129444 - D-Link DSL-6740C FTP Daemon ftpd_conf.php hard-coded credentials",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129444",
+      "summary": "CVE ID :CVE-2026-129444 Published : Nov. 15, 2026, 9:16 a.m. | 7 hours, 6 minutes ago Description :A vulnerability was identified in D-Link DSL-6740C 20131126. This affects an unknown function of the...",
+      "source": "CVE Feed",
+      "published": "2026-11-15T09:16:44+00:00"
+    },
+    {
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting...",
+      "source": "The Hacker News",
+      "published": "2026-11-15T08:22:04+00:00"
+    },
     {
       "title": "CVE-2026-129465 - Zr.Admin.NET commit af07ffc through eb9228a IDOR via /system/user/profile",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129465",
-      "summary": "CVE ID :CVE-2026-129465 Published : Nov. 15, 2026, 2:17 a.m. | 6 hours, 5 minutes ago Description :Zr.Admin.NET commit af07ffc through commit eb9228a contains an insecure direct object reference...",
+      "summary": "CVE ID :CVE-2026-129465 Published : Nov. 15, 2026, 2:17 a.m. | 14 hours, 5 minutes ago Description :Zr.Admin.NET commit af07ffc through commit eb9228a contains an insecure direct object reference...",
       "source": "CVE Feed",
       "published": "2026-11-15T02:17:21+00:00"
     },
     {
       "title": "CVE-2026-129464 - Zr.Admin.NET commit 0ee1ab8 through eb9228a Path Traversal via DownloadFile",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129464",
-      "summary": "CVE ID :CVE-2026-129464 Published : Nov. 15, 2026, 2:17 a.m. | 6 hours, 5 minutes ago Description :Zr.Admin.NET commit 0ee1ab8 through commit eb9228a contains a path traversal vulnerability that...",
+      "summary": "CVE ID :CVE-2026-129464 Published : Nov. 15, 2026, 2:17 a.m. | 14 hours, 5 minutes ago Description :Zr.Admin.NET commit 0ee1ab8 through commit eb9228a contains a path traversal vulnerability that...",
       "source": "CVE Feed",
       "published": "2026-11-15T02:17:21+00:00"
     },
     {
       "title": "CVE-2026-129354 - D-Link DIR-600L HNAP cgibin hnap_main stack-based overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129354",
-      "summary": "CVE ID :CVE-2026-129354 Published : Nov. 15, 2026, 1:18 a.m. | 7 hours, 4 minutes ago Description :A flaw has been found in D-Link DIR-600L 2.17b02. Affected by this issue is the function hnap_main...",
+      "summary": "CVE ID :CVE-2026-129354 Published : Nov. 15, 2026, 1:18 a.m. | 15 hours, 5 minutes ago Description :A flaw has been found in D-Link DIR-600L 2.17b02. Affected by this issue is the function hnap_main...",
       "source": "CVE Feed",
       "published": "2026-11-15T01:18:03+00:00"
     },
     {
       "title": "CVE-2026-129353 - D-Link DIR-600L authentication.cgi authenticationcgi_main stack-based overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129353",
-      "summary": "CVE ID :CVE-2026-129353 Published : Nov. 15, 2026, 12:16 a.m. | 8 hours, 5 minutes ago Description :A vulnerability was detected in D-Link DIR-600L 2.17/2.17b02. Affected by this vulnerability is the...",
+      "summary": "CVE ID :CVE-2026-129353 Published : Nov. 15, 2026, 12:16 a.m. | 16 hours, 6 minutes ago Description :A vulnerability was detected in D-Link DIR-600L 2.17/2.17b02. Affected by this vulnerability is...",
       "source": "CVE Feed",
       "published": "2026-11-15T00:16:51+00:00"
     },
     {
       "title": "CVE-2026-129352 - TRENDnet TEW-657BRM upgrade_flash.cgi stack-based overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129352",
-      "summary": "CVE ID :CVE-2026-129352 Published : Nov. 14, 2026, 11:16 p.m. | 9 hours, 5 minutes ago Description :A vulnerability was detected in TRENDnet TEW-657BRM 1.00.1. This issue affects some unknown...",
+      "summary": "CVE ID :CVE-2026-129352 Published : Nov. 14, 2026, 11:16 p.m. | 17 hours, 6 minutes ago Description :A vulnerability was detected in TRENDnet TEW-657BRM 1.00.1. This issue affects some unknown...",
       "source": "CVE Feed",
       "published": "2026-11-14T23:16:48+00:00"
     },
     {
       "title": "CVE-2026-129351 - TRENDnet TEW-657BRM mini_httpd setup.cgi sprintf out-of-bounds write",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129351",
-      "summary": "CVE ID :CVE-2026-129351 Published : Nov. 14, 2026, 11:16 p.m. | 9 hours, 5 minutes ago Description :A security vulnerability has been detected in TRENDnet TEW-657BRM 1.00.1. This vulnerability...",
+      "summary": "CVE ID :CVE-2026-129351 Published : Nov. 14, 2026, 11:16 p.m. | 17 hours, 6 minutes ago Description :A security vulnerability has been detected in TRENDnet TEW-657BRM 1.00.1. This vulnerability...",
       "source": "CVE Feed",
       "published": "2026-11-14T23:16:47+00:00"
+    },
+    {
+      "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
+      "link": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
+      "summary": "The directive protects smartphones as part of a person’s private sphere and requires “free and informed consent” for such access, the authority said. The post Meta Fined $887 Million in Italy Over...",
+      "source": "SecurityWeek",
+      "published": "2026-11-14T19:00:00+00:00"
     },
     {
       "title": "Cursor confirms security breach led to malicious Claude Code extension",
@@ -53,14 +193,14 @@
     {
       "title": "CVE-2026-129261 - Kingston FURY CTRL RGB Control Software IOCTL NTIOLib_X64.sys exposed ioctl with insufficient access control",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129261",
-      "summary": "CVE ID :CVE-2026-129261 Published : Nov. 14, 2026, 4:17 p.m. | 16 hours, 5 minutes ago Description :A vulnerability was found in Kingston FURY CTRL RGB Control Software up to 2.0.66.0. The impacted...",
+      "summary": "CVE ID :CVE-2026-129261 Published : Nov. 14, 2026, 4:17 p.m. | 1 day ago Description :A vulnerability was found in Kingston FURY CTRL RGB Control Software up to 2.0.66.0. The impacted element is an...",
       "source": "CVE Feed",
       "published": "2026-11-14T16:17:04+00:00"
     },
     {
       "title": "CVE-2026-129258 - Tenda AC18 Firmware Upgrade upgrade data authenticity",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129258",
-      "summary": "CVE ID :CVE-2026-129258 Published : Nov. 14, 2026, 3:16 p.m. | 17 hours, 5 minutes ago Description :A vulnerability was identified in Tenda AC18 15.03.05.05_multi/15.03.05.19 Build 6318. Affected by...",
+      "summary": "CVE ID :CVE-2026-129258 Published : Nov. 14, 2026, 3:16 p.m. | 1 day, 1 hour ago Description :A vulnerability was identified in Tenda AC18 15.03.05.05_multi/15.03.05.19 Build 6318. Affected by this...",
       "source": "CVE Feed",
       "published": "2026-11-14T15:16:58+00:00"
     },
@@ -81,58 +221,30 @@
     {
       "title": "CVE-2026-19907 - Shipo 1.6 - 1.8.0 - Authentication Bypass to Administrator",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-19907",
-      "summary": "CVE ID :CVE-2026-19907 Published : Nov. 14, 2026, 1:17 p.m. | 19 hours, 5 minutes ago Description :The Shipo plugin for WordPress is vulnerable to Authentication Bypass in versions 1.6 through 1.8.0...",
+      "summary": "CVE ID :CVE-2026-19907 Published : Nov. 14, 2026, 1:17 p.m. | 1 day, 3 hours ago Description :The Shipo plugin for WordPress is vulnerable to Authentication Bypass in versions 1.6 through 1.8.0. This...",
       "source": "CVE Feed",
       "published": "2026-11-14T13:17:23+00:00"
     },
     {
       "title": "CVE-2026-18053 - MemberDash <= 1.8.7 - Authenticated (Subscriber+) Privilege Escalation to Administrator via Edit Profile 'id' Parameter",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-18053",
-      "summary": "CVE ID :CVE-2026-18053 Published : Nov. 14, 2026, 1:17 p.m. | 19 hours, 5 minutes ago Description :The MemberDash plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and...",
+      "summary": "CVE ID :CVE-2026-18053 Published : Nov. 14, 2026, 1:17 p.m. | 1 day, 3 hours ago Description :The MemberDash plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and...",
       "source": "CVE Feed",
       "published": "2026-11-14T13:17:22+00:00"
     },
     {
       "title": "CVE-2026-129433 - Dokploy before 0.31.1 OS Command Injection via Compose Backup serviceName",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129433",
-      "summary": "CVE ID :CVE-2026-129433 Published : Nov. 14, 2026, 1:17 p.m. | 19 hours, 5 minutes ago Description :Dokploy before 0.31.1 contains an OS command injection vulnerability in...",
+      "summary": "CVE ID :CVE-2026-129433 Published : Nov. 14, 2026, 1:17 p.m. | 1 day, 3 hours ago Description :Dokploy before 0.31.1 contains an OS command injection vulnerability in getComposeContainerCommand()...",
       "source": "CVE Feed",
       "published": "2026-11-14T13:17:22+00:00"
     },
     {
-      "title": "CVE-2026-129255 - CoolerMaster MASTERPLUS+ Device Driver WinRing0x64.sys sub_11504 default permission",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129255",
-      "summary": "CVE ID :CVE-2026-129255 Published : Nov. 14, 2026, 1:17 p.m. | 19 hours, 5 minutes ago Description :A vulnerability was identified in CoolerMaster MASTERPLUS+ 1.9.6. This affects the function...",
-      "source": "CVE Feed",
-      "published": "2026-11-14T13:17:21+00:00"
-    },
-    {
-      "title": "CVE-2026-120522 - Cloud Storage Manager for Fluent Forms <= 1.2.0 - Unauthenticated Arbitrary File Write via Google Drive Filename Path Traversal",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120522",
-      "summary": "CVE ID :CVE-2026-120522 Published : Nov. 14, 2026, 1:17 p.m. | 19 hours, 5 minutes ago Description :The Cloud Storage Manager for Fluent Forms – Google Drive, Dropbox, OneDrive, S3 Uploads plugin for...",
-      "source": "CVE Feed",
-      "published": "2026-11-14T13:17:20+00:00"
-    },
-    {
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
       "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known...",
-      "source": "The Hacker News",
+      "summary": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting...",
+      "source": "CVE Newsroom",
       "published": "2026-11-14T12:38:35+00:00"
-    },
-    {
-      "title": "CVE-2026-129427 - Stored XSS via avatar upload chained with an authentication bypass in /Attachments leads to ATO",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129427",
-      "summary": "CVE ID :CVE-2026-129427 Published : Nov. 14, 2026, 12:17 p.m. | 20 hours, 5 minutes ago Description :Stored XSS via avatar upload chained with an authentication bypass in /Attachments leads to ATO in...",
-      "source": "CVE Feed",
-      "published": "2026-11-14T12:17:44+00:00"
-    },
-    {
-      "title": "CVE-2026-129250 - Edimax BR6478ACV2 webs formPPTPSetup buffer overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129250",
-      "summary": "CVE ID :CVE-2026-129250 Published : Nov. 14, 2026, 12:17 p.m. | 20 hours, 5 minutes ago Description :A security vulnerability has been detected in Edimax BR6478ACV2 1.23. The impacted element is the...",
-      "source": "CVE Feed",
-      "published": "2026-11-14T12:17:44+00:00"
     },
     {
       "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
@@ -149,20 +261,6 @@
       "published": "2026-11-14T08:40:22+00:00"
     },
     {
-      "title": "CVE-2026-129319 - create-ecdh: computeSecret does not validate that the peer public key is on the curve (invalid-curve attack)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129319",
-      "summary": "CVE ID :CVE-2026-129319 Published : Nov. 14, 2026, 7:17 a.m. | 1 day, 1 hour ago Description :create-ecdh is a browserifiable implementation of Node.js crypto.createECDH. In versions 4.0.4 and below...",
-      "source": "CVE Feed",
-      "published": "2026-11-14T07:17:21+00:00"
-    },
-    {
-      "title": "CVE-2026-126173 - AutomatorWP Pro Webhooks addon <= 1.4.4 - Missing Authorization to Unauthenticated Arbitrary User Password Reset / Account Takeover via Webhook with 'Is the user ID' Field",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126173",
-      "summary": "CVE ID :CVE-2026-126173 Published : Nov. 14, 2026, 5:18 a.m. | 1 day, 3 hours ago Description :The AutomatorWP Pro plugin for WordPress' webhook addon is vulnerable to authorization bypass in all...",
-      "source": "CVE Feed",
-      "published": "2026-11-14T05:18:37+00:00"
-    },
-    {
       "title": "CISA KEV Weekly Roundup – Week 46",
       "link": "https://thecyberthrone.in/2026/11/14/cisa-kev-weekly-roundup-week-46/",
       "summary": "CISA KEV Weekly Roundup – Week 46 12 Exploited Vulnerabilities Across Enterprise Infrastructure, Security Gateways and ApplicationsExploit Prevention ToolsThe CISA KEV Catalog continues to be an...",
@@ -175,62 +273,6 @@
       "summary": "Attackers use Crypto Exchange Names to Disguise Unauthorized Sessions on 100+ ScreenConnect Servers BackgroundOn November 12, 2026, an MSP asked us about a handful of unfamiliar machines in their...",
       "source": "CVE Newsroom",
       "published": "2026-11-14T01:50:00+00:00"
-    },
-    {
-      "title": "CVE-2026-71531 - PrestaShop Webservice API Authorization Bypass via id_shop Parameter",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-71531",
-      "summary": "CVE ID :CVE-2026-71531 Published : Nov. 13, 2026, 11:17 p.m. | 1 day, 9 hours ago Description :PrestaShop before 8.2.9 and 9.2.1 contains an authorization flaw in the Webservice API that allows an...",
-      "source": "CVE Feed",
-      "published": "2026-11-13T23:17:19+00:00"
-    },
-    {
-      "title": "CVE-2026-71519 - PrestaShop Webservice API Broken Access Control via Customer Endpoint",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-71519",
-      "summary": "CVE ID :CVE-2026-71519 Published : Nov. 13, 2026, 11:17 p.m. | 1 day, 9 hours ago Description :PrestaShop before 8.2.9 and 9.2.1 contains a broken access control vulnerability that allows an...",
-      "source": "CVE Feed",
-      "published": "2026-11-13T23:17:19+00:00"
-    },
-    {
-      "title": "CVE-2026-91869 - IBM Security QRadar EDR Improper Restriction of Excessive Authentication Attempts",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91869",
-      "summary": "CVE ID :CVE-2026-91869 Published : Nov. 13, 2026, 10:17 p.m. | 1 day, 10 hours ago Description :IBM Security QRadar EDR 3.12 through 3.12.26 could allow a remote authenticated attacker to bypass...",
-      "source": "CVE Feed",
-      "published": "2026-11-13T22:17:26+00:00"
-    },
-    {
-      "title": "CVE-2026-124021 - Control Web Panel < 1.30.6 Authorization Bypass via oauth_authorization_codes",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124021",
-      "summary": "CVE ID :CVE-2026-124021 Published : Nov. 13, 2026, 10:17 p.m. | 1 day, 10 hours ago Description :Control Web Panel (CWP) before webpanel_version 1.30.6 contains an authorization bypass vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-11-13T22:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-124020 - Control Web Panel < 1.30.6 Host Header Password Reset Poisoning",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-124020",
-      "summary": "CVE ID :CVE-2026-124020 Published : Nov. 13, 2026, 10:17 p.m. | 1 day, 10 hours ago Description :Control Web Panel (CWP) before webpanel_version 1.30.6 contains a host header injection vulnerability...",
-      "source": "CVE Feed",
-      "published": "2026-11-13T22:17:22+00:00"
-    },
-    {
-      "title": "CVE-2026-115788 - IBM App Connect Operator and IBM App Connect Enterprise Certified Containers Operands Log Forging",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-115788",
-      "summary": "CVE ID :CVE-2026-115788 Published : Nov. 13, 2026, 10:17 p.m. | 1 day, 10 hours ago Description :IBM App Connect Operator and IBM App Connect Enterprise Certified Containers Operands is vulnerable to...",
-      "source": "CVE Feed",
-      "published": "2026-11-13T22:17:21+00:00"
-    },
-    {
-      "title": "CVE-2026-110279 - IBM ContextForge MCP Gateway is affected by an improper authentication vulnerability",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-110279",
-      "summary": "CVE ID :CVE-2026-110279 Published : Nov. 13, 2026, 10:17 p.m. | 1 day, 10 hours ago Description :IBM ContextForge MCP Gateway 1.0.0 through 1.1.0 is vulnerable to improper credential handling because...",
-      "source": "CVE Feed",
-      "published": "2026-11-13T22:17:21+00:00"
-    },
-    {
-      "title": "CVE-2025-53697 - Johnson Controls iSTAR Use of Default Credentials",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2025-53697",
-      "summary": "CVE ID :CVE-2025-53697 Published : Nov. 13, 2026, 10:17 p.m. | 1 day, 10 hours ago Description :Use of default credentials vulnerability in Johnson Controls iSTAR Ultra, Johnson Controls iSTAR Ultra...",
-      "source": "CVE Feed",
-      "published": "2026-11-13T22:17:18+00:00"
     },
     {
       "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
@@ -291,8 +333,8 @@
     {
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
       "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from...",
-      "source": "The Hacker News",
+      "summary": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates...",
+      "source": "CVE Newsroom",
       "published": "2026-11-13T16:53:08+00:00"
     },
     {
@@ -312,8 +354,8 @@
     {
       "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
       "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can...",
-      "source": "The Hacker News",
+      "summary": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual...",
+      "source": "CVE Newsroom",
       "published": "2026-11-13T15:27:05+00:00"
     },
     {
@@ -415,25 +457,11 @@
       "published": "2026-11-13T10:55:00+00:00"
     },
     {
-      "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
-      "link": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
-      "summary": "Investigators seized 235 servers and 257 domains, along with 6.4 million victim credentials as part of Operation Endgame. The post Law Enforcement Disrupts Gootloader, CastleRAT, and StealC...",
-      "source": "SecurityWeek",
-      "published": "2026-11-13T10:48:40+00:00"
-    },
-    {
       "title": "Check Point warns of zero-day flaw exploited for root access",
       "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
       "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since...",
       "source": "BleepingComputer",
       "published": "2026-11-13T10:44:22+00:00"
-    },
-    {
-      "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
-      "link": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
-      "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek.",
-      "source": "SecurityWeek",
-      "published": "2026-11-13T09:36:56+00:00"
     },
     {
       "title": "Microsoft confirms Windows activation failures after November updates",
@@ -452,15 +480,15 @@
     {
       "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-      "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege...",
-      "source": "The Hacker News",
+      "summary": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to...",
+      "source": "CVE Newsroom",
       "published": "2026-11-13T08:05:49+00:00"
     },
     {
       "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-      "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central...",
-      "source": "The Hacker News",
+      "summary": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2 N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws...",
+      "source": "CVE Newsroom",
       "published": "2026-11-13T05:43:28+00:00"
     },
     {
@@ -520,13 +548,6 @@
       "published": "2026-11-12T19:51:16+00:00"
     },
     {
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-      "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
-      "source": "BleepingComputer",
-      "published": "2026-11-12T19:12:55+00:00"
-    },
-    {
       "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
       "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
       "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what...",
@@ -536,29 +557,29 @@
     {
       "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
       "link": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-      "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising...",
-      "source": "The Hacker News",
+      "summary": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always...",
+      "source": "CVE Newsroom",
       "published": "2026-11-12T18:02:51+00:00"
     },
     {
       "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
       "link": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-      "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a...",
-      "source": "The Hacker News",
+      "summary": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through...",
+      "source": "CVE Newsroom",
       "published": "2026-11-12T17:50:27+00:00"
     },
     {
       "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
       "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-      "summary": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and...",
-      "source": "The Hacker News",
+      "summary": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and...",
+      "source": "CVE Newsroom",
       "published": "2026-11-12T16:27:01+00:00"
     },
     {
       "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
       "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-      "summary": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an...",
-      "source": "The Hacker News",
+      "summary": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass Ravie LakshmananNov 12, 2026Vulnerability / Network Security Citrix has released patches for multiple...",
+      "source": "CVE Newsroom",
       "published": "2026-11-12T15:38:49+00:00"
     },
     {
@@ -571,8 +592,8 @@
     {
       "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
       "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-      "summary": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it...",
-      "source": "The Hacker News",
+      "summary": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched...",
+      "source": "CVE Newsroom",
       "published": "2026-11-12T13:08:28+00:00"
     },
     {
@@ -592,8 +613,8 @@
     {
       "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
       "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
-      "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations...",
-      "source": "The Hacker News",
+      "summary": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU...",
+      "source": "CVE Newsroom",
       "published": "2026-11-12T12:09:14+00:00"
     },
     {
@@ -634,8 +655,8 @@
     {
       "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
       "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
-      "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our...",
-      "source": "The Hacker News",
+      "summary": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access N-able on Thursday said it's investigating a new public disclosure containing claims of additional...",
+      "source": "CVE Newsroom",
       "published": "2026-11-12T11:51:43+00:00"
     },
     {
@@ -648,8 +669,8 @@
     {
       "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
       "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
-      "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked...",
-      "source": "The Hacker News",
+      "summary": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if...",
+      "source": "CVE Newsroom",
       "published": "2026-11-12T11:33:15+00:00"
     },
     {
@@ -662,15 +683,15 @@
     {
       "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
       "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
-      "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take...",
-      "source": "The Hacker News",
+      "summary": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash...",
+      "source": "CVE Newsroom",
       "published": "2026-11-12T09:25:00+00:00"
     },
     {
       "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
       "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
-      "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server...",
-      "source": "The Hacker News",
+      "summary": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's...",
+      "source": "CVE Newsroom",
       "published": "2026-11-12T08:20:37+00:00"
     },
     {
@@ -683,8 +704,8 @@
     {
       "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
       "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
-      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed...",
-      "source": "The Hacker News",
+      "summary": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the...",
+      "source": "CVE Newsroom",
       "published": "2026-11-12T05:12:26+00:00"
     },
     {
@@ -725,8 +746,8 @@
     {
       "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
       "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
-      "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs.",
-      "source": "Dark Reading",
+      "summary": "Attackers Say 'Hello' to a Different Scale of Cloud Attack 5 Min ReadSource: BanarTABS via Getty images What began as an exploratory Shodan search for exposed cloud instances has led to the discovery...",
+      "source": "CVE Newsroom",
       "published": "2026-11-11T21:44:04+00:00"
     },
     {
@@ -973,20 +994,6 @@
       "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP...",
       "source": "The Hacker News",
       "published": "2026-11-10T10:02:40+00:00"
-    },
-    {
-      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
-      "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
-      "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said...",
-      "source": "The Hacker News",
-      "published": "2026-11-10T09:08:20+00:00"
-    },
-    {
-      "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-      "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-      "summary": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models...",
-      "source": "The Hacker News",
-      "published": "2026-11-10T08:16:14+00:00"
     },
     {
       "title": "People Are Getting Weird About AI",
@@ -1393,13 +1400,6 @@
       "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics...",
       "source": "Krebs on Security",
       "published": "2026-10-14T14:22:49+00:00"
-    },
-    {
-      "title": "Microsoft Patches More Than 1,400 Security Flaws",
-      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000...",
-      "source": "Krebs on Security",
-      "published": "2026-10-13T23:24:53+00:00"
     }
   ]
 }
