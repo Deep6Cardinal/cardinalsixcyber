@@ -1,6 +1,202 @@
 {
-  "last_updated": "2026-11-17T23:14:35.922462+00:00",
+  "last_updated": "2026-11-18T05:14:49.075194+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-130644 - Ansible-core: ansible-core: ansible-galaxy collection install path traversal via unvalidated artifact-derived collection name allows file writes and directory deletion outside the collections path",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130644",
+      "summary": "CVE ID :CVE-2026-130644 Published : Nov. 18, 2026, 3:35 a.m. | 42 minutes ago Description :A path traversal flaw was found in ansible-core. When installing a collection with ansible-galaxy collection...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T03:35:19+00:00"
+    },
+    {
+      "title": "CVE-2026-131875 - fqterm before 0.9.11 Heap Out-of-Bounds Write via FQTermDecode CSI Parameters",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131875",
+      "summary": "CVE ID :CVE-2026-131875 Published : Nov. 18, 2026, 3:17 a.m. | 1 hour ago Description :fqterm before 0.9.11 contains a heap out-of-bounds write vulnerability in FQTermDecode that allows malicious...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T03:17:42+00:00"
+    },
+    {
+      "title": "CVE-2026-131871 - WLA DX 9.7 through 10.7 Stack Buffer Overflow via wlalink parse_data_blocks()",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131871",
+      "summary": "CVE ID :CVE-2026-131871 Published : Nov. 18, 2026, 3:17 a.m. | 1 hour ago Description :WLA DX 9.7 through 10.7 contains a stack-based buffer overflow vulnerability in parse_data_blocks() in...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T03:17:41+00:00"
+    },
+    {
+      "title": "CVE-2026-131800 - Stored cross-site scripting vulnerability in GitHub Enterprise Server allowed unauthorized SSH key addition to another user account",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131800",
+      "summary": "CVE ID :CVE-2026-131800 Published : Nov. 18, 2026, 3:17 a.m. | 1 hour ago Description :A stored cross-site scripting vulnerability was identified in GitHub Enterprise Server that allowed an...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T03:17:41+00:00"
+    },
+    {
+      "title": "CVE-2026-107950 - XML External Entity (XXE) vulnerability affects HCL Commerce",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-107950",
+      "summary": "CVE ID :CVE-2026-107950 Published : Nov. 18, 2026, 3:17 a.m. | 1 hour ago Description :An XML External Entity (XXE) vulnerability affects a Storefront REST API in HCL Commerce versions 8, 9.0.1 and...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T03:17:40+00:00"
+    },
+    {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that...",
+      "source": "Krebs on Security",
+      "published": "2026-11-18T02:52:04+00:00"
+    },
+    {
+      "title": "CVE-2026-93459 - ASUS Router Firmware Format String Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-93459",
+      "summary": "CVE ID :CVE-2026-93459 Published : Nov. 18, 2026, 2:17 a.m. | 2 hours ago Description :Use of externally-controlled format string in certain ASUS Router firmware allows a nearby administrator to read...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T02:17:42+00:00"
+    },
+    {
+      "title": "CVE-2026-88711 - ASUS Router OS Command Injection Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-88711",
+      "summary": "CVE ID :CVE-2026-88711 Published : Nov. 18, 2026, 2:17 a.m. | 2 hours ago Description :Improper neutralization of special elements used in an OS command in certain ASUS Router firmware models allows...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T02:17:41+00:00"
+    },
+    {
+      "title": "CVE-2026-126574 - ASUS Control Center Authorization Bypass Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126574",
+      "summary": "CVE ID :CVE-2026-126574 Published : Nov. 18, 2026, 2:17 a.m. | 2 hours ago Description :Missing authorization vulnerability in ASUS Control Center Datacenter and Control Center Enterprise allows...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T02:17:40+00:00"
+    },
+    {
+      "title": "CVE-2026-116643 - SSH certificate authentication bypass in GitHub Enterprise Server",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116643",
+      "summary": "CVE ID :CVE-2026-116643 Published : Nov. 18, 2026, 2:17 a.m. | 2 hours ago Description :An SSH certificate authentication bypass vulnerability in GitHub Enterprise Server allowed an authenticated...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T02:17:40+00:00"
+    },
+    {
+      "title": "CVE-2026-116637 - Improper link resolution in GitHub Enterprise Server allowed root-level file modification via pre-receive hook environments",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-116637",
+      "summary": "CVE ID :CVE-2026-116637 Published : Nov. 18, 2026, 2:17 a.m. | 2 hours ago Description :A site administrator could modify files on the appliance host with root privileges and disclose private...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T02:17:40+00:00"
+    },
+    {
+      "title": "CVE-2026-114205 - ASUS Control Center Express Privilege Escalation Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114205",
+      "summary": "CVE ID :CVE-2026-114205 Published : Nov. 18, 2026, 2:17 a.m. | 2 hours ago Description :Incorrect authorization in ASUS Control Center Express allows a remote authenticated user with a low-privileged...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T02:17:39+00:00"
+    },
+    {
+      "title": "CVE-2026-114204 - ASUS Control Center Express Hard-coded Cryptographic Key Authentication Bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114204",
+      "summary": "CVE ID :CVE-2026-114204 Published : Nov. 18, 2026, 2:17 a.m. | 2 hours ago Description :Use of Hard-coded Cryptographic Key in ASUS Control Center Express allows a remote user to bypass...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T02:17:39+00:00"
+    },
+    {
+      "title": "CVE-2026-114202 - ASUS Control Center Express Hard-coded Cryptographic Key Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114202",
+      "summary": "CVE ID :CVE-2026-114202 Published : Nov. 18, 2026, 2:17 a.m. | 2 hours ago Description :Use of Hard-coded Cryptographic Key in ASUS Control Center Express allows a remote user to gain administrative...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T02:17:39+00:00"
+    },
+    {
+      "title": "CVE-2026-112115 - ASUS Armoury Crate Untrusted Search Path Privilege Escalation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-112115",
+      "summary": "CVE ID :CVE-2026-112115 Published : Nov. 18, 2026, 2:17 a.m. | 2 hours ago Description :An untrusted search path in ASUS Armoury Crate allows a local, low-privileged user to achieve privilege...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T02:17:39+00:00"
+    },
+    {
+      "title": "CVE-2026-105929 - Ansible-core: ansible-galaxy role install path traversal via unvalidated role name allows file writes and directory deletion outside the roles directory",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-105929",
+      "summary": "CVE ID :CVE-2026-105929 Published : Nov. 18, 2026, 2:17 a.m. | 2 hours ago Description :A path traversal vulnerability (CWE-22) was found in ansible-core's ansible-galaxy role installation. An...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T02:17:38+00:00"
+    },
+    {
+      "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+      "link": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+      "summary": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down...",
+      "source": "SecurityWeek",
+      "published": "2026-11-18T02:15:07+00:00"
+    },
+    {
+      "title": "CVE-2026-114938: When the Java Runtime Becomes the Attack Surface",
+      "link": "https://thecyberthrone.in/2026/11/18/cve-2026-114938-when-the-java-runtime-becomes-the-attack-surface/",
+      "summary": "CVE-2026-114938: When the Java Runtime Becomes the Attack Surface Java has been one of the most trusted foundations of enterprise application development for decades. From identity platforms and...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-18T00:19:01+00:00"
+    },
+    {
+      "title": "CVE-2026-92182 - Netgate pfSense CE XMLRPC Incorrect Authorization Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-92182",
+      "summary": "CVE ID :CVE-2026-92182 Published : Nov. 18, 2026, 12:18 a.m. | 3 hours, 59 minutes ago Description :Netgate pfSense CE XMLRPC Incorrect Authorization Remote Code Execution Vulnerability. This...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T00:18:49+00:00"
+    },
+    {
+      "title": "CVE-2026-131857 - Supergateway 4.2.0 through 4.2.2 DoS via Prototype-Inherited sessionId",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131857",
+      "summary": "CVE ID :CVE-2026-131857 Published : Nov. 18, 2026, 12:18 a.m. | 3 hours, 59 minutes ago Description :Supergateway 4.2.0 through 4.2.2 contains a denial of service vulnerability in stdio-to-SSE mode...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T00:18:43+00:00"
+    },
+    {
+      "title": "CVE-2026-131852 - OwnTracks Recorder before 1.0.5 Format String via Stored tid Value",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131852",
+      "summary": "CVE ID :CVE-2026-131852 Published : Nov. 18, 2026, 12:18 a.m. | 3 hours, 59 minutes ago Description :OwnTracks Recorder before 1.0.5 contains a format string vulnerability in json_response() and...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T00:18:43+00:00"
+    },
+    {
+      "title": "CVE-2026-131851 - ILIAS before 9.25, 10.13, and 11.6 SQL Injection via StudyProgramme Members Filter",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131851",
+      "summary": "CVE ID :CVE-2026-131851 Published : Nov. 18, 2026, 12:18 a.m. | 3 hours, 59 minutes ago Description :ILIAS before 9.25, 10.13, and 11.6 contains an SQL injection vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T00:18:42+00:00"
+    },
+    {
+      "title": "CVE-2026-131850 - ILIAS 11.0 before 11.6 SQL Injection via Registration Codes Table Sorting",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131850",
+      "summary": "CVE ID :CVE-2026-131850 Published : Nov. 18, 2026, 12:18 a.m. | 3 hours, 59 minutes ago Description :ILIAS 11.0 before 11.6 contains an sql injection vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T00:18:42+00:00"
+    },
+    {
+      "title": "CVE-2026-131849 - Snap7 through 1.4.3 Heap-Based Buffer Overflow via TSnap7MicroClient::opReadSZL",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131849",
+      "summary": "CVE ID :CVE-2026-131849 Published : Nov. 18, 2026, 12:18 a.m. | 3 hours, 59 minutes ago Description :Snap7 through 1.4.3 contains a heap-based buffer overflow in TSnap7MicroClient::opReadSZL() that...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T00:18:42+00:00"
+    },
+    {
+      "title": "CVE-2026-131848 - Snap7 through 1.4.3 Out-of-Bounds Write via TSnap7MicroClient::opReadMultiVars",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131848",
+      "summary": "CVE ID :CVE-2026-131848 Published : Nov. 18, 2026, 12:18 a.m. | 3 hours, 59 minutes ago Description :Snap7 through 1.4.3 contains an out-of-bounds write vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T00:18:42+00:00"
+    },
+    {
+      "title": "CVE-2026-126979 - Philips Hue Bridge HomeKit Accessory Protocol chacha20_decrypt Integer Underflow Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126979",
+      "summary": "CVE ID :CVE-2026-126979 Published : Nov. 18, 2026, 12:18 a.m. | 3 hours, 59 minutes ago Description :Philips Hue Bridge HomeKit Accessory Protocol chacha20_decrypt Integer Underflow Remote Code...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T00:18:38+00:00"
+    },
+    {
+      "title": "CVE-2026-126978 - Philips Hue Bridge hap_pair_setup_handler Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126978",
+      "summary": "CVE ID :CVE-2026-126978 Published : Nov. 18, 2026, 12:18 a.m. | 3 hours, 59 minutes ago Description :Philips Hue Bridge hap_pair_setup_handler Heap-based Buffer Overflow Remote Code Execution...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T00:18:38+00:00"
+    },
+    {
+      "title": "CVE-2026-126977 - Philips Hue Bridge HomeKit Pair-Setup Default Password Authentication Bypass Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-126977",
+      "summary": "CVE ID :CVE-2026-126977 Published : Nov. 18, 2026, 12:18 a.m. | 3 hours, 59 minutes ago Description :Philips Hue Bridge HomeKit Pair-Setup Default Password Authentication Bypass Vulnerability. This...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T00:18:38+00:00"
+    },
     {
       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
       "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
@@ -14,181 +210,6 @@
       "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
       "source": "Dark Reading",
       "published": "2026-11-17T22:34:22+00:00"
-    },
-    {
-      "title": "CVE-2026-91671 - Vulnerability in the Oracle Access Manager product",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91671",
-      "summary": "CVE ID :CVE-2026-91671 Published : Nov. 17, 2026, 10:19 p.m. | 22 minutes ago Description :Vulnerability in the Oracle Access Manager product of Oracle Fusion Middleware (component: Authentication...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:27+00:00"
-    },
-    {
-      "title": "CVE-2026-91618 - Vulnerability in the Oracle Application Developmen",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91618",
-      "summary": "CVE ID :CVE-2026-91618 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle Application Development Framework (ADF) product of Oracle Fusion Middleware...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:26+00:00"
-    },
-    {
-      "title": "CVE-2026-91587 - Vulnerability in the Oracle WebCenter Portal produ",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91587",
-      "summary": "CVE ID :CVE-2026-91587 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle WebCenter Portal product of Oracle Fusion Middleware (component: Composer)...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:26+00:00"
-    },
-    {
-      "title": "CVE-2026-91585 - Vulnerability in the Oracle WebLogic Server produc",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91585",
-      "summary": "CVE ID :CVE-2026-91585 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: TopLink...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:25+00:00"
-    },
-    {
-      "title": "CVE-2026-91583 - Vulnerability in the Oracle WebLogic Server produc",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91583",
-      "summary": "CVE ID :CVE-2026-91583 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: TopLink...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:25+00:00"
-    },
-    {
-      "title": "CVE-2026-91570 - Vulnerability in the Oracle WebLogic Server produc",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91570",
-      "summary": "CVE ID :CVE-2026-91570 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: TopLink...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:25+00:00"
-    },
-    {
-      "title": "CVE-2026-91569 - Vulnerability in the Oracle WebLogic Server produc",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91569",
-      "summary": "CVE ID :CVE-2026-91569 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: TopLink...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:24+00:00"
-    },
-    {
-      "title": "CVE-2026-91566 - Vulnerability in the Oracle Service Bus product of",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91566",
-      "summary": "CVE ID :CVE-2026-91566 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle Service Bus product of Oracle Fusion Middleware (component: Core). Supported...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:24+00:00"
-    },
-    {
-      "title": "CVE-2026-91561 - Vulnerability in the Oracle Service Bus product of",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91561",
-      "summary": "CVE ID :CVE-2026-91561 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle Service Bus product of Oracle Fusion Middleware (component: Core). Supported...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:24+00:00"
-    },
-    {
-      "title": "CVE-2026-91558 - Vulnerability in the Service Delivery Platform pro",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91558",
-      "summary": "CVE ID :CVE-2026-91558 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Service Delivery Platform product of Oracle Fusion Middleware (component: Messaging...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:24+00:00"
-    },
-    {
-      "title": "CVE-2026-91556 - Vulnerability in the Service Delivery Platform pro",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91556",
-      "summary": "CVE ID :CVE-2026-91556 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Service Delivery Platform product of Oracle Fusion Middleware (component: Messaging...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:24+00:00"
-    },
-    {
-      "title": "CVE-2026-91548 - Vulnerability in the Oracle Platform Security for",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91548",
-      "summary": "CVE ID :CVE-2026-91548 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle Platform Security for Java product of Oracle Fusion Middleware (component...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:23+00:00"
-    },
-    {
-      "title": "CVE-2026-91543 - Vulnerability in the Oracle Access Manager product",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91543",
-      "summary": "CVE ID :CVE-2026-91543 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle Access Manager product of Oracle Fusion Middleware (component: Authentication...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:23+00:00"
-    },
-    {
-      "title": "CVE-2026-91533 - Vulnerability in the Oracle Access Manager product",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91533",
-      "summary": "CVE ID :CVE-2026-91533 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle Access Manager product of Oracle Fusion Middleware (component: Authentication...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:23+00:00"
-    },
-    {
-      "title": "CVE-2026-91522 - Vulnerability in the Oracle Access Manager product",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91522",
-      "summary": "CVE ID :CVE-2026-91522 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle Access Manager product of Oracle Fusion Middleware (component: Authentication...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:23+00:00"
-    },
-    {
-      "title": "CVE-2026-91510 - Vulnerability in the Oracle Access Manager product",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91510",
-      "summary": "CVE ID :CVE-2026-91510 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle Access Manager product of Oracle Fusion Middleware (component: Authentication...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:22+00:00"
-    },
-    {
-      "title": "CVE-2026-91509 - Vulnerability in the Oracle Access Manager product",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91509",
-      "summary": "CVE ID :CVE-2026-91509 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle Access Manager product of Oracle Fusion Middleware (component: Authentication...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:22+00:00"
-    },
-    {
-      "title": "CVE-2026-91507 - Vulnerability in the Oracle Access Manager product",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91507",
-      "summary": "CVE ID :CVE-2026-91507 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle Access Manager product of Oracle Fusion Middleware (component: Authentication...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:22+00:00"
-    },
-    {
-      "title": "CVE-2026-91500 - Vulnerability in the Oracle Access Manager product",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91500",
-      "summary": "CVE ID :CVE-2026-91500 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle Access Manager product of Oracle Fusion Middleware (component: Authentication...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:22+00:00"
-    },
-    {
-      "title": "CVE-2026-91470 - Vulnerability in the Oracle WebLogic Server produc",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91470",
-      "summary": "CVE ID :CVE-2026-91470 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:22+00:00"
-    },
-    {
-      "title": "CVE-2026-91469 - Vulnerability in the Oracle WebLogic Server produc",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91469",
-      "summary": "CVE ID :CVE-2026-91469 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:22+00:00"
-    },
-    {
-      "title": "CVE-2026-91456 - Vulnerability in the Oracle WebLogic Server produc",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-91456",
-      "summary": "CVE ID :CVE-2026-91456 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:21+00:00"
-    },
-    {
-      "title": "CVE-2026-83362 - Vulnerability in the Oracle Purchasing product of",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-83362",
-      "summary": "CVE ID :CVE-2026-83362 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Vulnerability in the Oracle Purchasing product of Oracle E-Business Suite (component: Internal Operations)...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:21+00:00"
-    },
-    {
-      "title": "CVE-2026-69187 - WeGIA: Authenticated Privilege Escalation due to Missing Action-level Authorisation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-69187",
-      "summary": "CVE ID :CVE-2026-69187 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :WeGIA is a web manager for charitable institutions. Prior to 3.9.1, web/controle/control.php authorizes...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:21+00:00"
-    },
-    {
-      "title": "CVE-2026-61715 - Servo Sandbox bypass: `meta refresh` can execute `javascript:` in `sandbox=\"\"`",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61715",
-      "summary": "CVE ID :CVE-2026-61715 Published : Nov. 17, 2026, 10:19 p.m. | 23 minutes ago Description :Servo is a lightweight, high-performance web rendering engine for embedding web technologies in...",
-      "source": "CVE Feed",
-      "published": "2026-11-17T22:19:20+00:00"
     },
     {
       "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
@@ -387,13 +408,6 @@
       "published": "2026-11-17T12:14:36+00:00"
     },
     {
-      "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
-      "link": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
-      "summary": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking...",
-      "source": "SecurityWeek",
-      "published": "2026-11-17T12:00:00+00:00"
-    },
-    {
       "title": "Siemens ROS#",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
       "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary...",
@@ -485,6 +499,13 @@
       "published": "2026-11-17T12:00:00+00:00"
     },
     {
+      "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
+      "link": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
+      "summary": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking...",
+      "source": "SecurityWeek",
+      "published": "2026-11-17T12:00:00+00:00"
+    },
+    {
       "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
       "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
       "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft...",
@@ -511,13 +532,6 @@
       "summary": "Vulnerability in Bludit software Vulnerability in Bludit software CVE ID CVE-2026-107190 Publication date 17 November 2026 Vendor Bludit Product Bludit Vulnerable versions 3.22.0 Vulnerability type...",
       "source": "CVE Newsroom",
       "published": "2026-11-17T10:55:00+00:00"
-    },
-    {
-      "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
-      "link": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
-      "summary": "Affected organizations include BBC, CNN, Zoom, GitLab, Salesforce, Equifax, HSBC, and IKEA. The post Optimizely Vulnerability Exploited to Serve Malware on Major Websites appeared first on...",
-      "source": "SecurityWeek",
-      "published": "2026-11-17T10:22:20+00:00"
     },
     {
       "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
@@ -1386,20 +1400,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition...",
       "source": "CISA Alerts",
       "published": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-      "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an...",
-      "source": "Krebs on Security",
-      "published": "2026-10-21T15:26:07+00:00"
-    },
-    {
-      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who...",
-      "source": "Krebs on Security",
-      "published": "2026-10-19T13:48:56+00:00"
     }
   ]
 }
