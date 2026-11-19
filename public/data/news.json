@@ -1,12 +1,208 @@
 {
-  "last_updated": "2026-11-18T22:46:40.247902+00:00",
+  "last_updated": "2026-11-19T05:09:21.575886+00:00",
   "articles": [
     {
-      "title": "Cold Relic Turns One Cloud Breach Into Another",
+      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026...",
+      "source": "The Hacker News",
+      "published": "2026-11-19T04:33:46+00:00"
+    },
+    {
+      "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+      "link": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
+      "summary": "The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds. The post Palo Alto Networks to Buy AI Startup...",
+      "source": "SecurityWeek",
+      "published": "2026-11-19T03:25:23+00:00"
+    },
+    {
+      "title": "CVE-2026-131914 - Deserialization of untrusted data in CodePlex AntiCSRF",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131914",
+      "summary": "CVE ID :CVE-2026-131914 Published : Nov. 19, 2026, 2:17 a.m. | 1 hour, 32 minutes ago Description :Deserialization of untrusted data in double-submit cookie vs. form field validation in...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T02:17:20+00:00"
+    },
+    {
+      "title": "CVE-2026-132756 - Geany through 2.1.0 OS Command Injection via Filename in Build Commands",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-132756",
+      "summary": "CVE ID :CVE-2026-132756 Published : Nov. 19, 2026, 12:17 a.m. | 3 hours, 32 minutes ago Description :Geany through 2.1.0 contains an OS command injection vulnerability that allows attackers to run...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T00:17:44+00:00"
+    },
+    {
+      "title": "CVE-2026-132751 - yt through 4.4.4 Code Injection via con_args eval() in ytdata HDF5",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-132751",
+      "summary": "CVE ID :CVE-2026-132751 Published : Nov. 19, 2026, 12:17 a.m. | 3 hours, 32 minutes ago Description :yt through 4.4.4 contains a code injection vulnerability that allows attackers to execute Python...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T00:17:43+00:00"
+    },
+    {
+      "title": "CVE-2026-132748 - Vtiger CRM through 8.4.0 PHP Code Injection via Configuration Editor",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-132748",
+      "summary": "CVE ID :CVE-2026-132748 Published : Nov. 19, 2026, 12:17 a.m. | 3 hours, 32 minutes ago Description :Vtiger CRM through 8.4.0 contains a PHP code injection vulnerability that allows authenticated...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T00:17:42+00:00"
+    },
+    {
+      "title": "CVE-2026-77283 - obsidian-sync-mcp: Missing Host/Origin validation lets a public website drive a victim's Obsidian vault via DNS rebinding (no-auth mode)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77283",
+      "summary": "CVE ID :CVE-2026-77283 Published : Nov. 18, 2026, 11:17 p.m. | 4 hours, 32 minutes ago Description :obsidian-sync-mcp is an MCP server that gives AI agents access to Obsidian vaults. Prior to 0.5.7...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T23:17:21+00:00"
+    },
+    {
+      "title": "CVE-2026-129991 - Dokploy: Authenticated Command Injection via unescaped backup.prefix in database/service backup commands leads to RCE as root",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129991",
+      "summary": "CVE ID :CVE-2026-129991 Published : Nov. 18, 2026, 11:17 p.m. | 4 hours, 32 minutes ago Description :Dokploy is a free, self-hostable Platform as a Service (PaaS). Prior to 0.31.1, the backup prefix...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T23:17:19+00:00"
+    },
+    {
+      "title": "CVE-2026-129990 - Dokploy: Missing authorization on all network.* endpoints (Member -> create/delete docker networks on org servers, cross-org access via serverId)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129990",
+      "summary": "CVE ID :CVE-2026-129990 Published : Nov. 18, 2026, 11:17 p.m. | 4 hours, 32 minutes ago Description :Dokploy is a free, self-hostable Platform as a Service (PaaS). Prior to 0.31.1, every network.*...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T23:17:18+00:00"
+    },
+    {
+      "title": "CVE-2026-129989 - Dokploy: OS Command Injection via unsanitized publishDirectory in Nixpacks build pipeline",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129989",
+      "summary": "CVE ID :CVE-2026-129989 Published : Nov. 18, 2026, 11:17 p.m. | 4 hours, 32 minutes ago Description :Dokploy is a free, self-hostable Platform as a Service (PaaS). Prior to 0.31.1, the Nixpacks...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T23:17:18+00:00"
+    },
+    {
+      "title": "CVE-2026-129986 - Dokploy: OS Command Injection via filePath in mount.deleteFileMount → HOST RCE",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129986",
+      "summary": "CVE ID :CVE-2026-129986 Published : Nov. 18, 2026, 11:17 p.m. | 4 hours, 32 minutes ago Description :Dokploy is a free, self-hostable Platform as a Service (PaaS). Prior to 0.31.1...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T23:17:18+00:00"
+    },
+    {
+      "title": "CVE-2026-129985 - Dokploy: RCE via Command Injection in Schedule appName",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129985",
+      "summary": "CVE ID :CVE-2026-129985 Published : Nov. 18, 2026, 11:17 p.m. | 4 hours, 32 minutes ago Description :Dokploy is a free, self-hostable Platform as a Service (PaaS). Prior to 0.31.1, a user-controlled...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T23:17:18+00:00"
+    },
+    {
+      "title": "CVE-2026-129316 - Dokploy: serviceId lets a member reach any container (Member -> Root) over the docker WebSocket handlers",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129316",
+      "summary": "CVE ID :CVE-2026-129316 Published : Nov. 18, 2026, 11:17 p.m. | 4 hours, 32 minutes ago Description :Dokploy is a free, self-hostable Platform as a Service (PaaS). From 0.29.13 until 0.31.0, the...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T23:17:18+00:00"
+    },
+    {
+      "title": "CVE-2026-129315 - Dokploy: Local privilege escalation to root: install.sh makes /etc/dokploy world-writable (0777)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129315",
+      "summary": "CVE ID :CVE-2026-129315 Published : Nov. 18, 2026, 11:17 p.m. | 4 hours, 32 minutes ago Description :Dokploy is a free, self-hostable Platform as a Service (PaaS). In 0.31.0 and earlier, the hosted...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T23:17:18+00:00"
+    },
+    {
+      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+      "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28...",
+      "source": "BleepingComputer",
+      "published": "2026-11-18T23:08:33+00:00"
+    },
+    {
+      "title": "CVE-2026-73971 - Music Assistant: Remote Code Execution by authenticated user",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-73971",
+      "summary": "CVE ID :CVE-2026-73971 Published : Nov. 18, 2026, 10:17 p.m. | 5 hours, 32 minutes ago Description :Music Assistant is an open-source media library manager that integrates streaming services with...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T22:17:23+00:00"
+    },
+    {
+      "title": "CVE-2026-63413 - Jane: Instantiation RCE via header parameter name -> raw PHPDoc */ breakout (jane-php/open-api-3)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63413",
+      "summary": "CVE ID :CVE-2026-63413 Published : Nov. 18, 2026, 10:17 p.m. | 5 hours, 32 minutes ago Description :Jane is a set of PHP libraries that generates models and API clients from JSON Schema and OpenAPI...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T22:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-63412 - Jane: Instantiation RCE via query parameter name -> raw PHPDoc */ breakout (jane-php/open-api-3)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63412",
+      "summary": "CVE ID :CVE-2026-63412 Published : Nov. 18, 2026, 10:17 p.m. | 5 hours, 32 minutes ago Description :Jane is a set of PHP libraries that generates models and API clients from JSON Schema and OpenAPI...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T22:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-63411 - Jane: Instantiation RCE via parameter description -> raw PHPDoc */ breakout (jane-php/open-api-3)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63411",
+      "summary": "CVE ID :CVE-2026-63411 Published : Nov. 18, 2026, 10:17 p.m. | 5 hours, 32 minutes ago Description :Jane is a set of PHP libraries that generates models and API clients from JSON Schema and OpenAPI...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T22:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-59961 - mini-snmpd: Unauthenticated out-of-bounds read in SNMP request parser (decode_oid/decode_str/decode_ptr)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-59961",
+      "summary": "CVE ID :CVE-2026-59961 Published : Nov. 18, 2026, 10:17 p.m. | 5 hours, 32 minutes ago Description :mini-snmpd is a minimal SNMP agent implementation. Prior to 1.7, the ASN.1 BER parser in protocol.c...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T22:17:22+00:00"
+    },
+    {
+      "title": "CVE-2026-132143 - DrayTek Vigor2960 Backup mainfunction.cgi doWebBackup stack-based overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-132143",
+      "summary": "CVE ID :CVE-2026-132143 Published : Nov. 18, 2026, 10:17 p.m. | 5 hours, 32 minutes ago Description :A vulnerability has been found in DrayTek Vigor2960 up to 1.5.1.6. This vulnerability affects the...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T22:17:20+00:00"
+    },
+    {
+      "title": "CVE-2026-132142 - DrayTek Vigor2960 CGI Process mainfunction.cgi dataflowstatus stack-based overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-132142",
+      "summary": "CVE ID :CVE-2026-132142 Published : Nov. 18, 2026, 10:17 p.m. | 5 hours, 32 minutes ago Description :A flaw has been found in DrayTek Vigor2960 up to 1.5.1.6. This affects the function dataflowstatus...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T22:17:20+00:00"
+    },
+    {
+      "title": "CVE-2026-132141 - DrayTek Vigor2960 Jsonstatus mainfunction.cgi json_load_lock stack-based overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-132141",
+      "summary": "CVE ID :CVE-2026-132141 Published : Nov. 18, 2026, 10:17 p.m. | 5 hours, 32 minutes ago Description :A vulnerability was detected in DrayTek Vigor2960 up to 1.5.1.6. Affected by this issue is the...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T22:17:19+00:00"
+    },
+    {
+      "title": "CVE-2026-129987 - Dokploy: Authenticated RCE via Database Password Command Substitution",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129987",
+      "summary": "CVE ID :CVE-2026-129987 Published : Nov. 18, 2026, 10:17 p.m. | 5 hours, 32 minutes ago Description :Dokploy is a free, self-hostable Platform as a Service (PaaS). Prior to 0.31.1, the database...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T22:17:18+00:00"
+    },
+    {
+      "title": "CVE-2026-121720 - OpenVPN Local Privilege Escalation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-121720",
+      "summary": "CVE ID :CVE-2026-121720 Published : Nov. 18, 2026, 10:17 p.m. | 5 hours, 32 minutes ago Description :OpenVPN 2.4.0 through 2.6.23 and 2.7_alpha1 through 2.7.8 on Windows allows local authenticated...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T22:17:17+00:00"
+    },
+    {
+      "title": "CVE-2026-106094 - Remote security vulnerability when configured for RAS",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-106094",
+      "summary": "CVE ID :CVE-2026-106094 Published : Nov. 18, 2026, 10:17 p.m. | 5 hours, 32 minutes ago Description :Improper neutralization of special elements used in an OS command ('OS command injection')...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T22:17:15+00:00"
+    },
+    {
+      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
       "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
       "source": "Dark Reading",
       "published": "2026-11-18T21:59:46+00:00"
+    },
+    {
+      "title": "CVE-2026-77297 - MyMangaDB: Unauthenticated database import endpoint allows full database and image-store overwrite, leading to admin account takeover",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77297",
+      "summary": "CVE ID :CVE-2026-77297 Published : Nov. 18, 2026, 9:18 p.m. | 6 hours, 31 minutes ago Description :MyMangaDB is a self-hosted manga collection manager with automatic metadata, MyAnimeList import...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T21:18:03+00:00"
+    },
+    {
+      "title": "CVE-2026-77296 - MyMangaDB: Unauthenticated path traversal in cover-image upload allows arbitrary file write, escalating to the same database-overwrite takeover",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77296",
+      "summary": "CVE ID :CVE-2026-77296 Published : Nov. 18, 2026, 9:18 p.m. | 6 hours, 31 minutes ago Description :MyMangaDB is a self-hosted manga collection manager with automatic metadata, MyAnimeList import...",
+      "source": "CVE Feed",
+      "published": "2026-11-18T21:18:03+00:00"
     },
     {
       "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
@@ -23,13 +219,6 @@
       "published": "2026-11-18T20:45:49+00:00"
     },
     {
-      "title": "CVE-2026-132144 - MISP: Non-admin users can change login email under external authentication to capture a directory identity",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-132144",
-      "summary": "CVE ID :CVE-2026-132144 Published : Nov. 18, 2026, 8:41 p.m. | 15 minutes ago Description :MISP contains an authorization flaw in the user login-email change logic. When an external authentication...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T20:41:10+00:00"
-    },
-    {
       "title": "Judge signs off on sale of Spirit Airlines’ data to Google",
       "link": "https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data",
       "summary": "Google can take possession of defunct Spirit Airlines' data for $10 million, a federal bankruptcy judge has ruled. The tech giant agreed to protections as it plans to use the data in AI projects.",
@@ -42,62 +231,6 @@
       "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
       "source": "Dark Reading",
       "published": "2026-11-18T20:38:42+00:00"
-    },
-    {
-      "title": "CVE-2026-127222 - SGLang 0.5.23 Missing Authorization via load_lora_adapter_from_tensors",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-127222",
-      "summary": "CVE ID :CVE-2026-127222 Published : Nov. 18, 2026, 8:28 p.m. | 28 minutes ago Description :SGLang through 0.5.23, fixed in commit 7b5fb39, contains a missing authorization vulnerability in the POST...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T20:28:08+00:00"
-    },
-    {
-      "title": "CVE-2026-76807 - Todoist MCP Server: Browser DNS rebinding lets websites write and delete Todoist data through local MCP server",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76807",
-      "summary": "CVE ID :CVE-2026-76807 Published : Nov. 18, 2026, 8:19 p.m. | 37 minutes ago Description :Todoist MCP Server provides tools that allow AI agents to access and modify a Todoist account. Prior to...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T20:19:13+00:00"
-    },
-    {
-      "title": "CVE-2026-76090 - Tapir: Construction/decode RCE via property name -> raw case-class field (tapir-openapi-codegen)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76090",
-      "summary": "CVE ID :CVE-2026-76090 Published : Nov. 18, 2026, 8:19 p.m. | 37 minutes ago Description :Tapir is a Scala library for describing HTTP APIs and exposing, consuming, and documenting them using open...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T20:19:12+00:00"
-    },
-    {
-      "title": "CVE-2026-63129 - mssql-mcp-core: SQL injection in mssql-mcp write tools via unparameterized table names and WHERE clauses",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-63129",
-      "summary": "CVE ID :CVE-2026-63129 Published : Nov. 18, 2026, 8:19 p.m. | 37 minutes ago Description :mssql-mcp-core is the shared library that powers MSSQL MCP servers. Prior to core and server 0.6.0 and reader...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T20:19:10+00:00"
-    },
-    {
-      "title": "CVE-2026-62340 - X-Road: Cross-instance global configuration poisoning via federated download",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-62340",
-      "summary": "CVE ID :CVE-2026-62340 Published : Nov. 18, 2026, 8:19 p.m. | 37 minutes ago Description :X-Road is open-source data exchange layer software. Prior to .8.2, 7.7.3, and 7.6.5, the Security Server...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T20:19:10+00:00"
-    },
-    {
-      "title": "CVE-2026-130092 - Unauthenticated callers can exhaust temporal-proxy memory through unbounded request metrics",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130092",
-      "summary": "CVE ID :CVE-2026-130092 Published : Nov. 18, 2026, 8:18 p.m. | 37 minutes ago Description :A caller who can reach the temporal-proxy gRPC listener, with or without a valid credential, can grow the...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T20:18:59+00:00"
-    },
-    {
-      "title": "CVE-2026-73967 - AnsibleForms: Stored cross-site scripting (job output and form fields)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-73967",
-      "summary": "CVE ID :CVE-2026-73967 Published : Nov. 18, 2026, 8:16 p.m. | 39 minutes ago Description :AnsibleForms is a self-hosted web application that turns automation into self-service forms. Prior to 6.2.1...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T20:16:54+00:00"
-    },
-    {
-      "title": "CVE-2026-73969 - AnsibleForms: Authentication bypass via hard-coded default JWT signing secret",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-73969",
-      "summary": "CVE ID :CVE-2026-73969 Published : Nov. 18, 2026, 8:14 p.m. | 41 minutes ago Description :AnsibleForms is a self-hosted web application that turns automation into self-service forms. Prior to 6.2.1...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T20:14:51+00:00"
     },
     {
       "title": "Trump administration officials size-up a bad stretch for tech",
@@ -114,118 +247,6 @@
       "published": "2026-11-18T19:39:33+00:00"
     },
     {
-      "title": "CVE-2026-75521 - Miren Runtime: Authentication bypass in RPC layer: unverified TLS client certificates grant cluster superuser access",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-75521",
-      "summary": "CVE ID :CVE-2026-75521 Published : Nov. 18, 2026, 7:18 p.m. | 1 hour, 38 minutes ago Description :Miren Runtime provides the runtime component for the Miren application platform. Prior to 0.11.1, the...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:18:08+00:00"
-    },
-    {
-      "title": "CVE-2026-71499 - cf-manager: SSRF via URL-based Worker deployment allows arbitrary code execution in victim Cloudflare accounts",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-71499",
-      "summary": "CVE ID :CVE-2026-71499 Published : Nov. 18, 2026, 7:18 p.m. | 1 hour, 38 minutes ago Description :cf-manager is an all-in-one dashboard for managing multiple Cloudflare accounts and services. Prior...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:18:07+00:00"
-    },
-    {
-      "title": "CVE-2026-61583 - Chamilo LMS: Authenticated RCE through .htaccess in dropbox",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61583",
-      "summary": "CVE ID :CVE-2026-61583 Published : Nov. 18, 2026, 7:18 p.m. | 1 hour, 38 minutes ago Description :Chamilo LMS is an open-source learning management system. Prior to 1.11.40...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:18:07+00:00"
-    },
-    {
-      "title": "CVE-2026-61532 - Chamilo LMS: ZIP Slip / Path Traversal in CourseRestorer leads to arbitrary file write and RCE by any course teacher",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61532",
-      "summary": "CVE ID :CVE-2026-61532 Published : Nov. 18, 2026, 7:18 p.m. | 1 hour, 38 minutes ago Description :Chamilo LMS is an open-source learning management system. Prior to 1.11.40 and 2.0.3...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:18:06+00:00"
-    },
-    {
-      "title": "CVE-2026-61528 - Chamilo LMS: XXE Injection Vulnerability in BigBlueButton Plugin",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61528",
-      "summary": "CVE ID :CVE-2026-61528 Published : Nov. 18, 2026, 7:18 p.m. | 1 hour, 38 minutes ago Description :Chamilo LMS is an open-source learning management system. From 2.0.0 until 2.0.3, the BigBlueButton...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:18:06+00:00"
-    },
-    {
-      "title": "CVE-2026-130791 - Finsys Dockhand before 1.0.55 Path Traversal via Stack Relocate oldDir Parameter",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130791",
-      "summary": "CVE ID :CVE-2026-130791 Published : Nov. 18, 2026, 7:17 p.m. | 1 hour, 38 minutes ago Description :Finsys Dockhand before 1.0.55 contains a path traversal vulnerability that allows users with...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:17:55+00:00"
-    },
-    {
-      "title": "CVE-2026-130787 - Frappe ERPNext before 16.35.0 Missing Authorization in Financial Reporting Endpoints",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130787",
-      "summary": "CVE ID :CVE-2026-130787 Published : Nov. 18, 2026, 7:17 p.m. | 1 hour, 38 minutes ago Description :Frappe ERPNext before 16.35.0 contains a missing authorization vulnerability in financial reporting...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:17:55+00:00"
-    },
-    {
-      "title": "CVE-2026-130786 - Incus before 7.6.0 LXC Configuration Injection via OCI Image Config",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130786",
-      "summary": "CVE ID :CVE-2026-130786 Published : Nov. 18, 2026, 7:17 p.m. | 1 hour, 38 minutes ago Description :Incus before 7.6.0 contains a configuration injection vulnerability that allows users who can launch...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:17:55+00:00"
-    },
-    {
-      "title": "CVE-2026-130785 - Incus 7.3.0 before 7.6.0 Guest API Container Impersonation via Forged Cgroup",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130785",
-      "summary": "CVE ID :CVE-2026-130785 Published : Nov. 18, 2026, 7:17 p.m. | 1 hour, 38 minutes ago Description :Incus from 7.3.0 before 7.6.0 contains an authentication bypass vulnerability in the /dev/incus...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:17:55+00:00"
-    },
-    {
-      "title": "CVE-2026-130784 - Incus before 7.6.0 Authorization Bypass via Default Project Resource Inheritance",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130784",
-      "summary": "CVE ID :CVE-2026-130784 Published : Nov. 18, 2026, 7:17 p.m. | 1 hour, 38 minutes ago Description :Incus before 7.6.0 contains an authorization bypass vulnerability that allows restricted clients to...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:17:54+00:00"
-    },
-    {
-      "title": "CVE-2026-130783 - Incus before 7.6.0 Token Exposure and Missing Authorization via Operation Events",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130783",
-      "summary": "CVE ID :CVE-2026-130783 Published : Nov. 18, 2026, 7:17 p.m. | 1 hour, 38 minutes ago Description :Incus before 7.6.0 exposes certificate and cluster join token secrets through the default project...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:17:54+00:00"
-    },
-    {
-      "title": "CVE-2026-130782 - Incus before 7.6.0 Improper Authorization Exposes Default Project Resources",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130782",
-      "summary": "CVE ID :CVE-2026-130782 Published : Nov. 18, 2026, 7:17 p.m. | 1 hour, 38 minutes ago Description :Incus before 7.6.0 contains an improper authorization vulnerability that allows restricted and...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:17:54+00:00"
-    },
-    {
-      "title": "CVE-2026-130780 - Incus before 7.6.0 Path Traversal via Dependent Volumes in Migration",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130780",
-      "summary": "CVE ID :CVE-2026-130780 Published : Nov. 18, 2026, 7:17 p.m. | 1 hour, 38 minutes ago Description :Incus before 7.6.0 contains a path traversal vulnerability that allows malicious migration peers to...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:17:54+00:00"
-    },
-    {
-      "title": "CVE-2026-130779 - Incus before 7.6.0 Path Traversal via Custom Volume Backup Snapshot Names",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130779",
-      "summary": "CVE ID :CVE-2026-130779 Published : Nov. 18, 2026, 7:17 p.m. | 1 hour, 38 minutes ago Description :Incus before 7.6.0 contains a path traversal vulnerability that allows users permitted to import...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:17:53+00:00"
-    },
-    {
-      "title": "CVE-2026-130778 - Incus before 7.6.0 Authentication Bypass via Unverified Client Certificate Chains",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130778",
-      "summary": "CVE ID :CVE-2026-130778 Published : Nov. 18, 2026, 7:17 p.m. | 1 hour, 38 minutes ago Description :Incus before 7.6.0 contains an authentication bypass vulnerability that allows remote attackers to...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:17:53+00:00"
-    },
-    {
-      "title": "CVE-2026-130775 - Incus before 7.6.0 Cross-Project Image Disclosure via /dev/incus Image Export",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130775",
-      "summary": "CVE ID :CVE-2026-130775 Published : Nov. 18, 2026, 7:17 p.m. | 1 hour, 38 minutes ago Description :Incus before 7.6.0 contains an authorization bypass vulnerability in the /dev/incus guest-API image...",
-      "source": "CVE Feed",
-      "published": "2026-11-18T19:17:52+00:00"
-    },
-    {
       "title": "Lawmakers call on White House to develop defensive AI cyber systems",
       "link": "https://therecord.media/ai-cyber-white-house",
       "summary": "A bipartisan Senate duo urged the White House to launch a national effort to more robustly confront AI-enabled cyber threats in light of recent security incidents involving artificial intelligence.",
@@ -235,15 +256,15 @@
     {
       "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
       "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "summary": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing...",
-      "source": "CVE Newsroom",
+      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been...",
+      "source": "The Hacker News",
       "published": "2026-11-18T18:31:17+00:00"
     },
     {
       "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
       "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "summary": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM)...",
-      "source": "CVE Newsroom",
+      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific...",
+      "source": "The Hacker News",
       "published": "2026-11-18T18:15:39+00:00"
     },
     {
@@ -256,8 +277,8 @@
     {
       "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
       "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "summary": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active...",
-      "source": "CVE Newsroom",
+      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The...",
+      "source": "The Hacker News",
       "published": "2026-11-18T17:10:45+00:00"
     },
     {
@@ -347,15 +368,15 @@
     {
       "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
       "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-      "summary": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by...",
-      "source": "CVE Newsroom",
+      "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That...",
+      "source": "The Hacker News",
       "published": "2026-11-18T12:28:30+00:00"
     },
     {
       "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
       "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-      "summary": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In...",
-      "source": "CVE Newsroom",
+      "summary": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or...",
+      "source": "The Hacker News",
       "published": "2026-11-18T12:15:00+00:00"
     },
     {
@@ -378,6 +399,13 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-10441 Synology DiskStation Manager (DSM) Improper...",
       "source": "CISA Alerts",
       "published": "2026-11-18T12:00:00+00:00"
+    },
+    {
+      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+      "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that...",
+      "source": "The Hacker News",
+      "published": "2026-11-18T11:55:49+00:00"
     },
     {
       "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
@@ -452,15 +480,15 @@
     {
       "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
       "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-      "summary": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw...",
-      "source": "CVE Newsroom",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration...",
+      "source": "The Hacker News",
       "published": "2026-11-18T08:24:31+00:00"
     },
     {
       "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
       "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-      "summary": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a...",
-      "source": "CVE Newsroom",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as...",
+      "source": "The Hacker News",
       "published": "2026-11-18T08:24:23+00:00"
     },
     {
@@ -469,13 +497,6 @@
       "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies...",
       "source": "BleepingComputer",
       "published": "2026-11-18T08:24:18+00:00"
-    },
-    {
-      "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
-      "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
-      "summary": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Enterprise Applications at...",
-      "source": "SecurityWeek",
-      "published": "2026-11-18T07:43:34+00:00"
     },
     {
       "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
@@ -490,13 +511,6 @@
       "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions...",
       "source": "The Hacker News",
       "published": "2026-11-18T05:58:04+00:00"
-    },
-    {
-      "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
-      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-      "summary": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers A Java flaw called Java4Shell can let attackers without an account run their own code on...",
-      "source": "CVE Newsroom",
-      "published": "2026-11-18T04:27:41+00:00"
     },
     {
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
@@ -583,17 +597,10 @@
       "published": "2026-11-17T18:04:15+00:00"
     },
     {
-      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-      "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-11-17T16:00:00+00:00"
-    },
-    {
       "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
       "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-      "summary": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17...",
-      "source": "CVE Newsroom",
+      "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports...",
+      "source": "The Hacker News",
       "published": "2026-11-17T15:17:36+00:00"
     },
     {
@@ -620,8 +627,8 @@
     {
       "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
       "link": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
-      "summary": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the...",
-      "source": "CVE Newsroom",
+      "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came...",
+      "source": "The Hacker News",
       "published": "2026-11-17T12:14:36+00:00"
     },
     {
@@ -746,15 +753,15 @@
     {
       "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
       "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-      "summary": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect...",
-      "source": "CVE Newsroom",
+      "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is...",
+      "source": "The Hacker News",
       "published": "2026-11-17T06:29:27+00:00"
     },
     {
       "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
       "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-      "summary": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners N-able has released a new security update to address additional critical security flaws impacting...",
-      "source": "CVE Newsroom",
+      "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it...",
+      "source": "The Hacker News",
       "published": "2026-11-17T05:00:34+00:00"
     },
     {
@@ -809,8 +816,8 @@
     {
       "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
       "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-      "summary": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days A default password opened doors it never should have. A trusted update delivered malware. Even a...",
-      "source": "CVE Newsroom",
+      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to...",
+      "source": "The Hacker News",
       "published": "2026-11-16T13:27:20+00:00"
     },
     {
@@ -851,8 +858,8 @@
     {
       "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
       "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-      "summary": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and...",
-      "source": "CVE Newsroom",
+      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records...",
+      "source": "The Hacker News",
       "published": "2026-11-16T07:34:21+00:00"
     },
     {
@@ -1085,13 +1092,6 @@
       "summary": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products...",
       "source": "CISA Alerts",
       "published": "2026-11-12T12:00:00+00:00"
-    },
-    {
-      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
-      "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
-      "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our...",
-      "source": "The Hacker News",
-      "published": "2026-11-12T11:51:43+00:00"
     },
     {
       "title": "Inside an AI Attack Against a US Retailer",
