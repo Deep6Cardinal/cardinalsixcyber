@@ -1,12 +1,117 @@
 {
-  "last_updated": "2026-11-19T22:49:50.561630+00:00",
+  "last_updated": "2026-11-20T04:57:35.785012+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-113347 - Ruijie Networks OS Command Injection Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-113347",
+      "summary": "CVE ID :CVE-2026-113347 Published : Nov. 20, 2026, 3:47 a.m. | 38 minutes ago Description :Multiple products produced by Ruijie Networks Co., Ltd. contain an OS command injection vulnerability that...",
+      "source": "CVE Feed",
+      "published": "2026-11-20T03:47:14+00:00"
+    },
+    {
+      "title": "CVE-2026-65094 - NVIDIA BlueField Virtio-Net Memory Corruption Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-65094",
+      "summary": "CVE ID :CVE-2026-65094 Published : Nov. 20, 2026, 3:17 a.m. | 1 hour, 8 minutes ago Description :NVIDIA VIRTIO-Net for Bluefield contains a vulnerability in Virtio-Net where a VM user may cause a...",
+      "source": "CVE Feed",
+      "published": "2026-11-20T03:17:36+00:00"
+    },
+    {
+      "title": "CVE-2026-133534 - Neotroni Lighting｜PowerLink - SQL Injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-133534",
+      "summary": "CVE ID :CVE-2026-133534 Published : Nov. 20, 2026, 3:17 a.m. | 1 hour, 8 minutes ago Description :PowerLink developed by Neotroni Lighting has a SQL Injection vulnerability, allowing unauthenticated...",
+      "source": "CVE Feed",
+      "published": "2026-11-20T03:17:35+00:00"
+    },
+    {
+      "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+      "link": "https://blog.cloudflare.com/nginx2root/",
+      "summary": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them On November 18, 2026, F5 and nginx.org disclosed ten vulnerabilities in nginx. Five of them...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-20T01:58:29+00:00"
+    },
+    {
+      "title": "CVE-2026-133528 - BeamNG.drive before 0.40.6 LuaJIT FFI Sandbox Escape via JIT Bounds-Check Bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-133528",
+      "summary": "CVE ID :CVE-2026-133528 Published : Nov. 20, 2026, 1:17 a.m. | 3 hours, 8 minutes ago Description :BeamNG.drive before 0.40.6 contains an out-of-bounds write vulnerability because JIT-compiled LuaJIT...",
+      "source": "CVE Feed",
+      "published": "2026-11-20T01:17:10+00:00"
+    },
+    {
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026...",
+      "source": "BleepingComputer",
+      "published": "2026-11-20T00:26:25+00:00"
+    },
+    {
+      "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform",
+      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/",
+      "summary": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform A set of five critical vulnerabilities in nginx, one of the most widely deployed open-source web servers, was disclosed on...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-20T00:10:41+00:00"
+    },
+    {
+      "title": "CVE-2026-122676 - WordPress PublishPress Authors plugin <= 4.18.0 - SQL Injection vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-122676",
+      "summary": "CVE ID :CVE-2026-122676 Published : Nov. 19, 2026, 11:19 p.m. | 5 hours, 6 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T23:19:24+00:00"
+    },
+    {
+      "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+      "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+      "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
+      "source": "Dark Reading",
+      "published": "2026-11-19T22:40:03+00:00"
+    },
     {
       "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
       "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including...",
       "source": "BleepingComputer",
       "published": "2026-11-19T22:25:42+00:00"
+    },
+    {
+      "title": "CVE-2026-77315 - Flyto2 Core: http.paginate follows server-supplied next-page URLs (Link header / cursor) without SSRF revalidation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77315",
+      "summary": "CVE ID :CVE-2026-77315 Published : Nov. 19, 2026, 10:18 p.m. | 6 hours, 7 minutes ago Description :Flyto2 Core is an execution kernel for automation and AI-agent workflows. Prior to 2.26.8...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T22:18:44+00:00"
+    },
+    {
+      "title": "CVE-2026-77312 - Flyto2 Core: Arbitrary file write via unguarded data.*/file.* modules (incomplete fix of CVE-2026-67429)",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77312",
+      "summary": "CVE ID :CVE-2026-77312 Published : Nov. 19, 2026, 10:18 p.m. | 6 hours, 7 minutes ago Description :Flyto2 Core is an execution kernel for automation and AI-agent workflows. Prior to 2.26.8, the...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T22:18:44+00:00"
+    },
+    {
+      "title": "CVE-2026-61827 - netty-incubator-codec-ohttp: BinaryHttpParser should enforce limits for variable lengths fields",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61827",
+      "summary": "CVE ID :CVE-2026-61827 Published : Nov. 19, 2026, 10:18 p.m. | 6 hours, 7 minutes ago Description :netty-incubator-codec-ohttp implements Oblivious HTTP (OHTTP) gateway and client functionality using...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T22:18:06+00:00"
+    },
+    {
+      "title": "CVE-2026-61798 - netty-incubator-codec-ohttp: BoringSSL HPKE private key bytes exposed through toString() and exception messages",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-61798",
+      "summary": "CVE ID :CVE-2026-61798 Published : Nov. 19, 2026, 10:18 p.m. | 6 hours, 7 minutes ago Description :netty-incubator-codec-ohttp implements Oblivious HTTP (OHTTP) gateway and client functionality using...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T22:18:06+00:00"
+    },
+    {
+      "title": "CVE-2026-133476 - Dolibarr SQL Injection Vulnerability",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-133476",
+      "summary": "CVE ID :CVE-2026-133476 Published : Nov. 19, 2026, 10:18 p.m. | 6 hours, 7 minutes ago Description :In Dolibarr before 24.0.3, dolForgeSQLCriteriaCallback() in htdocs/core/lib/functions.lib.php...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T22:18:04+00:00"
+    },
+    {
+      "title": "CVE-2026-114516 - Etherpad: Pre-auth arbitrary file read",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-114516",
+      "summary": "CVE ID :CVE-2026-114516 Published : Nov. 19, 2026, 10:17 p.m. | 6 hours, 7 minutes ago Description :Etherpad is a real-time collaborative editor. From 1.8.14 until 3.3.3, the pre-authentication...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T22:17:54+00:00"
     },
     {
       "title": "Lawmakers launch new AI safety caucus amid rising security concerns",
@@ -16,6 +121,97 @@
       "published": "2026-11-19T21:19:00+00:00"
     },
     {
+      "title": "CVE-2026-87977 - IBM Guardium Data Protection SQL Injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-87977",
+      "summary": "CVE ID :CVE-2026-87977 Published : Nov. 19, 2026, 9:18 p.m. | 7 hours, 7 minutes ago Description :IBM Guardium Data Protection 12.2 is vulnerable to SQL injection in the edge-controller component. An...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T21:18:06+00:00"
+    },
+    {
+      "title": "CVE-2026-85018 - IBM Guardium Data Protection Improper Certificate Validation",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-85018",
+      "summary": "CVE ID :CVE-2026-85018 Published : Nov. 19, 2026, 9:18 p.m. | 7 hours, 7 minutes ago Description :IBM Guardium Data Protection 12.2 is vulnerable to improper TLS certificate validation in the GDP...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T21:18:06+00:00"
+    },
+    {
+      "title": "CVE-2026-84273 - IBM Guardium Data Protection Path Traversal",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-84273",
+      "summary": "CVE ID :CVE-2026-84273 Published : Nov. 19, 2026, 9:18 p.m. | 7 hours, 7 minutes ago Description :IBM Guardium Data Protection 12.2 is vulnerable to path traversal in the datasource functionality. An...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T21:18:06+00:00"
+    },
+    {
+      "title": "CVE-2026-84236 - IBM Guardium Data Protection Deserialization of Untrusted Data",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-84236",
+      "summary": "CVE ID :CVE-2026-84236 Published : Nov. 19, 2026, 9:18 p.m. | 7 hours, 7 minutes ago Description :IBM Guardium Data Protection 12.2 is vulnerable to insecure deserialization in the SharePoint Tap...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T21:18:06+00:00"
+    },
+    {
+      "title": "CVE-2026-82342 - IBM Guardium Data Protection Buffer Overflow",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-82342",
+      "summary": "CVE ID :CVE-2026-82342 Published : Nov. 19, 2026, 9:18 p.m. | 7 hours, 7 minutes ago Description :IBM Guardium Data Protection 12.2 is vulnerable to a stack-based buffer overflow when processing a...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T21:18:05+00:00"
+    },
+    {
+      "title": "CVE-2026-82339 - IBM Guardium Data Protection Missing Authentication",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-82339",
+      "summary": "CVE ID :CVE-2026-82339 Published : Nov. 19, 2026, 9:18 p.m. | 7 hours, 7 minutes ago Description :IBM Guardium Data Protection 12.2 is vulnerable to missing authentication in the SharePoint S-TAP...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T21:18:05+00:00"
+    },
+    {
+      "title": "CVE-2026-133201 - smartalock wireguard-lwip X25519 Ladder x25519.c mul out-of-bounds write",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-133201",
+      "summary": "CVE ID :CVE-2026-133201 Published : Nov. 19, 2026, 9:18 p.m. | 7 hours, 7 minutes ago Description :A vulnerability was determined in smartalock wireguard-lwip up to...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T21:18:00+00:00"
+    },
+    {
+      "title": "CVE-2026-130236 - API Authentication and Rule Generation in the Auth0 Authorization Extension",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130236",
+      "summary": "CVE ID :CVE-2026-130236 Published : Nov. 19, 2026, 9:17 p.m. | 7 hours, 7 minutes ago Description :In the Auth0 Authorization Extension, request authentication handling can process claims from query...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T21:17:54+00:00"
+    },
+    {
+      "title": "CVE-2026-130235 - Improper Request URL Validation in the Okta .NET SDK Abstractions Library",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130235",
+      "summary": "CVE ID :CVE-2026-130235 Published : Nov. 19, 2026, 9:17 p.m. | 7 hours, 7 minutes ago Description :In the Okta .NET SDK Abstractions library, outbound HTTP requests are not restricted to the...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T21:17:53+00:00"
+    },
+    {
+      "title": "CVE-2026-130234 - Path Parameter Encoding in Okta Swift Management SDK",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130234",
+      "summary": "CVE ID :CVE-2026-130234 Published : Nov. 19, 2026, 9:17 p.m. | 7 hours, 7 minutes ago Description :The Okta Swift Management SDK does not percent-encode forward slash (/) characters during path...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T21:17:53+00:00"
+    },
+    {
+      "title": "CVE-2026-130179 - Credential Overwriting in Okta .NET SDK Abstractions Library",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130179",
+      "summary": "CVE ID :CVE-2026-130179 Published : Nov. 19, 2026, 9:17 p.m. | 7 hours, 7 minutes ago Description :The Okta .NET SDK Abstractions library systematically writes per-request authentication credentials...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T21:17:53+00:00"
+    },
+    {
+      "title": "CVE-2026-130151 - FreeRDP Smartcard Redirection Memory Handling in Okta Privileged Access Gateway",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-130151",
+      "summary": "CVE ID :CVE-2026-130151 Published : Nov. 19, 2026, 9:17 p.m. | 7 hours, 7 minutes ago Description :Okta Privileged Access (OPA) Gateway includes a version of the FreeRDP library affected by memory...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T21:17:52+00:00"
+    },
+    {
+      "title": "CVE-2026-129932 - Attacker able to redirect a Java driver client to a host they own, surviving TLS certificate verification, via an SRV parent-domain bypass",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129932",
+      "summary": "CVE ID :CVE-2026-129932 Published : Nov. 19, 2026, 9:17 p.m. | 7 hours, 7 minutes ago Description :The MongoDB Java driver applies its DNS seedlist domain restriction to a record value that is later...",
+      "source": "CVE Feed",
+      "published": "2026-11-19T21:17:51+00:00"
+    },
+    {
       "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
       "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
       "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages...",
@@ -23,179 +219,11 @@
       "published": "2026-11-19T21:15:59+00:00"
     },
     {
-      "title": "CVE-2026-129932 - Attacker able to redirect a Java driver client to a host they own, surviving TLS certificate verification, via an SRV parent-domain bypass",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129932",
-      "summary": "CVE ID :CVE-2026-129932 Published : Nov. 19, 2026, 8:51 p.m. | 9 minutes ago Description :The MongoDB Java driver applies its DNS seedlist domain restriction to a record value that is later...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:51:24+00:00"
-    },
-    {
       "title": "CVE-2026-76544 - SPL Injection through Metric Alert Filters in Splunk Enterprise",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-76544",
-      "summary": "CVE ID :CVE-2026-76544 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk Enterprise versions below 10.4.5, 10.2.9, 10.0.12, and 9.4.16, a user who does not hold the \"admin\"...",
+      "summary": "CVE ID :CVE-2026-76544 Published : Nov. 19, 2026, 8:17 p.m. | 8 hours, 7 minutes ago Description :In Splunk Enterprise versions below 10.4.5, 10.2.9, 10.0.12, and 9.4.16, a user who does not hold the...",
       "source": "CVE Feed",
       "published": "2026-11-19T20:17:53+00:00"
-    },
-    {
-      "title": "CVE-2026-76540 - Improper Authorization through the REST API in Splunk Enterprise",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76540",
-      "summary": "CVE ID :CVE-2026-76540 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk Enterprise versions below 9.4.17, 10.0.12, 10.2.9, and 10.4.5, a user who does not hold the \"admin\"...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:53+00:00"
-    },
-    {
-      "title": "CVE-2026-76538 - SPL Injection through the REST API in Splunk Enterprise",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76538",
-      "summary": "CVE ID :CVE-2026-76538 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk Enterprise versions below 10.4.5, 10.2.9, 10.0.12, and 9.4.16, a user who does not hold the \"admin\"...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:53+00:00"
-    },
-    {
-      "title": "CVE-2026-76536 - Authentication Bypass through the Cluster Configuration REST API in Splunk Enterprise",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76536",
-      "summary": "CVE ID :CVE-2026-76536 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk Enterprise versions below 10.4.5, 10.2.9, 10.0.12, and 9.4.17, an unauthenticated user could use an...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:52+00:00"
-    },
-    {
-      "title": "CVE-2026-76535 - Authentication Bypass through the RapidDiag REST API in Splunk Enterprise",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-76535",
-      "summary": "CVE ID :CVE-2026-76535 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk Enterprise versions below 10.6.1, 10.4.5, 10.2.9, 10.0.12, and 9.4.17, an unauthenticated user...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:52+00:00"
-    },
-    {
-      "title": "CVE-2026-131305 - Improper Input Validation through the REST API in Splunk AI Assistant",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131305",
-      "summary": "CVE ID :CVE-2026-131305 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk AI Assistant versions below 2.0.0, a user who does not hold the \"admin\" or \"power\" Splunk roles...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:46+00:00"
-    },
-    {
-      "title": "CVE-2026-131304 - Authorization Bypass through the REST API in Splunk AI Assistant",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131304",
-      "summary": "CVE ID :CVE-2026-131304 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk AI Assistant versions below 2.0.0 a user who does not hold the \"admin\" or \"power\" Splunk roles...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:46+00:00"
-    },
-    {
-      "title": "CVE-2026-131297 - Single Sign-On Authentication Bypass in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131297",
-      "summary": "CVE ID :CVE-2026-131297 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, an operator of a configured identity provider could authenticate as an...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:45+00:00"
-    },
-    {
-      "title": "CVE-2026-131295 - Improper Authorization in Playbook Execution in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131295",
-      "summary": "CVE ID :CVE-2026-131295 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, an authenticated user with permission to create and run playbooks could...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:45+00:00"
-    },
-    {
-      "title": "CVE-2026-131293 - Improper Access Control in the Data Management Automation API in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131293",
-      "summary": "CVE ID :CVE-2026-131293 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, an authenticated user with permission to edit and run playbooks could...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:45+00:00"
-    },
-    {
-      "title": "CVE-2026-131287 - Remote Code Execution (RCE) through the REST API in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131287",
-      "summary": "CVE ID :CVE-2026-131287 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, a user that holds a role with the Playbooks view, edit, execute, and...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:44+00:00"
-    },
-    {
-      "title": "CVE-2026-131282 - Information Exposure through the REST API in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131282",
-      "summary": "CVE ID :CVE-2026-131282 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, a user who holds the \"Observer\" Splunk SOAR role could access a...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:43+00:00"
-    },
-    {
-      "title": "CVE-2026-131271 - Improper Access Control through the REST API in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131271",
-      "summary": "CVE ID :CVE-2026-131271 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, an authenticated user with permission to view and edit containers for...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:42+00:00"
-    },
-    {
-      "title": "CVE-2026-131270 - Path Traversal through the REST API in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131270",
-      "summary": "CVE ID :CVE-2026-131270 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, an authenticated user with repository edit access could cause Splunk...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:42+00:00"
-    },
-    {
-      "title": "CVE-2026-131269 - Remote Code Execution (RCE) through Python Dependencies in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131269",
-      "summary": "CVE ID :CVE-2026-131269 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, a user that holds a role with the Apps edit permission could cause...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:42+00:00"
-    },
-    {
-      "title": "CVE-2026-131263 - Argument Injection during App Installation in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131263",
-      "summary": "CVE ID :CVE-2026-131263 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, a user that holds a role with only the apps:edit permission could...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:41+00:00"
-    },
-    {
-      "title": "CVE-2026-131261 - Remote Code Execution (RCE) through the REST API in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131261",
-      "summary": "CVE ID :CVE-2026-131261 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, a user that holds a role with the Apps edit permission could execute...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:41+00:00"
-    },
-    {
-      "title": "CVE-2026-131260 - Cross-Site Scripting (XSS) through the REST API in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131260",
-      "summary": "CVE ID :CVE-2026-131260 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, a user with the containers:edit permission could import a container...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:41+00:00"
-    },
-    {
-      "title": "CVE-2026-131258 - Stored Cross-Site Scripting (XSS) through the REST API in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131258",
-      "summary": "CVE ID :CVE-2026-131258 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, a user with edit permission for a container or workbook task could...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:41+00:00"
-    },
-    {
-      "title": "CVE-2026-131253 - Remote Code Execution (RCE) through the App Wizard in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131253",
-      "summary": "CVE ID :CVE-2026-131253 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, an authenticated user that holds a role with the Apps edit, Containers...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:40+00:00"
-    },
-    {
-      "title": "CVE-2026-131252 - Missing Authorization in Cross-Tenant Asset Management through the REST API in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131252",
-      "summary": "CVE ID :CVE-2026-131252 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, a user that holds a role with the Assets edit or delete permission and...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:40+00:00"
-    },
-    {
-      "title": "CVE-2026-131246 - Information Disclosure through REST API External Prompts in Splunk SOAR",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131246",
-      "summary": "CVE ID :CVE-2026-131246 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk SOAR versions below 8.8.0, an authenticated user with edit permission for the container label on a...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:39+00:00"
-    },
-    {
-      "title": "CVE-2026-131236 - SPL Injection through Splunk Web Workflow Actions in Splunk Enterprise Security",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131236",
-      "summary": "CVE ID :CVE-2026-131236 Published : Nov. 19, 2026, 8:17 p.m. | 42 minutes ago Description :In Splunk Enterprise Security versions below 8.7.0, an unauthenticated user who can influence indexed event...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:38+00:00"
-    },
-    {
-      "title": "CVE-2026-131218 - SPL Injection through the Mission Control REST API in Splunk Enterprise Security",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-131218",
-      "summary": "CVE ID :CVE-2026-131218 Published : Nov. 19, 2026, 8:17 p.m. | 43 minutes ago Description :In Splunk Enterprise Security versions below 8.7.0, a user that holds a role with the mc_investigation_read...",
-      "source": "CVE Feed",
-      "published": "2026-11-19T20:17:35+00:00"
     },
     {
       "title": "Second Norwegian Energy Company Breached in Two Days",
@@ -207,8 +235,8 @@
     {
       "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
       "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
-      "summary": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
-      "source": "Dark Reading",
+      "summary": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style 5 Min ReadSource: scanrail via Getty ImagesThe PHP team has released a new security update fixing a wide swath of...",
+      "source": "CVE Newsroom",
       "published": "2026-11-19T19:57:31+00:00"
     },
     {
@@ -263,8 +291,8 @@
     {
       "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
       "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable...",
-      "source": "The Hacker News",
+      "summary": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a...",
+      "source": "CVE Newsroom",
       "published": "2026-11-19T16:59:56+00:00"
     },
     {
@@ -291,8 +319,8 @@
     {
       "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
       "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including...",
-      "source": "The Hacker News",
+      "summary": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited...",
+      "source": "CVE Newsroom",
       "published": "2026-11-19T15:18:07+00:00"
     },
     {
@@ -305,8 +333,8 @@
     {
       "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
       "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published...",
-      "source": "The Hacker News",
+      "summary": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized...",
+      "source": "CVE Newsroom",
       "published": "2026-11-19T15:11:06+00:00"
     },
     {
@@ -326,8 +354,8 @@
     {
       "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
       "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a...",
-      "source": "The Hacker News",
+      "summary": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without...",
+      "source": "CVE Newsroom",
       "published": "2026-11-19T14:33:06+00:00"
     },
     {
@@ -373,13 +401,6 @@
       "published": "2026-11-19T12:13:24+00:00"
     },
     {
-      "title": "The Governance Gap in Open-Weight AI and What to Do About It",
-      "link": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
-      "summary": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight...",
-      "source": "SecurityWeek",
-      "published": "2026-11-19T12:00:00+00:00"
-    },
-    {
       "title": "Elecbrakes EB2, VM1, ELBC2000",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake...",
@@ -401,10 +422,17 @@
       "published": "2026-11-19T12:00:00+00:00"
     },
     {
+      "title": "The Governance Gap in Open-Weight AI and What to Do About It",
+      "link": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
+      "summary": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight...",
+      "source": "SecurityWeek",
+      "published": "2026-11-19T12:00:00+00:00"
+    },
+    {
       "title": "Everything Is a Web Application, Including Your Firewall",
       "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and...",
-      "source": "The Hacker News",
+      "summary": "Everything Is a Web Application, Including Your Firewall One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were...",
+      "source": "CVE Newsroom",
       "published": "2026-11-19T11:52:23+00:00"
     },
     {
@@ -480,15 +508,15 @@
     {
       "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
       "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in...",
-      "source": "The Hacker News",
+      "summary": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle Low-privilege database accounts that cannot read a single application table can still be used to run code on the...",
+      "source": "CVE Newsroom",
       "published": "2026-11-19T08:14:00+00:00"
     },
     {
       "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
       "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt...",
-      "source": "The Hacker News",
+      "summary": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities...",
+      "source": "CVE Newsroom",
       "published": "2026-11-19T08:00:00+00:00"
     },
     {
@@ -501,8 +529,8 @@
     {
       "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
       "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026...",
-      "source": "The Hacker News",
+      "summary": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19 The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming...",
+      "source": "CVE Newsroom",
       "published": "2026-11-19T04:33:46+00:00"
     },
     {
@@ -550,15 +578,15 @@
     {
       "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
       "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been...",
-      "source": "The Hacker News",
+      "summary": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing...",
+      "source": "CVE Newsroom",
       "published": "2026-11-18T18:31:17+00:00"
     },
     {
       "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
       "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific...",
-      "source": "The Hacker News",
+      "summary": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM)...",
+      "source": "CVE Newsroom",
       "published": "2026-11-18T18:15:39+00:00"
     },
     {
@@ -571,8 +599,8 @@
     {
       "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
       "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The...",
-      "source": "The Hacker News",
+      "summary": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active...",
+      "source": "CVE Newsroom",
       "published": "2026-11-18T17:10:45+00:00"
     },
     {
@@ -588,13 +616,6 @@
       "summary": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem Source: Nikreats via Alamy Stock PhotoA critical flaw in an open source runtime at the heart of the Java programming language...",
       "source": "CVE Newsroom",
       "published": "2026-11-18T16:54:52+00:00"
-    },
-    {
-      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-      "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-      "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world...",
-      "source": "BleepingComputer",
-      "published": "2026-11-18T15:00:10+00:00"
     },
     {
       "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
@@ -627,15 +648,15 @@
     {
       "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
       "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-      "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That...",
-      "source": "The Hacker News",
+      "summary": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by...",
+      "source": "CVE Newsroom",
       "published": "2026-11-18T12:28:30+00:00"
     },
     {
       "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
       "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-      "summary": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or...",
-      "source": "The Hacker News",
+      "summary": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In...",
+      "source": "CVE Newsroom",
       "published": "2026-11-18T12:15:00+00:00"
     },
     {
@@ -665,13 +686,6 @@
       "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with...",
       "source": "The Hacker News",
       "published": "2026-11-18T11:03:57+00:00"
-    },
-    {
-      "title": "Vulnerability in Axence nVision software",
-      "link": "https://cert.pl/en/posts/2026/11/CVE-2026-87850/",
-      "summary": "Vulnerability in Axence nVision software Vulnerability in Axence nVision software CVE ID CVE-2026-87850 Publication date 18 November 2026 Vendor Axence Product nVision Vulnerable versions All before...",
-      "source": "CVE Newsroom",
-      "published": "2026-11-18T10:55:00+00:00"
     },
     {
       "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
@@ -1339,13 +1353,6 @@
       "published": "2026-11-06T12:00:00+00:00"
     },
     {
-      "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
-      "link": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
-      "summary": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.",
-      "source": "Dark Reading",
-      "published": "2026-11-06T09:00:00+00:00"
-    },
-    {
       "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
       "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
       "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department...",
@@ -1393,13 +1400,6 @@
       "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an...",
       "source": "Krebs on Security",
       "published": "2026-10-21T15:26:07+00:00"
-    },
-    {
-      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who...",
-      "source": "Krebs on Security",
-      "published": "2026-10-19T13:48:56+00:00"
     }
   ]
 }
