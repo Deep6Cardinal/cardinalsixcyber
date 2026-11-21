@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-11-21T04:53:14.140044+00:00",
+  "last_updated": "2026-11-21T13:55:31.028474+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-129811 - CoE PDO Mapping Size Exceeds Process Data Buffer Out-of-Bounds Write",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129811",
+      "summary": "CVE ID :CVE-2026-129811 Published : Nov. 21, 2026, 1:16 p.m. | 20 minutes ago Description :The PDO mapping bit lengths stored in the mapping objects are writable by the master via SDO. sizeOfPDO...",
+      "source": "CVE Feed",
+      "published": "2026-11-21T13:16:40+00:00"
+    },
+    {
+      "title": "CVE-2026-129798 - CoE SDO Segmented Download Cumulative Out-of-Bounds Write",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129798",
+      "summary": "CVE ID :CVE-2026-129798 Published : Nov. 21, 2026, 1:16 p.m. | 20 minutes ago Description :The CoE SDO segmented download handler advances a write pointer by each incoming segment's size but does not...",
+      "source": "CVE Feed",
+      "published": "2026-11-21T13:16:39+00:00"
+    },
+    {
+      "title": "CVE-2026-129797 - CoE SDO Segmented Download Missing State Guard",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129797",
+      "summary": "CVE ID :CVE-2026-129797 Published : Nov. 21, 2026, 1:16 p.m. | 20 minutes ago Description :SDO_downloadsegment is called whenever a mailbox frame carries the DOWNLOADSEGREQ command byte, regardless...",
+      "source": "CVE Feed",
+      "published": "2026-11-21T13:16:39+00:00"
+    },
+    {
+      "title": "CVE-2026-129796 - CoE SDO Download Bounds Check Failures on Flexible-Length Objects",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129796",
+      "summary": "CVE ID :CVE-2026-129796 Published : Nov. 21, 2026, 1:16 p.m. | 20 minutes ago Description :The CoE SDO download handler for flexible-length objects (VISIBLE_STRING, OCTET_STRING, and similar) does...",
+      "source": "CVE Feed",
+      "published": "2026-11-21T13:16:38+00:00"
+    },
+    {
+      "title": "CVE-2026-129794 - EoE Fragment Reassembly Heap Out-of-Bounds Write",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129794",
+      "summary": "CVE ID :CVE-2026-129794 Published : Nov. 21, 2026, 1:16 p.m. | 20 minutes ago Description :The EoE fragment reassembly code uses a frame size from the wire as the bound for memcpy into the...",
+      "source": "CVE Feed",
+      "published": "2026-11-21T13:16:38+00:00"
+    },
+    {
+      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+      "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+      "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day...",
+      "source": "SecurityWeek",
+      "published": "2026-11-21T12:08:50+00:00"
+    },
+    {
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could...",
+      "source": "The Hacker News",
+      "published": "2026-11-21T11:53:07+00:00"
+    },
+    {
+      "title": "CVE-2026-129344 - Client-selected V1 serializer crashes shared broadcast dispatch on binary payloads",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129344",
+      "summary": "CVE ID :CVE-2026-129344 Published : Nov. 21, 2026, 11:16 a.m. | 2 hours, 20 minutes ago Description :Uncaught Exception vulnerability in phoenixframework phoenix allows an unauthenticated attacker to...",
+      "source": "CVE Feed",
+      "published": "2026-11-21T11:16:39+00:00"
+    },
+    {
+      "title": "CVE-2026-128361 - Unsanitized presence key crashes Presence tracker",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-128361",
+      "summary": "CVE ID :CVE-2026-128361 Published : Nov. 21, 2026, 11:16 a.m. | 2 hours, 20 minutes ago Description :Improper Input Validation vulnerability in phoenixframework phoenix (Phoenix.Presence) allows an...",
+      "source": "CVE Feed",
+      "published": "2026-11-21T11:16:38+00:00"
+    },
+    {
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "summary": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-21T11:05:53+00:00"
+    },
+    {
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "summary": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-21T11:03:17+00:00"
+    },
+    {
+      "title": "CVE-2026-118049 - Tutor LMS <= 4.2.0 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Content Deletion via 'question_id' Parameter",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-118049",
+      "summary": "CVE ID :CVE-2026-118049 Published : Nov. 21, 2026, 10:16 a.m. | 3 hours, 20 minutes ago Description :The Tutor LMS – eLearning and online course solution plugin for WordPress is vulnerable to...",
+      "source": "CVE Feed",
+      "published": "2026-11-21T10:16:50+00:00"
+    },
+    {
+      "title": "Ruby2Shell: A One-Byte Overflow to RCE",
+      "link": "https://thecyberthrone.in/2026/11/21/ruby2shell-a-one-byte-overflow-to-rce/",
+      "summary": "Ruby2Shell: A One-Byte Overflow to RCE Ruby has become the latest programming language to attract serious security attention with the disclosure of Ruby2Shell, a heap-based buffer overflow...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-21T09:48:58+00:00"
+    },
+    {
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection...",
+      "source": "The Hacker News",
+      "published": "2026-11-21T08:49:20+00:00"
+    },
+    {
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "summary": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-21T08:49:13+00:00"
+    },
+    {
+      "title": "CISA KEV Weekly Briefing: Week 47",
+      "link": "https://thecyberthrone.in/2026/11/21/cisa-kev-weekly-briefing-week-47/",
+      "summary": "CISA KEV Weekly Briefing: Week 47 CISA’s Known Exploited Vulnerabilities (KEV) Catalog continues to highlight security weaknesses that have moved beyond theoretical risk into known...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-21T07:21:05+00:00"
+    },
+    {
+      "title": "CVE-2026-129220 - Everest Forms <= 3.6.4 - Authenticated (Custom+) Missing Authorization to Arbitrary Plugin Activation via 'moduleData' Parameter",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129220",
+      "summary": "CVE ID :CVE-2026-129220 Published : Nov. 21, 2026, 7:16 a.m. | 6 hours, 20 minutes ago Description :The Everest Forms – Contact Form, Payment Form, Quiz, Survey & Custom Form Builder with AI plugin...",
+      "source": "CVE Feed",
+      "published": "2026-11-21T07:16:41+00:00"
+    },
+    {
+      "title": "CVE-2026-123086 - PublishPress Revisions: Duplicate Posts, Submit, Approve and Schedule Content Changes <= 4.3.4 - Missing Authorization to Authenticated (Contributor+) Arbitrary Post Deletion via 'pp_revisions_deleted' Parameter",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-123086",
+      "summary": "CVE ID :CVE-2026-123086 Published : Nov. 21, 2026, 7:16 a.m. | 6 hours, 20 minutes ago Description :The PublishPress Revisions: Duplicate Posts, Submit, Approve and Schedule Content Changes plugin...",
+      "source": "CVE Feed",
+      "published": "2026-11-21T07:16:39+00:00"
+    },
+    {
+      "title": "CVE-2026-120539 - Restrictions for BuddyPress <= 1.5.4 - Unauthenticated Remote Code Execution via Request URI String Interpolation in eval()",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-120539",
+      "summary": "CVE ID :CVE-2026-120539 Published : Nov. 21, 2026, 6:16 a.m. | 7 hours, 20 minutes ago Description :The Restrictions for BuddyPress plugin for WordPress is vulnerable to Remote Code Execution in all...",
+      "source": "CVE Feed",
+      "published": "2026-11-21T06:16:33+00:00"
+    },
+    {
+      "title": "CVE-2026-19793 - WP Import Export Lite <= 3.9.32 - Unauthenticated Stored Code Execution via Placeholder Substitution in Imported Comment Content",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-19793",
+      "summary": "CVE ID :CVE-2026-19793 Published : Nov. 21, 2026, 4:17 a.m. | 9 hours, 19 minutes ago Description :The WP Import Export Lite plugin for WordPress is vulnerable to Limited Code Injection in all...",
+      "source": "CVE Feed",
+      "published": "2026-11-21T04:17:20+00:00"
+    },
     {
       "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
       "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
@@ -11,35 +151,35 @@
     {
       "title": "CVE-2026-134172 - audio-separator before 0.47.2 RCE via Unsafe Pickle Deserialization of Demucs Models",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134172",
-      "summary": "CVE ID :CVE-2026-134172 Published : Nov. 20, 2026, 11:16 p.m. | 3 hours, 42 minutes ago Description :audio-separator before 0.47.2 contains an insecure deserialization vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-134172 Published : Nov. 20, 2026, 11:16 p.m. | 14 hours, 20 minutes ago Description :audio-separator before 0.47.2 contains an insecure deserialization vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-11-20T23:16:59+00:00"
     },
     {
       "title": "CVE-2026-134170 - Cesanta Mongoose 7.22 before 7.24 Out-of-Bounds Read via mg_timegm",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134170",
-      "summary": "CVE ID :CVE-2026-134170 Published : Nov. 20, 2026, 11:16 p.m. | 3 hours, 42 minutes ago Description :Cesanta Mongoose 7.22 before 7.24 with the built-in TLS stack contains an out-of-bounds read in...",
+      "summary": "CVE ID :CVE-2026-134170 Published : Nov. 20, 2026, 11:16 p.m. | 14 hours, 20 minutes ago Description :Cesanta Mongoose 7.22 before 7.24 with the built-in TLS stack contains an out-of-bounds read in...",
       "source": "CVE Feed",
       "published": "2026-11-20T23:16:59+00:00"
     },
     {
       "title": "CVE-2026-134169 - Qwik City before 1.20.3 and Router before 2.0.0-rc.4 DoS via formToObj",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134169",
-      "summary": "CVE ID :CVE-2026-134169 Published : Nov. 20, 2026, 11:16 p.m. | 3 hours, 42 minutes ago Description :Qwik City before 1.20.3 (@builder.io/qwik-city) and @qwik.dev/router before 2.0.0-rc.4 contain an...",
+      "summary": "CVE ID :CVE-2026-134169 Published : Nov. 20, 2026, 11:16 p.m. | 14 hours, 20 minutes ago Description :Qwik City before 1.20.3 (@builder.io/qwik-city) and @qwik.dev/router before 2.0.0-rc.4 contain an...",
       "source": "CVE Feed",
       "published": "2026-11-20T23:16:58+00:00"
     },
     {
       "title": "CVE-2026-134167 - devpi-web before 5.2.0 Unauthenticated Path Traversal via +doc Route",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134167",
-      "summary": "CVE ID :CVE-2026-134167 Published : Nov. 20, 2026, 11:16 p.m. | 3 hours, 42 minutes ago Description :devpi-web before 5.2.0 contains an unauthenticated path traversal vulnerability in the +doc...",
+      "summary": "CVE ID :CVE-2026-134167 Published : Nov. 20, 2026, 11:16 p.m. | 14 hours, 20 minutes ago Description :devpi-web before 5.2.0 contains an unauthenticated path traversal vulnerability in the +doc...",
       "source": "CVE Feed",
       "published": "2026-11-20T23:16:58+00:00"
     },
     {
       "title": "CVE-2026-134164 - probe-image-size before 7.5.0 Denial of Service via EXIF Sub-IFD Traversal",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134164",
-      "summary": "CVE ID :CVE-2026-134164 Published : Nov. 20, 2026, 11:16 p.m. | 3 hours, 42 minutes ago Description :probe-image-size before 7.5.0 contains an algorithmic-complexity denial of service vulnerability...",
+      "summary": "CVE ID :CVE-2026-134164 Published : Nov. 20, 2026, 11:16 p.m. | 14 hours, 20 minutes ago Description :probe-image-size before 7.5.0 contains an algorithmic-complexity denial of service vulnerability...",
       "source": "CVE Feed",
       "published": "2026-11-20T23:16:58+00:00"
     },
@@ -74,49 +214,49 @@
     {
       "title": "CVE-2026-54039 - LibreChat: Pre-registration account takeover via attacker-controlled `provider` field and social-login email fallback",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-54039",
-      "summary": "CVE ID :CVE-2026-54039 Published : Nov. 20, 2026, 8:17 p.m. | 6 hours, 42 minutes ago Description :LibreChat is an enhanced ChatGPT clone that supports multiple AI providers. From 0.7.0 until 0.8.6...",
+      "summary": "CVE ID :CVE-2026-54039 Published : Nov. 20, 2026, 8:17 p.m. | 17 hours, 19 minutes ago Description :LibreChat is an enhanced ChatGPT clone that supports multiple AI providers. From 0.7.0 until 0.8.6...",
       "source": "CVE Feed",
       "published": "2026-11-20T20:17:42+00:00"
     },
     {
       "title": "CVE-2026-134052 - Open Robotics RViz fillIndexBuffer Heap-based Buffer Overflow Remote Code Execution Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134052",
-      "summary": "CVE ID :CVE-2026-134052 Published : Nov. 20, 2026, 8:17 p.m. | 6 hours, 42 minutes ago Description :Open Robotics RViz fillIndexBuffer Heap-based Buffer Overflow Remote Code Execution Vulnerability...",
+      "summary": "CVE ID :CVE-2026-134052 Published : Nov. 20, 2026, 8:17 p.m. | 17 hours, 19 minutes ago Description :Open Robotics RViz fillIndexBuffer Heap-based Buffer Overflow Remote Code Execution Vulnerability...",
       "source": "CVE Feed",
       "published": "2026-11-20T20:17:39+00:00"
     },
     {
       "title": "CVE-2026-133680 - D-Link DCS-935L Local Recording CGI setconf.cgi loginRouter os command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-133680",
-      "summary": "CVE ID :CVE-2026-133680 Published : Nov. 20, 2026, 8:17 p.m. | 6 hours, 42 minutes ago Description :A vulnerability was found in D-Link DCS-935L 1.10.01. This affects the function loginRouter of the...",
+      "summary": "CVE ID :CVE-2026-133680 Published : Nov. 20, 2026, 8:17 p.m. | 17 hours, 19 minutes ago Description :A vulnerability was found in D-Link DCS-935L 1.10.01. This affects the function loginRouter of the...",
       "source": "CVE Feed",
       "published": "2026-11-20T20:17:35+00:00"
     },
     {
       "title": "CVE-2026-129179 - U.S Department of the Interior Unstable Slope Management Program authentication mechanism bypass through client-controlled flow selection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129179",
-      "summary": "CVE ID :CVE-2026-129179 Published : Nov. 20, 2026, 8:17 p.m. | 6 hours, 42 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program allows attackers with valid local...",
+      "summary": "CVE ID :CVE-2026-129179 Published : Nov. 20, 2026, 8:17 p.m. | 17 hours, 19 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program allows attackers with valid local...",
       "source": "CVE Feed",
       "published": "2026-11-20T20:17:22+00:00"
     },
     {
       "title": "CVE-2026-129177 - U.S Department of the Interior Unstable Slope Management Program unauthenticated user creation",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129177",
-      "summary": "CVE ID :CVE-2026-129177 Published : Nov. 20, 2026, 8:17 p.m. | 6 hours, 42 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program contains a vulnerable endpoint...",
+      "summary": "CVE ID :CVE-2026-129177 Published : Nov. 20, 2026, 8:17 p.m. | 17 hours, 19 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program contains a vulnerable endpoint...",
       "source": "CVE Feed",
       "published": "2026-11-20T20:17:22+00:00"
     },
     {
       "title": "CVE-2026-129176 - U.S Department of the Interior Unstable Slope Management Program unauthenticated user deletion",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129176",
-      "summary": "CVE ID :CVE-2026-129176 Published : Nov. 20, 2026, 8:17 p.m. | 6 hours, 42 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program accepts a POST request from an...",
+      "summary": "CVE ID :CVE-2026-129176 Published : Nov. 20, 2026, 8:17 p.m. | 17 hours, 19 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program accepts a POST request from an...",
       "source": "CVE Feed",
       "published": "2026-11-20T20:17:22+00:00"
     },
     {
       "title": "CVE-2026-129175 - U.S Department of the Interior Unstable Slope Management Program unauthenticated SQL Injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129175",
-      "summary": "CVE ID :CVE-2026-129175 Published : Nov. 20, 2026, 8:17 p.m. | 6 hours, 42 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program allows an unauthenticated user to...",
+      "summary": "CVE ID :CVE-2026-129175 Published : Nov. 20, 2026, 8:17 p.m. | 17 hours, 19 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program allows an unauthenticated user to...",
       "source": "CVE Feed",
       "published": "2026-11-20T20:17:21+00:00"
     },
@@ -137,93 +277,9 @@
     {
       "title": "CVE-2026-96805 - Elecbrakes Missing Authentication for Critical Function",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-96805",
-      "summary": "CVE ID :CVE-2026-96805 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :The affected products have an unauthenticated command injection, which may allow an in-range BLE...",
+      "summary": "CVE ID :CVE-2026-96805 Published : Nov. 20, 2026, 7:18 p.m. | 18 hours, 18 minutes ago Description :The affected products have an unauthenticated command injection, which may allow an in-range BLE...",
       "source": "CVE Feed",
       "published": "2026-11-20T19:18:58+00:00"
-    },
-    {
-      "title": "CVE-2026-94598 - NukeViet CMS: Stored XSS via internal marker injection in iframe srcdoc sanitization",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-94598",
-      "summary": "CVE ID :CVE-2026-94598 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :NukeViet CMS is a multi Content Management System. From 4.5.08 until 4.5.12 and 4.6.02, an attacker...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:57+00:00"
-    },
-    {
-      "title": "CVE-2026-94567 - NukeViet CMS: Stored XSS via SVG upload: the sanitizer is blind to markup hidden inside an internal DTD entity",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-94567",
-      "summary": "CVE ID :CVE-2026-94567 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :NukeViet CMS is a multi Content Management System. Prior to 4.5.12 and 4.6.02, an attacker with...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:56+00:00"
-    },
-    {
-      "title": "CVE-2026-94565 - NukeViet CMS: Unauthenticated Stored XSS in the Contact module",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-94565",
-      "summary": "CVE ID :CVE-2026-94565 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :NukeViet CMS is a multi Content Management System. From the 3.x release line until 4.6.01, an...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:56+00:00"
-    },
-    {
-      "title": "CVE-2026-94564 - NukeViet CMS: Unauthenticated Stored XSS in the Contact module via HTML sanitizer bypass",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-94564",
-      "summary": "CVE ID :CVE-2026-94564 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :NukeViet CMS is a multi Content Management System. Prior to 4.6.01, an unauthenticated visitor can...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:56+00:00"
-    },
-    {
-      "title": "CVE-2026-86017 - isomorphic-git: Arbitrary File Write via Symlink",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-86017",
-      "summary": "CVE ID :CVE-2026-86017 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :isomorphic-git is a pure JavaScript implementation of Git for Node.js and browsers. Prior to 1.38.8...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:55+00:00"
-    },
-    {
-      "title": "CVE-2026-77383 - mcp-ssh-manager: Command injection in mcp-ssh-manager database helpers (ssh_db_list / ssh_db_dump / ssh_db_import)",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77383",
-      "summary": "CVE ID :CVE-2026-77383 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :mcp-ssh-manager is an MCP server for managing servers over SSH with human approval, an encrypted...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:55+00:00"
-    },
-    {
-      "title": "CVE-2026-77355 - isomorphic-git: NTFS .git::$INDEX_ALLOCATION alias bypass writes into the active gitdir",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77355",
-      "summary": "CVE ID :CVE-2026-77355 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :isomorphic-git is a pure JavaScript implementation of Git for Node.js and browsers. Prior to 1.38.7...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:54+00:00"
-    },
-    {
-      "title": "CVE-2026-77347 - Pozeiden: Out-of-bounds read/write (crash / memory corruption) on valid diagrams in grid-layout renderers",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77347",
-      "summary": "CVE ID :CVE-2026-77347 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :Pozeiden is a MermaidJS renderer written in Zig. Prior to 0.3.0, src/renderers/c4.zig...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:54+00:00"
-    },
-    {
-      "title": "CVE-2026-77326 - MapServer: Heap buffer overflow in WMS GetLegendGraphic via repeated LAYER parameters",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-77326",
-      "summary": "CVE ID :CVE-2026-77326 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :MapServer is a system for developing web-based GIS applications. From 8.2.0 until 8.6.5, an...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:54+00:00"
-    },
-    {
-      "title": "CVE-2026-54065 - NukeViet CMS: Path Traversal to Arbitrary File Deletion in Edit Comment Function",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54065",
-      "summary": "CVE ID :CVE-2026-54065 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :NukeViet CMS is a multi Content Management System. Prior to 4.5.09, an authenticated administrator...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:52+00:00"
-    },
-    {
-      "title": "CVE-2026-54064 - NukeViet CMS: Multiple Anti-XSS Filter Bypasses Leading to Stored XSS in News Module",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-54064",
-      "summary": "CVE ID :CVE-2026-54064 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :NukeViet CMS is a multi Content Management System. Prior to 4.5.09, a user with news-posting...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:52+00:00"
-    },
-    {
-      "title": "CVE-2026-49259 - NukeViet: stored XSS through comment reply display names",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-49259",
-      "summary": "CVE ID :CVE-2026-49259 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :NukeViet CMS is a multi Content Management System. From the 4.x release line until 4.5.09, a...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:52+00:00"
     },
     {
       "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
@@ -247,17 +303,17 @@
       "published": "2026-11-20T17:57:20+00:00"
     },
     {
-      "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
-      "link": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
-      "summary": "A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said.",
-      "source": "The Record",
-      "published": "2026-11-20T17:30:00+00:00"
-    },
-    {
       "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
       "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
       "source": "BleepingComputer",
+      "published": "2026-11-20T17:30:00+00:00"
+    },
+    {
+      "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
+      "link": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
+      "summary": "A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said.",
+      "source": "The Record",
       "published": "2026-11-20T17:30:00+00:00"
     },
     {
@@ -562,13 +618,6 @@
       "published": "2026-11-19T16:28:23+00:00"
     },
     {
-      "title": "PHP Patches Seven Critical RCE Vulnerabilities",
-      "link": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
-      "summary": "Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges. The post PHP Patches Seven Critical RCE Vulnerabilities appeared first on...",
-      "source": "SecurityWeek",
-      "published": "2026-11-19T15:54:20+00:00"
-    },
-    {
       "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
       "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
       "summary": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited...",
@@ -639,20 +688,6 @@
       "published": "2026-11-19T11:52:23+00:00"
     },
     {
-      "title": "F5 BIG-IP Under Pressure: Six Critical Vulnerabilities Expose the Traffic Management",
-      "link": "https://thecyberthrone.in/2026/11/19/f5-big-ip-under-pressure-six-critical-vulnerabilities-expose-the-traffic-management/",
-      "summary": "F5 BIG-IP Under Pressure: Six Critical Vulnerabilities Expose the Traffic Management Enterprise infrastructure has a dependency that often receives less attention than the applications it protects...",
-      "source": "CVE Newsroom",
-      "published": "2026-11-19T11:22:59+00:00"
-    },
-    {
-      "title": "Vulnerabilities in MRemoteNG software",
-      "link": "https://cert.pl/en/posts/2026/11/CVE-2026-87867/",
-      "summary": "Vulnerabilities in MRemoteNG software Vulnerabilities in MRemoteNG software CVE ID CVE-2026-87867 Publication date 19 November 2026 Vendor MRemoteNG Product MRemoteNG Vulnerable versions 1.76.20...",
-      "source": "CVE Newsroom",
-      "published": "2026-11-19T10:55:00+00:00"
-    },
-    {
       "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
       "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
       "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces...",
@@ -669,16 +704,9 @@
     {
       "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
       "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "summary": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle Low-privilege database accounts that cannot read a single application table can still be used to run code on the...",
-      "source": "CVE Newsroom",
+      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in...",
+      "source": "The Hacker News",
       "published": "2026-11-19T08:14:00+00:00"
-    },
-    {
-      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-      "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-      "summary": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities...",
-      "source": "CVE Newsroom",
-      "published": "2026-11-19T08:00:00+00:00"
     },
     {
       "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
@@ -688,10 +716,17 @@
       "published": "2026-11-19T08:00:00+00:00"
     },
     {
+      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+      "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt...",
+      "source": "The Hacker News",
+      "published": "2026-11-19T08:00:00+00:00"
+    },
+    {
       "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
       "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "summary": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19 The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming...",
-      "source": "CVE Newsroom",
+      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026...",
+      "source": "The Hacker News",
       "published": "2026-11-19T04:33:46+00:00"
     },
     {
@@ -1071,41 +1106,6 @@
       "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No...",
       "source": "The Hacker News",
       "published": "2026-11-16T12:34:21+00:00"
-    },
-    {
-      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-      "link": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer...",
-      "source": "The Hacker News",
-      "published": "2026-11-16T12:33:18+00:00"
-    },
-    {
-      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-      "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-      "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU...",
-      "source": "The Hacker News",
-      "published": "2026-11-16T09:32:57+00:00"
-    },
-    {
-      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-      "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records...",
-      "source": "The Hacker News",
-      "published": "2026-11-16T07:34:21+00:00"
-    },
-    {
-      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-      "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server...",
-      "source": "The Hacker News",
-      "published": "2026-11-16T06:53:34+00:00"
-    },
-    {
-      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection...",
-      "source": "The Hacker News",
-      "published": "2026-11-15T11:27:31+00:00"
     },
     {
       "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
