@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-11-20T22:26:35.351198+00:00",
+  "last_updated": "2026-11-21T04:53:14.140044+00:00",
   "articles": [
+    {
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been...",
+      "source": "Krebs on Security",
+      "published": "2026-11-21T00:36:39+00:00"
+    },
+    {
+      "title": "CVE-2026-134172 - audio-separator before 0.47.2 RCE via Unsafe Pickle Deserialization of Demucs Models",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134172",
+      "summary": "CVE ID :CVE-2026-134172 Published : Nov. 20, 2026, 11:16 p.m. | 3 hours, 42 minutes ago Description :audio-separator before 0.47.2 contains an insecure deserialization vulnerability that allows...",
+      "source": "CVE Feed",
+      "published": "2026-11-20T23:16:59+00:00"
+    },
+    {
+      "title": "CVE-2026-134170 - Cesanta Mongoose 7.22 before 7.24 Out-of-Bounds Read via mg_timegm",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134170",
+      "summary": "CVE ID :CVE-2026-134170 Published : Nov. 20, 2026, 11:16 p.m. | 3 hours, 42 minutes ago Description :Cesanta Mongoose 7.22 before 7.24 with the built-in TLS stack contains an out-of-bounds read in...",
+      "source": "CVE Feed",
+      "published": "2026-11-20T23:16:59+00:00"
+    },
+    {
+      "title": "CVE-2026-134169 - Qwik City before 1.20.3 and Router before 2.0.0-rc.4 DoS via formToObj",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134169",
+      "summary": "CVE ID :CVE-2026-134169 Published : Nov. 20, 2026, 11:16 p.m. | 3 hours, 42 minutes ago Description :Qwik City before 1.20.3 (@builder.io/qwik-city) and @qwik.dev/router before 2.0.0-rc.4 contain an...",
+      "source": "CVE Feed",
+      "published": "2026-11-20T23:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-134167 - devpi-web before 5.2.0 Unauthenticated Path Traversal via +doc Route",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134167",
+      "summary": "CVE ID :CVE-2026-134167 Published : Nov. 20, 2026, 11:16 p.m. | 3 hours, 42 minutes ago Description :devpi-web before 5.2.0 contains an unauthenticated path traversal vulnerability in the +doc...",
+      "source": "CVE Feed",
+      "published": "2026-11-20T23:16:58+00:00"
+    },
+    {
+      "title": "CVE-2026-134164 - probe-image-size before 7.5.0 Denial of Service via EXIF Sub-IFD Traversal",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134164",
+      "summary": "CVE ID :CVE-2026-134164 Published : Nov. 20, 2026, 11:16 p.m. | 3 hours, 42 minutes ago Description :probe-image-size before 7.5.0 contains an algorithmic-complexity denial of service vulnerability...",
+      "source": "CVE Feed",
+      "published": "2026-11-20T23:16:58+00:00"
+    },
     {
       "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
       "link": "https://therecord.media/west-virginia-legislature-cyberattack",
@@ -11,8 +53,8 @@
     {
       "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
-      "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
-      "source": "Dark Reading",
+      "summary": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day 4 Min ReadSource: Lukas Bischoff via Getty ImagesChinese state-sponsored hackers have been using a newly disclosed VMware zero-day...",
+      "source": "CVE Newsroom",
       "published": "2026-11-20T21:03:27+00:00"
     },
     {
@@ -23,53 +65,67 @@
       "published": "2026-11-20T20:25:00+00:00"
     },
     {
+      "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+      "link": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+      "summary": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825) On November 19, 2026, the Ruby team disclosed ruby2shell (CVE-2026-132825), a heap buffer overflow in the way Ruby changes the case of...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-20T20:24:38+00:00"
+    },
+    {
       "title": "CVE-2026-54039 - LibreChat: Pre-registration account takeover via attacker-controlled `provider` field and social-login email fallback",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-54039",
-      "summary": "CVE ID :CVE-2026-54039 Published : Nov. 20, 2026, 8:17 p.m. | 37 minutes ago Description :LibreChat is an enhanced ChatGPT clone that supports multiple AI providers. From 0.7.0 until 0.8.6, when...",
+      "summary": "CVE ID :CVE-2026-54039 Published : Nov. 20, 2026, 8:17 p.m. | 6 hours, 42 minutes ago Description :LibreChat is an enhanced ChatGPT clone that supports multiple AI providers. From 0.7.0 until 0.8.6...",
       "source": "CVE Feed",
       "published": "2026-11-20T20:17:42+00:00"
     },
     {
       "title": "CVE-2026-134052 - Open Robotics RViz fillIndexBuffer Heap-based Buffer Overflow Remote Code Execution Vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134052",
-      "summary": "CVE ID :CVE-2026-134052 Published : Nov. 20, 2026, 8:17 p.m. | 37 minutes ago Description :Open Robotics RViz fillIndexBuffer Heap-based Buffer Overflow Remote Code Execution Vulnerability. This...",
+      "summary": "CVE ID :CVE-2026-134052 Published : Nov. 20, 2026, 8:17 p.m. | 6 hours, 42 minutes ago Description :Open Robotics RViz fillIndexBuffer Heap-based Buffer Overflow Remote Code Execution Vulnerability...",
       "source": "CVE Feed",
       "published": "2026-11-20T20:17:39+00:00"
     },
     {
       "title": "CVE-2026-133680 - D-Link DCS-935L Local Recording CGI setconf.cgi loginRouter os command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-133680",
-      "summary": "CVE ID :CVE-2026-133680 Published : Nov. 20, 2026, 8:17 p.m. | 37 minutes ago Description :A vulnerability was found in D-Link DCS-935L 1.10.01. This affects the function loginRouter of the file...",
+      "summary": "CVE ID :CVE-2026-133680 Published : Nov. 20, 2026, 8:17 p.m. | 6 hours, 42 minutes ago Description :A vulnerability was found in D-Link DCS-935L 1.10.01. This affects the function loginRouter of the...",
       "source": "CVE Feed",
       "published": "2026-11-20T20:17:35+00:00"
     },
     {
       "title": "CVE-2026-129179 - U.S Department of the Interior Unstable Slope Management Program authentication mechanism bypass through client-controlled flow selection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129179",
-      "summary": "CVE ID :CVE-2026-129179 Published : Nov. 20, 2026, 8:17 p.m. | 37 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program allows attackers with valid local...",
+      "summary": "CVE ID :CVE-2026-129179 Published : Nov. 20, 2026, 8:17 p.m. | 6 hours, 42 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program allows attackers with valid local...",
       "source": "CVE Feed",
       "published": "2026-11-20T20:17:22+00:00"
     },
     {
       "title": "CVE-2026-129177 - U.S Department of the Interior Unstable Slope Management Program unauthenticated user creation",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129177",
-      "summary": "CVE ID :CVE-2026-129177 Published : Nov. 20, 2026, 8:17 p.m. | 37 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program contains a vulnerable endpoint that allows...",
+      "summary": "CVE ID :CVE-2026-129177 Published : Nov. 20, 2026, 8:17 p.m. | 6 hours, 42 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program contains a vulnerable endpoint...",
       "source": "CVE Feed",
       "published": "2026-11-20T20:17:22+00:00"
     },
     {
       "title": "CVE-2026-129176 - U.S Department of the Interior Unstable Slope Management Program unauthenticated user deletion",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129176",
-      "summary": "CVE ID :CVE-2026-129176 Published : Nov. 20, 2026, 8:17 p.m. | 37 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program accepts a POST request from an...",
+      "summary": "CVE ID :CVE-2026-129176 Published : Nov. 20, 2026, 8:17 p.m. | 6 hours, 42 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program accepts a POST request from an...",
       "source": "CVE Feed",
       "published": "2026-11-20T20:17:22+00:00"
     },
     {
       "title": "CVE-2026-129175 - U.S Department of the Interior Unstable Slope Management Program unauthenticated SQL Injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129175",
-      "summary": "CVE ID :CVE-2026-129175 Published : Nov. 20, 2026, 8:17 p.m. | 37 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program allows an unauthenticated user to inject...",
+      "summary": "CVE ID :CVE-2026-129175 Published : Nov. 20, 2026, 8:17 p.m. | 6 hours, 42 minutes ago Description :U.S Department of the Interior Unstable Slope Management Program allows an unauthenticated user to...",
       "source": "CVE Feed",
       "published": "2026-11-20T20:17:21+00:00"
+    },
+    {
+      "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+      "link": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+      "summary": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws On November 19, 2026, the security research company depthfirst disclosed phpAfterShell (CVE-2026-126714), a...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-20T20:00:45+00:00"
     },
     {
       "title": "Container Store restores systems after cyberattack",
@@ -81,128 +137,93 @@
     {
       "title": "CVE-2026-96805 - Elecbrakes Missing Authentication for Critical Function",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-96805",
-      "summary": "CVE ID :CVE-2026-96805 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :The affected products have an unauthenticated command injection, which may allow an in-range BLE...",
+      "summary": "CVE ID :CVE-2026-96805 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :The affected products have an unauthenticated command injection, which may allow an in-range BLE...",
       "source": "CVE Feed",
       "published": "2026-11-20T19:18:58+00:00"
     },
     {
       "title": "CVE-2026-94598 - NukeViet CMS: Stored XSS via internal marker injection in iframe srcdoc sanitization",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-94598",
-      "summary": "CVE ID :CVE-2026-94598 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :NukeViet CMS is a multi Content Management System. From 4.5.08 until 4.5.12 and 4.6.02, an attacker...",
+      "summary": "CVE ID :CVE-2026-94598 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :NukeViet CMS is a multi Content Management System. From 4.5.08 until 4.5.12 and 4.6.02, an attacker...",
       "source": "CVE Feed",
       "published": "2026-11-20T19:18:57+00:00"
     },
     {
       "title": "CVE-2026-94567 - NukeViet CMS: Stored XSS via SVG upload: the sanitizer is blind to markup hidden inside an internal DTD entity",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-94567",
-      "summary": "CVE ID :CVE-2026-94567 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :NukeViet CMS is a multi Content Management System. Prior to 4.5.12 and 4.6.02, an attacker with...",
+      "summary": "CVE ID :CVE-2026-94567 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :NukeViet CMS is a multi Content Management System. Prior to 4.5.12 and 4.6.02, an attacker with...",
       "source": "CVE Feed",
       "published": "2026-11-20T19:18:56+00:00"
     },
     {
       "title": "CVE-2026-94565 - NukeViet CMS: Unauthenticated Stored XSS in the Contact module",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-94565",
-      "summary": "CVE ID :CVE-2026-94565 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :NukeViet CMS is a multi Content Management System. From the 3.x release line until 4.6.01, an...",
+      "summary": "CVE ID :CVE-2026-94565 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :NukeViet CMS is a multi Content Management System. From the 3.x release line until 4.6.01, an...",
       "source": "CVE Feed",
       "published": "2026-11-20T19:18:56+00:00"
     },
     {
       "title": "CVE-2026-94564 - NukeViet CMS: Unauthenticated Stored XSS in the Contact module via HTML sanitizer bypass",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-94564",
-      "summary": "CVE ID :CVE-2026-94564 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :NukeViet CMS is a multi Content Management System. Prior to 4.6.01, an unauthenticated visitor can...",
+      "summary": "CVE ID :CVE-2026-94564 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :NukeViet CMS is a multi Content Management System. Prior to 4.6.01, an unauthenticated visitor can...",
       "source": "CVE Feed",
       "published": "2026-11-20T19:18:56+00:00"
     },
     {
       "title": "CVE-2026-86017 - isomorphic-git: Arbitrary File Write via Symlink",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-86017",
-      "summary": "CVE ID :CVE-2026-86017 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :isomorphic-git is a pure JavaScript implementation of Git for Node.js and browsers. Prior to 1.38.8...",
+      "summary": "CVE ID :CVE-2026-86017 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :isomorphic-git is a pure JavaScript implementation of Git for Node.js and browsers. Prior to 1.38.8...",
       "source": "CVE Feed",
       "published": "2026-11-20T19:18:55+00:00"
     },
     {
       "title": "CVE-2026-77383 - mcp-ssh-manager: Command injection in mcp-ssh-manager database helpers (ssh_db_list / ssh_db_dump / ssh_db_import)",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-77383",
-      "summary": "CVE ID :CVE-2026-77383 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :mcp-ssh-manager is an MCP server for managing servers over SSH with human approval, an encrypted...",
+      "summary": "CVE ID :CVE-2026-77383 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :mcp-ssh-manager is an MCP server for managing servers over SSH with human approval, an encrypted...",
       "source": "CVE Feed",
       "published": "2026-11-20T19:18:55+00:00"
     },
     {
       "title": "CVE-2026-77355 - isomorphic-git: NTFS .git::$INDEX_ALLOCATION alias bypass writes into the active gitdir",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-77355",
-      "summary": "CVE ID :CVE-2026-77355 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :isomorphic-git is a pure JavaScript implementation of Git for Node.js and browsers. Prior to 1.38.7...",
+      "summary": "CVE ID :CVE-2026-77355 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :isomorphic-git is a pure JavaScript implementation of Git for Node.js and browsers. Prior to 1.38.7...",
       "source": "CVE Feed",
       "published": "2026-11-20T19:18:54+00:00"
     },
     {
       "title": "CVE-2026-77347 - Pozeiden: Out-of-bounds read/write (crash / memory corruption) on valid diagrams in grid-layout renderers",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-77347",
-      "summary": "CVE ID :CVE-2026-77347 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :Pozeiden is a MermaidJS renderer written in Zig. Prior to 0.3.0, src/renderers/c4.zig...",
+      "summary": "CVE ID :CVE-2026-77347 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :Pozeiden is a MermaidJS renderer written in Zig. Prior to 0.3.0, src/renderers/c4.zig...",
       "source": "CVE Feed",
       "published": "2026-11-20T19:18:54+00:00"
     },
     {
       "title": "CVE-2026-77326 - MapServer: Heap buffer overflow in WMS GetLegendGraphic via repeated LAYER parameters",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-77326",
-      "summary": "CVE ID :CVE-2026-77326 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :MapServer is a system for developing web-based GIS applications. From 8.2.0 until 8.6.5, an...",
+      "summary": "CVE ID :CVE-2026-77326 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :MapServer is a system for developing web-based GIS applications. From 8.2.0 until 8.6.5, an...",
       "source": "CVE Feed",
       "published": "2026-11-20T19:18:54+00:00"
     },
     {
       "title": "CVE-2026-54065 - NukeViet CMS: Path Traversal to Arbitrary File Deletion in Edit Comment Function",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-54065",
-      "summary": "CVE ID :CVE-2026-54065 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :NukeViet CMS is a multi Content Management System. Prior to 4.5.09, an authenticated administrator...",
+      "summary": "CVE ID :CVE-2026-54065 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :NukeViet CMS is a multi Content Management System. Prior to 4.5.09, an authenticated administrator...",
       "source": "CVE Feed",
       "published": "2026-11-20T19:18:52+00:00"
     },
     {
       "title": "CVE-2026-54064 - NukeViet CMS: Multiple Anti-XSS Filter Bypasses Leading to Stored XSS in News Module",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-54064",
-      "summary": "CVE ID :CVE-2026-54064 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :NukeViet CMS is a multi Content Management System. Prior to 4.5.09, a user with news-posting...",
+      "summary": "CVE ID :CVE-2026-54064 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :NukeViet CMS is a multi Content Management System. Prior to 4.5.09, a user with news-posting...",
       "source": "CVE Feed",
       "published": "2026-11-20T19:18:52+00:00"
     },
     {
       "title": "CVE-2026-49259 - NukeViet: stored XSS through comment reply display names",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-49259",
-      "summary": "CVE ID :CVE-2026-49259 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :NukeViet CMS is a multi Content Management System. From the 4.x release line until 4.5.09, a...",
+      "summary": "CVE ID :CVE-2026-49259 Published : Nov. 20, 2026, 7:18 p.m. | 7 hours, 40 minutes ago Description :NukeViet CMS is a multi Content Management System. From the 4.x release line until 4.5.09, a...",
       "source": "CVE Feed",
       "published": "2026-11-20T19:18:52+00:00"
-    },
-    {
-      "title": "CVE-2026-48118 - NukeViet CMS: Unauthenticated Reflected XSS in Comment Module",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-48118",
-      "summary": "CVE ID :CVE-2026-48118 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :NukeViet CMS is a multi Content Management System. Prior to 4.5.09, the Comment module accepts...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:51+00:00"
-    },
-    {
-      "title": "CVE-2026-133968 - MONAI Label Directory Traversal and Remote Code Execution",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-133968",
-      "summary": "CVE ID :CVE-2026-133968 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :monailabel (aka MONAI Label) through 0.8.5 allows directory traversal, with resultant remote code...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:51+00:00"
-    },
-    {
-      "title": "CVE-2026-133949 - pip bundles compromised eMudhra certificates via certifi",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-133949",
-      "summary": "CVE ID :CVE-2026-133949 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :pip prior to v26.2.2 the certifi bundled with pip contains the compromised eMudhra certificates...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:51+00:00"
-    },
-    {
-      "title": "CVE-2026-129995 - mcp-ssh-manager: Remote code execution (RCE) via command injection in the backup subsystem",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-129995",
-      "summary": "CVE ID :CVE-2026-129995 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :mcp-ssh-manager is an MCP server for managing servers over SSH with human approval, an encrypted...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:44+00:00"
-    },
-    {
-      "title": "CVE-2026-125273 - Elecbrakes Authentication Bypass by Capture-replay",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125273",
-      "summary": "CVE ID :CVE-2026-125273 Published : Nov. 20, 2026, 7:18 p.m. | 1 hour, 36 minutes ago Description :No replay or command-integrity protection. Commands lack sequence numbers, nonces, or session...",
-      "source": "CVE Feed",
-      "published": "2026-11-20T19:18:39+00:00"
     },
     {
       "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
@@ -226,17 +247,17 @@
       "published": "2026-11-20T17:57:20+00:00"
     },
     {
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-11-20T17:30:00+00:00"
-    },
-    {
       "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
       "link": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
       "summary": "A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said.",
       "source": "The Record",
+      "published": "2026-11-20T17:30:00+00:00"
+    },
+    {
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+      "source": "BleepingComputer",
       "published": "2026-11-20T17:30:00+00:00"
     },
     {
@@ -697,23 +718,16 @@
     {
       "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
       "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "summary": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing...",
-      "source": "CVE Newsroom",
+      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been...",
+      "source": "The Hacker News",
       "published": "2026-11-18T18:31:17+00:00"
     },
     {
       "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
       "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "summary": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM)...",
-      "source": "CVE Newsroom",
+      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific...",
+      "source": "The Hacker News",
       "published": "2026-11-18T18:15:39+00:00"
-    },
-    {
-      "title": "CVE-2026-123633 and CVE-2026-123007: Critical NGINX HTTP/2 Vulnerabilities",
-      "link": "https://thecyberthrone.in/2026/11/18/cve-2026-123633-and-cve-2026-123007-critical-nginx-http-2-vulnerabilities/",
-      "summary": "CVE-2026-123633 and CVE-2026-123007: Critical NGINX HTTP/2 Vulnerabilities NGINX is one of the most widely deployed components in modern web infrastructure. It serves as a web server, reverse proxy...",
-      "source": "CVE Newsroom",
-      "published": "2026-11-18T17:11:35+00:00"
     },
     {
       "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
@@ -1386,20 +1400,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication...",
       "source": "CISA Alerts",
       "published": "2026-11-04T12:00:00+00:00"
-    },
-    {
-      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's...",
-      "source": "Krebs on Security",
-      "published": "2026-11-03T02:24:31+00:00"
-    },
-    {
-      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-      "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an...",
-      "source": "Krebs on Security",
-      "published": "2026-10-21T15:26:07+00:00"
     }
   ]
 }
