@@ -1,17 +1,31 @@
 {
-  "last_updated": "2026-11-21T20:18:28.026402+00:00",
+  "last_updated": "2026-11-22T01:48:44.640820+00:00",
   "articles": [
+    {
+      "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+      "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+      "summary": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source...",
+      "source": "SecurityWeek",
+      "published": "2026-11-22T00:53:02+00:00"
+    },
+    {
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in...",
+      "source": "BleepingComputer",
+      "published": "2026-11-21T22:59:58+00:00"
+    },
     {
       "title": "CVE-2026-125294 - Nexter Blocks Pro <= 5.0.10 - Unauthenticated Privilege Escalation to Unicode Collation Confusion in 'tpgb_acf_key' Parameter",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-125294",
-      "summary": "CVE ID :CVE-2026-125294 Published : Nov. 21, 2026, 7:16 p.m. | 1 hour, 1 minute ago Description :The Nexter Blocks Pro plugin for WordPress is vulnerable to Privilege Escalation in all versions up...",
+      "summary": "CVE ID :CVE-2026-125294 Published : Nov. 21, 2026, 7:16 p.m. | 6 hours, 30 minutes ago Description :The Nexter Blocks Pro plugin for WordPress is vulnerable to Privilege Escalation in all versions up...",
       "source": "CVE Feed",
       "published": "2026-11-21T19:16:31+00:00"
     },
     {
       "title": "CVE-2026-133993 - D-Link DIR-600L GENA Subscription gena.cgi FUN_0040efb0 stack-based overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-133993",
-      "summary": "CVE ID :CVE-2026-133993 Published : Nov. 21, 2026, 6:16 p.m. | 2 hours, 1 minute ago Description :A security flaw has been discovered in D-Link DIR-600L 2.17b02. This affects the function...",
+      "summary": "CVE ID :CVE-2026-133993 Published : Nov. 21, 2026, 6:16 p.m. | 7 hours, 29 minutes ago Description :A security flaw has been discovered in D-Link DIR-600L 2.17b02. This affects the function...",
       "source": "CVE Feed",
       "published": "2026-11-21T18:16:54+00:00"
     },
@@ -25,161 +39,161 @@
     {
       "title": "CVE-2026-134461 - Web-Token jwt-framework before 3.4.10 DoS via Unbounded PBES2 p2c Iteration Count",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134461",
-      "summary": "CVE ID :CVE-2026-134461 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Web-Token jwt-framework and jwt-library before 3.4.10, 4.0.0 before 4.0.7, and 4.1.0 before 4.1.7...",
+      "summary": "CVE ID :CVE-2026-134461 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Web-Token jwt-framework and jwt-library before 3.4.10, 4.0.0 before 4.0.7, and 4.1.0 before 4.1.7...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:11+00:00"
     },
     {
       "title": "CVE-2026-134459 - web-token jwt-framework before 3.4.10 RSA1_5 Bleichenbacher Padding Oracle",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134459",
-      "summary": "CVE ID :CVE-2026-134459 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :web-token jwt-framework and jwt-library before 3.4.10, 4.0.x before 4.0.7, and 4.1.x before 4.1.7...",
+      "summary": "CVE ID :CVE-2026-134459 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :web-token jwt-framework and jwt-library before 3.4.10, 4.0.x before 4.0.7, and 4.1.x before 4.1.7...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:11+00:00"
     },
     {
       "title": "CVE-2026-134458 - web-token jwt-framework before 3.4.12 ECDH-ES Weak Key Derivation via ConcatKDF",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134458",
-      "summary": "CVE ID :CVE-2026-134458 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :web-token jwt-framework and jwt-library before 3.4.12, 4.0.x before 4.0.8, 4.1.x before 4.1.10, and...",
+      "summary": "CVE ID :CVE-2026-134458 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :web-token jwt-framework and jwt-library before 3.4.12, 4.0.x before 4.0.8, 4.1.x before 4.1.10, and...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:11+00:00"
     },
     {
       "title": "CVE-2026-134456 - Hysteria 2.5.0 before 2.9.2 Denial of Service via HTTP Sniff Header",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134456",
-      "summary": "CVE ID :CVE-2026-134456 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Hysteria 2.5.0 before 2.9.2 contains a denial of service vulnerability in the HTTP sniff...",
+      "summary": "CVE ID :CVE-2026-134456 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Hysteria 2.5.0 before 2.9.2 contains a denial of service vulnerability in the HTTP sniff...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:10+00:00"
     },
     {
       "title": "CVE-2026-134452 - Dockhand before 1.0.57 RCE via PATH Poisoning in Stack Deploy",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134452",
-      "summary": "CVE ID :CVE-2026-134452 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Dockhand before 1.0.57 merges stack secret environment variables into the environment used to spawn...",
+      "summary": "CVE ID :CVE-2026-134452 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Dockhand before 1.0.57 merges stack secret environment variables into the environment used to spawn...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:10+00:00"
     },
     {
       "title": "CVE-2026-134451 - Dockhand before 1.0.57 Privilege Escalation via OIDC Provider Update Handler",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134451",
-      "summary": "CVE ID :CVE-2026-134451 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Dockhand before 1.0.57 contains a privilege escalation vulnerability that allows non-admin users with...",
+      "summary": "CVE ID :CVE-2026-134451 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Dockhand before 1.0.57 contains a privilege escalation vulnerability that allows non-admin users...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:10+00:00"
     },
     {
       "title": "CVE-2026-134448 - Finsys Dockhand 1.0.7 before 1.0.57 Path Traversal via Stack env/raw Endpoint",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134448",
-      "summary": "CVE ID :CVE-2026-134448 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Finsys Dockhand 1.0.7 before 1.0.57 contains a path traversal vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-134448 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Finsys Dockhand 1.0.7 before 1.0.57 contains a path traversal vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:09+00:00"
     },
     {
       "title": "CVE-2026-134436 - ERPNext 15.8.0 before 15.121.4 Missing Authorization Exposes Transaction Child Table Rows",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134436",
-      "summary": "CVE ID :CVE-2026-134436 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Frappe ERPNext 15.8.0 before 15.121.4 and 16.x before 16.36.0 contains a missing authorization...",
+      "summary": "CVE ID :CVE-2026-134436 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Frappe ERPNext 15.8.0 before 15.121.4 and 16.x before 16.36.0 contains a missing authorization...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:09+00:00"
     },
     {
       "title": "CVE-2026-134435 - Frappe ERPNext before 15.124.2 Missing Authorization in Accounts Clearance Date Endpoint",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134435",
-      "summary": "CVE ID :CVE-2026-134435 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Frappe ERPNext before 15.124.2 and 16.x before 16.50.0 contains a missing authorization vulnerability...",
+      "summary": "CVE ID :CVE-2026-134435 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Frappe ERPNext before 15.124.2 and 16.x before 16.50.0 contains a missing authorization...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:09+00:00"
     },
     {
       "title": "CVE-2026-134434 - Frappe ERPNext 16.0.0 before 16.36.0 Missing Authorization in Manufacturing Stock Reservation Cancellation",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134434",
-      "summary": "CVE ID :CVE-2026-134434 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Frappe ERPNext 16.0.0 before 16.36.0 contains a missing authorization vulnerability in a...",
+      "summary": "CVE ID :CVE-2026-134434 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Frappe ERPNext 16.0.0 before 16.36.0 contains a missing authorization vulnerability in a...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:09+00:00"
     },
     {
       "title": "CVE-2026-134433 - Frappe ERPNext before 15.124.2 Missing Authorization Across Endpoints and Reports",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134433",
-      "summary": "CVE ID :CVE-2026-134433 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Frappe ERPNext before 15.124.2 and 16.x before 16.53.0 fails to enforce record-level authorization in...",
+      "summary": "CVE ID :CVE-2026-134433 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Frappe ERPNext before 15.124.2 and 16.x before 16.53.0 fails to enforce record-level authorization...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:08+00:00"
     },
     {
       "title": "CVE-2026-134429 - Frappe ERPNext before 15.121.4 Missing Authorization in CRM and Support Communications",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134429",
-      "summary": "CVE ID :CVE-2026-134429 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Frappe ERPNext before 15.121.4 and 16.x before 16.36.0 contains a missing authorization vulnerability...",
+      "summary": "CVE ID :CVE-2026-134429 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Frappe ERPNext before 15.121.4 and 16.x before 16.36.0 contains a missing authorization...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:08+00:00"
     },
     {
       "title": "CVE-2026-134428 - Frappe ERPNext 13.0.0 before 15.121.4 Missing Authorization in Stock Module Item Records",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134428",
-      "summary": "CVE ID :CVE-2026-134428 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Frappe ERPNext 13.0.0 before 15.121.4 and 16.x before 16.36.0 contains a missing authorization...",
+      "summary": "CVE ID :CVE-2026-134428 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Frappe ERPNext 13.0.0 before 15.121.4 and 16.x before 16.36.0 contains a missing authorization...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:08+00:00"
     },
     {
       "title": "CVE-2026-134418 - Frappe ERPNext 4.0.0 before 15.122.0 Missing Authorization in Accounts Module Taxes Endpoint",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134418",
-      "summary": "CVE ID :CVE-2026-134418 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Frappe ERPNext 4.0.0 before 15.122.0 and 16.x before 16.50.0 contains a missing authorization...",
+      "summary": "CVE ID :CVE-2026-134418 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Frappe ERPNext 4.0.0 before 15.122.0 and 16.x before 16.50.0 contains a missing authorization...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:06+00:00"
     },
     {
       "title": "CVE-2026-134417 - ERPNext 13.0.0 before 15.121.4 Missing Authorization in Bank Statement Import Endpoint",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134417",
-      "summary": "CVE ID :CVE-2026-134417 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Frappe ERPNext 13.0.0 before 15.121.4 and 16.x before 16.36.0 contains a missing authorization...",
+      "summary": "CVE ID :CVE-2026-134417 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Frappe ERPNext 13.0.0 before 15.121.4 and 16.x before 16.36.0 contains a missing authorization...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:06+00:00"
     },
     {
       "title": "CVE-2026-134411 - Frappe ERPNext 11.1.7 before 15.121.4 Missing Authorization in Regional Module E-Invoice Endpoint",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134411",
-      "summary": "CVE ID :CVE-2026-134411 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Frappe ERPNext 11.1.7 before 15.121.4 and 16.x before 16.36.0 contains a missing authorization...",
+      "summary": "CVE ID :CVE-2026-134411 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Frappe ERPNext 11.1.7 before 15.121.4 and 16.x before 16.36.0 contains a missing authorization...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:05+00:00"
     },
     {
       "title": "CVE-2026-134404 - Frappe ERPNext 6.3.0 before 15.124.0 Missing Authorization in Customer and Supplier Portals",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134404",
-      "summary": "CVE ID :CVE-2026-134404 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Frappe ERPNext 6.3.0 before 15.124.0 and 16.x before 16.52.0 contains a missing authorization...",
+      "summary": "CVE ID :CVE-2026-134404 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Frappe ERPNext 6.3.0 before 15.124.0 and 16.x before 16.52.0 contains a missing authorization...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:03+00:00"
     },
     {
       "title": "CVE-2026-134399 - Frappe ERPNext 8.11.1 before 15.124.0 Unauthorized Document Access via Print and Portal Views",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134399",
-      "summary": "CVE ID :CVE-2026-134399 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Frappe ERPNext 8.11.1 before 15.124.0 and 16.x before 16.52.0 is missing an authorization check in...",
+      "summary": "CVE ID :CVE-2026-134399 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Frappe ERPNext 8.11.1 before 15.124.0 and 16.x before 16.52.0 is missing an authorization check in...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:03+00:00"
     },
     {
       "title": "CVE-2026-134393 - Frappe ERPNext 10.1.41 before 15.122.0 Missing Authorization in Manufacturing BOM Replacement",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134393",
-      "summary": "CVE ID :CVE-2026-134393 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Frappe ERPNext 10.1.41 before 15.122.0 and 16.x before 16.50.0 contains a missing authorization...",
+      "summary": "CVE ID :CVE-2026-134393 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Frappe ERPNext 10.1.41 before 15.122.0 and 16.x before 16.50.0 contains a missing authorization...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:02+00:00"
     },
     {
       "title": "CVE-2026-134389 - Frappe ERPNext 6.18.0 before 15.124.0 Unauthorized Document Access via Payment Requests",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134389",
-      "summary": "CVE ID :CVE-2026-134389 Published : Nov. 21, 2026, 5:17 p.m. | 3 hours, 1 minute ago Description :Frappe ERPNext 6.18.0 before 15.124.0 and 16.x before 16.52.0 contains a missing authorization...",
+      "summary": "CVE ID :CVE-2026-134389 Published : Nov. 21, 2026, 5:17 p.m. | 8 hours, 29 minutes ago Description :Frappe ERPNext 6.18.0 before 15.124.0 and 16.x before 16.52.0 contains a missing authorization...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:17:01+00:00"
     },
     {
       "title": "CVE-2026-134372 - Frappe ERPNext 4.3.0 before 15.121.6 SQL Injection in Selling and Buying Modules",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134372",
-      "summary": "CVE ID :CVE-2026-134372 Published : Nov. 21, 2026, 5:16 p.m. | 3 hours, 1 minute ago Description :Frappe ERPNext 4.3.0 before 15.121.6 and 16.x before 16.37.0 contains an SQL injection vulnerability...",
+      "summary": "CVE ID :CVE-2026-134372 Published : Nov. 21, 2026, 5:16 p.m. | 8 hours, 29 minutes ago Description :Frappe ERPNext 4.3.0 before 15.121.6 and 16.x before 16.37.0 contains an SQL injection...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:16:58+00:00"
     },
     {
       "title": "CVE-2026-134370 - Frappe Framework before 16.33.1 Authenticated Arbitrary File Read via File Attachment Handling",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134370",
-      "summary": "CVE ID :CVE-2026-134370 Published : Nov. 21, 2026, 5:16 p.m. | 3 hours, 1 minute ago Description :Frappe Framework before 15.120.1 and 16.x before 16.33.1 contains a path traversal vulnerability in...",
+      "summary": "CVE ID :CVE-2026-134370 Published : Nov. 21, 2026, 5:16 p.m. | 8 hours, 29 minutes ago Description :Frappe Framework before 15.120.1 and 16.x before 16.33.1 contains a path traversal vulnerability in...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:16:58+00:00"
     },
     {
       "title": "CVE-2026-134367 - pypdf 2.4.2 before 7.0.0 Excessive Memory Usage via XFA Forms",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134367",
-      "summary": "CVE ID :CVE-2026-134367 Published : Nov. 21, 2026, 5:16 p.m. | 3 hours, 1 minute ago Description :pypdf 2.4.2 before 7.0.0 contains a resource exhaustion vulnerability in its handling of XFA forms...",
+      "summary": "CVE ID :CVE-2026-134367 Published : Nov. 21, 2026, 5:16 p.m. | 8 hours, 29 minutes ago Description :pypdf 2.4.2 before 7.0.0 contains a resource exhaustion vulnerability in its handling of XFA forms...",
       "source": "CVE Feed",
       "published": "2026-11-21T17:16:58+00:00"
     },
@@ -198,6 +212,13 @@
       "published": "2026-11-21T14:26:04+00:00"
     },
     {
+      "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+      "link": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+      "summary": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek.",
+      "source": "SecurityWeek",
+      "published": "2026-11-21T13:00:00+00:00"
+    },
+    {
       "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
       "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
       "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day...",
@@ -214,15 +235,15 @@
     {
       "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
       "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
-      "summary": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard...",
-      "source": "CVE Newsroom",
+      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that...",
+      "source": "The Hacker News",
       "published": "2026-11-21T11:05:53+00:00"
     },
     {
       "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
       "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
-      "summary": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an...",
-      "source": "CVE Newsroom",
+      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon...",
+      "source": "The Hacker News",
       "published": "2026-11-21T11:03:17+00:00"
     },
     {
@@ -242,8 +263,8 @@
     {
       "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-      "summary": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache...",
-      "source": "CVE Newsroom",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known...",
+      "source": "The Hacker News",
       "published": "2026-11-21T08:49:13+00:00"
     },
     {
@@ -319,22 +340,22 @@
     {
       "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
       "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "summary": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects...",
-      "source": "CVE Newsroom",
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability...",
+      "source": "The Hacker News",
       "published": "2026-11-20T17:57:20+00:00"
-    },
-    {
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-11-20T17:30:00+00:00"
     },
     {
       "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
       "link": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
       "summary": "A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said.",
       "source": "The Record",
+      "published": "2026-11-20T17:30:00+00:00"
+    },
+    {
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+      "source": "BleepingComputer",
       "published": "2026-11-20T17:30:00+00:00"
     },
     {
@@ -410,8 +431,8 @@
     {
       "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
       "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-      "summary": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory...",
-      "source": "CVE Newsroom",
+      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server...",
+      "source": "The Hacker News",
       "published": "2026-11-20T12:20:00+00:00"
     },
     {
@@ -480,9 +501,16 @@
     {
       "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
-      "summary": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco...",
-      "source": "CVE Newsroom",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept...",
+      "source": "The Hacker News",
       "published": "2026-11-20T10:32:50+00:00"
+    },
+    {
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in...",
+      "source": "The Hacker News",
+      "published": "2026-11-20T09:38:15+00:00"
     },
     {
       "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
@@ -499,25 +527,11 @@
       "published": "2026-11-20T09:08:35+00:00"
     },
     {
-      "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
-      "link": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
-      "summary": "The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak...",
-      "source": "SecurityWeek",
-      "published": "2026-11-20T07:35:46+00:00"
-    },
-    {
       "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
       "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
       "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS...",
       "source": "The Hacker News",
       "published": "2026-11-20T07:11:39+00:00"
-    },
-    {
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-      "summary": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been...",
-      "source": "CVE Newsroom",
-      "published": "2026-11-20T06:33:31+00:00"
     },
     {
       "title": "CVE-2026-126714: phpAfterShell – A New Chapter in PHP Remote Code Execution",
@@ -597,25 +611,11 @@
       "published": "2026-11-19T19:46:44+00:00"
     },
     {
-      "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
-      "link": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
-      "summary": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day...",
-      "source": "SecurityWeek",
-      "published": "2026-11-19T19:21:06+00:00"
-    },
-    {
       "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
       "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
       "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem...",
       "source": "The Hacker News",
       "published": "2026-11-19T18:47:58+00:00"
-    },
-    {
-      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-      "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-      "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-11-19T18:20:01+00:00"
     },
     {
       "title": "Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity",
@@ -627,29 +627,29 @@
     {
       "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
       "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "summary": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a...",
-      "source": "CVE Newsroom",
+      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable...",
+      "source": "The Hacker News",
       "published": "2026-11-19T16:59:56+00:00"
     },
     {
       "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
       "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "summary": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited...",
-      "source": "CVE Newsroom",
+      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including...",
+      "source": "The Hacker News",
       "published": "2026-11-19T15:18:07+00:00"
     },
     {
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
       "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "summary": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized...",
-      "source": "CVE Newsroom",
+      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published...",
+      "source": "The Hacker News",
       "published": "2026-11-19T15:11:06+00:00"
     },
     {
       "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
       "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "summary": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without...",
-      "source": "CVE Newsroom",
+      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a...",
+      "source": "The Hacker News",
       "published": "2026-11-19T14:33:06+00:00"
     },
     {
@@ -683,8 +683,8 @@
     {
       "title": "Everything Is a Web Application, Including Your Firewall",
       "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "summary": "Everything Is a Web Application, Including Your Firewall One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were...",
-      "source": "CVE Newsroom",
+      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and...",
+      "source": "The Hacker News",
       "published": "2026-11-19T11:52:23+00:00"
     },
     {
