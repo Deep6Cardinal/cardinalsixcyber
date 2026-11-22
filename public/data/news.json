@@ -1,17 +1,143 @@
 {
-  "last_updated": "2026-11-22T17:30:13.999222+00:00",
+  "last_updated": "2026-11-22T22:59:18.493667+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-134765 - Kirby 5.0.0 before 5.6.4 XSS via Chunked Upload Race Condition",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134765",
+      "summary": "CVE ID :CVE-2026-134765 Published : Nov. 22, 2026, 9:22 p.m. | 26 minutes ago Description :Kirby 5.0.0 before 5.6.4 contains a race condition in Kirby\\Api\\Upload::processChunk() that allows...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:22:50+00:00"
+    },
+    {
+      "title": "CVE-2026-134793 - Electerm before 5.9.0 OS Command Injection via Unicode Quotes in PowerShell",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134793",
+      "summary": "CVE ID :CVE-2026-134793 Published : Nov. 22, 2026, 9:22 p.m. | 26 minutes ago Description :Electerm before 5.9.0 on Windows contains an OS command injection vulnerability that allows attackers to...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:22:48+00:00"
+    },
+    {
+      "title": "CVE-2026-134803 - DBHub before 1.7.0 Read-Only Mode Bypass via Backslash-Escaped Quotes",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134803",
+      "summary": "CVE ID :CVE-2026-134803 Published : Nov. 22, 2026, 9:22 p.m. | 26 minutes ago Description :DBHub before 1.7.0 contains a read-only mode bypass vulnerability that allows MCP clients restricted to...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:22:33+00:00"
+    },
+    {
+      "title": "CVE-2026-134804 - Portainer 2.39.0 before 2.39.9, 2.40.0 before 2.45.4, and 3.0.0 before 3.1.0 Authorization Bypass via WebSocket Attach and Exec",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134804",
+      "summary": "CVE ID :CVE-2026-134804 Published : Nov. 22, 2026, 9:22 p.m. | 26 minutes ago Description :Portainer 2.39.0 before 2.39.9, 2.40.0 before 2.45.4, and 3.0.0 before 3.1.0 contains an authorization...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:22:31+00:00"
+    },
+    {
+      "title": "CVE-2026-134812 - msgpackr before 2.1.4 Inefficient Algorithmic Complexity via UnpackrStream and decodeIter",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134812",
+      "summary": "CVE ID :CVE-2026-134812 Published : Nov. 22, 2026, 9:22 p.m. | 27 minutes ago Description :msgpackr before 2.1.4 contains an inefficient algorithmic complexity vulnerability that allows remote...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:22:18+00:00"
+    },
+    {
+      "title": "CVE-2026-134813 - Faye websocket-driver 0.5.0 before 0.8.0 Decompression Bomb via permessage-deflate",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134813",
+      "summary": "CVE ID :CVE-2026-134813 Published : Nov. 22, 2026, 9:22 p.m. | 27 minutes ago Description :Faye websocket-driver 0.5.0 before 0.8.0, permessage-deflate before 0.2.0, and websocket-extensions before...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:22:17+00:00"
+    },
+    {
+      "title": "CVE-2026-134814 - binary-parser before 2.3.1 Code Injection via String-Typed Parser Options",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134814",
+      "summary": "CVE ID :CVE-2026-134814 Published : Nov. 22, 2026, 9:22 p.m. | 27 minutes ago Description :binary-parser before 2.3.1 contains a code injection vulnerability that allows attackers controlling parser...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:22:15+00:00"
+    },
+    {
+      "title": "CVE-2026-134815 - simple-git before 4.1.0 Argument Injection via --exec Option in ls-remote",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134815",
+      "summary": "CVE ID :CVE-2026-134815 Published : Nov. 22, 2026, 9:22 p.m. | 27 minutes ago Description :simple-git before 4.1.0 contains an argument injection vulnerability that allows attackers to bypass the...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:22:14+00:00"
+    },
+    {
+      "title": "CVE-2026-134816 - sigstore-js @sigstore/oci before 0.8.0 Credential Exposure via Cross-Origin Redirect",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134816",
+      "summary": "CVE ID :CVE-2026-134816 Published : Nov. 22, 2026, 9:22 p.m. | 27 minutes ago Description :sigstore-js @sigstore/oci before 0.8.0 contains a credential exposure vulnerability that leaks registry...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:22:12+00:00"
+    },
+    {
+      "title": "CVE-2026-134821 - Gunicorn 25.2.0 before 27.0.0 Memory Exhaustion via ASGI HTTP/1 Parser",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134821",
+      "summary": "CVE ID :CVE-2026-134821 Published : Nov. 22, 2026, 9:22 p.m. | 27 minutes ago Description :Gunicorn 25.2.0 before 27.0.0 contains a memory exhaustion vulnerability in the pure-Python ASGI HTTP/1...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:22:03+00:00"
+    },
+    {
+      "title": "CVE-2026-134825 - Gradio 6.27.0 before 6.32.0 Authentication Bypass via Forged Host Header",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134825",
+      "summary": "CVE ID :CVE-2026-134825 Published : Nov. 22, 2026, 9:21 p.m. | 27 minutes ago Description :Gradio 6.27.0 before 6.32.0 contains an authentication bypass vulnerability in gradio/history.py that allows...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:21:55+00:00"
+    },
+    {
+      "title": "CVE-2026-134827 - Lightdash before 3.212.0 Credential Exposure via AI Writeback GitLab Read Access",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134827",
+      "summary": "CVE ID :CVE-2026-134827 Published : Nov. 22, 2026, 9:21 p.m. | 27 minutes ago Description :Lightdash before 3.212.0 contains an insufficiently protected credentials vulnerability in...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:21:51+00:00"
+    },
+    {
+      "title": "CVE-2026-134830 - Casdoor before 4.27.1 Denial of Service via SAML Message Decompression",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134830",
+      "summary": "CVE ID :CVE-2026-134830 Published : Nov. 22, 2026, 9:21 p.m. | 27 minutes ago Description :Casdoor before 4.27.1 contains an uncontrolled resource consumption vulnerability in decodeSamlMessage that...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:21:46+00:00"
+    },
+    {
+      "title": "CVE-2026-134836 - Dashy 4.0.0 before 4.9.12 Credential Disclosure via isLocalRequest Prefix Check",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134836",
+      "summary": "CVE ID :CVE-2026-134836 Published : Nov. 22, 2026, 9:21 p.m. | 27 minutes ago Description :Dashy 4.0.0 before 4.9.12 contains a credential disclosure vulnerability in isLocalRequest that attaches...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:21:36+00:00"
+    },
+    {
+      "title": "CVE-2026-134838 - Weblate before 2026.11 Account Takeover via Unicode E-mail Matching in Password Reset",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134838",
+      "summary": "CVE ID :CVE-2026-134838 Published : Nov. 22, 2026, 9:21 p.m. | 27 minutes ago Description :Weblate before 2026.11 contains an account takeover vulnerability in the reset_password view that allows...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T21:21:32+00:00"
+    },
+    {
+      "title": "CVE-2026-134624 - MailAssure / SpamExperts: Server-Side Request Forgery in relay LDAP synchronisation connection check",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134624",
+      "summary": "CVE ID :CVE-2026-134624 Published : Nov. 22, 2026, 7:16 p.m. | 2 hours, 32 minutes ago Description :N-able MailAssure (SpamExperts) before 20261121.1943 does not restrict the destination of the LDAP...",
+      "source": "CVE Feed",
+      "published": "2026-11-22T19:16:32+00:00"
+    },
+    {
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users...",
+      "source": "BleepingComputer",
+      "published": "2026-11-22T18:45:37+00:00"
+    },
+    {
+      "title": "Upload2Shell: When an Image Upload Becomes a Remote Code Execution Path",
+      "link": "https://thecyberthrone.in/2026/11/22/upload2shell-when-an-image-upload-becomes-a-remote-code-execution-path/",
+      "summary": "Upload2Shell: When an Image Upload Becomes a Remote Code Execution Path A file upload feature is generally considered a routine application function. Users upload images, attach documents, generate...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-22T17:05:51+00:00"
+    },
     {
       "title": "CVE-2026-131750 - WordPress Everest Forms plugin <= 3.6.4 - Arbitrary File Deletion vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-131750",
-      "summary": "CVE ID :CVE-2026-131750 Published : Nov. 22, 2026, 4:16 p.m. | 45 minutes ago Description :Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Everest...",
+      "summary": "CVE ID :CVE-2026-131750 Published : Nov. 22, 2026, 4:16 p.m. | 5 hours, 32 minutes ago Description :Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in...",
       "source": "CVE Feed",
       "published": "2026-11-22T16:16:40+00:00"
     },
     {
       "title": "CVE-2026-129024 - WordPress Everest Forms plugin <= 3.6.4 - Arbitrary File Deletion vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-129024",
-      "summary": "CVE ID :CVE-2026-129024 Published : Nov. 22, 2026, 4:16 p.m. | 45 minutes ago Description :Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Everest...",
+      "summary": "CVE ID :CVE-2026-129024 Published : Nov. 22, 2026, 4:16 p.m. | 5 hours, 32 minutes ago Description :Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in...",
       "source": "CVE Feed",
       "published": "2026-11-22T16:16:39+00:00"
     },
@@ -25,21 +151,21 @@
     {
       "title": "CVE-2026-134753 - dsniff through 2.5a2 Integer Underflow Out-of-Bounds Write via decode_sniffer()",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134753",
-      "summary": "CVE ID :CVE-2026-134753 Published : Nov. 22, 2026, 3:17 p.m. | 1 hour, 44 minutes ago Description :dsniff through 2.5a2 contains an integer underflow in decode_sniffer() in decode_sniffer.c that...",
+      "summary": "CVE ID :CVE-2026-134753 Published : Nov. 22, 2026, 3:17 p.m. | 6 hours, 32 minutes ago Description :dsniff through 2.5a2 contains an integer underflow in decode_sniffer() in decode_sniffer.c that...",
       "source": "CVE Feed",
       "published": "2026-11-22T15:17:13+00:00"
     },
     {
       "title": "CVE-2026-131782 - WordPress Simple Shopping Cart plugin <= 5.3.3 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-131782",
-      "summary": "CVE ID :CVE-2026-131782 Published : Nov. 22, 2026, 3:17 p.m. | 1 hour, 44 minutes ago Description :Deserialization of Untrusted Data vulnerability in mra13 / Team Tips and Tricks HQ Simple Shopping...",
+      "summary": "CVE ID :CVE-2026-131782 Published : Nov. 22, 2026, 3:17 p.m. | 6 hours, 32 minutes ago Description :Deserialization of Untrusted Data vulnerability in mra13 / Team Tips and Tricks HQ Simple Shopping...",
       "source": "CVE Feed",
       "published": "2026-11-22T15:17:12+00:00"
     },
     {
       "title": "CVE-2026-131754 - WordPress APCu Manager plugin <= 4.6.1 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-131754",
-      "summary": "CVE ID :CVE-2026-131754 Published : Nov. 22, 2026, 3:17 p.m. | 1 hour, 44 minutes ago Description :Deserialization of Untrusted Data vulnerability in Pierre Lannoy APCu Manager apcu-manager allows...",
+      "summary": "CVE ID :CVE-2026-131754 Published : Nov. 22, 2026, 3:17 p.m. | 6 hours, 32 minutes ago Description :Deserialization of Untrusted Data vulnerability in Pierre Lannoy APCu Manager apcu-manager allows...",
       "source": "CVE Feed",
       "published": "2026-11-22T15:17:12+00:00"
     },
@@ -53,21 +179,21 @@
     {
       "title": "CVE-2026-131701 - WordPress WP Media folder plugin <= 6.2.8 - SQL Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-131701",
-      "summary": "CVE ID :CVE-2026-131701 Published : Nov. 22, 2026, 11:16 a.m. | 5 hours, 45 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability...",
+      "summary": "CVE ID :CVE-2026-131701 Published : Nov. 22, 2026, 11:16 a.m. | 10 hours, 32 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')...",
       "source": "CVE Feed",
       "published": "2026-11-22T11:16:45+00:00"
     },
     {
       "title": "CVE-2026-131707 - WordPress ProfileGrid plugin <= 6.0.0.6 - PHP Object Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-131707",
-      "summary": "CVE ID :CVE-2026-131707 Published : Nov. 22, 2026, 10:16 a.m. | 6 hours, 45 minutes ago Description :Deserialization of Untrusted Data vulnerability in Metagauss ProfileGrid...",
+      "summary": "CVE ID :CVE-2026-131707 Published : Nov. 22, 2026, 10:16 a.m. | 11 hours, 32 minutes ago Description :Deserialization of Untrusted Data vulnerability in Metagauss ProfileGrid...",
       "source": "CVE Feed",
       "published": "2026-11-22T10:16:39+00:00"
     },
     {
       "title": "CVE-2026-131705 - WordPress ProfileGrid plugin <= 6.0.0.6 - SQL Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-131705",
-      "summary": "CVE ID :CVE-2026-131705 Published : Nov. 22, 2026, 10:16 a.m. | 6 hours, 45 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability...",
+      "summary": "CVE ID :CVE-2026-131705 Published : Nov. 22, 2026, 10:16 a.m. | 11 hours, 32 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')...",
       "source": "CVE Feed",
       "published": "2026-11-22T10:16:39+00:00"
     },
@@ -88,30 +214,9 @@
     {
       "title": "CVE-2026-134704 - OpenShot Video Editor through 4.1.1 Deserialization via Legacy Project Import",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134704",
-      "summary": "CVE ID :CVE-2026-134704 Published : Nov. 22, 2026, 2:17 a.m. | 14 hours, 44 minutes ago Description :OpenShot Video Editor (openshot-qt) through 4.1.1 contains an unsafe deserialization vulnerability...",
+      "summary": "CVE ID :CVE-2026-134704 Published : Nov. 22, 2026, 2:17 a.m. | 19 hours, 32 minutes ago Description :OpenShot Video Editor (openshot-qt) through 4.1.1 contains an unsafe deserialization vulnerability...",
       "source": "CVE Feed",
       "published": "2026-11-22T02:17:09+00:00"
-    },
-    {
-      "title": "CVE-2026-134694 - Gammapy through 2.1 Code Injection via WCSSHAPE FITS Header Card",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134694",
-      "summary": "CVE ID :CVE-2026-134694 Published : Nov. 22, 2026, 2:17 a.m. | 14 hours, 44 minutes ago Description :Gammapy through 2.1 contains a code injection vulnerability in WcsGeom.from_header() that passes...",
-      "source": "CVE Feed",
-      "published": "2026-11-22T02:17:07+00:00"
-    },
-    {
-      "title": "CVE-2026-134679 - WeddingShare through 1.8.2 Missing Authorization via MediaViewer GalleryItem",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134679",
-      "summary": "CVE ID :CVE-2026-134679 Published : Nov. 22, 2026, 2:17 a.m. | 14 hours, 44 minutes ago Description :WeddingShare through 1.8.2 contains a missing authorization vulnerability in the anonymous...",
-      "source": "CVE Feed",
-      "published": "2026-11-22T02:17:05+00:00"
-    },
-    {
-      "title": "CVE-2026-134654 - Mailflare before 48957fb Host Header Injection in Password Reset",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134654",
-      "summary": "CVE ID :CVE-2026-134654 Published : Nov. 22, 2026, 2:17 a.m. | 14 hours, 44 minutes ago Description :Mailflare before 48957fb contains a host header injection vulnerability in the password-reset...",
-      "source": "CVE Feed",
-      "published": "2026-11-22T02:17:00+00:00"
     },
     {
       "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
@@ -128,102 +233,11 @@
       "published": "2026-11-21T22:59:58+00:00"
     },
     {
-      "title": "CVE-2026-125294 - Nexter Blocks Pro <= 5.0.10 - Unauthenticated Privilege Escalation to Unicode Collation Confusion in 'tpgb_acf_key' Parameter",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-125294",
-      "summary": "CVE ID :CVE-2026-125294 Published : Nov. 21, 2026, 7:16 p.m. | 21 hours, 45 minutes ago Description :The Nexter Blocks Pro plugin for WordPress is vulnerable to Privilege Escalation in all versions...",
-      "source": "CVE Feed",
-      "published": "2026-11-21T19:16:31+00:00"
-    },
-    {
-      "title": "CVE-2026-133993 - D-Link DIR-600L GENA Subscription gena.cgi FUN_0040efb0 stack-based overflow",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-133993",
-      "summary": "CVE ID :CVE-2026-133993 Published : Nov. 21, 2026, 6:16 p.m. | 22 hours, 44 minutes ago Description :A security flaw has been discovered in D-Link DIR-600L 2.17b02. This affects the function...",
-      "source": "CVE Feed",
-      "published": "2026-11-21T18:16:54+00:00"
-    },
-    {
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
       "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email...",
       "source": "BleepingComputer",
       "published": "2026-11-21T18:01:58+00:00"
-    },
-    {
-      "title": "CVE-2026-134461 - Web-Token jwt-framework before 3.4.10 DoS via Unbounded PBES2 p2c Iteration Count",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134461",
-      "summary": "CVE ID :CVE-2026-134461 Published : Nov. 21, 2026, 5:17 p.m. | 23 hours, 44 minutes ago Description :Web-Token jwt-framework and jwt-library before 3.4.10, 4.0.0 before 4.0.7, and 4.1.0 before 4.1.7...",
-      "source": "CVE Feed",
-      "published": "2026-11-21T17:17:11+00:00"
-    },
-    {
-      "title": "CVE-2026-134459 - web-token jwt-framework before 3.4.10 RSA1_5 Bleichenbacher Padding Oracle",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134459",
-      "summary": "CVE ID :CVE-2026-134459 Published : Nov. 21, 2026, 5:17 p.m. | 23 hours, 44 minutes ago Description :web-token jwt-framework and jwt-library before 3.4.10, 4.0.x before 4.0.7, and 4.1.x before 4.1.7...",
-      "source": "CVE Feed",
-      "published": "2026-11-21T17:17:11+00:00"
-    },
-    {
-      "title": "CVE-2026-134458 - web-token jwt-framework before 3.4.12 ECDH-ES Weak Key Derivation via ConcatKDF",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134458",
-      "summary": "CVE ID :CVE-2026-134458 Published : Nov. 21, 2026, 5:17 p.m. | 23 hours, 44 minutes ago Description :web-token jwt-framework and jwt-library before 3.4.12, 4.0.x before 4.0.8, 4.1.x before 4.1.10...",
-      "source": "CVE Feed",
-      "published": "2026-11-21T17:17:11+00:00"
-    },
-    {
-      "title": "CVE-2026-134456 - Hysteria 2.5.0 before 2.9.2 Denial of Service via HTTP Sniff Header",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134456",
-      "summary": "CVE ID :CVE-2026-134456 Published : Nov. 21, 2026, 5:17 p.m. | 23 hours, 44 minutes ago Description :Hysteria 2.5.0 before 2.9.2 contains a denial of service vulnerability in the HTTP sniff...",
-      "source": "CVE Feed",
-      "published": "2026-11-21T17:17:10+00:00"
-    },
-    {
-      "title": "CVE-2026-134452 - Dockhand before 1.0.57 RCE via PATH Poisoning in Stack Deploy",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134452",
-      "summary": "CVE ID :CVE-2026-134452 Published : Nov. 21, 2026, 5:17 p.m. | 23 hours, 44 minutes ago Description :Dockhand before 1.0.57 merges stack secret environment variables into the environment used to...",
-      "source": "CVE Feed",
-      "published": "2026-11-21T17:17:10+00:00"
-    },
-    {
-      "title": "CVE-2026-134451 - Dockhand before 1.0.57 Privilege Escalation via OIDC Provider Update Handler",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134451",
-      "summary": "CVE ID :CVE-2026-134451 Published : Nov. 21, 2026, 5:17 p.m. | 23 hours, 44 minutes ago Description :Dockhand before 1.0.57 contains a privilege escalation vulnerability that allows non-admin users...",
-      "source": "CVE Feed",
-      "published": "2026-11-21T17:17:10+00:00"
-    },
-    {
-      "title": "CVE-2026-134448 - Finsys Dockhand 1.0.7 before 1.0.57 Path Traversal via Stack env/raw Endpoint",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134448",
-      "summary": "CVE ID :CVE-2026-134448 Published : Nov. 21, 2026, 5:17 p.m. | 23 hours, 44 minutes ago Description :Finsys Dockhand 1.0.7 before 1.0.57 contains a path traversal vulnerability that allows...",
-      "source": "CVE Feed",
-      "published": "2026-11-21T17:17:09+00:00"
-    },
-    {
-      "title": "CVE-2026-134436 - ERPNext 15.8.0 before 15.121.4 Missing Authorization Exposes Transaction Child Table Rows",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134436",
-      "summary": "CVE ID :CVE-2026-134436 Published : Nov. 21, 2026, 5:17 p.m. | 23 hours, 44 minutes ago Description :Frappe ERPNext 15.8.0 before 15.121.4 and 16.x before 16.36.0 contains a missing authorization...",
-      "source": "CVE Feed",
-      "published": "2026-11-21T17:17:09+00:00"
-    },
-    {
-      "title": "CVE-2026-134435 - Frappe ERPNext before 15.124.2 Missing Authorization in Accounts Clearance Date Endpoint",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134435",
-      "summary": "CVE ID :CVE-2026-134435 Published : Nov. 21, 2026, 5:17 p.m. | 23 hours, 44 minutes ago Description :Frappe ERPNext before 15.124.2 and 16.x before 16.50.0 contains a missing authorization...",
-      "source": "CVE Feed",
-      "published": "2026-11-21T17:17:09+00:00"
-    },
-    {
-      "title": "CVE-2026-134434 - Frappe ERPNext 16.0.0 before 16.36.0 Missing Authorization in Manufacturing Stock Reservation Cancellation",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134434",
-      "summary": "CVE ID :CVE-2026-134434 Published : Nov. 21, 2026, 5:17 p.m. | 23 hours, 44 minutes ago Description :Frappe ERPNext 16.0.0 before 16.36.0 contains a missing authorization vulnerability in a...",
-      "source": "CVE Feed",
-      "published": "2026-11-21T17:17:09+00:00"
-    },
-    {
-      "title": "CVE-2026-134433 - Frappe ERPNext before 15.124.2 Missing Authorization Across Endpoints and Reports",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-134433",
-      "summary": "CVE ID :CVE-2026-134433 Published : Nov. 21, 2026, 5:17 p.m. | 23 hours, 44 minutes ago Description :Frappe ERPNext before 15.124.2 and 16.x before 16.53.0 fails to enforce record-level authorization...",
-      "source": "CVE Feed",
-      "published": "2026-11-21T17:17:08+00:00"
     },
     {
       "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
@@ -373,17 +387,17 @@
       "published": "2026-11-20T17:57:20+00:00"
     },
     {
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
-      "source": "BleepingComputer",
-      "published": "2026-11-20T17:30:00+00:00"
-    },
-    {
       "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
       "link": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
       "summary": "A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said.",
       "source": "The Record",
+      "published": "2026-11-20T17:30:00+00:00"
+    },
+    {
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+      "source": "BleepingComputer",
       "published": "2026-11-20T17:30:00+00:00"
     },
     {
@@ -471,17 +485,17 @@
       "published": "2026-11-20T12:14:28+00:00"
     },
     {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special...",
-      "source": "CISA Alerts",
-      "published": "2026-11-20T12:00:00+00:00"
-    },
-    {
       "title": "The Path to AI Autonomy in the SOC",
       "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
       "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI...",
       "source": "The Hacker News",
+      "published": "2026-11-20T12:00:00+00:00"
+    },
+    {
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special...",
+      "source": "CISA Alerts",
       "published": "2026-11-20T12:00:00+00:00"
     },
     {
@@ -583,13 +597,6 @@
       "published": "2026-11-20T01:58:29+00:00"
     },
     {
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026...",
-      "source": "BleepingComputer",
-      "published": "2026-11-20T00:26:25+00:00"
-    },
-    {
       "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform",
       "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/",
       "summary": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform A set of five critical vulnerabilities in nginx, one of the most widely deployed open-source web servers, was disclosed on...",
@@ -662,8 +669,8 @@
     {
       "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
       "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "summary": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without...",
-      "source": "CVE Newsroom",
+      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a...",
+      "source": "The Hacker News",
       "published": "2026-11-19T14:33:06+00:00"
     },
     {
@@ -1393,13 +1400,6 @@
       "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts...",
       "source": "Krebs on Security",
       "published": "2026-11-05T04:36:17+00:00"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication...",
-      "source": "CISA Alerts",
-      "published": "2026-11-04T12:00:00+00:00"
     }
   ]
 }
