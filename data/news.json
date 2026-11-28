@@ -1,80 +1,101 @@
 {
-  "last_updated": "2026-11-28T05:36:52.652295+00:00",
+  "last_updated": "2026-11-28T14:46:42.263692+00:00",
   "articles": [
+    {
+      "title": "CVE-2026-138005 - TRENDnet TEW-751DR UPnP Event gena.php GENA_notify_init os command injection",
+      "link": "https://cvefeed.io/vuln/detail/CVE-2026-138005",
+      "summary": "CVE ID :CVE-2026-138005 Published : Nov. 28, 2026, 10:17 a.m. | 2 hours, 59 minutes ago Description :A vulnerability was detected in TRENDnet TEW-751DR 1.03B01. Affected by this vulnerability is the...",
+      "source": "CVE Feed",
+      "published": "2026-11-28T10:17:00+00:00"
+    },
+    {
+      "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+      "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+      "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting...",
+      "source": "The Hacker News",
+      "published": "2026-11-28T08:08:11+00:00"
+    },
+    {
+      "title": "CISA KEV Weekly Briefing – Week 48",
+      "link": "https://thecyberthrone.in/2026/11/28/cisa-kev-weekly-briefing-week-48/",
+      "summary": "CISA KEV Weekly Briefing – Week 48 CISA’s Known Exploited Vulnerabilities (KEV) Catalog continues to serve as an important indicator of vulnerabilities that are no longer theoretical risks. Their...",
+      "source": "CVE Newsroom",
+      "published": "2026-11-28T06:44:19+00:00"
+    },
     {
       "title": "CVE-2026-138163 - Gammu before 1.45.2 Heap Buffer Overflow via ReadWAPSettingsEntry()",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-138163",
-      "summary": "CVE ID :CVE-2026-138163 Published : Nov. 28, 2026, 3:17 a.m. | 1 hour, 55 minutes ago Description :Gammu before 1.45.2 contains a heap-based buffer overflow in ReadWAPSettingsEntry() that allows...",
+      "summary": "CVE ID :CVE-2026-138163 Published : Nov. 28, 2026, 3:17 a.m. | 9 hours, 59 minutes ago Description :Gammu before 1.45.2 contains a heap-based buffer overflow in ReadWAPSettingsEntry() that allows...",
       "source": "CVE Feed",
       "published": "2026-11-28T03:17:08+00:00"
     },
     {
       "title": "CVE-2026-138161 - Gammu before 1.45.2 Buffer Overflow via LoadBackup() MD5 Checksum",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-138161",
-      "summary": "CVE ID :CVE-2026-138161 Published : Nov. 28, 2026, 3:17 a.m. | 1 hour, 55 minutes ago Description :Gammu before 1.45.2 contains a buffer overflow vulnerability in LoadBackup() that allows attackers...",
+      "summary": "CVE ID :CVE-2026-138161 Published : Nov. 28, 2026, 3:17 a.m. | 9 hours, 59 minutes ago Description :Gammu before 1.45.2 contains a buffer overflow vulnerability in LoadBackup() that allows attackers...",
       "source": "CVE Feed",
       "published": "2026-11-28T03:17:08+00:00"
     },
     {
       "title": "CVE-2026-138160 - Gammu before 1.45.2 Stack-Based Buffer Overflow via ReadBackupTextLen()",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-138160",
-      "summary": "CVE ID :CVE-2026-138160 Published : Nov. 28, 2026, 3:17 a.m. | 1 hour, 55 minutes ago Description :Gammu before 1.45.2 contains a stack-based buffer overflow vulnerability in ReadBackupTextLen() that...",
+      "summary": "CVE ID :CVE-2026-138160 Published : Nov. 28, 2026, 3:17 a.m. | 9 hours, 59 minutes ago Description :Gammu before 1.45.2 contains a stack-based buffer overflow vulnerability in ReadBackupTextLen()...",
       "source": "CVE Feed",
       "published": "2026-11-28T03:17:07+00:00"
     },
     {
       "title": "CVE-2026-138154 - POSTAL 2 before build 26810491 Workshop Mod Sandbox Escape Code Execution via ConsoleCommand",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-138154",
-      "summary": "CVE ID :CVE-2026-138154 Published : Nov. 28, 2026, 3:17 a.m. | 1 hour, 55 minutes ago Description :POSTAL 2 before build 26810491 contains a sandbox escape vulnerability that allows malicious Steam...",
+      "summary": "CVE ID :CVE-2026-138154 Published : Nov. 28, 2026, 3:17 a.m. | 9 hours, 59 minutes ago Description :POSTAL 2 before build 26810491 contains a sandbox escape vulnerability that allows malicious Steam...",
       "source": "CVE Feed",
       "published": "2026-11-28T03:17:06+00:00"
     },
     {
       "title": "CVE-2026-138151 - bgpq4 before 1.17 Heap Buffer Overflow via IRRd A Reply Handling",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-138151",
-      "summary": "CVE ID :CVE-2026-138151 Published : Nov. 28, 2026, 2:17 a.m. | 2 hours, 54 minutes ago Description :bgpq4 before 1.17 contains an integer overflow vulnerability in expander.c that allows malicious...",
+      "summary": "CVE ID :CVE-2026-138151 Published : Nov. 28, 2026, 2:17 a.m. | 10 hours, 58 minutes ago Description :bgpq4 before 1.17 contains an integer overflow vulnerability in expander.c that allows malicious...",
       "source": "CVE Feed",
       "published": "2026-11-28T02:17:34+00:00"
     },
     {
       "title": "CVE-2026-138119 - Kestra before 1.3.36 Reflected XSS via Executions Page Sort Parameter",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-138119",
-      "summary": "CVE ID :CVE-2026-138119 Published : Nov. 28, 2026, 2:17 a.m. | 2 hours, 54 minutes ago Description :Kestra before 1.3.36 contains a reflected cross-site scripting vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-138119 Published : Nov. 28, 2026, 2:17 a.m. | 10 hours, 58 minutes ago Description :Kestra before 1.3.36 contains a reflected cross-site scripting vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-11-28T02:17:33+00:00"
     },
     {
       "title": "CVE-2026-138118 - HyperSpy 1.4.0 before 2.6.0 Insecure Deserialization RCE via Stored Model Restoration",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-138118",
-      "summary": "CVE ID :CVE-2026-138118 Published : Nov. 28, 2026, 2:17 a.m. | 2 hours, 54 minutes ago Description :HyperSpy from 1.4.0 before 2.6.0 contains an insecure deserialization vulnerability that allows...",
+      "summary": "CVE ID :CVE-2026-138118 Published : Nov. 28, 2026, 2:17 a.m. | 10 hours, 58 minutes ago Description :HyperSpy from 1.4.0 before 2.6.0 contains an insecure deserialization vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-11-28T02:17:33+00:00"
     },
     {
       "title": "CVE-2026-138117 - HyperSpy before 2.6.0 Code Execution via sympy.sympify() in HSPY/ZSPY Files",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-138117",
-      "summary": "CVE ID :CVE-2026-138117 Published : Nov. 28, 2026, 2:17 a.m. | 2 hours, 54 minutes ago Description :HyperSpy from 1.2.0 before 2.6.0 contains a code execution vulnerability that allows attackers to...",
+      "summary": "CVE ID :CVE-2026-138117 Published : Nov. 28, 2026, 2:17 a.m. | 10 hours, 58 minutes ago Description :HyperSpy from 1.2.0 before 2.6.0 contains a code execution vulnerability that allows attackers to...",
       "source": "CVE Feed",
       "published": "2026-11-28T02:17:33+00:00"
     },
     {
       "title": "CVE-2026-138004 - TRENDnet TEW-751DR/TEW-733GR UPnP Igd Control Endpoint soap.cgi soapcgi_main os command injection",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-138004",
-      "summary": "CVE ID :CVE-2026-138004 Published : Nov. 27, 2026, 11:16 p.m. | 5 hours, 55 minutes ago Description :A security vulnerability has been detected in TRENDnet TEW-751DR and TEW-733GR 1.03B01. Affected...",
+      "summary": "CVE ID :CVE-2026-138004 Published : Nov. 27, 2026, 11:16 p.m. | 13 hours, 59 minutes ago Description :A security vulnerability has been detected in TRENDnet TEW-751DR and TEW-733GR 1.03B01. Affected...",
       "source": "CVE Feed",
       "published": "2026-11-27T23:16:36+00:00"
     },
     {
       "title": "CVE-2026-138003 - TRENDnet TEW-751DR UPnP/WFA wfadev.cgi FUN_0040ed90 stack-based overflow",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-138003",
-      "summary": "CVE ID :CVE-2026-138003 Published : Nov. 27, 2026, 10:17 p.m. | 6 hours, 54 minutes ago Description :A weakness has been identified in TRENDnet TEW-751DR 1.03B01. This impacts the function...",
+      "summary": "CVE ID :CVE-2026-138003 Published : Nov. 27, 2026, 10:17 p.m. | 14 hours, 58 minutes ago Description :A weakness has been identified in TRENDnet TEW-751DR 1.03B01. This impacts the function...",
       "source": "CVE Feed",
       "published": "2026-11-27T22:17:54+00:00"
     },
     {
       "title": "CVE-2026-138034 - bigcommerce-api-mcp before 1.0.1 Missing Authentication via SSE Transport Routes",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-138034",
-      "summary": "CVE ID :CVE-2026-138034 Published : Nov. 27, 2026, 8:18 p.m. | 8 hours, 54 minutes ago Description :bigcommerce-api-mcp before 1.0.1 contains a missing authentication vulnerability that allows remote...",
+      "summary": "CVE ID :CVE-2026-138034 Published : Nov. 27, 2026, 8:18 p.m. | 16 hours, 58 minutes ago Description :bigcommerce-api-mcp before 1.0.1 contains a missing authentication vulnerability that allows...",
       "source": "CVE Feed",
       "published": "2026-11-27T20:18:19+00:00"
     },
@@ -88,21 +109,21 @@
     {
       "title": "CVE-2026-136115 - WordPress MemberPress Discord Addon plugin <= 1.1.5 - Privilege Escalation vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-136115",
-      "summary": "CVE ID :CVE-2026-136115 Published : Nov. 27, 2026, 7:16 p.m. | 9 hours, 55 minutes ago Description :Incorrect Privilege Assignment vulnerability in expresstechsoftware MemberPress Discord Addon...",
+      "summary": "CVE ID :CVE-2026-136115 Published : Nov. 27, 2026, 7:16 p.m. | 17 hours, 59 minutes ago Description :Incorrect Privilege Assignment vulnerability in expresstechsoftware MemberPress Discord Addon...",
       "source": "CVE Feed",
       "published": "2026-11-27T19:16:59+00:00"
     },
     {
       "title": "CVE-2026-136113 - WordPress Hello Clever Gateway for WooCommerce plugin <= 1.8.4 - SQL Injection vulnerability",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-136113",
-      "summary": "CVE ID :CVE-2026-136113 Published : Nov. 27, 2026, 7:16 p.m. | 9 hours, 55 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability...",
+      "summary": "CVE ID :CVE-2026-136113 Published : Nov. 27, 2026, 7:16 p.m. | 17 hours, 59 minutes ago Description :Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability...",
       "source": "CVE Feed",
       "published": "2026-11-27T19:16:59+00:00"
     },
     {
       "title": "CVE-2026-134129 - smalot/pdfparser before 2.14.0 Quadratic-Time DoS via formatContent()",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-134129",
-      "summary": "CVE ID :CVE-2026-134129 Published : Nov. 27, 2026, 7:16 p.m. | 9 hours, 55 minutes ago Description :smalot/pdfparser before 2.14.0 contains an inefficient algorithmic complexity vulnerability that...",
+      "summary": "CVE ID :CVE-2026-134129 Published : Nov. 27, 2026, 7:16 p.m. | 17 hours, 59 minutes ago Description :smalot/pdfparser before 2.14.0 contains an inefficient algorithmic complexity vulnerability that...",
       "source": "CVE Feed",
       "published": "2026-11-27T19:16:59+00:00"
     },
@@ -116,35 +137,35 @@
     {
       "title": "CVE-2026-137999 - JSONSchema2PoPo2 through 3.0.3 Code Injection via python_class.tmpl Template",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-137999",
-      "summary": "CVE ID :CVE-2026-137999 Published : Nov. 27, 2026, 5:17 p.m. | 11 hours, 54 minutes ago Description :JSONSchema2PoPo2 through 3.0.3 contains a code injection vulnerability that allows attackers to...",
+      "summary": "CVE ID :CVE-2026-137999 Published : Nov. 27, 2026, 5:17 p.m. | 19 hours, 58 minutes ago Description :JSONSchema2PoPo2 through 3.0.3 contains a code injection vulnerability that allows attackers to...",
       "source": "CVE Feed",
       "published": "2026-11-27T17:17:59+00:00"
     },
     {
       "title": "CVE-2026-137998 - Detoxify 0.5.3 through 0.5.4 Insecure Deserialization RCE via load_checkpoint",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-137998",
-      "summary": "CVE ID :CVE-2026-137998 Published : Nov. 27, 2026, 5:17 p.m. | 11 hours, 54 minutes ago Description :Detoxify 0.5.3 through 0.5.4 contains an insecure deserialization vulnerability in load_checkpoint...",
+      "summary": "CVE ID :CVE-2026-137998 Published : Nov. 27, 2026, 5:17 p.m. | 19 hours, 58 minutes ago Description :Detoxify 0.5.3 through 0.5.4 contains an insecure deserialization vulnerability in load_checkpoint...",
       "source": "CVE Feed",
       "published": "2026-11-27T17:17:59+00:00"
     },
     {
       "title": "CVE-2026-137997 - HCIPy through 0.7.1 Insecure Deserialization via Pickle Files in io.py",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-137997",
-      "summary": "CVE ID :CVE-2026-137997 Published : Nov. 27, 2026, 5:17 p.m. | 11 hours, 54 minutes ago Description :HCIPy through 0.7.1 contains an insecure deserialization vulnerability that allows attackers to...",
+      "summary": "CVE ID :CVE-2026-137997 Published : Nov. 27, 2026, 5:17 p.m. | 19 hours, 58 minutes ago Description :HCIPy through 0.7.1 contains an insecure deserialization vulnerability that allows attackers to...",
       "source": "CVE Feed",
       "published": "2026-11-27T17:17:59+00:00"
     },
     {
       "title": "CVE-2026-137994 - Leo through 6.8.10 Insecure Deserialization RCE via .leo Outline Attributes",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-137994",
-      "summary": "CVE ID :CVE-2026-137994 Published : Nov. 27, 2026, 5:17 p.m. | 11 hours, 54 minutes ago Description :Leo through 6.8.10 contains an insecure deserialization vulnerability that allows attackers to...",
+      "summary": "CVE ID :CVE-2026-137994 Published : Nov. 27, 2026, 5:17 p.m. | 19 hours, 58 minutes ago Description :Leo through 6.8.10 contains an insecure deserialization vulnerability that allows attackers to...",
       "source": "CVE Feed",
       "published": "2026-11-27T17:17:58+00:00"
     },
     {
       "title": "CVE-2026-137992 - libexpat through 2.11.0 Denial of Service via defineAttribute Duplicate Declarations",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-137992",
-      "summary": "CVE ID :CVE-2026-137992 Published : Nov. 27, 2026, 5:17 p.m. | 11 hours, 54 minutes ago Description :libexpat through 2.11.0 contains a denial of service vulnerability in defineAttribute() of...",
+      "summary": "CVE ID :CVE-2026-137992 Published : Nov. 27, 2026, 5:17 p.m. | 19 hours, 58 minutes ago Description :libexpat through 2.11.0 contains a denial of service vulnerability in defineAttribute() of...",
       "source": "CVE Feed",
       "published": "2026-11-27T17:17:58+00:00"
     },
@@ -165,42 +186,35 @@
     {
       "title": "CVE-2026-137964 - ToolJet before 3.21.96-LTS Command Injection via Release Workflow Pull Request Title",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-137964",
-      "summary": "CVE ID :CVE-2026-137964 Published : Nov. 27, 2026, 4:18 p.m. | 12 hours, 54 minutes ago Description :ToolJet before 3.21.96-LTS contains a command injection vulnerability in its GitHub Actions...",
+      "summary": "CVE ID :CVE-2026-137964 Published : Nov. 27, 2026, 4:18 p.m. | 20 hours, 58 minutes ago Description :ToolJet before 3.21.96-LTS contains a command injection vulnerability in its GitHub Actions...",
       "source": "CVE Feed",
       "published": "2026-11-27T16:18:09+00:00"
     },
     {
       "title": "CVE-2026-137963 - ToolJet before 3.21.96-LTS Hard-Coded JWT and Encryption Keys in Helm Chart",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-137963",
-      "summary": "CVE ID :CVE-2026-137963 Published : Nov. 27, 2026, 4:18 p.m. | 12 hours, 54 minutes ago Description :ToolJet before 3.21.96-LTS contains a hard-coded credentials vulnerability where the Helm chart...",
+      "summary": "CVE ID :CVE-2026-137963 Published : Nov. 27, 2026, 4:18 p.m. | 20 hours, 58 minutes ago Description :ToolJet before 3.21.96-LTS contains a hard-coded credentials vulnerability where the Helm chart...",
       "source": "CVE Feed",
       "published": "2026-11-27T16:18:08+00:00"
     },
     {
       "title": "CVE-2026-137959 - n8n before 1.123.96, 2.47.6, 2.48.3, and 3.2.2 Improper Authorization in Workflow Activation Trigger Credentials",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-137959",
-      "summary": "CVE ID :CVE-2026-137959 Published : Nov. 27, 2026, 4:18 p.m. | 12 hours, 54 minutes ago Description :n8n before 1.123.96, 2.x before 2.47.6, 2.48.x before 2.48.3, and 3.x before 3.2.2 does not verify...",
+      "summary": "CVE ID :CVE-2026-137959 Published : Nov. 27, 2026, 4:18 p.m. | 20 hours, 58 minutes ago Description :n8n before 1.123.96, 2.x before 2.47.6, 2.48.x before 2.48.3, and 3.x before 3.2.2 does not verify...",
       "source": "CVE Feed",
       "published": "2026-11-27T16:18:08+00:00"
     },
     {
       "title": "CVE-2026-137957 - n8n before 1.123.96, 2.47.6, 2.48.3, and 3.2.2 Path Traversal in Integration Nodes",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-137957",
-      "summary": "CVE ID :CVE-2026-137957 Published : Nov. 27, 2026, 4:18 p.m. | 12 hours, 54 minutes ago Description :n8n before 1.123.96, 2.47.6, 2.48.3, and 3.2.2 contains a path traversal vulnerability in...",
+      "summary": "CVE ID :CVE-2026-137957 Published : Nov. 27, 2026, 4:18 p.m. | 20 hours, 58 minutes ago Description :n8n before 1.123.96, 2.47.6, 2.48.3, and 3.2.2 contains a path traversal vulnerability in...",
       "source": "CVE Feed",
       "published": "2026-11-27T16:18:07+00:00"
     },
     {
       "title": "CVE-2026-137954 - Pydantic Deep 0.2.18 before 0.4.0 SSRF and File Read via /export/pdf",
       "link": "https://cvefeed.io/vuln/detail/CVE-2026-137954",
-      "summary": "CVE ID :CVE-2026-137954 Published : Nov. 27, 2026, 4:18 p.m. | 12 hours, 54 minutes ago Description :Pydantic Deep 0.2.18 before 0.4.0 contains a server-side request forgery and local file read...",
-      "source": "CVE Feed",
-      "published": "2026-11-27T16:18:07+00:00"
-    },
-    {
-      "title": "CVE-2026-137953 - Pydantic Deep 0.2.18 before 0.4.0 Missing Authentication in DeepResearch App",
-      "link": "https://cvefeed.io/vuln/detail/CVE-2026-137953",
-      "summary": "CVE ID :CVE-2026-137953 Published : Nov. 27, 2026, 4:18 p.m. | 12 hours, 54 minutes ago Description :Pydantic Deep 0.2.18 before 0.4.0 contains a missing authentication vulnerability in the bundled...",
+      "summary": "CVE ID :CVE-2026-137954 Published : Nov. 27, 2026, 4:18 p.m. | 20 hours, 58 minutes ago Description :Pydantic Deep 0.2.18 before 0.4.0 contains a server-side request forgery and local file read...",
       "source": "CVE Feed",
       "published": "2026-11-27T16:18:07+00:00"
     },
@@ -1003,13 +1017,6 @@
       "published": "2026-11-20T13:51:30+00:00"
     },
     {
-      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-      "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server...",
-      "source": "The Hacker News",
-      "published": "2026-11-20T12:20:00+00:00"
-    },
-    {
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special...",
@@ -1393,13 +1400,6 @@
       "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday...",
       "source": "Krebs on Security",
       "published": "2026-11-10T21:55:03+00:00"
-    },
-    {
-      "title": "Want to Rent an Internet Address at the White House?",
-      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-      "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts...",
-      "source": "Krebs on Security",
-      "published": "2026-11-05T04:36:17+00:00"
     }
   ]
 }
